@@ -2112,7 +2112,7 @@ window.PRODUCTS = [
         "#22c55e"
       ]
     ],
-    "description": "<p>O Suporte de Vara Slim da Chumbada Oficial é um produto inovador e prático, projetado especificamente para os entusiastas da pesca.</p>\n<p>Este novo modelo foi cuidadosamente desenvolvido com o objetivo de otimizar custos, oferecendo uma solução de alta qualidade a um preço acessível.</p>\n<p>Fabricado materiais de alta qualidade, o Suporte de Vara Slim da Chumbada Oficial é durável, resistente e muito leve sendo fácil de transporta-lo.</p>\n<p>O copo inferior do suporte não possui regulagem, mantendo-se em uma altura padrão que oferece estabilidade para a vara de pesca.</p>\n<p>Essa característica simplifica o uso e a montagem do suporte, proporcionando maior praticidade aos pescadores.</p>\n<p>É importante ressaltar que o Suporte de Vara Slim da Chumbada Oficial é vendido apenas como conjunto completo e não em peças separadas.</p>\n<p>O conjunto completo inclui todas as partes necessárias para o uso adequado do suporte, garantindo sua funcionalidade e desempenho ideais.</p>\n<p>Em resumo, o Suporte de Vara Slim da Chumbada Oficial é um produto de ótimo custo benefício prático, leve e com um belo design. Disponíveis nos tamanhos 40cm / 60cm / 85cm / 1m / 1,20m em várias cores.<br></p>",
+    "description": "<p>O Suporte de Vara Slim da Chumbada Oficial é um produto inovador e prático, projetado especificamente para os entusiastas da pesca.</p>\n<p>Este novo modelo foi cuidadosamente desenvolvido com o objetivo de otimizar custos, oferecendo uma solução de alta qualidade a um preço acessível.</p>\n<p>Fabricado materiais de alta qualidade, o Suporte de Vara Slim da Chumbada Oficial é durável, resistente e muito leve sendo fácil de transporta-lo.</p>\n<p>O copo inferior do suporte não possui regulagem, mantendo-se em uma altura padrão que oferece estabilidade para a vara de pesca.</p>\n<p>Essa característica simplifica o uso e a montagem do suporte, proporcionando maior praticidade aos pescadores.</p>\n\n<p>O conjunto completo inclui todas as partes necessárias para o uso adequado do suporte, garantindo sua funcionalidade e desempenho ideais.</p>\n<p>Em resumo, o Suporte de Vara Slim da Chumbada Oficial é um produto de ótimo custo benefício prático, leve e com um belo design. Disponíveis nos tamanhos 40cm / 60cm / 85cm / 1m / 1,20m em várias cores.<br></p><br><p>💡 <strong>Dica Chumbada:</strong> As peças de borracha deste suporte (como o <strong>Apoio de Borracha</strong> e o <strong>Copo de Borracha</strong>) podem ser compradas separadamente em nosso site caso você precise de reposição!</p>",
     "images": [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-de-vara-slim-capa.png?v=1725025977",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_1_2026-01-13_11-58-58.jpg?v=1768317605",
@@ -2175,8 +2175,9 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Comprimento/Medida": "40CM",
-      "Aplicação": "Pesca esportiva e de competição"
+      "Material": "Estrutura de alumínio com copos de borracha",
+      "Aplicação": "Pesca esportiva e de competição",
+      "Tamanhos Disponíveis": "40cm / 60cm / 85cm / 1m / 1,20m"
     }
   },
   {
