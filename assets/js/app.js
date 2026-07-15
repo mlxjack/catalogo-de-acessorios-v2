@@ -472,12 +472,6 @@ function renderProductDetail(p) {
               ` : ''}
             </div>
 
-            <!-- Descrição Técnica Premium -->
-            <div class="info-section">
-              <h2 class="info-section-title">Descrição</h2>
-              <div class="info-desc">${p.description}</div>
-            </div>
-
             <!-- Seletor de Cores -->
             ${p.swatches ? `
               <div class="info-section" id="section-colors">
@@ -530,6 +524,12 @@ function renderProductDetail(p) {
                   ${specsRows}
                 </tbody>
               </table>
+            </div>
+
+            <!-- Descrição Técnica Premium -->
+            <div class="info-section">
+              <h2 class="info-section-title">Descrição</h2>
+              <div class="info-desc">${p.description}</div>
             </div>
 
             <!-- Ações Principais -->
