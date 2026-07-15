@@ -18,18 +18,27 @@ const preloader = document.getElementById('preloader');
 const logoNav = document.getElementById('logo-nav');
 
 // Inicialização da aplicação
-window.addEventListener('DOMContentLoaded', () => {
-  // Ocultar preloader após carregamento
-  setTimeout(() => {
-    if (preloader) {
-      preloader.classList.add('fade-out');
-    }
-  }, 400);
+function init() {
+  try {
+    router();
+    window.addEventListener('hashchange', router);
+  } catch (err) {
+    console.error("Erro na inicialização do roteador:", err);
+  } finally {
+    // Ocultar preloader mesmo em caso de falha para evitar travar a tela
+    setTimeout(() => {
+      if (preloader) {
+        preloader.classList.add('fade-out');
+      }
+    }, 400);
+  }
+}
 
-  // Iniciar roteador
-  router();
-  window.addEventListener('hashchange', router);
-});
+if (document.readyState === 'loading') {
+  window.addEventListener('DOMContentLoaded', init);
+} else {
+  init();
+}
 
 // Reset de busca ao clicar no logotipo
 if (logoNav) {
@@ -43,8 +52,12 @@ if (logoNav) {
 function router() {
   const hash = window.location.hash || '#/';
   
-  // Rolar para o topo ao mudar de rota
-  window.scrollTo({ top: 0, behavior: 'instant' });
+  // Rolar para o topo ao mudar de rota de forma compatível e segura
+  try {
+    window.scrollTo({ top: 0, behavior: 'auto' });
+  } catch (e) {
+    window.scrollTo(0, 0);
+  }
 
   // Rota do Produto: #/produto/slug-do-produto
   const productMatch = hash.match(/^#\/produto\/([\w-]+)$/);
