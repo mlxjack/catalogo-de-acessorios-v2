@@ -320,7 +320,9 @@ function renderGrid() {
       </div>
     ` : '';
 
-    const priceText = (CONFIG.showPrices && p.price) ? p.price : 'Sob Consulta';
+    const showPrice = CONFIG.showPrices && p.price;
+    const priceHtml = showPrice ? `<span class="product-card-price">${escapeHTML(p.price)}</span>` : '';
+    const btnStyle = showPrice ? '' : 'width: 100%; text-align: center; justify-content: center;';
 
     return `
       ${sectionBreak}
@@ -338,8 +340,8 @@ function renderGrid() {
           </div>
           
           <div class="product-card-footer">
-            <span class="product-card-price ${priceText === 'Sob Consulta' ? 'empty' : ''}">${escapeHTML(priceText)}</span>
-            <a href="#/produto/${p.slug}" class="product-card-action">Ver Detalhes</a>
+            ${priceHtml}
+            <a href="#/produto/${p.slug}" class="product-card-action" style="${btnStyle}">Ver Detalhes</a>
           </div>
         </div>
       </article>
@@ -462,10 +464,12 @@ function renderProductDetail(p) {
               <span class="info-cat">${escapeHTML(p.category)}</span>
               <h1 class="info-title">${escapeHTML(p.name)}</h1>
               
-              <div class="info-price-wrapper">
-                <span class="info-price-label">${priceText === 'Sob Consulta' ? '' : 'Preço de Referência:'}</span>
-                <span class="info-price" id="detail-price-display">${escapeHTML(priceText)}</span>
-              </div>
+              ${CONFIG.showPrices && priceText !== 'Sob Consulta' ? `
+                <div class="info-price-wrapper">
+                  <span class="info-price-label">Preço de Referência:</span>
+                  <span class="info-price" id="detail-price-display">${escapeHTML(priceText)}</span>
+                </div>
+              ` : ''}
             </div>
 
             <!-- Descrição Técnica Premium -->

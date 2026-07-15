@@ -4,7 +4,7 @@
 // Expor globalmente para compatibilidade direta no protocolo file:// sem erros de CORS
 window.CONFIG = {
   whatsappNumber: "5511941900602", // Altere para o número de atendimento oficial
-  showPrices: true, // Define se exibe preços por padrão (true) ou se oculta mostrando 'Sob Consulta' (false)
+  showPrices: false, // Define se exibe preços por padrão (true) ou se oculta mostrando 'Sob Consulta' (false)
   whatsappMessageTemplate: "Olá! Tenho interesse no produto: {productName}\nCategoria: {category}\nTamanho/Variação: {variation}\nCor: {color}\nCatalogo: V2"
 };
 
