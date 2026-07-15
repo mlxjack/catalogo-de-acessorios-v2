@@ -14,7 +14,6 @@ const state = {
 
 // Elementos estáticos do DOM
 const appContainer = document.getElementById('app');
-const preloader = document.getElementById('preloader');
 const logoNav = document.getElementById('logo-nav');
 
 // Inicialização da aplicação
@@ -24,13 +23,6 @@ function init() {
     window.addEventListener('hashchange', router);
   } catch (err) {
     console.error("Erro na inicialização do roteador:", err);
-  } finally {
-    // Ocultar preloader mesmo em caso de falha para evitar travar a tela
-    setTimeout(() => {
-      if (preloader) {
-        preloader.classList.add('fade-out');
-      }
-    }, 400);
   }
 }
 
