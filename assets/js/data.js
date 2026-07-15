@@ -1,13 +1,13 @@
 // Catálogo de Acessórios V2 - Chumbada Oficial
 // Base de dados gerada dinamicamente com informações de produtos e variações
 
-export const CONFIG = {
+const CONFIG = {
   whatsappNumber: "5511941900602", // Altere para o número de atendimento oficial
   showPrices: true, // Define se exibe preços por padrão (true) ou se oculta mostrando 'Sob Consulta' (false)
   whatsappMessageTemplate: "Olá! Tenho interesse no produto: {productName}\nCategoria: {category}\nTamanho/Variação: {variation}\nCor: {color}\nCatalogo: V2"
 };
 
-export const PRODUCTS = [
+const PRODUCTS = [
   {
     "id": 1,
     "slug": "linha-multi-verax-4x-300m",
@@ -2491,3 +2491,7 @@ export const PRODUCTS = [
     "description": "Desenvolvida com tecido técnico inteligente, esta peça bloqueia o vento e resiste a respingos d'água, mantendo o conforto térmico sem comprometer a transpiração. Conta com design esportivo e caimento ergonômico, ideal para treinos e pescarias em condições dinâmicas."
   }
 ];
+
+// Expor globalmente para compatibilidade direta no protocolo file:// sem erros de CORS
+window.CONFIG = CONFIG;
+window.PRODUCTS = PRODUCTS;

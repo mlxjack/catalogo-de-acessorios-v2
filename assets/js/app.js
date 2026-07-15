@@ -1,7 +1,8 @@
 // Catálogo de Acessórios V2 - Chumbada Oficial
 // Controlador principal da SPA (Single Page Application)
 
-import { PRODUCTS, CONFIG } from './data.js';
+const PRODUCTS = window.PRODUCTS;
+const CONFIG = window.CONFIG;
 
 // Estado global simples para persistir filtros ao voltar de um produto
 const state = {
