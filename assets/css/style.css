@@ -866,6 +866,20 @@ a {
   line-height: 1.6;
   color: var(--color-text-secondary);
 }
+.info-desc p {
+  margin-bottom: 12px;
+}
+.info-desc p:last-child {
+  margin-bottom: 0;
+}
+.info-desc ul, .info-desc ol {
+  margin-left: 20px;
+  margin-bottom: 12px;
+  list-style-type: disc;
+}
+.info-desc li {
+  margin-bottom: 6px;
+}
 
 /* Color swatches selector */
 .swatches-selector {

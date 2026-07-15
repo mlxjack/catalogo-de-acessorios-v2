@@ -475,7 +475,7 @@ function renderProductDetail(p) {
             <!-- Descrição Técnica Premium -->
             <div class="info-section">
               <h2 class="info-section-title">Descrição</h2>
-              <p class="info-desc">${escapeHTML(p.description)}</p>
+              <div class="info-desc">${p.description}</div>
             </div>
 
             <!-- Seletor de Cores -->
