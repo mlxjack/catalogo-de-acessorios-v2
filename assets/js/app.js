@@ -472,6 +472,16 @@ function renderProductDetail(p) {
               ` : ''}
             </div>
 
+            <!-- Tabela de Especificações Técnicas -->
+            <div class="info-section">
+              <h2 class="info-section-title">Especificações Técnicas</h2>
+              <table class="specs-table">
+                <tbody>
+                  ${specsRows}
+                </tbody>
+              </table>
+            </div>
+
             <!-- Seletor de Cores -->
             ${p.swatches ? `
               <div class="info-section" id="section-colors">
@@ -515,16 +525,6 @@ function renderProductDetail(p) {
                 </div>
               </div>
             ` : ''}
-
-            <!-- Tabela de Especificações Técnicas -->
-            <div class="info-section">
-              <h2 class="info-section-title">Especificações Técnicas</h2>
-              <table class="specs-table">
-                <tbody>
-                  ${specsRows}
-                </tbody>
-              </table>
-            </div>
 
             <!-- Descrição Técnica Premium -->
             <div class="info-section">
