@@ -76,7 +76,12 @@ const PRODUCTS = [
         "R$ 79,91"
       ]
     ],
-    "description": "A linha de pesca de alta performance da Chumbada Oficial oferece resistência excepcional à tração e abrasão, com diâmetro ultra fino e elasticidade próxima de zero. Ideal para pescarias que exigem sensibilidade máxima na detecção de toques sutis e fisgadas rápidas e precisas."
+    "description": "A linha de pesca de alta performance da Chumbada Oficial oferece resistência excepcional à tração e abrasão, com diâmetro ultra fino e elasticidade próxima de zero. Ideal para pescarias que exigem sensibilidade máxima na detecção de toques sutis e fisgadas rápidas e precisas.",
+    "images": [
+      "assets/images/linhaajing-20386852.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 2,
@@ -105,7 +110,12 @@ const PRODUCTS = [
         ""
       ]
     ],
-    "description": "Confeccionada com tecido tecnológico leve e de secagem rápida, oferece excelente respirabilidade e proteção solar UV50+. Projetada para manter o corpo seco e confortável mesmo em dias quentes e sob exposição solar direta."
+    "description": "Confeccionada com tecido tecnológico leve e de secagem rápida, oferece excelente respirabilidade e proteção solar UV50+. Projetada para manter o corpo seco e confortável mesmo em dias quentes e sob exposição solar direta.",
+    "images": [
+      "assets/images/camisa-nova-6c3d6ae5.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 3,
@@ -179,7 +189,12 @@ const PRODUCTS = [
         "#dc2626"
       ]
     ],
-    "description": "Os atrativos da Chumbada Oficial são referências no mercado pelo alto apelo visual e durabilidade na água. Fabricados com pigmentação brilhante e reflexos holográficos de alta qualidade, garantem destaque extra para suas montagens e iscas, aumentando significativamente a taxa de capturas."
+    "description": "Os atrativos da Chumbada Oficial são referências no mercado pelo alto apelo visual e durabilidade na água. Fabricados com pigmentação brilhante e reflexos holográficos de alta qualidade, garantem destaque extra para suas montagens e iscas, aumentando significativamente a taxa de capturas.",
+    "images": [
+      "assets/images/atrativo-ermbalagem-vermelho-b49cbf0b.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 4,
@@ -217,7 +232,12 @@ const PRODUCTS = [
         "url(assets/images/cores/Véu-da-Noite.jpg)"
       ]
     ],
-    "description": "Os atrativos da Chumbada Oficial são referências no mercado pelo alto apelo visual e durabilidade na água. Fabricados com pigmentação brilhante e reflexos holográficos de alta qualidade, garantem destaque extra para suas montagens e iscas, aumentando significativamente a taxa de capturas."
+    "description": "Os atrativos da Chumbada Oficial são referências no mercado pelo alto apelo visual e durabilidade na água. Fabricados com pigmentação brilhante e reflexos holográficos de alta qualidade, garantem destaque extra para suas montagens e iscas, aumentando significativamente a taxa de capturas.",
+    "images": [
+      "assets/images/capa-atrativo-holografico-f7f36a72.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 5,
@@ -291,7 +311,12 @@ const PRODUCTS = [
         "#dc2626"
       ]
     ],
-    "description": "Os atrativos da Chumbada Oficial são referências no mercado pelo alto apelo visual e durabilidade na água. Fabricados com pigmentação brilhante e reflexos holográficos de alta qualidade, garantem destaque extra para suas montagens e iscas, aumentando significativamente a taxa de capturas."
+    "description": "Os atrativos da Chumbada Oficial são referências no mercado pelo alto apelo visual e durabilidade na água. Fabricados com pigmentação brilhante e reflexos holográficos de alta qualidade, garantem destaque extra para suas montagens e iscas, aumentando significativamente a taxa de capturas.",
+    "images": [
+      "assets/images/mini-atrativo-comum-amarelo-e99da884.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 6,
@@ -325,7 +350,12 @@ const PRODUCTS = [
         "url(assets/images/cores/Véu-da-Noite.jpg)"
       ]
     ],
-    "description": "Os atrativos da Chumbada Oficial são referências no mercado pelo alto apelo visual e durabilidade na água. Fabricados com pigmentação brilhante e reflexos holográficos de alta qualidade, garantem destaque extra para suas montagens e iscas, aumentando significativamente a taxa de capturas."
+    "description": "Os atrativos da Chumbada Oficial são referências no mercado pelo alto apelo visual e durabilidade na água. Fabricados com pigmentação brilhante e reflexos holográficos de alta qualidade, garantem destaque extra para suas montagens e iscas, aumentando significativamente a taxa de capturas.",
+    "images": [
+      "assets/images/mini-atrativo-holo-vermelho-holografico-e5cd7c53-571c-41cb-8487--51ae45bd.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 7,
@@ -357,7 +387,12 @@ const PRODUCTS = [
         "url(assets/images/cores/Verde-neon.jpg)"
       ]
     ],
-    "description": "Os atrativos da Chumbada Oficial são referências no mercado pelo alto apelo visual e durabilidade na água. Fabricados com pigmentação brilhante e reflexos holográficos de alta qualidade, garantem destaque extra para suas montagens e iscas, aumentando significativamente a taxa de capturas."
+    "description": "Os atrativos da Chumbada Oficial são referências no mercado pelo alto apelo visual e durabilidade na água. Fabricados com pigmentação brilhante e reflexos holográficos de alta qualidade, garantem destaque extra para suas montagens e iscas, aumentando significativamente a taxa de capturas.",
+    "images": [
+      "assets/images/atrativo-conico-85mm.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 8,
@@ -367,7 +402,12 @@ const PRODUCTS = [
     "price": "R$ 19,00",
     "img": "assets/images/suporte-para-carretilhas-02-045bc35a-4013-430e-9ec8-ea46e12db27b-46659412.png",
     "link": "https://chumbadas.com.br/products/kit-adaptador-de-carretilha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "O Adaptador de Carretilha Kit com 4 da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Adaptador de Carretilha Kit com 4 da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/suporte-para-carretilhas-02-045bc35a-4013-430e-9ec8-ea46e12db27b-46659412.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 9,
@@ -377,7 +417,12 @@ const PRODUCTS = [
     "price": "R$ 31,27",
     "img": "assets/images/avental-03-ca089bae.png",
     "link": "https://chumbadas.com.br/products/avental-chumbada-bolso-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Vestuário técnico esportivo projetado para atletas e pescadores exigentes. Combina proteção contra intempéries, excelente respirabilidade e flexibilidade total de movimentos."
+    "description": "Vestuário técnico esportivo projetado para atletas e pescadores exigentes. Combina proteção contra intempéries, excelente respirabilidade e flexibilidade total de movimentos.",
+    "images": [
+      "assets/images/avental-03-ca089bae.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 10,
@@ -405,7 +450,12 @@ const PRODUCTS = [
         "#0f172a"
       ]
     ],
-    "description": "Proporciona máxima proteção contra os raios solares com estilo esportivo e moderno. Feito com materiais respiráveis de alta durabilidade e ajuste confortável, ideal para longas jornadas de exposição ao sol."
+    "description": "Proporciona máxima proteção contra os raios solares com estilo esportivo e moderno. Feito com materiais respiráveis de alta durabilidade e ajuste confortável, ideal para longas jornadas de exposição ao sol.",
+    "images": [
+      "assets/images/bones-09-947dc590.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 11,
@@ -415,7 +465,12 @@ const PRODUCTS = [
     "price": "R$ 1,50",
     "img": "assets/images/bastao-luminoso-embalagem-893d72b1.png",
     "link": "https://chumbadas.com.br/products/bastao-luminoso-star-light?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "O Bastão Luminoso da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Bastão Luminoso da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/bastao-luminoso-embalagem-893d72b1.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 12,
@@ -471,7 +526,12 @@ const PRODUCTS = [
         "#22c55e"
       ]
     ],
-    "description": "O Carretel para Chicotes da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Carretel para Chicotes da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/carretel-verde-frente-be76c125.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 13,
@@ -481,7 +541,12 @@ const PRODUCTS = [
     "price": "R$ 43,00",
     "img": "assets/images/chapeu-94827940-2a70-4825-baab-4666a1aaaeb8-83bad9f3.png",
     "link": "https://chumbadas.com.br/products/chapel-de-palha-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Proporciona máxima proteção contra os raios solares com estilo esportivo e moderno. Feito com materiais respiráveis de alta durabilidade e ajuste confortável, ideal para longas jornadas de exposição ao sol."
+    "description": "Proporciona máxima proteção contra os raios solares com estilo esportivo e moderno. Feito com materiais respiráveis de alta durabilidade e ajuste confortável, ideal para longas jornadas de exposição ao sol.",
+    "images": [
+      "assets/images/chapeu-94827940-2a70-4825-baab-4666a1aaaeb8-83bad9f3.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 14,
@@ -543,7 +608,12 @@ const PRODUCTS = [
         "#dc2626"
       ]
     ],
-    "description": "O Cobrenó P, M e G da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Cobrenó P, M e G da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/cobrenoazulbicm-1-bc047f7d.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 15,
@@ -581,7 +651,12 @@ const PRODUCTS = [
         "#ffffff"
       ]
     ],
-    "description": "O copo organizador é a solução perfeita para arrumar e proteger seus carretéis e pequenos acessórios na caixa de pesca. Resistente a impactos, com divisões precisas e tampa segura para evitar perdas durante o transporte."
+    "description": "O copo organizador é a solução perfeita para arrumar e proteger seus carretéis e pequenos acessórios na caixa de pesca. Resistente a impactos, com divisões precisas e tampa segura para evitar perdas durante o transporte.",
+    "images": [
+      "assets/images/c4dd0fe0-b913-4b7f-981a-2bf5407f2337-183d4372.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 16,
@@ -629,7 +704,12 @@ const PRODUCTS = [
         "#dc2626"
       ]
     ],
-    "description": "O copo organizador é a solução perfeita para arrumar e proteger seus carretéis e pequenos acessórios na caixa de pesca. Resistente a impactos, com divisões precisas e tampa segura para evitar perdas durante o transporte."
+    "description": "O copo organizador é a solução perfeita para arrumar e proteger seus carretéis e pequenos acessórios na caixa de pesca. Resistente a impactos, com divisões precisas e tampa segura para evitar perdas durante o transporte.",
+    "images": [
+      "assets/images/copo-branco-fechado-ca068d76.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 17,
@@ -639,7 +719,12 @@ const PRODUCTS = [
     "price": "R$ 2,30",
     "img": "assets/images/elastricotextrafino-bc4e5513.jpg",
     "link": "https://chumbadas.com.br/products/elastricot?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "O Elastricot 150m da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Elastricot 150m da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/elastricotextrafino-bc4e5513.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 18,
@@ -649,7 +734,12 @@ const PRODUCTS = [
     "price": "R$ 1,99",
     "img": "assets/images/elastricotextrafino-bc4e5513.jpg",
     "link": "https://chumbadas.com.br/products/elastricot?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "O Elastricot 100m da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Elastricot 100m da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/elastricotextrafino-bc4e5513.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 19,
@@ -659,7 +749,12 @@ const PRODUCTS = [
     "price": "R$ 21,45",
     "img": "assets/images/dedeira-hard-m-7c39d513.png",
     "link": "https://chumbadas.com.br/products/dedeira-de-protecao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Dedeira de proteção profissional desenvolvida para proteger o dedo indicador contra lesões causadas pela fricção da linha durante arremessos pesados e repetitivos. Oferece encaixe anatômico e excelente sensibilidade de arremesso."
+    "description": "Dedeira de proteção profissional desenvolvida para proteger o dedo indicador contra lesões causadas pela fricção da linha durante arremessos pesados e repetitivos. Oferece encaixe anatômico e excelente sensibilidade de arremesso.",
+    "images": [
+      "assets/images/dedeira-hard-m-7c39d513.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 20,
@@ -669,7 +764,12 @@ const PRODUCTS = [
     "price": "R$ 21,45",
     "img": "assets/images/dedeira-soft-m-657826a0.png",
     "link": "https://chumbadas.com.br/products/dedeira-de-protecao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Dedeira de proteção profissional desenvolvida para proteger o dedo indicador contra lesões causadas pela fricção da linha durante arremessos pesados e repetitivos. Oferece encaixe anatômico e excelente sensibilidade de arremesso."
+    "description": "Dedeira de proteção profissional desenvolvida para proteger o dedo indicador contra lesões causadas pela fricção da linha durante arremessos pesados e repetitivos. Oferece encaixe anatômico e excelente sensibilidade de arremesso.",
+    "images": [
+      "assets/images/dedeira-soft-m-657826a0.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 21,
@@ -679,7 +779,12 @@ const PRODUCTS = [
     "price": "R$ 21,45",
     "img": "assets/images/dedeira-ultra-soft-m-fcb19da8.png",
     "link": "https://chumbadas.com.br/products/dedeira-de-protecao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Dedeira de proteção profissional desenvolvida para proteger o dedo indicador contra lesões causadas pela fricção da linha durante arremessos pesados e repetitivos. Oferece encaixe anatômico e excelente sensibilidade de arremesso."
+    "description": "Dedeira de proteção profissional desenvolvida para proteger o dedo indicador contra lesões causadas pela fricção da linha durante arremessos pesados e repetitivos. Oferece encaixe anatômico e excelente sensibilidade de arremesso.",
+    "images": [
+      "assets/images/dedeira-ultra-soft-m-fcb19da8.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 22,
@@ -699,7 +804,12 @@ const PRODUCTS = [
         "R$ 12,87"
       ]
     ],
-    "description": "O Iscador Preto ou Cristal da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Iscador Preto ou Cristal da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/iscador-13047647.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 23,
@@ -709,7 +819,12 @@ const PRODUCTS = [
     "price": "R$ 20,00",
     "img": "assets/images/agulhao-4e57d74b.png",
     "link": "https://chumbadas.com.br/products/iscador-agulhao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "O Iscador Agulhão da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Iscador Agulhão da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/agulhao-4e57d74b.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 24,
@@ -719,7 +834,12 @@ const PRODUCTS = [
     "price": "R$ 14,70",
     "img": "assets/images/iscador-duplo-d4c03c0f.png",
     "link": "https://chumbadas.com.br/products/iscador-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "O Iscador Duplo Branco ou Cristal da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Iscador Duplo Branco ou Cristal da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/iscador-duplo-d4c03c0f.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 25,
@@ -739,7 +859,12 @@ const PRODUCTS = [
         "R$ 0,65"
       ]
     ],
-    "description": "O Carretel Retangular da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Carretel Retangular da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/carretel-retangular-1-ba9007ae.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 26,
@@ -801,7 +926,12 @@ const PRODUCTS = [
         "#dc2626"
       ]
     ],
-    "description": "O Micro Snap + Cobre Nó M da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Micro Snap + Cobre Nó M da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/kit-micro-snap-cobre-no-m-preto-137cfd87-8ae8-41e4-acd4-34e5b119-c644d185.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 27,
@@ -854,7 +984,12 @@ const PRODUCTS = [
         "#facc15"
       ]
     ],
-    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas."
+    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas.",
+    "images": [
+      "assets/images/nano-pipe-laranja-0f1bd9ef.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 28,
@@ -864,7 +999,12 @@ const PRODUCTS = [
     "price": "R$ 8,14",
     "img": "assets/images/no-de-correr-m-embalagem-796da9cc.png",
     "link": "https://chumbadas.com.br/products/kit-no-de-correr?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas."
+    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas.",
+    "images": [
+      "assets/images/no-de-correr-m-embalagem-796da9cc.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 29,
@@ -874,7 +1014,12 @@ const PRODUCTS = [
     "price": "R$ 6,00",
     "img": "assets/images/pipa-2unidades-6594cf33-b024-4508-a790-f39667ed2a69-4d43f507.jpg",
     "link": "https://chumbadas.com.br/products/pipa?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "O Pipa Kit com 2 da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Pipa Kit com 2 da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/pipa-2unidades-6594cf33-b024-4508-a790-f39667ed2a69-4d43f507.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 30,
@@ -922,7 +1067,12 @@ const PRODUCTS = [
         "#dc2626"
       ]
     ],
-    "description": "Desenvolvido para organizar e proteger sua tralha. Mantenha seus equipamentos, linhas e chumbadas arrumados de forma inteligente, reduzindo o tempo de preparação e aumentando o tempo de pesca."
+    "description": "Desenvolvido para organizar e proteger sua tralha. Mantenha seus equipamentos, linhas e chumbadas arrumados de forma inteligente, reduzindo o tempo de preparação e aumentando o tempo de pesca.",
+    "images": [
+      "assets/images/porta-elastricot-verde-200c4625.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 31,
@@ -942,7 +1092,12 @@ const PRODUCTS = [
         "#ffffff"
       ]
     ],
-    "description": "Desenvolvido para organizar e proteger sua tralha. Mantenha seus equipamentos, linhas e chumbadas arrumados de forma inteligente, reduzindo o tempo de preparação e aumentando o tempo de pesca."
+    "description": "Desenvolvido para organizar e proteger sua tralha. Mantenha seus equipamentos, linhas e chumbadas arrumados de forma inteligente, reduzindo o tempo de preparação e aumentando o tempo de pesca.",
+    "images": [
+      "assets/images/portaisca-218856f6.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 32,
@@ -974,7 +1129,12 @@ const PRODUCTS = [
         "#111827"
       ]
     ],
-    "description": "Mantenha suas pernadas e chicotes esticados, organizados e prontos para ação sem risco de embaraçar. Estrutura rígida de alta resistência com fixadores macios que não marcam as linhas."
+    "description": "Mantenha suas pernadas e chicotes esticados, organizados e prontos para ação sem risco de embaraçar. Estrutura rígida de alta resistência com fixadores macios que não marcam as linhas.",
+    "images": [
+      "assets/images/sedalha-areia-ef8dfa0c.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 33,
@@ -990,7 +1150,12 @@ const PRODUCTS = [
         ""
       ]
     ],
-    "description": "Acessório de proteção essencial para garantir segurança e conforto na prática da pesca esportiva de alta performance."
+    "description": "Acessório de proteção essencial para garantir segurança e conforto na prática da pesca esportiva de alta performance.",
+    "images": [
+      "assets/images/modelo-01-a2bc7551.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 34,
@@ -1010,7 +1175,12 @@ const PRODUCTS = [
         "R$ 24,75"
       ]
     ],
-    "description": "Régua cantoneira de alta precisão para medição rápida e correta de suas capturas. Fabricada em material durável, resistente a raios UV e água salgada, com marcações nítidas de fácil leitura para validação de troféus e competições."
+    "description": "Régua cantoneira de alta precisão para medição rápida e correta de suas capturas. Fabricada em material durável, resistente a raios UV e água salgada, com marcações nítidas de fácil leitura para validação de troféus e competições.",
+    "images": [
+      "assets/images/regua-100cm-8682b8d9.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 35,
@@ -1020,7 +1190,12 @@ const PRODUCTS = [
     "price": "R$ 59,00",
     "img": "assets/images/resgata-isca-foto-nova-4e6b9539.png",
     "link": "https://chumbadas.com.br/products/resgata-isca?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "O Resgata Isca da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Resgata Isca da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/resgata-isca-foto-nova-4e6b9539.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 36,
@@ -1030,7 +1205,12 @@ const PRODUCTS = [
     "price": "R$ 8,10",
     "img": "assets/images/rotor-cabeca-de-cobra-8c7cb230-87a7-4298-9401-c5de59872242-017f7b30.png",
     "link": "https://chumbadas.com.br/products/rotor-de-engate-rapido-cabeca-de-cobra?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Rotor de engate rápido de alta performance, ideal para montagem de pernadas sem torção. Fabricado com polímero de alta resistência, proporciona rotação suave de 360 graus e máxima resistência mecânica."
+    "description": "Rotor de engate rápido de alta performance, ideal para montagem de pernadas sem torção. Fabricado com polímero de alta resistência, proporciona rotação suave de 360 graus e máxima resistência mecânica.",
+    "images": [
+      "assets/images/rotor-cabeca-de-cobra-8c7cb230-87a7-4298-9401-c5de59872242-017f7b30.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 37,
@@ -1058,7 +1238,12 @@ const PRODUCTS = [
         "R$ 24,00"
       ]
     ],
-    "description": "O Saca Anzol de Competição Inox da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Saca Anzol de Competição Inox da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/saca-anzol-nano-1-16e3fcb1.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 38,
@@ -1078,7 +1263,12 @@ const PRODUCTS = [
         "R$ 20,16"
       ]
     ],
-    "description": "O Saca Anzol / Desembuchador da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Saca Anzol / Desembuchador da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/sacaanzol-kit-be3acc2f.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 39,
@@ -1134,7 +1324,12 @@ const PRODUCTS = [
         "#dc2626"
       ]
     ],
-    "description": "Snap de engate rápido confeccionado em aço inox de alta resistência, projetado para trocas rápidas de iscas e chicotes. Formato aerodinâmico que minimiza o atrito com a água e sistema de trava ultra confiável."
+    "description": "Snap de engate rápido confeccionado em aço inox de alta resistência, projetado para trocas rápidas de iscas e chicotes. Formato aerodinâmico que minimiza o atrito com a água e sistema de trava ultra confiável.",
+    "images": [
+      "assets/images/snap-mais-cobre-no-verde-db988951.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 40,
@@ -1144,7 +1339,12 @@ const PRODUCTS = [
     "price": "R$ 8,13",
     "img": "assets/images/stopper-oliva-grande-55d01978.png",
     "link": "https://chumbadas.com.br/products/stopper-modelo-oliva?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Stopper de silicone premium com excelente grip na linha, projetado para limitar a movimentação de chumbo e miçangas sem danificar a linha principal. Mantém-se firme no lugar mesmo sob fortes arremessos."
+    "description": "Stopper de silicone premium com excelente grip na linha, projetado para limitar a movimentação de chumbo e miçangas sem danificar a linha principal. Mantém-se firme no lugar mesmo sob fortes arremessos.",
+    "images": [
+      "assets/images/stopper-oliva-grande-55d01978.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 41,
@@ -1154,7 +1354,12 @@ const PRODUCTS = [
     "price": "R$ 8,13",
     "img": "assets/images/stopper-cilindrico-g-d22c0f54-7417-4703-ad9b-cf8e4e892443-99c395cd.png",
     "link": "https://chumbadas.com.br/products/stopper-modelo-cilindrico?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Stopper de silicone premium com excelente grip na linha, projetado para limitar a movimentação de chumbo e miçangas sem danificar a linha principal. Mantém-se firme no lugar mesmo sob fortes arremessos."
+    "description": "Stopper de silicone premium com excelente grip na linha, projetado para limitar a movimentação de chumbo e miçangas sem danificar a linha principal. Mantém-se firme no lugar mesmo sob fortes arremessos.",
+    "images": [
+      "assets/images/stopper-cilindrico-g-d22c0f54-7417-4703-ad9b-cf8e4e892443-99c395cd.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 42,
@@ -1184,7 +1389,12 @@ const PRODUCTS = [
         "#2563eb"
       ]
     ],
-    "description": "O Agulha de Tarrafa da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Agulha de Tarrafa da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/15-20ccm-64e5ed8f.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 43,
@@ -1246,7 +1456,12 @@ const PRODUCTS = [
         "#dc2626"
       ]
     ],
-    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas."
+    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas.",
+    "images": [
+      "assets/images/micanga-de-vidro-vermelha-76b3f958.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 44,
@@ -1256,7 +1471,12 @@ const PRODUCTS = [
     "price": "R$ 8,50",
     "img": "assets/images/latao-capa-572bdc75.png",
     "link": "https://chumbadas.com.br/products/micangas-de-latao-pacote-com-30?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas."
+    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas.",
+    "images": [
+      "assets/images/latao-capa-572bdc75.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 45,
@@ -1286,7 +1506,12 @@ const PRODUCTS = [
         "linear-gradient(135deg, #ea580c, #fb923c)"
       ]
     ],
-    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas."
+    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas.",
+    "images": [
+      "assets/images/kit-enrolador-12e34bda.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 46,
@@ -1350,7 +1575,12 @@ const PRODUCTS = [
         "#ffffff"
       ]
     ],
-    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas."
+    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas.",
+    "images": [
+      "assets/images/completo-21eb9a94.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 47,
@@ -1445,7 +1675,12 @@ const PRODUCTS = [
         "#22c55e"
       ]
     ],
-    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas."
+    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas.",
+    "images": [
+      "assets/images/preto-40-5d5b538c.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 48,
@@ -1455,7 +1690,12 @@ const PRODUCTS = [
     "price": "R$ 4,00",
     "img": "assets/images/apoio-borracha-aee60ca2.jpg",
     "link": "https://chumbadas.com.br/products/apoio-de-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Peça de reposição original Chumbada Oficial fabricada sob rígidos padrões de qualidade. Desenvolvida para restaurar a funcionalidade completa do seu suporte ou organizador com encaixe perfeito e alta durabilidade."
+    "description": "Peça de reposição original Chumbada Oficial fabricada sob rígidos padrões de qualidade. Desenvolvida para restaurar a funcionalidade completa do seu suporte ou organizador com encaixe perfeito e alta durabilidade.",
+    "images": [
+      "assets/images/apoio-borracha-aee60ca2.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 49,
@@ -1475,7 +1715,12 @@ const PRODUCTS = [
         "#ffffff"
       ]
     ],
-    "description": "Peça de reposição original Chumbada Oficial fabricada sob rígidos padrões de qualidade. Desenvolvida para restaurar a funcionalidade completa do seu suporte ou organizador com encaixe perfeito e alta durabilidade."
+    "description": "Peça de reposição original Chumbada Oficial fabricada sob rígidos padrões de qualidade. Desenvolvida para restaurar a funcionalidade completa do seu suporte ou organizador com encaixe perfeito e alta durabilidade.",
+    "images": [
+      "assets/images/copo-borracha-66394899.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 50,
@@ -1513,7 +1758,12 @@ const PRODUCTS = [
         ""
       ]
     ],
-    "description": "O Alicate de Pesca da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Alicate de Pesca da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/alicate-4ac517dd.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 51,
@@ -1551,7 +1801,12 @@ const PRODUCTS = [
         "R$ 13,00"
       ]
     ],
-    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas."
+    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas.",
+    "images": [
+      "assets/images/suporte-horizontal-completo-close-6e075b0a.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 52,
@@ -1575,7 +1830,12 @@ const PRODUCTS = [
         "R$ 128,92"
       ]
     ],
-    "description": "Organize suas montagens e varas de forma prática e segura no barco ou na garagem. Estrutura leve e de montagem rápida, projetada especificamente para otimizar espaço e preservar seus equipamentos."
+    "description": "Organize suas montagens e varas de forma prática e segura no barco ou na garagem. Estrutura leve e de montagem rápida, projetada especificamente para otimizar espaço e preservar seus equipamentos.",
+    "images": [
+      "assets/images/varal-fundo-branco-302b0696.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 53,
@@ -1669,7 +1929,12 @@ const PRODUCTS = [
         "#78350f"
       ]
     ],
-    "description": "Mantenha suas pernadas e chicotes esticados, organizados e prontos para ação sem risco de embaraçar. Estrutura rígida de alta resistência com fixadores macios que não marcam as linhas."
+    "description": "Mantenha suas pernadas e chicotes esticados, organizados e prontos para ação sem risco de embaraçar. Estrutura rígida de alta resistência com fixadores macios que não marcam as linhas.",
+    "images": [
+      "assets/images/cano-capa-da0ee783.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 54,
@@ -1704,7 +1969,12 @@ const PRODUCTS = [
         "#d97706"
       ]
     ],
-    "description": "Mantenha suas pernadas e chicotes esticados, organizados e prontos para ação sem risco de embaraçar. Estrutura rígida de alta resistência com fixadores macios que não marcam as linhas."
+    "description": "Mantenha suas pernadas e chicotes esticados, organizados e prontos para ação sem risco de embaraçar. Estrutura rígida de alta resistência com fixadores macios que não marcam as linhas.",
+    "images": [
+      "assets/images/porta-pernada-cano-compacto-01-f8bc6a06.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 55,
@@ -1714,7 +1984,12 @@ const PRODUCTS = [
     "price": "R$ 41,40",
     "img": "assets/images/ima-fix-02-9b8f2f14.jpg",
     "link": "https://chumbadas.com.br/products/ima-fix?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "O Imã Fix da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Imã Fix da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/ima-fix-02-9b8f2f14.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 56,
@@ -1724,7 +1999,12 @@ const PRODUCTS = [
     "price": "R$ 17,90",
     "img": "assets/images/capa-apoio-de-vara-velcro-024796fc.jpg",
     "link": "https://chumbadas.com.br/products/amarra-vara-velcro?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "O Amarra Vara Velcro da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Amarra Vara Velcro da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/capa-apoio-de-vara-velcro-024796fc.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 57,
@@ -1752,7 +2032,12 @@ const PRODUCTS = [
         "R$ 10,50"
       ]
     ],
-    "description": "Rotor de engate rápido de alta performance, ideal para montagem de pernadas sem torção. Fabricado com polímero de alta resistência, proporciona rotação suave de 360 graus e máxima resistência mecânica."
+    "description": "Rotor de engate rápido de alta performance, ideal para montagem de pernadas sem torção. Fabricado com polímero de alta resistência, proporciona rotação suave de 360 graus e máxima resistência mecânica.",
+    "images": [
+      "assets/images/rotor-8-unidades-g-8240a593-c0bc-4189-a7b5-033282bd5c76-bd56faa8.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 58,
@@ -1762,7 +2047,12 @@ const PRODUCTS = [
     "price": "R$ 19,90",
     "img": "assets/images/apoio-para-barco-8fd7240c.png",
     "link": "https://chumbadas.com.br/products/apoio-barco-de-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas."
+    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas.",
+    "images": [
+      "assets/images/apoio-para-barco-8fd7240c.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 59,
@@ -1788,7 +2078,12 @@ const PRODUCTS = [
         "#ffffff"
       ]
     ],
-    "description": "Desenvolvido para organizar e proteger sua tralha. Mantenha seus equipamentos, linhas e chumbadas arrumados de forma inteligente, reduzindo o tempo de preparação e aumentando o tempo de pesca."
+    "description": "Desenvolvido para organizar e proteger sua tralha. Mantenha seus equipamentos, linhas e chumbadas arrumados de forma inteligente, reduzindo o tempo de preparação e aumentando o tempo de pesca.",
+    "images": [
+      "assets/images/suporte-para-molinetes-montado-9648e14c.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 60,
@@ -1816,7 +2111,12 @@ const PRODUCTS = [
         "#111827"
       ]
     ],
-    "description": "O Adaptador da Secretária da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Adaptador da Secretária da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/adaptador-secretaria-branco-3fc9fe43.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 61,
@@ -1836,7 +2136,12 @@ const PRODUCTS = [
         "R$ 6,90"
       ]
     ],
-    "description": "O Mini Secretária da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Mini Secretária da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/mini-secretaria.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 62,
@@ -1884,7 +2189,12 @@ const PRODUCTS = [
         "#dc2626"
       ]
     ],
-    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas."
+    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas.",
+    "images": [
+      "assets/images/suporte-para-carretilha-e-molinete-individual-amarelo-f4576745.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 63,
@@ -1894,7 +2204,12 @@ const PRODUCTS = [
     "price": "R$ 27,00",
     "img": "assets/images/adaptador-de-vara-14ff2189.jpg",
     "link": "https://chumbadas.com.br/products/adaptador-de-vara-para-suporte-de-molinete?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas."
+    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas.",
+    "images": [
+      "assets/images/adaptador-de-vara-14ff2189.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 64,
@@ -1904,7 +2219,12 @@ const PRODUCTS = [
     "price": "R$ 4,45",
     "img": "assets/images/clip-vara.png",
     "link": "#",
-    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas."
+    "description": "Suporte ultra robusto fabricado com materiais de alta durabilidade resistentes à oxidação e salinidade. Projetado para fixação firme em costões, plataformas ou barcos, garantindo estabilidade absoluta para sua vara mesmo sob fortes puxadas.",
+    "images": [
+      "assets/images/clip-vara.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 65,
@@ -1914,7 +2234,12 @@ const PRODUCTS = [
     "price": "R$ 4,20",
     "img": "assets/images/suporte-1-2ff057e5-1a15-402d-8e56-134fd16ce14c-3b7bd413.png",
     "link": "https://chumbadas.com.br/products/trava-linha-cano-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Peça de reposição original Chumbada Oficial fabricada sob rígidos padrões de qualidade. Desenvolvida para restaurar a funcionalidade completa do seu suporte ou organizador com encaixe perfeito e alta durabilidade."
+    "description": "Peça de reposição original Chumbada Oficial fabricada sob rígidos padrões de qualidade. Desenvolvida para restaurar a funcionalidade completa do seu suporte ou organizador com encaixe perfeito e alta durabilidade.",
+    "images": [
+      "assets/images/suporte-1-2ff057e5-1a15-402d-8e56-134fd16ce14c-3b7bd413.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 66,
@@ -1924,7 +2249,12 @@ const PRODUCTS = [
     "price": "R$ 2,69",
     "img": "assets/images/suporte-3-49d86944-6027-4fee-a41f-89707bb55c86-7ef7d681.png",
     "link": "https://chumbadas.com.br/products/apoio-anzol-cano?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Peça de reposição original Chumbada Oficial fabricada sob rígidos padrões de qualidade. Desenvolvida para restaurar a funcionalidade completa do seu suporte ou organizador com encaixe perfeito e alta durabilidade."
+    "description": "Peça de reposição original Chumbada Oficial fabricada sob rígidos padrões de qualidade. Desenvolvida para restaurar a funcionalidade completa do seu suporte ou organizador com encaixe perfeito e alta durabilidade.",
+    "images": [
+      "assets/images/suporte-3-49d86944-6027-4fee-a41f-89707bb55c86-7ef7d681.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 67,
@@ -1954,7 +2284,12 @@ const PRODUCTS = [
         "R$ 6,33"
       ]
     ],
-    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas."
+    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas.",
+    "images": [
+      "assets/images/destorcedor-54f6d99b-982a-4d68-b6ef-981613cc955b-0fb166b9.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 68,
@@ -1991,7 +2326,12 @@ const PRODUCTS = [
         "R$ 12,45"
       ]
     ],
-    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas."
+    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas.",
+    "images": [
+      "assets/images/destorcedor-triplo-28mm-79eab599-5db1-4d34-9966-3cb67d55f179-a03be63d.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 69,
@@ -2015,7 +2355,12 @@ const PRODUCTS = [
         "R$ 2,88"
       ]
     ],
-    "description": "Snap de engate rápido confeccionado em aço inox de alta resistência, projetado para trocas rápidas de iscas e chicotes. Formato aerodinâmico que minimiza o atrito com a água e sistema de trava ultra confiável."
+    "description": "Snap de engate rápido confeccionado em aço inox de alta resistência, projetado para trocas rápidas de iscas e chicotes. Formato aerodinâmico que minimiza o atrito com a água e sistema de trava ultra confiável.",
+    "images": [
+      "assets/images/snap-single-19mm-35kg-a69e9534-c0b1-46b7-bc72-b1fb2af9b7f7-3544ae37.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 70,
@@ -2039,7 +2384,12 @@ const PRODUCTS = [
         "R$ 4,07"
       ]
     ],
-    "description": "Snap de engate rápido confeccionado em aço inox de alta resistência, projetado para trocas rápidas de iscas e chicotes. Formato aerodinâmico que minimiza o atrito com a água e sistema de trava ultra confiável."
+    "description": "Snap de engate rápido confeccionado em aço inox de alta resistência, projetado para trocas rápidas de iscas e chicotes. Formato aerodinâmico que minimiza o atrito com a água e sistema de trava ultra confiável.",
+    "images": [
+      "assets/images/snap-double-24mm-1-un-fbe828d6-89b4-4a42-ad78-6f5f022f47e9-ef33ddc2.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 71,
@@ -2055,7 +2405,12 @@ const PRODUCTS = [
         "R$ 2,15"
       ]
     ],
-    "description": "Snap de engate rápido confeccionado em aço inox de alta resistência, projetado para trocas rápidas de iscas e chicotes. Formato aerodinâmico que minimiza o atrito com a água e sistema de trava ultra confiável."
+    "description": "Snap de engate rápido confeccionado em aço inox de alta resistência, projetado para trocas rápidas de iscas e chicotes. Formato aerodinâmico que minimiza o atrito com a água e sistema de trava ultra confiável.",
+    "images": [
+      "assets/images/snap-gota-14mm-40kg-6df22465.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 72,
@@ -2104,7 +2459,12 @@ const PRODUCTS = [
         "R$ 8,31"
       ]
     ],
-    "description": "Snap de engate rápido confeccionado em aço inox de alta resistência, projetado para trocas rápidas de iscas e chicotes. Formato aerodinâmico que minimiza o atrito com a água e sistema de trava ultra confiável."
+    "description": "Snap de engate rápido confeccionado em aço inox de alta resistência, projetado para trocas rápidas de iscas e chicotes. Formato aerodinâmico que minimiza o atrito com a água e sistema de trava ultra confiável.",
+    "images": [
+      "assets/images/frances-5ccb2fc6.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 73,
@@ -2132,7 +2492,12 @@ const PRODUCTS = [
         "R$ 33,80"
       ]
     ],
-    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas."
+    "description": "Acessórios de montagem e terminais de engenharia precisa para confecção de chicotes profissionais. Garantem durabilidade, resistência a nós e máxima eficiência na apresentação das iscas.",
+    "images": [
+      "assets/images/modelo-17-42f1ff77-58eb-4f62-8111-c3521ea8566e-bb0a37a1.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 74,
@@ -2185,7 +2550,12 @@ const PRODUCTS = [
         "R$ 23,37"
       ]
     ],
-    "description": "Kit de chumbadas balanceadas e calibradas com acabamento polido de excelente hidrodinâmica. Projetadas para atingir grandes distâncias de arremesso e posicionar a isca no fundo de forma rápida e estável."
+    "description": "Kit de chumbadas balanceadas e calibradas com acabamento polido de excelente hidrodinâmica. Projetadas para atingir grandes distâncias de arremesso e posicionar a isca no fundo de forma rápida e estável.",
+    "images": [
+      "assets/images/kit-costao-2-1c312a11.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 75,
@@ -2195,7 +2565,12 @@ const PRODUCTS = [
     "price": "R$ 42,00",
     "img": "assets/images/suporte-de-vara-de-parede-727d5dfc.png",
     "link": "https://chumbadas.com.br/products/suporte-de-vara-de-parede?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Desenvolvido para organizar e proteger sua tralha. Mantenha seus equipamentos, linhas e chumbadas arrumados de forma inteligente, reduzindo o tempo de preparação e aumentando o tempo de pesca."
+    "description": "Desenvolvido para organizar e proteger sua tralha. Mantenha seus equipamentos, linhas e chumbadas arrumados de forma inteligente, reduzindo o tempo de preparação e aumentando o tempo de pesca.",
+    "images": [
+      "assets/images/suporte-de-vara-de-parede-727d5dfc.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 76,
@@ -2231,7 +2606,12 @@ const PRODUCTS = [
         "#dc2626"
       ]
     ],
-    "description": "O Tela de Espremer Iscas da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas."
+    "description": "O Tela de Espremer Iscas da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/tela-vermelha-a2d4f4df.jpg"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 77,
@@ -2247,7 +2627,12 @@ const PRODUCTS = [
         ""
       ]
     ],
-    "description": "Toalha de mão técnica super absorvente e de secagem rápida, ideal para limpar as mãos durante a pescaria ou atividades físicas. Compacta, durável e com gancho para fácil fixação na calça ou mochila."
+    "description": "Toalha de mão técnica super absorvente e de secagem rápida, ideal para limpar as mãos durante a pescaria ou atividades físicas. Compacta, durável e com gancho para fácil fixação na calça ou mochila.",
+    "images": [
+      "assets/images/toalha-05-4069c005-8c7b-4992-a007-522148c621f3-0a881dff.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 78,
@@ -2257,7 +2642,12 @@ const PRODUCTS = [
     "price": "R$ 41,00",
     "img": "assets/images/tube-neck-tradicional-4d15a854.png",
     "link": "https://chumbadas.com.br/products/tube-neck-tradicional?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Vestuário técnico esportivo projetado para atletas e pescadores exigentes. Combina proteção contra intempéries, excelente respirabilidade e flexibilidade total de movimentos."
+    "description": "Vestuário técnico esportivo projetado para atletas e pescadores exigentes. Combina proteção contra intempéries, excelente respirabilidade e flexibilidade total de movimentos.",
+    "images": [
+      "assets/images/tube-neck-tradicional-4d15a854.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 79,
@@ -2267,7 +2657,12 @@ const PRODUCTS = [
     "price": "R$ 59,00",
     "img": "assets/images/tube-neck-premium-azul-fcbe6229.png",
     "link": "https://chumbadas.com.br/products/tube-neck-premium?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Vestuário técnico esportivo projetado para atletas e pescadores exigentes. Combina proteção contra intempéries, excelente respirabilidade e flexibilidade total de movimentos."
+    "description": "Vestuário técnico esportivo projetado para atletas e pescadores exigentes. Combina proteção contra intempéries, excelente respirabilidade e flexibilidade total de movimentos.",
+    "images": [
+      "assets/images/tube-neck-premium-azul-fcbe6229.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 80,
@@ -2314,7 +2709,12 @@ const PRODUCTS = [
         "#0f172a"
       ]
     ],
-    "description": "Desenvolvida com tecido técnico inteligente, esta peça bloqueia o vento e resiste a respingos d'água, mantendo o conforto térmico sem comprometer a transpiração. Conta com design esportivo e caimento ergonômico, ideal para treinos e pescarias em condições dinâmicas."
+    "description": "Desenvolvida com tecido técnico inteligente, esta peça bloqueia o vento e resiste a respingos d'água, mantendo o conforto térmico sem comprometer a transpiração. Conta com design esportivo e caimento ergonômico, ideal para treinos e pescarias em condições dinâmicas.",
+    "images": [
+      "assets/images/calca-corta-vento-esporte-preta-545adbbf.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 81,
@@ -2360,7 +2760,12 @@ const PRODUCTS = [
         "#14532d"
       ]
     ],
-    "description": "Vestuário técnico esportivo projetado para atletas e pescadores exigentes. Combina proteção contra intempéries, excelente respirabilidade e flexibilidade total de movimentos."
+    "description": "Vestuário técnico esportivo projetado para atletas e pescadores exigentes. Combina proteção contra intempéries, excelente respirabilidade e flexibilidade total de movimentos.",
+    "images": [
+      "assets/images/calca-elastica-comfort-verde-d9d9f7c1.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 82,
@@ -2402,7 +2807,12 @@ const PRODUCTS = [
         "#111827"
       ]
     ],
-    "description": "Desenvolvida com tecido técnico inteligente, esta peça bloqueia o vento e resiste a respingos d'água, mantendo o conforto térmico sem comprometer a transpiração. Conta com design esportivo e caimento ergonômico, ideal para treinos e pescarias em condições dinâmicas."
+    "description": "Desenvolvida com tecido técnico inteligente, esta peça bloqueia o vento e resiste a respingos d'água, mantendo o conforto térmico sem comprometer a transpiração. Conta com design esportivo e caimento ergonômico, ideal para treinos e pescarias em condições dinâmicas.",
+    "images": [
+      "assets/images/corta-vento-confort-preta-03-9bdb65b4.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 83,
@@ -2456,7 +2866,12 @@ const PRODUCTS = [
         "#f97316"
       ]
     ],
-    "description": "Desenvolvida com tecido técnico inteligente, esta peça bloqueia o vento e resiste a respingos d'água, mantendo o conforto térmico sem comprometer a transpiração. Conta com design esportivo e caimento ergonômico, ideal para treinos e pescarias em condições dinâmicas."
+    "description": "Desenvolvida com tecido técnico inteligente, esta peça bloqueia o vento e resiste a respingos d'água, mantendo o conforto térmico sem comprometer a transpiração. Conta com design esportivo e caimento ergonômico, ideal para treinos e pescarias em condições dinâmicas.",
+    "images": [
+      "assets/images/corta-vento-azul-claro-10bf2e1f.png"
+    ],
+    "video": "",
+    "specs": {}
   },
   {
     "id": 84,
@@ -2488,7 +2903,12 @@ const PRODUCTS = [
         ""
       ]
     ],
-    "description": "Desenvolvida com tecido técnico inteligente, esta peça bloqueia o vento e resiste a respingos d'água, mantendo o conforto térmico sem comprometer a transpiração. Conta com design esportivo e caimento ergonômico, ideal para treinos e pescarias em condições dinâmicas."
+    "description": "Desenvolvida com tecido técnico inteligente, esta peça bloqueia o vento e resiste a respingos d'água, mantendo o conforto térmico sem comprometer a transpiração. Conta com design esportivo e caimento ergonômico, ideal para treinos e pescarias em condições dinâmicas.",
+    "images": [
+      "assets/images/corta-vento-91f580da-c848-40b2-9aed-5d341a2f835f-63e3ee1b.png"
+    ],
+    "video": "",
+    "specs": {}
   }
 ];
 

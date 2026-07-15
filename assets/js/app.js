@@ -376,6 +376,43 @@ function renderProductDetail(p) {
     }
   }
 
+  // Montagem da Tabela de Especificações Técnicas (Misturando estáticas e dinâmicas do produto)
+  let specsRows = `
+    <tr>
+      <td class="specs-label">Marca</td>
+      <td class="specs-val">Chumbada Oficial</td>
+    </tr>
+    <tr>
+      <td class="specs-label">Categoria</td>
+      <td class="specs-val">${escapeHTML(p.category)}</td>
+    </tr>
+  `;
+
+  // Mesclar especificações personalizadas do produto (specs: {"Material": "Inox", ...})
+  if (p.specs && typeof p.specs === 'object') {
+    for (const [key, value] of Object.entries(p.specs)) {
+      if (value) {
+        specsRows += `
+          <tr>
+            <td class="specs-label">${escapeHTML(key)}</td>
+            <td class="specs-val">${escapeHTML(value)}</td>
+          </tr>
+        `;
+      }
+    }
+  }
+
+  specsRows += `
+    <tr>
+      <td class="specs-label">Disponibilidade</td>
+      <td class="specs-val" style="color: var(--color-success)">Disponível</td>
+    </tr>
+    <tr>
+      <td class="specs-label">Código de Referência</td>
+      <td class="specs-val">#${String(p.id).padStart(4, '0')}</td>
+    </tr>
+  `;
+
   // Renderizar a estrutura de detalhes
   appContainer.innerHTML = `
     <div class="view-fade">
@@ -390,11 +427,33 @@ function renderProductDetail(p) {
         </nav>
 
         <div class="detail-grid">
-          <!-- Coluna da Esquerda: Imagem grande -->
+          <!-- Coluna da Esquerda: Galeria Interativa com fotos e vídeo -->
           <section class="detail-gallery" aria-label="Imagens do Produto">
-            <div class="gallery-main">
+            <div class="gallery-main" id="gallery-main-container">
               <img id="main-product-img" src="${p.img}" alt="${escapeHTML(p.name)}" onerror="this.src='assets/images/chumbada-oficial-27c01352.png'">
+              <div id="main-product-video" class="gallery-video-wrapper" style="display: none;"></div>
             </div>
+            
+            ${(p.images && p.images.length > 1) || p.video ? `
+              <div class="gallery-thumbs" id="gallery-thumbs">
+                ${p.images.map((img, i) => `
+                  <button class="thumb-btn ${i === 0 ? 'active' : ''}" data-type="image" data-src="${img}" type="button" aria-label="Ver imagem ${i+1}">
+                    <img src="${img}" alt="" onerror="this.src='assets/images/chumbada-oficial-27c01352.png'">
+                  </button>
+                `).join('')}
+                
+                ${p.video ? `
+                  <button class="thumb-btn thumb-video-btn" data-type="video" data-video-src="${p.video}" type="button" aria-label="Ver vídeo do produto">
+                    <div class="play-icon-overlay">
+                      <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+                        <path d="M8 5v14l11-7z"/>
+                      </svg>
+                    </div>
+                    <img src="${p.img}" alt="Previa do vídeo">
+                  </button>
+                ` : ''}
+              </div>
+            ` : ''}
           </section>
 
           <!-- Coluna da Direita: Informações detalhadas -->
@@ -464,22 +523,7 @@ function renderProductDetail(p) {
               <h2 class="info-section-title">Especificações Técnicas</h2>
               <table class="specs-table">
                 <tbody>
-                  <tr>
-                    <td class="specs-label">Marca</td>
-                    <td class="specs-val">Chumbada Oficial</td>
-                  </tr>
-                  <tr>
-                    <td class="specs-label">Categoria</td>
-                    <td class="specs-val">${escapeHTML(p.category)}</td>
-                  </tr>
-                  <tr>
-                    <td class="specs-label">Disponibilidade</td>
-                    <td class="specs-val" style="color: var(--color-success)">Disponível</td>
-                  </tr>
-                  <tr>
-                    <td class="specs-label">Código de Referência</td>
-                    <td class="specs-val">#${String(p.id).padStart(4, '0')}</td>
-                  </tr>
+                  ${specsRows}
                 </tbody>
               </table>
             </div>
@@ -529,6 +573,48 @@ function initDetailSelectors(p) {
   const colorLabel = document.getElementById('selected-color-label');
   const priceDisplay = document.getElementById('detail-price-display');
   const btnWhatsapp = document.getElementById('btn-order-whatsapp');
+  
+  const galleryThumbs = document.getElementById('gallery-thumbs');
+  const mainImg = document.getElementById('main-product-img');
+  const mainVideoContainer = document.getElementById('main-product-video');
+
+  // Controle da Galeria de Imagens e Vídeo
+  if (galleryThumbs && mainImg && mainVideoContainer) {
+    galleryThumbs.addEventListener('click', e => {
+      const btn = e.target.closest('.thumb-btn');
+      if (!btn) return;
+
+      // Atualizar classe ativa do botão selecionado
+      galleryThumbs.querySelectorAll('.thumb-btn').forEach(b => b.classList.toggle('active', b === btn));
+
+      const type = btn.dataset.type;
+
+      if (type === 'image') {
+        mainVideoContainer.style.display = 'none';
+        mainVideoContainer.innerHTML = '';
+        mainImg.style.display = 'block';
+        mainImg.src = btn.dataset.src;
+      } else if (type === 'video') {
+        mainImg.style.display = 'none';
+        mainVideoContainer.style.display = 'flex';
+        
+        const videoSrc = btn.dataset.videoSrc;
+        if (videoSrc.includes('youtube.com') || videoSrc.includes('youtu.be') || videoSrc.includes('embed')) {
+          let embedUrl = videoSrc;
+          if (videoSrc.includes('watch?v=')) {
+            embedUrl = videoSrc.replace('watch?v=', 'embed/');
+          }
+          mainVideoContainer.innerHTML = `
+            <iframe src="${embedUrl}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          `;
+        } else {
+          mainVideoContainer.innerHTML = `
+            <video src="${videoSrc}" controls autoplay muted></video>
+          `;
+        }
+      }
+    });
+  }
 
   // Função para reconstruir o link do WhatsApp com os dados selecionados
   function updateWhatsappLink() {

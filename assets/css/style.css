@@ -711,6 +711,80 @@ a {
   transform: scale(1.04);
 }
 
+/* Galeria de Miniaturas e Vídeo */
+.gallery-thumbs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 16px;
+}
+.thumb-btn {
+  width: 64px;
+  height: 64px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-color);
+  background-color: #ffffff;
+  padding: 6px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  transition: all var(--transition-fast);
+}
+.thumb-btn img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+.thumb-btn:hover {
+  border-color: var(--color-text-muted);
+}
+.thumb-btn.active {
+  border-color: var(--color-brand);
+  box-shadow: 0 0 0 1px var(--color-brand);
+}
+
+/* Play Icon Overlay para Vídeo */
+.thumb-video-btn {
+  background-color: #f1f5f9;
+}
+.play-icon-overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-color: rgba(15, 23, 42, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  z-index: 2;
+  transition: background-color var(--transition-fast);
+}
+.thumb-btn:hover .play-icon-overlay {
+  background-color: rgba(15, 23, 42, 0.55);
+}
+
+/* Container do Vídeo Principal */
+.gallery-video-wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+.gallery-video-wrapper iframe,
+.gallery-video-wrapper video {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  object-fit: contain;
+}
+
 /* Right: Product Info Component */
 .detail-info {
   display: flex;
