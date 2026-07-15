@@ -631,7 +631,10 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo-vermelho_2.png?v=1725024785"
     ],
     "video": "",
-    "specs": {}
+    "specs": {
+      "Capacidade": "Até 5 Chicotes",
+      "Indicação": "Pesqueiro, lago e montagens diversas"
+    }
   },
   {
     "id": 13,
@@ -865,7 +868,9 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo-vermelho_2.png?v=1725024785"
     ],
     "video": "",
-    "specs": {}
+    "specs": {
+      "Capacidade": "5 Carretéis (Até 25 Chicotes)"
+    }
   },
   {
     "id": 17,
@@ -1071,7 +1076,10 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel_retangular.jpg?v=1773237833"
     ],
     "video": "",
-    "specs": {}
+    "specs": {
+      "Capacidade": "Até 5 Chicotes",
+      "Indicação": "Pesqueiro, lago e montagens diversas"
+    }
   },
   {
     "id": 26,
@@ -2908,7 +2916,8 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Comprimento/Medida": "300 METROS"
+      "Comprimento/Medida": "300 METROS",
+      "Dimensões": "4X300M"
     }
   },
   {
@@ -3227,7 +3236,10 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Comprimento/Medida": "8,5 CM"
+      "Comprimento/Medida": "8,5 CM",
+      "Dimensões": "32X8,5CM",
+      "Capacidade": "60 Canais (30 Sup. / 30 Inf.)",
+      "Indicação": "Acomodar pernadas (anzóis empatados)"
     }
   },
   {
@@ -3379,7 +3391,8 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Comprimento/Medida": "40 CM"
+      "Comprimento/Medida": "40 CM",
+      "Dimensões": "60X35CM"
     }
   },
   {
