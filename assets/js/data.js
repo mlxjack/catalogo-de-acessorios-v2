@@ -567,7 +567,7 @@ window.PRODUCTS = [
     "category": "Acessórios",
     "name": "Carretel para Chicotes",
     "price": "R$ 1,50",
-    "img": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-13.jpg?v=1783014382",
+    "img": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa.png?v=1725024169",
     "link": "https://chumbadas.com.br/products/carretel?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
       [
@@ -615,23 +615,25 @@ window.PRODUCTS = [
         "#22c55e"
       ]
     ],
-    "description": "<p>O Copo para guardar chicotes da Chumbada está disponível em várias cores, o que permite que você escolha a que mais combina com o seu estilo, personalidade e claro organizado por cor se for o caso. Além disso, é um acessório resistente e durável, que protege seus chicotes de possíveis danos e ajuda a prolongar sua vida útil.</p>\n<p>Este copo foi desenvolvido exatamente para comportar 5 Carretéis para Chicotes, em cada carretel 5 chicotes portanto em um copo desses é possível levar 25 chicotes, dividindo em Beira, Meia Água, Fundo ou de qualquer outra forma que preferir.</p>\n<p>Com esse produto, você pode organizar seus chicotes de forma prática e fácil, garantindo que eles estejam sempre prontos para serem utilizados. Não perca mais tempo procurando seus chicotes no fundo da bolsa ou caixa de pesca. Adquira agora o Copo para guardar chicotes da Chumbada e tenha um acessório de pesca de alta qualidade em suas mãos.</p>",
+    "description": "<span>Carretel para Chicotes de pesca, diâmetro da passagem onde o chicote será enrolado 5cm. O Carretel da Chumbada facilita o armazenamento e organização dos chicotes de pesca, </span><span>além da possibilidade de</span><span> levar o chicote montado com a pernada, pois o mesmo conta com apoios para os mesmos.</span><br><br><p>💡 <strong>Dica Chumbada:</strong> Leve também o <strong>Copo Organizador G</strong> para guardar e transportar seus carretéis com muito mais segurança e organização!</p>",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-13.jpg?v=1783014382",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-14.jpg?v=1783014354",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-capa.png?v=1781107224",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-branco-fechado_b0f4b520-9b71-4aef-af0d-bd6686b0c82c.png?v=1725024785",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-amarelo.png?v=1725024785",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-azul.png?v=1725024785",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-cinza.png?v=1725024785",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-laranja.png?v=1725024785",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-preto.png?v=1725024785",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-rosa.png?v=1725024785",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-roxo.png?v=1725024785",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo-vermelho_2.png?v=1725024785"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa.png?v=1725024169",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/frente-e-costas_f45626cb-89cf-4ede-bbfa-fd4ae0ce2838.jpg?v=1725024177",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Carretel-preto-Frente_71df2736-149a-4fec-916d-263c57806e66.png?v=1725024177",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Carretel-amarelo-frente_8238485b-7928-46cd-83ee-91b9d298dfe8.png?v=1725024177",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Carretel-azul-frente_3356c20b-210c-4372-900d-ad9cae12258a.png?v=1725024177",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Carretel-branco-frente_c85bca83-3a7e-412f-8a90-ce4a0626f402.png?v=1725024177",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Carretel-laranja-Frente_e3d550e4-a8e3-434d-90b6-5dfd12b33264.png?v=1725024177",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Carretel-rosaFrente_21042522-dfd5-4fc1-9689-c9b701c7e778.png?v=1725024177",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Carretel-Roxo-Frente_db0c429e-5679-43bf-86b8-589e09afadc9.png?v=1725024177",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Carretel-cinza-frente_83dff986-b950-4f79-b865-e5489394f494.png?v=1725024177",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Carretel-vermelho-costas_42cae8eb-f803-41d4-a2c9-9aaa3067f555.png?v=1725024177",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel-transparente-frente.jpg?v=1725024177",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Carretel-verde-frente.png?v=1725024177"
     ],
     "video": "",
     "specs": {
+      "Comprimento/Medida": "5CM",
       "Capacidade": "Até 5 Chicotes",
       "Indicação": "Pesqueiro, lago e montagens diversas"
     }
