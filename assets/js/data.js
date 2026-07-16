@@ -1544,7 +1544,7 @@ window.PRODUCTS = [
   {
     "id": 36,
     "slug": "rotor-de-engate-rapido-cabeca-de-cobra",
-    "category": "Montagem",
+    "category": "LINHA TERMINAL E KITS",
     "name": "Rotor de Engate Rápido Cabeça de Cobra",
     "price": "R$ 8,10",
     "img": "assets/img/shopify/Rotor-Cabeca-de-Cobra-capa.png",
@@ -2850,20 +2850,11 @@ window.PRODUCTS = [
     "category": "Suportes",
     "name": "Adaptador de Vara para Suporte de Molinete",
     "price": "R$ 27,00",
-    "img": "assets/img/shopify/completo-capa.png",
+    "img": "assets/img/shopify/adaptador-de-vara.jpg",
     "link": "https://chumbadas.com.br/products/adaptador-de-vara-para-suporte-de-molinete?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Suporte de vara Chumbada Oficial - O Suporte de vara da Chumbada Oficial é fabricado com os melhores materiais disponíveis no mercado, o alumínio é o mais resistente da atualidade, a borracha foi especialmente desenvolvida para não se degradar nem em dias de sol forte e nem na chuva, unindo resistência e durabilidade.<br>O grande diferencial desse suporte é a proteção que o mesmo irá oferecer ao seu equipamento uma vez que a borracha é macia e não risca a vara como outros materiais mais rígidos.<br>O Suporte de vara da Chumbada Oficial foi testado e modificado durante meses por muitos pescadores conceituados no mercado até chegar ao nível atual de excelência. Seu design foi projetado para atender diversas situações de pesca podendo apoiar a vara de lado, deitada ou simplesmente de pé. Nos nossos testes reais, mesmo com ventos fortes o suporte atendeu todas as nossas expectativas.<br>Outro grande diferencial é o encaixe auxiliar na parte traseira da “ferradura” o mesmo permite apoiar a vara enquanto o pescador faz a iscagem ou a troca de chicotes com maior conforto, é possível também sacar o peixe com as mão livres.<br>O Suporte de vara da Chumbada Oficial possui um top de apoio do copo como sugestão porém é possível regular o mesmo em diversas alturas sob pressão sem parafusos ou travas evitando assim problemas futuros de reposição de peças.</p>",
     "images": [
-      "assets/img/shopify/completo-capa.png",
-      "assets/img/shopify/photo_4_2026-01-13_12-26-38.jpg",
-      "assets/img/shopify/photo_3_2026-01-13_12-26-38.jpg",
-      "assets/img/shopify/photo_1_2026-01-13_12-26-38.jpg",
-      "assets/img/shopify/photo_2_2026-01-13_12-26-38.jpg",
-      "assets/img/shopify/completo.png",
-      "assets/img/shopify/ferradura.png",
-      "assets/img/shopify/copo.png",
-      "assets/img/shopify/completo-05_56905fe3-508c-49bb-b5da-bf44a8f539da.png",
-      "assets/img/shopify/calao.png"
+      "assets/img/shopify/adaptador-de-vara.jpg"
     ],
     "video": "assets/video/shopify/f048e0960ef04c0da3f8fd8af9ab1fe5.mp4",
     "specs": {
@@ -3114,7 +3105,7 @@ window.PRODUCTS = [
     "category": "Montagem",
     "name": "Snap Gota",
     "price": "R$ 2,15",
-    "img": "assets/img/shopify/snap-mais-cobre-no-capa.png",
+    "img": "assets/img/shopify/snap-gota.png",
     "link": "https://chumbadas.com.br/collections/terminais",
     "vars": [
       [
@@ -3124,22 +3115,11 @@ window.PRODUCTS = [
     ],
     "description": "<p>Snap Chumbada e Cobre Nó a união perfeita entre praticidade e segurança, o Snap Chumbada possui uma ponta arredondada facilitando o movimento entre a Chumbada e o chicote de pesca.</p>",
     "images": [
-      "assets/img/shopify/snap-mais-cobre-no-capa.png",
-      "assets/img/shopify/snap-mais-cobre-no-amarelo.png",
-      "assets/img/shopify/snap-mais-cobre-no-verde-escuro.png",
-      "assets/img/shopify/snap-mais-cobre-no-vermelho.png",
-      "assets/img/shopify/snap-mais-cobre-no-azul.png",
-      "assets/img/shopify/snap-mais-cobre-no-azul-claro.png",
-      "assets/img/shopify/snap-mais-cobre-no-cinza.png",
-      "assets/img/shopify/snap-mais-cobre-no-laranja.png",
-      "assets/img/shopify/snap-mais-cobre-no-marrom.png",
-      "assets/img/shopify/snap-mais-cobre-no-preto.png",
-      "assets/img/shopify/snap-mais-cobre-no-rosa.png",
-      "assets/img/shopify/snap-mais-cobre-no-translucido.png",
-      "assets/img/shopify/snap-mais-cobre-no-verde.png"
+      "assets/img/shopify/snap-gota.png"
     ],
-    "video": "assets/video/shopify/e220ef678b4d4911aebc364a2e5fe0e7.mp4",
-    "specs": {}
+    "video": "",
+    "specs": {},
+    "swatches": []
   },
   {
     "id": 72,
@@ -3244,64 +3224,6 @@ window.PRODUCTS = [
       "Capacidade": "60 Canais (30 Sup. / 30 Inf.)",
       "Indicação": "Acomodar pernadas (anzóis empatados)"
     }
-  },
-  {
-    "id": 74,
-    "slug": "kits-chumbada",
-    "category": "Chumbadas",
-    "name": "Kits Chumbada",
-    "price": "a partir de R$ 4,67",
-    "img": "assets/images/kit-costao-2-1c312a11.png",
-    "link": "https://chumbadas.com.br/collections/kits-de-chumbadas",
-    "span": 2,
-    "vars": [
-      [
-        "Downshots",
-        "R$ 5,57"
-      ],
-      [
-        "Mini Chumbadas 10g",
-        "R$ 4,67"
-      ],
-      [
-        "Mini Chumbadas 15g",
-        "R$ 7,02"
-      ],
-      [
-        "Mini Chumbadas 20g",
-        "R$ 9,35"
-      ],
-      [
-        "Mini Chumbadas 25g",
-        "R$ 11,69"
-      ],
-      [
-        "Mini Chumbadas 30g",
-        "R$ 14,02"
-      ],
-      [
-        "Mini Chumbadas 35g",
-        "R$ 16,37"
-      ],
-      [
-        "Mini Chumbadas 40g",
-        "R$ 18,70"
-      ],
-      [
-        "Mini Chumbadas 45g",
-        "R$ 21,04"
-      ],
-      [
-        "Mini Chumbadas 50g",
-        "R$ 23,37"
-      ]
-    ],
-    "description": "Kit de chumbadas balanceadas e calibradas com acabamento polido de excelente hidrodinâmica. Projetadas para atingir grandes distâncias de arremesso e posicionar a isca no fundo de forma rápida e estável.",
-    "images": [
-      "assets/images/kit-costao-2-1c312a11.png"
-    ],
-    "video": "",
-    "specs": {}
   },
   {
     "id": 75,
