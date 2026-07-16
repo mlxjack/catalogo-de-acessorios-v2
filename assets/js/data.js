@@ -1453,7 +1453,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/marrom.png?v=1725024095",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/branco.png?v=1725024095"
     ],
-    "video": "",
+    "video": "https://youtu.be/tcXANAsZPk8",
     "specs": {
       "Material": "Borracha premium",
       "Comprimento/Medida": "30CM"
@@ -1932,7 +1932,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/kit-enrolador-natural.png?v=1725025232",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/kit-enrolador-laranja.png?v=1725025232"
     ],
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=JDEGXTCaCWc&t=455s",
     "specs": {
       "Material": "Alumínio anodizado",
       "Conteúdo": "6 Peças"
@@ -2518,7 +2518,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/marrom.png?v=1725024095",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/branco.png?v=1725024095"
     ],
-    "video": "",
+    "video": "https://youtu.be/tcXANAsZPk8",
     "specs": {
       "Material": "Borracha premium",
       "Comprimento/Medida": "30CM"

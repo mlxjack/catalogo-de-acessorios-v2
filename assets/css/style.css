@@ -480,6 +480,21 @@ a {
   box-shadow: var(--shadow-lg);
   transform: translateY(-4px);
 }
+.video-badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background-color: var(--color-brand);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  z-index: 10;
+  box-shadow: var(--shadow-sm);
+}
 .product-card-media {
   position: relative;
   background-color: #ffffff;

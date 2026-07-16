@@ -328,6 +328,12 @@ function renderGrid() {
       ${sectionBreak}
       <article class="product-card ${spanClass}">
         <div class="product-card-media">
+          ${p.video ? `<span class="video-badge">
+            <svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14" style="margin-right: 4px; vertical-align: middle;">
+              <path d="M8 5v14l11-7z"/>
+            </svg>
+            Vídeo
+          </span>` : ''}
           <img loading="lazy" src="${p.img}" alt="${escapeHTML(p.name)}" onerror="this.src='assets/images/chumbada-oficial-27c01352.png'">
         </div>
         <div class="product-card-content">
