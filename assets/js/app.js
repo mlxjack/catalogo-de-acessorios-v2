@@ -666,6 +666,9 @@ function initDetailSelectors(p) {
       // Atualizar texto do label de cor
       if (colorLabel) colorLabel.textContent = colorName;
 
+      // Tentar trocar a foto da galeria
+      trySwitchImage(colorName);
+
       updateWhatsappLink();
     });
   }
@@ -683,7 +686,7 @@ function initDetailSelectors(p) {
       sectionVars.querySelectorAll('.var-btn').forEach((b, index) => {
         const isActive = index === varIndex;
         b.classList.toggle('active', isActive);
-        b.setAttribute('aria-checked', isActive ? 'true' : 'false');
+        b.setAttribute('aria-pressed', isActive ? 'true' : 'false');
       });
 
       // Atualizar exibição de preço para a variação ativa
@@ -693,8 +696,39 @@ function initDetailSelectors(p) {
         priceDisplay.classList.toggle('empty', varPrice === 'Sob Consulta');
       }
 
+      // Tentar trocar a foto da galeria com base no nome da variação
+      if (p.vars && p.vars[varIndex]) {
+        trySwitchImage(p.vars[varIndex][0]);
+      }
+
       updateWhatsappLink();
     });
+  }
+
+  // Função para tentar trocar a imagem da galeria com base no texto
+  function trySwitchImage(text) {
+    if (!text || !p.images || !galleryThumbs) return;
+    // Remover espaços e transformar tudo em minúsculas sem acentos para comparar
+    const normalizedText = normalizeText(text).replace(/\s+/g, '-');
+    const normalizedTextNoSpace = normalizeText(text).replace(/\s+/g, '');
+    
+    // Procura uma imagem cujo nome de arquivo contenha o texto da variação
+    const matchIndex = p.images.findIndex(imgSrc => {
+      const parts = imgSrc.split('/');
+      const filename = parts[parts.length - 1];
+      const normFile = normalizeText(filename);
+      return normFile.includes(normalizedText) || normFile.includes(normalizedTextNoSpace) || normalizedTextNoSpace.includes(normFile.replace(/\.[\w]+$/, '').replace(/-/g, ''));
+    });
+    
+    if (matchIndex !== -1) {
+      const thumbBtns = galleryThumbs.querySelectorAll('.thumb-btn[data-type="image"]');
+      if (thumbBtns[matchIndex]) {
+        thumbBtns[matchIndex].click();
+        
+        // Fazer scroll suave das thumbs para mostrar o botão ativo, caso esteja fora de vista
+        thumbBtns[matchIndex].scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+      }
+    }
   }
 
   // Inicializar link pela primeira vez

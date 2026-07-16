@@ -2175,9 +2175,9 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/47f1a9c1b54d4381a82a3436e200e3c2.mp4",
     "specs": {
-      "Material": "Estrutura de alumínio com copos de borracha",
-      "Aplicação": "Pesca esportiva e de competição",
-      "Tamanhos Disponíveis": "40cm / 60cm / 85cm / 1m / 1,20m"
+      "Material": "Estrutura em alumínio com peças em borracha e plástico premium",
+      "Tamanhos Disponíveis": "40cm, 60cm, 85cm, 1m, 1,20m",
+      "Itens Avulsos (Reposição)": "Apoio de Borracha, Copo de Borracha, e Cano (podem ser adquiridos separadamente)"
     }
   },
   {
@@ -2733,7 +2733,7 @@ window.PRODUCTS = [
         "#111827"
       ]
     ],
-    "description": "<p>Com esse adaptador, o pescador consegue unir dois acessórios essenciais em uma única montagem: a Secretária de Pesca e a parte superior do Varal.</p><p>Na prática, ele permite usar a Secretária junto com o Varal, deixando tudo mais organizado na beira da praia e ainda servindo como apoio para manter a vara inclinada.</p><p>Mais praticidade, mais organização e mais resistência para sua pescaria.</p><p>O Adaptador para Secretária e Varal da Chumbada Oficial ficou ainda melhor.</p><p>Agora ele recebeu reforço em dois pontos importantes: na região de apoio da Secretária e também na lingueta onde o Varal é fixado, trazendo mais resistência, firmeza e segurança no uso.</p><p>Melhoria contínua é isso: ouvir, testar, reforçar e evoluir.</p>",
+    "description": "<p>Com esse adaptador, o pescador consegue unir dois acessórios essenciais em uma única montagem: a Secretária de Pesca e a parte superior do <a href=\"#/produto/varal-chumbada\">Varal</a>.</p><p>Na prática, ele permite usar a Secretária junto com o Varal, deixando tudo mais organizado na beira da praia e ainda servindo como apoio para manter a vara inclinada.</p><p>Mais praticidade, mais organização e mais resistência para sua pescaria.</p><p>O Adaptador para Secretária e Varal da Chumbada Oficial ficou ainda melhor.</p><p>Agora ele recebeu reforço em dois pontos importantes: na região de apoio da Secretária e também na lingueta onde o <a href=\"#/produto/varal-chumbada\">Varal</a> é fixado, trazendo mais resistência, firmeza e segurança no uso.</p><p>Melhoria contínua é isso: ouvir, testar, reforçar e evoluir.</p>",
     "images": [
       "assets/img/shopify/adaptador-secretaria-novo.jpg",
       "assets/img/shopify/adaptador-secretaria-branco.jpg",
