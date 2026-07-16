@@ -2713,7 +2713,7 @@ window.PRODUCTS = [
     "category": "Acessórios",
     "name": "Adaptador da Secretária",
     "price": "R$ 19,00",
-    "img": "assets/img/shopify/adaptador-secretaria-branco.jpg",
+    "img": "assets/img/shopify/adaptador-secretaria-novo.jpg",
     "link": "https://chumbadas.com.br/products/adaptador-da-secretaria?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
       [
@@ -2733,8 +2733,9 @@ window.PRODUCTS = [
         "#111827"
       ]
     ],
-    "description": "O Adaptador da Secretária da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "description": "<p>Com esse adaptador, o pescador consegue unir dois acessórios essenciais em uma única montagem: a Secretária de Pesca e a parte superior do Varal.</p><p>Na prática, ele permite usar a Secretária junto com o Varal, deixando tudo mais organizado na beira da praia e ainda servindo como apoio para manter a vara inclinada.</p><p>Mais praticidade, mais organização e mais resistência para sua pescaria.</p><p>O Adaptador para Secretária e Varal da Chumbada Oficial ficou ainda melhor.</p><p>Agora ele recebeu reforço em dois pontos importantes: na região de apoio da Secretária e também na lingueta onde o Varal é fixado, trazendo mais resistência, firmeza e segurança no uso.</p><p>Melhoria contínua é isso: ouvir, testar, reforçar e evoluir.</p>",
     "images": [
+      "assets/img/shopify/adaptador-secretaria-novo.jpg",
       "assets/img/shopify/adaptador-secretaria-branco.jpg",
       "assets/img/shopify/adaptador-secretaria-preto.jpg",
       "assets/img/shopify/Adaptador-secretaria-cinza-05.jpg"
