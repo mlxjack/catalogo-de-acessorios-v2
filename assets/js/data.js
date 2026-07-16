@@ -233,7 +233,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Pastel.jpg?v=1776350311",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/medida_atrativo.jpg?v=1783519544"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/82fd8fd632894355bfdecab483748277.mp4",
     "specs": {}
   },
   {
@@ -288,7 +288,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Pastel.jpg?v=1776350311",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/medida_atrativo.jpg?v=1783519544"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/82fd8fd632894355bfdecab483748277.mp4",
     "specs": {}
   },
   {
@@ -367,7 +367,7 @@ window.PRODUCTS = [
     "images": [
       "assets/images/mini-atrativo-comum-amarelo-e99da884.jpg"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/82fd8fd632894355bfdecab483748277.mp4",
     "specs": {}
   },
   {
@@ -418,7 +418,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Pastel.jpg?v=1776350311",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/medida_atrativo.jpg?v=1783519544"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/82fd8fd632894355bfdecab483748277.mp4",
     "specs": {}
   },
   {
@@ -461,7 +461,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/preto-brilhante.png?v=1782411246",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/medida_atrativo_conico.jpg?v=1783517580"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/82fd8fd632894355bfdecab483748277.mp4",
     "specs": {
       "Conteúdo": "1 Unidade"
     }
@@ -481,7 +481,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilhas-02_045bc35a-4013-430e-9ec8-ea46e12db27b.png?v=1725026418",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilhas-02_8eda4c7c-15c1-4ef1-9d93-2799f5843e64.png?v=1725026418"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/353a472db03342399ac28508784a2ccd.mp4",
     "specs": {
       "Conteúdo": "1 Unidade"
     }
@@ -631,7 +631,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel-transparente-frente.jpg?v=1725024177",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Carretel-verde-frente.png?v=1725024177"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/392e00e1e2d94279b68674b6aa8e6ce6.mp4",
     "specs": {
       "Comprimento/Medida": "5CM",
       "Capacidade": "Até 5 Chicotes",
@@ -869,7 +869,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-roxo.png?v=1725024785",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo-vermelho_2.png?v=1725024785"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/a8fd4c77c94e42d5a9254dda44a98f4a.mp4",
     "specs": {
       "Capacidade": "5 Carretéis (Até 25 Chicotes)"
     }
@@ -888,7 +888,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/elastricotextrafino.jpg?v=1725025094",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/elastricotfino.jpg?v=1725025094"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/a16a04dcae884b1aa6ce969b1d6a2f52.mp4",
     "specs": {
       "Material": "Látex elástico"
     }
@@ -907,7 +907,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/elastricotextrafino.jpg?v=1725025094",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/elastricotfino.jpg?v=1725025094"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/a16a04dcae884b1aa6ce969b1d6a2f52.mp4",
     "specs": {
       "Material": "Látex elástico"
     }
@@ -933,7 +933,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Dedeira-ultra-soft-M.png?v=1725024839",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Dedeira-ultra-soft-p.png?v=1725024839"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/7a694cc2b68144599b48d161f0b51db2.mp4",
     "specs": {
       "Indicação": "Proteção do indicador durante o arremesso",
       "Modelos": "Hard / Soft / Ultra Soft"
@@ -960,7 +960,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Dedeira-ultra-soft-M.png?v=1725024839",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Dedeira-ultra-soft-p.png?v=1725024839"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/7a694cc2b68144599b48d161f0b51db2.mp4",
     "specs": {
       "Indicação": "Proteção do indicador durante o arremesso",
       "Modelos": "Hard / Soft / Ultra Soft"
@@ -987,7 +987,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Dedeira-ultra-soft-M.png?v=1725024839",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Dedeira-ultra-soft-p.png?v=1725024839"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/7a694cc2b68144599b48d161f0b51db2.mp4",
     "specs": {
       "Indicação": "Proteção do indicador durante o arremesso",
       "Modelos": "Hard / Soft / Ultra Soft"
@@ -1017,7 +1017,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/iscador.png?v=1725025122",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/iscador-transparente.png?v=1725025122"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/df63e0ebdb784b49b1dd9898641b2663.mp4",
     "specs": {}
   },
   {
@@ -1032,7 +1032,7 @@ window.PRODUCTS = [
     "images": [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Agulhao.png?v=1701356600"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/df63e0ebdb784b49b1dd9898641b2663.mp4",
     "specs": {
       "Material": "Aço Inox"
     }
@@ -1051,7 +1051,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/iscador-duplo.png?v=1725025139",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/iscador-duplo-foto-transparente.png?v=1725025139"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/0800a917dc464f3cad93e5d756271c2c.mp4",
     "specs": {}
   },
   {
@@ -1077,7 +1077,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel_retangular_1.jpg?v=1773237833",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel_retangular.jpg?v=1773237833"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/392e00e1e2d94279b68674b6aa8e6ce6.mp4",
     "specs": {
       "Capacidade": "Até 5 Chicotes",
       "Indicação": "Pesqueiro, lago e montagens diversas"
@@ -1159,7 +1159,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/snap-mais-cobre-no-translucido.png?v=1725025851",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/snap-mais-cobre-no-verde.png?v=1725025851"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/618e4f454f004aa5b055dc9ab0df67cf.mp4",
     "specs": {}
   },
   {
@@ -1327,7 +1327,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-branco.png?v=1772216706",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_elastricot_translucido.jpg?v=1772216706"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/832fce9668cf4ebc8742747ac8f5b028.mp4",
     "specs": {
       "Material": "Látex elástico"
     }
@@ -1358,7 +1358,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_2024-12-03_06-46-18.jpg?v=1733331717",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_2024-12-04_14-13-22.jpg?v=1733332482"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/27352f06c76d4c6d8196c5a1c6b71cac.mp4",
     "specs": {
       "Material": "Plástico de engenharia de alta densidade"
     }
@@ -1535,7 +1535,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/demostracao.png?v=1725025616",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/resgata-isca-foto-nova.png?v=1725025630"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/d831c09b11ab4d2fbba842e2e78cf629.mp4",
     "specs": {
       "Material": "Borracha premium",
       "Comprimento/Medida": "20 METROS"
@@ -1600,7 +1600,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Saca-anzol-competicao-nano-cristal.png?v=1776268933",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/saca-anzol-nano-embalagem.png?v=1725025795"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/c833d8cb432a4adf91c3016d36320c34.mp4",
     "specs": {
       "Material": "Aço Inox",
       "Conteúdo": "1 Unidade"
@@ -1636,7 +1636,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-P_23371b65-d873-4c3b-89a6-8b0d25c12ef4.jpg?v=1764885170",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-Kit.jpg?v=1764885170"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/c833d8cb432a4adf91c3016d36320c34.mp4",
     "specs": {
       "Material": "Aço Inox"
     }
@@ -1729,7 +1729,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/StopperM2_f4649fb4-bd6b-4bf4-a45b-d044d76daff2.jpg?v=1725025945",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/StopperG2_28f89b31-445e-4f75-af2c-5948993bd089.jpg?v=1725025945"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/ef8ebb2364fb477a9b7803972081da0f.mp4",
     "specs": {
       "Material": "Borracha premium"
     }
@@ -1752,7 +1752,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Stopper-cilindrico-M_e5d28792-032c-4b56-97f1-3c63cc258644.png?v=1725025928",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Stopper-cilindrico-P_ebba56f0-32d5-4c1c-8cb5-51640feb938c.png?v=1725025928"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/ef8ebb2364fb477a9b7803972081da0f.mp4",
     "specs": {
       "Conteúdo": "1 Unidade"
     }
@@ -2013,7 +2013,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/completo-05_56905fe3-508c-49bb-b5da-bf44a8f539da.png?v=1768318068",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calao.png?v=1768318068"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/386269be8dba4c3ab290582221705070.mp4",
     "specs": {
       "Material": "Borracha premium",
       "Aplicação": "Pesca esportiva e de competição"
@@ -2173,7 +2173,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/verde-1m.png?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/verde-1_20.png?v=1768317605"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/47f1a9c1b54d4381a82a3436e200e3c2.mp4",
     "specs": {
       "Material": "Estrutura de alumínio com copos de borracha",
       "Aplicação": "Pesca esportiva e de competição",
@@ -2269,7 +2269,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/alicate.jpg?v=1773842723",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/alicate_glow.jpg?v=1773842723"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/39b1ccbd5af54293baa9aa65e95b4ef3.mp4",
     "specs": {}
   },
   {
@@ -2317,7 +2317,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Suporte-horizontal-barra.jpg?v=1742999987",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Suporte-horizontal-completo.jpg?v=1742999987"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/83845fc30b594b96a4169d4930aa675d.mp4",
     "specs": {
       "Material": "Plástico de engenharia de alta densidade",
       "Comprimento/Medida": "40 CM"
@@ -2360,7 +2360,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_8_2026-01-13_12-25-08.jpg?v=1768317978",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_9_2026-01-13_12-25-08.jpg?v=1768317978"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/d64300038abb454586b178602fb6bc56.mp4",
     "specs": {
       "Material": "Borracha premium",
       "Comprimento/Medida": "1,40M"
@@ -2565,7 +2565,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Porta-pernada-compacto-violeta.jpg?v=1752163808",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Porta-pernada-compacto-preto_2.jpg?v=1755784367"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/8c1dce1ee39c4882b74c80088adc3b80.mp4",
     "specs": {}
   },
   {
@@ -2582,7 +2582,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-03.jpg?v=1732619441",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-02.jpg?v=1732619442"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/642cf361fcbd4a02b6534dabee598d73.mp4",
     "specs": {
       "Material": "Borracha premium"
     }
@@ -2865,7 +2865,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/completo-05_56905fe3-508c-49bb-b5da-bf44a8f539da.png?v=1768318068",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calao.png?v=1768318068"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/f048e0960ef04c0da3f8fd8af9ab1fe5.mp4",
     "specs": {
       "Material": "Borracha premium"
     }
@@ -2882,7 +2882,7 @@ window.PRODUCTS = [
     "images": [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/clip_vara.jpg?v=1783709607"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/65504d14f2124362b073af64022aad77.mov",
     "specs": {
       "Material": "Borracha premium"
     }
@@ -2986,7 +2986,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Destorcedor-15mm-frente_cdef0adb-af66-48d7-9cba-d566d20e1d64.jpg?v=1725025037",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Destorcedor-25mm-frente_d004420e-131f-4f4c-a953-bb0e8385bdaa.jpg?v=1725025037"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/f24631a07cd749d8ab917d74fb026519.mp4",
     "specs": {
       "Material": "Aço Inox"
     }
@@ -3039,7 +3039,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/destorcedor-triplo-28mm_79eab599-5db1-4d34-9966-3cb67d55f179.png?v=1725025061",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/destorcedor-triplo-33mm_2c02312c-5551-4f54-a261-576b699bf92d.png?v=1725025061"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/f24631a07cd749d8ab917d74fb026519.mp4",
     "specs": {}
   },
   {
@@ -3138,7 +3138,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/snap-mais-cobre-no-translucido.png?v=1725025851",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/snap-mais-cobre-no-verde.png?v=1725025851"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/e220ef678b4d4911aebc364a2e5fe0e7.mp4",
     "specs": {}
   },
   {
@@ -3321,7 +3321,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/05.png?v=1725026360",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/06.png?v=1725026360"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/46bcc152bdd645929cb9df7722646899.mp4",
     "specs": {
       "Material": "Plástico de engenharia de alta densidade",
       "Aplicação": "Pesca esportiva e de competição"
@@ -3365,7 +3365,7 @@ window.PRODUCTS = [
     "images": [
       "assets/images/tela-vermelha-a2d4f4df.jpg"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/9a7fd88adf6f474e92746620abdf847c.mp4",
     "specs": {}
   },
   {
@@ -3482,7 +3482,7 @@ window.PRODUCTS = [
     "images": [
       "assets/images/calca-corta-vento-esporte-preta-545adbbf.png"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
     "specs": {}
   },
   {
@@ -3533,7 +3533,7 @@ window.PRODUCTS = [
     "images": [
       "assets/images/calca-elastica-comfort-verde-d9d9f7c1.png"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/afcba22e8161455985558453fe7ca258.mp4",
     "specs": {}
   },
   {
@@ -3582,7 +3582,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-Vento.png?v=1725024809",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_2024-05-17_10-18-31_e8372812-e178-46e9-9421-0f3604b60daf.jpg?v=1725024809"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
     "specs": {}
   },
   {
@@ -3643,7 +3643,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-Vento.png?v=1725024809",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_2024-05-17_10-18-31_e8372812-e178-46e9-9421-0f3604b60daf.jpg?v=1725024809"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
     "specs": {}
   },
   {
@@ -3682,7 +3682,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-Vento.png?v=1725024809",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_2024-05-17_10-18-31_e8372812-e178-46e9-9421-0f3604b60daf.jpg?v=1725024809"
     ],
-    "video": "",
+    "video": "https://cdn.shopify.com/videos/c/o/v/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
     "specs": {}
   }
 ];
