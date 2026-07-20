@@ -171,7 +171,10 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
     "specs": {
-      "Conteúdo": "1 Unidade"
+      "Material": "EVA Floating de altíssima flutuabilidade",
+      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
+      "Indicação": "Pesca de praia (surfcasting), costão e montagens com iscas naturais",
+      "Função": "Elevar a isca da areia, aumentar o movimento natural e expor melhor o anzol"
     },
     "section": "Lançamentos",
     "vars": [
