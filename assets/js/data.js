@@ -9,126 +9,6 @@ window.CONFIG = {
 
 window.PRODUCTS = [
   {
-    "id": 1,
-    "slug": "linha-multi-verax-4x-300m",
-    "section": "Lançamentos",
-    "category": "Montagem",
-    "name": "Linha Multi Verax 4X 300m",
-    "price": "a partir de R$ 79,91",
-    "img": "assets/img/shopify/pesca-12.jpg",
-    "link": "https://chumbadas.com.br/products/linha-de-pesca?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "featured": true,
-    "vars": [
-      [
-        "0.5# (0,121mm) - 2kg",
-        "R$ 115,88"
-      ],
-      [
-        "1# (0,171mm) - 2,3kg",
-        "R$ 79,91"
-      ],
-      [
-        "1.2# (0,191mm) - 2,8kg",
-        "R$ 79,91"
-      ],
-      [
-        "1.5# (0,209mm) - 3,5kg",
-        "R$ 79,91"
-      ],
-      [
-        "2# (0,242mm) - 4kg",
-        "R$ 79,91"
-      ],
-      [
-        "3# (0,296mm) - 4,5kg",
-        "R$ 79,91"
-      ],
-      [
-        "3.5# (0,316mm) - 5,5kg",
-        "R$ 79,91"
-      ],
-      [
-        "4.5# (0,358mm) - 6kg",
-        "R$ 79,91"
-      ],
-      [
-        "5# (0,382mm) - 7,5kg",
-        "R$ 79,91"
-      ],
-      [
-        "6# (0,418mm) - 8kg",
-        "R$ 79,91"
-      ],
-      [
-        "8# (0,483mm) - 9kg",
-        "R$ 79,91"
-      ],
-      [
-        "9# (0,520mm) - 11kg",
-        "R$ 79,91"
-      ],
-      [
-        "10# (0,540mm) - 13kg",
-        "R$ 79,91"
-      ],
-      [
-        "12# (0,620mm) - 16kg",
-        "R$ 79,91"
-      ]
-    ],
-    "description": "<p>Linha de Multifilamento 4X – 300 metros | Chumbada Oficial</p>\n<p>Chegou a linha que fala a verdade.<br>A Verax 4X 300 m da Chumbada Oficial não é só mais uma multifilamento — é um novo padrão no mercado.</p>\n<p>Desenvolvida com alta tecnologia e testada por mais de 1 ano em condições reais de pesca, essa linha entrega o que promete: resistência de verdade e especificações honestas.</p>\n<p>O grande diferencial está no nome Verax — do latim, verdade, sinceridade.<br>Enquanto muitas marcas “maquiam” diâmetro e resistência, a Chumbada Oficial fez o caminho mais difícil: mostrar a realidade.</p>\n<p>👉 Espessura real<br>👉 Capacidade de tração real<br>👉 Sem exagero, sem enganação</p>\n<p>Compare com qualquer outra linha do mercado.<br>Meça. Teste. Coloque lado a lado.<br>Você vai perceber: a Verax entrega exatamente o que está na embalagem.</p>\n<p>Além da transparência, você leva uma linha:<br>✔ 4 fios de alta resistência<br>✔ Excelente sensibilidade<br>✔ Ótima performance de arremesso<br>✔ Baixa memória<br>✔ Alta durabilidade</p>\n<p>Se você busca performance, pode até encontrar várias opções.<br>Mas se você busca performance com verdade, a escolha é uma só.</p>\n<p>Chumbada Oficial – aqui a pesca é levada a sério. 🎣</p>\n<p>#ChumbadaOficial #LinhaVerax #Multifilamento #PescaEsportiva #Ajing #Ultralight #PescaDePraia #PescaBrasil #FishingLife #GearDePesca #PesqueESolte</p>",
-    "images": [
-      "assets/img/shopify/pesca-12.jpg",
-      "assets/img/shopify/pesca-11.jpg",
-      "assets/img/shopify/pesca-59.jpg",
-      "assets/img/shopify/pesca-62.jpg",
-      "assets/img/shopify/1_7e7f6ca2-e9fa-4fd2-a353-bd87ca20f9f0.jpg",
-      "assets/img/shopify/1_2.jpg",
-      "assets/img/shopify/1_5.jpg",
-      "assets/img/shopify/2_b6ee5156-7837-4a57-81f6-6099366220f0.jpg",
-      "assets/img/shopify/3.jpg",
-      "assets/img/shopify/3_5.jpg",
-      "assets/img/shopify/4_5.jpg",
-      "assets/img/shopify/5.jpg",
-      "assets/img/shopify/6_745b4c8c-ff0f-4ba3-9ce3-1fd17fdc3882.jpg",
-      "assets/img/shopify/8.jpg",
-      "assets/img/shopify/9.jpg",
-      "assets/img/shopify/10.jpg",
-      "assets/img/shopify/12.jpg",
-      "assets/img/shopify/linhaajing.jpg",
-      "assets/img/shopify/costas_b4940be1-8a74-414c-9903-c3be25aa3daf.jpg"
-    ],
-    "video": "",
-    "specs": {
-      "Comprimento/Medida": "300 METROS",
-      "Material": "Fibras de Polietileno (PE) trançadas",
-      "Quantidade de Fios": "4 Fios (4X)",
-      "Comprimento": "300 Metros",
-      "Origem": "Importado"
-    }
-  },
-  {
-    "id": 64,
-    "slug": "clip-vara-com-fita-dupla-face",
-    "category": "Suportes",
-    "name": "Clip Vara (com fita dupla face)",
-    "price": "R$ 4,45",
-    "img": "assets/img/shopify/clip_vara.jpg",
-    "link": "#",
-    "description": "<p><span data-sheets-root=\"1\">O Clip Vara é um acessório de borracha versátil, compacto e muito prático, desenvolvido para apoiar varas de pesca com mais segurança e sem risco de danos.<br><br>Possui fita dupla face de alta resistência na parte traseira, permitindo a fixação em paredes, embarcações, bancadas ou outros locais estratégicos.<br><br>Por ser fabricado em borracha, o Clip Vara protege melhor o equipamento, evitando riscos e oferecendo um apoio firme para uma ou mais varas.<br><br>Existem diversas formas de utilização: pode ser usado individualmente para manter a vara apoiada no chão, ou em pares, fixados lateralmente, para deixar a vara na posição horizontal. Também é uma excelente opção para embarcações, auxiliando no apoio da vara durante a navegação.<br><br>Clip Vara Chumbada Oficial: praticidade, proteção e organização para suas varas de pesca.<br></span></p>",
-    "images": [
-      "assets/img/shopify/clip_vara.jpg"
-    ],
-    "video": "assets/video/shopify/65504d14f2124362b073af64022aad77.mov",
-    "specs": {
-      "Material": "Borracha flexível de alta qualidade",
-      "Conteúdo": "1 Clip Vara e Fita Dupla Face 3M de alta aderência",
-      "Fixação": "Adesiva (Paredes, barcos, caiaques, bancadas)",
-      "Indicação": "Organização e apoio seguro para varas de pesca (evita riscos)"
-    },
-    "section": "Lançamentos"
-  },
-  {
     "id": 7,
     "slug": "kit-atrativo-conico-85mm-5-filetes-com-10-unidades",
     "category": "Atrativos",
@@ -241,6 +121,126 @@ window.PRODUCTS = [
     }
   },
   {
+    "id": 64,
+    "slug": "clip-vara-com-fita-dupla-face",
+    "category": "Suportes",
+    "name": "Clip Vara (com fita dupla face)",
+    "price": "R$ 4,45",
+    "img": "assets/img/shopify/clip_vara.jpg",
+    "link": "#",
+    "description": "<p><span data-sheets-root=\"1\">O Clip Vara é um acessório de borracha versátil, compacto e muito prático, desenvolvido para apoiar varas de pesca com mais segurança e sem risco de danos.<br><br>Possui fita dupla face de alta resistência na parte traseira, permitindo a fixação em paredes, embarcações, bancadas ou outros locais estratégicos.<br><br>Por ser fabricado em borracha, o Clip Vara protege melhor o equipamento, evitando riscos e oferecendo um apoio firme para uma ou mais varas.<br><br>Existem diversas formas de utilização: pode ser usado individualmente para manter a vara apoiada no chão, ou em pares, fixados lateralmente, para deixar a vara na posição horizontal. Também é uma excelente opção para embarcações, auxiliando no apoio da vara durante a navegação.<br><br>Clip Vara Chumbada Oficial: praticidade, proteção e organização para suas varas de pesca.<br></span></p>",
+    "images": [
+      "assets/img/shopify/clip_vara.jpg"
+    ],
+    "video": "assets/video/shopify/65504d14f2124362b073af64022aad77.mov",
+    "specs": {
+      "Material": "Borracha flexível de alta qualidade",
+      "Conteúdo": "1 Clip Vara e Fita Dupla Face 3M de alta aderência",
+      "Fixação": "Adesiva (Paredes, barcos, caiaques, bancadas)",
+      "Indicação": "Organização e apoio seguro para varas de pesca (evita riscos)"
+    },
+    "section": "Lançamentos"
+  },
+  {
+    "id": 1,
+    "slug": "linha-multi-verax-4x-300m",
+    "section": "Lançamentos",
+    "category": "Acessórios",
+    "name": "Linha Multi Verax 4X 300m",
+    "price": "a partir de R$ 79,91",
+    "img": "assets/img/shopify/pesca-12.jpg",
+    "link": "https://chumbadas.com.br/products/linha-de-pesca?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "featured": true,
+    "vars": [
+      [
+        "0.5# (0,121mm) - 2kg",
+        "R$ 115,88"
+      ],
+      [
+        "1# (0,171mm) - 2,3kg",
+        "R$ 79,91"
+      ],
+      [
+        "1.2# (0,191mm) - 2,8kg",
+        "R$ 79,91"
+      ],
+      [
+        "1.5# (0,209mm) - 3,5kg",
+        "R$ 79,91"
+      ],
+      [
+        "2# (0,242mm) - 4kg",
+        "R$ 79,91"
+      ],
+      [
+        "3# (0,296mm) - 4,5kg",
+        "R$ 79,91"
+      ],
+      [
+        "3.5# (0,316mm) - 5,5kg",
+        "R$ 79,91"
+      ],
+      [
+        "4.5# (0,358mm) - 6kg",
+        "R$ 79,91"
+      ],
+      [
+        "5# (0,382mm) - 7,5kg",
+        "R$ 79,91"
+      ],
+      [
+        "6# (0,418mm) - 8kg",
+        "R$ 79,91"
+      ],
+      [
+        "8# (0,483mm) - 9kg",
+        "R$ 79,91"
+      ],
+      [
+        "9# (0,520mm) - 11kg",
+        "R$ 79,91"
+      ],
+      [
+        "10# (0,540mm) - 13kg",
+        "R$ 79,91"
+      ],
+      [
+        "12# (0,620mm) - 16kg",
+        "R$ 79,91"
+      ]
+    ],
+    "description": "<p>Linha de Multifilamento 4X – 300 metros | Chumbada Oficial</p>\n<p>Chegou a linha que fala a verdade.<br>A Verax 4X 300 m da Chumbada Oficial não é só mais uma multifilamento — é um novo padrão no mercado.</p>\n<p>Desenvolvida com alta tecnologia e testada por mais de 1 ano em condições reais de pesca, essa linha entrega o que promete: resistência de verdade e especificações honestas.</p>\n<p>O grande diferencial está no nome Verax — do latim, verdade, sinceridade.<br>Enquanto muitas marcas “maquiam” diâmetro e resistência, a Chumbada Oficial fez o caminho mais difícil: mostrar a realidade.</p>\n<p>👉 Espessura real<br>👉 Capacidade de tração real<br>👉 Sem exagero, sem enganação</p>\n<p>Compare com qualquer outra linha do mercado.<br>Meça. Teste. Coloque lado a lado.<br>Você vai perceber: a Verax entrega exatamente o que está na embalagem.</p>\n<p>Além da transparência, você leva uma linha:<br>✔ 4 fios de alta resistência<br>✔ Excelente sensibilidade<br>✔ Ótima performance de arremesso<br>✔ Baixa memória<br>✔ Alta durabilidade</p>\n<p>Se você busca performance, pode até encontrar várias opções.<br>Mas se você busca performance com verdade, a escolha é uma só.</p>\n<p>Chumbada Oficial – aqui a pesca é levada a sério. 🎣</p>\n<p>#ChumbadaOficial #LinhaVerax #Multifilamento #PescaEsportiva #Ajing #Ultralight #PescaDePraia #PescaBrasil #FishingLife #GearDePesca #PesqueESolte</p>",
+    "images": [
+      "assets/img/shopify/pesca-12.jpg",
+      "assets/img/shopify/pesca-11.jpg",
+      "assets/img/shopify/pesca-59.jpg",
+      "assets/img/shopify/pesca-62.jpg",
+      "assets/img/shopify/1_7e7f6ca2-e9fa-4fd2-a353-bd87ca20f9f0.jpg",
+      "assets/img/shopify/1_2.jpg",
+      "assets/img/shopify/1_5.jpg",
+      "assets/img/shopify/2_b6ee5156-7837-4a57-81f6-6099366220f0.jpg",
+      "assets/img/shopify/3.jpg",
+      "assets/img/shopify/3_5.jpg",
+      "assets/img/shopify/4_5.jpg",
+      "assets/img/shopify/5.jpg",
+      "assets/img/shopify/6_745b4c8c-ff0f-4ba3-9ce3-1fd17fdc3882.jpg",
+      "assets/img/shopify/8.jpg",
+      "assets/img/shopify/9.jpg",
+      "assets/img/shopify/10.jpg",
+      "assets/img/shopify/12.jpg",
+      "assets/img/shopify/linhaajing.jpg",
+      "assets/img/shopify/costas_b4940be1-8a74-414c-9903-c3be25aa3daf.jpg"
+    ],
+    "video": "",
+    "specs": {
+      "Comprimento/Medida": "300 METROS",
+      "Material": "Fibras de Polietileno (PE) trançadas",
+      "Quantidade de Fios": "4 Fios (4X)",
+      "Comprimento": "300 Metros",
+      "Origem": "Importado"
+    }
+  },
+  {
     "id": 61,
     "slug": "mini-secretaria",
     "category": "Acessórios",
@@ -298,419 +298,6 @@ window.PRODUCTS = [
       "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini-secretaria_branca.png?v=1782150309",
       "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini-secretaria.png?v=1782150309"
     }
-  },
-  {
-    "id": 3,
-    "slug": "atrativo-comum",
-    "category": "Atrativos",
-    "name": "Atrativo Comum",
-    "price": "R$ 5,80",
-    "img": "assets/img/shopify/cap-atrativo.png",
-    "link": "https://chumbadas.com.br/products/kit-atrativo-comum-5mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades",
-        ""
-      ]
-    ],
-    "swatches": [
-      [
-        "Amarelo",
-        "#facc15"
-      ],
-      [
-        "Amarelo Limão",
-        "#d9f99d"
-      ],
-      [
-        "Azul Claro",
-        "#38bdf8"
-      ],
-      [
-        "Azul Escuro",
-        "#1e3a8a"
-      ],
-      [
-        "Branco",
-        "#ffffff"
-      ],
-      [
-        "Laranja Neon",
-        "url(assets/images/cores/laranja-Neon.png)"
-      ],
-      [
-        "Marrom Claro",
-        "#d97706"
-      ],
-      [
-        "Marrom Escuro",
-        "#451a03"
-      ],
-      [
-        "Preto",
-        "#111827"
-      ],
-      [
-        "Rosa Fluorescente",
-        "#f472b6"
-      ],
-      [
-        "Translúcido",
-        "rgba(255,255,255,0.4)"
-      ],
-      [
-        "Uva",
-        "#7c3aed"
-      ],
-      [
-        "Verde Musgo",
-        "#4d7c0f"
-      ],
-      [
-        "Vermelho",
-        "#dc2626"
-      ]
-    ],
-    "description": "Atrativo para Pesca 5 mm<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">O Atrativo para pesca é o acessório essencial para os pescadores que buscam maximizar sua captura e tornar a pesca ainda mais emocionante. Cada saquinho contém 5 filetes de atrativos, e o melhor de tudo é que cada filete pode ser facilmente cortado em até 10 pequenos atrativos individuais, garantindo uma longa duração e economia, totalizando 50 pequenas bolinhas de atrativo. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">A principal função do Atrativo para Pesca é deixar a isca extremamente atrativa para os peixes tanto pela cor como pelo movimento. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Além disso, o Atrativo para pesca tem uma característica inovadora. Dependendo do tamanho do anzol e da quantidade de atrativos usados simultaneamente, ele pode proporcionar flutuabilidade à isca. Isso significa que você pode ajustar a quantidade de atrativos conforme sua preferência e o tipo de peixe que deseja atrair. Experimente diferentes combinações para alcançar resultados surpreendentes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Outra vantagem incrível do Atrativo para pesca é sua capacidade de manter a isca na posição ideal. Muitas vezes, iscas afundam e acabam escondidas na areia, o que reduz a visibilidade para os peixes e diminui suas chances de sucesso na pesca. Com o Atrativo para pesca, você não precisa se preocupar com isso, pois ele ajuda a manter a isca flutuando sempre à vista dos peixes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Destacar os atrativos é simples e prático, podendo ser facilmente feito à mão. Dessa forma, você pode ajustar o tamanho do atrativo de acordo com suas preferências e necessidades específicas para cada pescaria.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Principais recursos do Atrativo para pesca:<br data-mce-fragment=\"1\">- Atrativo altamente eficaz para diversas espécies de peixes;<br data-mce-fragment=\"1\">- Possibilidade de cortar até 10 atrativos por filete;<br data-mce-fragment=\"1\">- Ajuda a isca a flutuar, dependendo do tamanho do anzol e da quantidade de atrativos usados;<br data-mce-fragment=\"1\">- Evita que a isca afunde e fique escondida na areia;<br data-mce-fragment=\"1\">- Fácil de destacar e ajustar o tamanho dos atrativos.",
-    "images": [
-      "assets/img/shopify/cap-atrativo.png",
-      "assets/img/shopify/capa-atrativo-holografico.png",
-      "assets/img/shopify/capim-ruby.png",
-      "assets/img/shopify/capim-ruby-emba.png",
-      "assets/img/shopify/vermelho-holografico.png",
-      "assets/img/shopify/vermelho-holografico-emba.png",
-      "assets/img/shopify/ruby-dourado.png",
-      "assets/img/shopify/ruby-dourado-emba.png",
-      "assets/img/shopify/cha.png",
-      "assets/img/shopify/roxo-estrelar.png",
-      "assets/img/shopify/vel-da-noite.png",
-      "assets/img/shopify/atrativo-rapadura.png",
-      "assets/img/shopify/Pastel.jpg",
-      "assets/img/shopify/medida_atrativo.jpg"
-    ],
-    "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {
-      "Material": "EVA Floating macio e flexível",
-      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
-      "Função": "Flutuabilidade da isca, atração visual por cor/movimento e exposição do anzol",
-      "Indicação": "Montagem de chicotes para pesca de praia (surfcasting) e costão"
-    },
-    "section": "Atrativos"
-  },
-  {
-    "id": 4,
-    "slug": "atrativo-holografico",
-    "category": "Atrativos",
-    "name": "Atrativo Holográfico",
-    "price": "R$ 5,80",
-    "img": "assets/img/shopify/capa-atrativo-holografico.png",
-    "link": "https://chumbadas.com.br/products/kit-atrativo-holografico-5mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "Beijo da Sombra",
-        "R$ 5,80"
-      ],
-      [
-        "Capim Rubi",
-        "R$ 5,80"
-      ],
-      [
-        "Chá",
-        "R$ 5,80"
-      ],
-      [
-        "Luz Laranja",
-        "R$ 5,80"
-      ],
-      [
-        "Roxo Estelar",
-        "R$ 5,80"
-      ],
-      [
-        "Rubi Dourado",
-        "R$ 5,80"
-      ],
-      [
-        "Salmão Radiante",
-        "R$ 5,80"
-      ],
-      [
-        "Verde Cósmico",
-        "R$ 5,80"
-      ],
-      [
-        "Vermelho Holográfico",
-        "R$ 5,80"
-      ],
-      [
-        "Véu da Noite",
-        "R$ 5,80"
-      ]
-    ],
-    "swatches": [
-      [
-        "Beijo da Sombra",
-        "url(assets/img/shopify/holografico-beijo-da-sombra.jpg) center/cover"
-      ],
-      [
-        "Capim Rubi",
-        "url(assets/img/shopify/holografico-capim-rubi.jpg) center/cover"
-      ],
-      [
-        "Chá",
-        "url(assets/img/shopify/holografico-chá---pastel.jpg) center/cover"
-      ],
-      [
-        "Luz Laranja",
-        "url(assets/img/shopify/holografico-luz-laranja.jpg) center/cover"
-      ],
-      [
-        "Roxo Estelar",
-        "url(assets/img/shopify/holografico-roxo-estrelnar.jpg) center/cover"
-      ],
-      [
-        "Rubi Dourado",
-        "url(assets/img/shopify/holografico-rubi-dourado.jpg) center/cover"
-      ],
-      [
-        "Salmão Radiante",
-        "url(assets/img/shopify/holografico-salmão-radiante.jpg) center/cover"
-      ],
-      [
-        "Verde Cósmico",
-        "url(assets/img/shopify/holografico-verde-cósmico.jpg) center/cover"
-      ],
-      [
-        "Vermelho Holográfico",
-        "url(assets/img/shopify/holografico-vermelho-holográfico.jpg) center/cover"
-      ],
-      [
-        "Véu da Noite",
-        "url(assets/img/shopify/holografico-véu-da-noite.jpg) center/cover"
-      ]
-    ],
-    "description": "Atrativo para Pesca 5 mm<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">O Atrativo para pesca é o acessório essencial para os pescadores que buscam maximizar sua captura e tornar a pesca ainda mais emocionante. Cada saquinho contém 5 filetes de atrativos, e o melhor de tudo é que cada filete pode ser facilmente cortado em até 10 pequenos atrativos individuais, garantindo uma longa duração e economia, totalizando 50 pequenas bolinhas de atrativo. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">A principal função do Atrativo para Pesca é deixar a isca extremamente atrativa para os peixes tanto pela cor como pelo movimento. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Além disso, o Atrativo para pesca tem uma característica inovadora. Dependendo do tamanho do anzol e da quantidade de atrativos usados simultaneamente, ele pode proporcionar flutuabilidade à isca. Isso significa que você pode ajustar a quantidade de atrativos conforme sua preferência e o tipo de peixe que deseja atrair. Experimente diferentes combinações para alcançar resultados surpreendentes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Outra vantagem incrível do Atrativo para pesca é sua capacidade de manter a isca na posição ideal. Muitas vezes, iscas afundam e acabam escondidas na areia, o que reduz a visibilidade para os peixes e diminui suas chances de sucesso na pesca. Com o Atrativo para pesca, você não precisa se preocupar com isso, pois ele ajuda a manter a isca flutuando sempre à vista dos peixes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Destacar os atrativos é simples e prático, podendo ser facilmente feito à mão. Dessa forma, você pode ajustar o tamanho do atrativo de acordo com suas preferências e necessidades específicas para cada pescaria.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Principais recursos do Atrativo para pesca:<br data-mce-fragment=\"1\">- Atrativo altamente eficaz para diversas espécies de peixes;<br data-mce-fragment=\"1\">- Possibilidade de cortar até 10 atrativos por filete;<br data-mce-fragment=\"1\">- Ajuda a isca a flutuar, dependendo do tamanho do anzol e da quantidade de atrativos usados;<br data-mce-fragment=\"1\">- Evita que a isca afunde e fique escondida na areia;<br data-mce-fragment=\"1\">- Fácil de destacar e ajustar o tamanho dos atrativos.",
-    "images": [
-      "assets/img/shopify/capa-atrativo-holografico.png",
-      "assets/img/shopify/holografico-beijo-da-sombra.jpg",
-      "assets/img/shopify/holografico-capim-rubi.jpg",
-      "assets/img/shopify/holografico-chá---pastel.jpg",
-      "assets/img/shopify/holografico-luz-laranja.jpg",
-      "assets/img/shopify/holografico-roxo-estrelnar.jpg",
-      "assets/img/shopify/holografico-rubi-dourado.jpg",
-      "assets/img/shopify/holografico-salmão-radiante.jpg",
-      "assets/img/shopify/holografico-verde-cósmico.jpg",
-      "assets/img/shopify/holografico-vermelho-holográfico.jpg",
-      "assets/img/shopify/holografico-véu-da-noite.jpg"
-    ],
-    "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {
-      "Material": "EVA Floating macio e flexível com brilho holográfico",
-      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
-      "Função": "Flutuabilidade da isca, atração visual por cor/movimento e exposição do anzol",
-      "Indicação": "Montagem de chicotes para pesca de praia (surfcasting) e costão"
-    },
-    "section": "Atrativos"
-  },
-  {
-    "id": 5,
-    "slug": "mini-atrativo-comum",
-    "category": "Atrativos",
-    "name": "Mini Atrativo Comum",
-    "price": "R$ 4,90",
-    "img": "assets/images/mini-atrativo-comum-amarelo-e99da884.jpg",
-    "link": "https://chumbadas.com.br/products/kit-mini-atrativo-comum?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades",
-        ""
-      ]
-    ],
-    "swatches": [
-      [
-        "Amarelo",
-        "#facc15"
-      ],
-      [
-        "Amarelo Limão",
-        "#d9f99d"
-      ],
-      [
-        "Azul Claro",
-        "#38bdf8"
-      ],
-      [
-        "Branco",
-        "#ffffff"
-      ],
-      [
-        "Azul Escuro",
-        "#1e3a8a"
-      ],
-      [
-        "Laranja Neon",
-        "url(assets/images/cores/laranja-Neon.png)"
-      ],
-      [
-        "Marrom Claro",
-        "#d97706"
-      ],
-      [
-        "Marrom Escuro",
-        "#451a03"
-      ],
-      [
-        "Preto",
-        "#111827"
-      ],
-      [
-        "Rosa Fluorescente",
-        "#f472b6"
-      ],
-      [
-        "Translúcido",
-        "rgba(255,255,255,0.4)"
-      ],
-      [
-        "Uva",
-        "#7c3aed"
-      ],
-      [
-        "Verde Musgo",
-        "#4d7c0f"
-      ],
-      [
-        "Vermelho",
-        "#dc2626"
-      ]
-    ],
-    "description": "Os atrativos da Chumbada Oficial são referências no mercado pelo alto apelo visual e durabilidade na água. Fabricados com pigmentação brilhante e reflexos holográficos de alta qualidade, garantem destaque extra para suas montagens e iscas, aumentando significativamente a taxa de capturas.",
-    "images": [
-      "assets/images/mini-atrativo-comum-amarelo-e99da884.jpg"
-    ],
-    "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {
-      "Material": "EVA Floating macio e flexível",
-      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
-      "Função": "Flutuabilidade da isca, atração visual por cor/movimento e exposição do anzol",
-      "Indicação": "Montagem de chicotes para pesca de praia (surfcasting) e costão"
-    },
-    "section": "Atrativos"
-  },
-  {
-    "id": 6,
-    "slug": "mini-atrativo-holografico",
-    "category": "Atrativos",
-    "name": "Mini Atrativo Holográfico",
-    "price": "R$ 4,90",
-    "img": "assets/img/shopify/capa-atrativo-holografico.png",
-    "link": "https://chumbadas.com.br/products/kit-mini-atrativo-holografico?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "Beijo da Sombra",
-        "R$ 4,90"
-      ],
-      [
-        "Capim Rubi",
-        "R$ 4,90"
-      ],
-      [
-        "Chá",
-        "R$ 4,90"
-      ],
-      [
-        "Luz Laranja",
-        "R$ 4,90"
-      ],
-      [
-        "Roxo Estelar",
-        "R$ 4,90"
-      ],
-      [
-        "Rubi Dourado",
-        "R$ 4,90"
-      ],
-      [
-        "Salmão Radiante",
-        "R$ 4,90"
-      ],
-      [
-        "Verde Cósmico",
-        "R$ 4,90"
-      ],
-      [
-        "Vermelho Holográfico",
-        "R$ 4,90"
-      ],
-      [
-        "Véu da Noite",
-        "R$ 4,90"
-      ]
-    ],
-    "swatches": [
-      [
-        "Beijo da Sombra",
-        "url(assets/img/shopify/holografico-beijo-da-sombra.jpg) center/cover"
-      ],
-      [
-        "Capim Rubi",
-        "url(assets/img/shopify/holografico-capim-rubi.jpg) center/cover"
-      ],
-      [
-        "Chá",
-        "url(assets/img/shopify/holografico-chá---pastel.jpg) center/cover"
-      ],
-      [
-        "Luz Laranja",
-        "url(assets/img/shopify/holografico-luz-laranja.jpg) center/cover"
-      ],
-      [
-        "Roxo Estelar",
-        "url(assets/img/shopify/holografico-roxo-estrelnar.jpg) center/cover"
-      ],
-      [
-        "Rubi Dourado",
-        "url(assets/img/shopify/holografico-rubi-dourado.jpg) center/cover"
-      ],
-      [
-        "Salmão Radiante",
-        "url(assets/img/shopify/holografico-salmão-radiante.jpg) center/cover"
-      ],
-      [
-        "Verde Cósmico",
-        "url(assets/img/shopify/holografico-verde-cósmico.jpg) center/cover"
-      ],
-      [
-        "Vermelho Holográfico",
-        "url(assets/img/shopify/holografico-vermelho-holográfico.jpg) center/cover"
-      ],
-      [
-        "Véu da Noite",
-        "url(assets/img/shopify/holografico-véu-da-noite.jpg) center/cover"
-      ]
-    ],
-    "description": "Atrativo para Pesca 5 mm<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">O Atrativo para pesca é o acessório essencial para os pescadores que buscam maximizar sua captura e tornar a pesca ainda mais emocionante. Cada saquinho contém 5 filetes de atrativos, e o melhor de tudo é que cada filete pode ser facilmente cortado em até 10 pequenos atrativos individuais, garantindo uma longa duração e economia, totalizando 50 pequenas bolinhas de atrativo. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">A principal função do Atrativo para Pesca é deixar a isca extremamente atrativa para os peixes tanto pela cor como pelo movimento. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Além disso, o Atrativo para pesca tem uma característica inovadora. Dependendo do tamanho do anzol e da quantidade de atrativos usados simultaneamente, ele pode proporcionar flutuabilidade à isca. Isso significa que você pode ajustar a quantidade de atrativos conforme sua preferência e o tipo de peixe que deseja atrair. Experimente diferentes combinações para alcançar resultados surpreendentes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Outra vantagem incrível do Atrativo para pesca é sua capacidade de manter a isca na posição ideal. Muitas vezes, iscas afundam e acabam escondidas na areia, o que reduz a visibilidade para os peixes e diminui suas chances de sucesso na pesca. Com o Atrativo para pesca, você não precisa se preocupar com isso, pois ele ajuda a manter a isca flutuando sempre à vista dos peixes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Destacar os atrativos é simples e prático, podendo ser facilmente feito à mão. Dessa forma, você pode ajustar o tamanho do atrativo de acordo com suas preferências e necessidades específicas para cada pescaria.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Principais recursos do Atrativo para pesca:<br data-mce-fragment=\"1\">- Atrativo altamente eficaz para diversas espécies de peixes;<br data-mce-fragment=\"1\">- Possibilidade de cortar até 10 atrativos por filete;<br data-mce-fragment=\"1\">- Ajuda a isca a flutuar, dependendo do tamanho do anzol e da quantidade de atrativos usados;<br data-mce-fragment=\"1\">- Evita que a isca afunde e fique escondida na areia;<br data-mce-fragment=\"1\">- Fácil de destacar e ajustar o tamanho dos atrativos.",
-    "images": [
-      "assets/img/shopify/capa-atrativo-holografico.png",
-      "assets/img/shopify/holografico-beijo-da-sombra.jpg",
-      "assets/img/shopify/holografico-capim-rubi.jpg",
-      "assets/img/shopify/holografico-chá---pastel.jpg",
-      "assets/img/shopify/holografico-luz-laranja.jpg",
-      "assets/img/shopify/holografico-roxo-estrelnar.jpg",
-      "assets/img/shopify/holografico-rubi-dourado.jpg",
-      "assets/img/shopify/holografico-salmão-radiante.jpg",
-      "assets/img/shopify/holografico-verde-cósmico.jpg",
-      "assets/img/shopify/holografico-vermelho-holográfico.jpg",
-      "assets/img/shopify/holografico-véu-da-noite.jpg"
-    ],
-    "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {
-      "Material": "EVA Floating macio e flexível com brilho holográfico",
-      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
-      "Função": "Flutuabilidade da isca, atração visual por cor/movimento e exposição do anzol",
-      "Indicação": "Montagem de chicotes para pesca de praia (surfcasting) e costão"
-    },
-    "section": "Atrativos"
   },
   {
     "id": 36,
@@ -1299,54 +886,559 @@ window.PRODUCTS = [
     "section": "Montagem"
   },
   {
-    "id": 34,
-    "slug": "regua-cantoneira",
-    "category": "Medição",
-    "name": "Régua Cantoneira",
-    "price": "a partir de R$ 16,79",
-    "img": "assets/img/shopify/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png",
-    "link": "https://chumbadas.com.br/products/regua-cantoneira?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "50cm",
-        "R$ 16,79"
-      ],
-      [
-        "100cm",
-        "R$ 24,75"
-      ]
-    ],
-    "description": "Régua a prova d'agua com 15cm de largura, as medidas são extremamente precisas e aferidas individualmente.<br data-mce-fragment=\"1\">Cantoneira desenvolvida especialmente para essa finalidade, resistente, cantos arredondados e espessuras com raio para não ter problema no transporte, cola especial, a mesma não desgruda nem em contato com a água.",
+    "id": 730,
+    "slug": "chicotes-montados-3-unidades",
+    "category": "Montagem",
+    "name": "Chicotes Montados (3 unidades)",
+    "price": "a partir de R$ 28,60",
+    "img": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/fundo-capa.webp?v=1737636375",
+    "link": "https://chumbadas.com.br/collections/chicotes-montados",
+    "description": "<p>Chicotes montados prontos para uso, fabricados com linhas de excelente qualidade e equipados com rotores de engate rápido com stopper.</p><ul><li><b>Beira:</b> Ideal para pesca abaixo de 40m. Linha vermelha 0.32mm.</li><li><b>Meia Água:</b> Ideal para pesca entre 40m e 100m. Linha vermelha 0.42mm.</li><li><b>Fundo:</b> Ideal para pesca acima de 100m. Linha vermelha 0.62mm.</li><li><b>Finesse:</b> Desenvolvido para capturas sutis com rotor micro V.</li></ul>",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png?v=1725025582",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-aberta.png?v=1725025585",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-50cm.png?v=1725025585",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-100cm.png?v=1725025585",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_preta.jpg?v=1773072063",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_azul.jpg?v=1773072064"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/fundo-capa.webp?v=1737636375",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa-beira_p.jpg?v=1737636486",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/meia-agua-capa_1_76b66870-2364-4e10-b85c-486a4c29f38f.webp?v=1737637449",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/fundo_capa.webp?v=1737636782",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chicote-finesse-capa.webp?v=1737637378",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-13_9199f71d-b95c-4d72-b1b0-16fb351fcf0c.png?v=1737636486",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-14_d5202550-ffd9-43cf-95ae-3c796c3b4b63.png?v=1737636486",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-09_4abfa100-cd27-470b-85a7-eb51806ef1f3.png?v=1737637449",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-10_698c8c9b-51b5-4cae-aaeb-45cdeb2baa40.png?v=1737637449",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-11_2746424b-ff6c-48ad-9fe2-57969ea201c4.png?v=1737637449",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-12_6b0c46f0-c752-46a6-b59b-68879349053a.png?v=1737637449",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-01_0687d65a-ff2c-4c55-bbac-f497a0217c6b.png?v=1737636375",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-02_f11db813-2538-41a9-ae54-140dcf0e107f.png?v=1737636375",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-03_5b05a6b5-da11-4f4e-89cc-68d94747e16b.png?v=1737636375",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-04_5eac5caa-0e32-40ed-993c-bc826855adb9.png?v=1737636375",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-17_42f1ff77-58eb-4f62-8111-c3521ea8566e.png?v=1737636375",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-18_60bd0fae-18fc-4833-8608-e9e7aaebccb1.png?v=1737636375",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-05_2a35b456-ea1f-4c96-a08e-7f1fc759c71d.png?v=1737636782",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-06_eb775414-8375-477e-8a2c-294a0f142218.png?v=1737636782",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-07_db0d0216-b8ce-44ba-8762-4cdabc72bff3.png?v=1737636782",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-08_41a4da33-8559-469e-9ffa-6ce1cadaf1fa.png?v=1737636782",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-153_f237610c-46e0-4309-984d-51f34858faf3.png?v=1737636782",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-16_ded8a465-57af-4eec-8e09-425e61590955.png?v=1737636782",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chicote-finesse.png?v=1737637378"
     ],
     "video": "",
     "specs": {
-      "Material": "Cantoneira plástica especial resistente e adesivo de alta aderência",
-      "Dimensões": "15cm de largura (Medidas extremamente precisas e aferidas individualmente)",
-      "Diferenciais": "Cantos arredondados, raio antiqueda para transporte e cola à prova d'água"
+      "Material": "Monofilamento / Fluorocarbono",
+      "Quantidade": "3 unidades por pacote",
+      "Rotores": "Equipado com Rotores de Engate Rápido e Stopper"
     },
-    "section": "Medição",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png?v=1725025582",
-    "colors": [
+    "vars": [
       [
-        "Preto",
-        "#888888"
+        "Beira - Modelo 13",
+        "R$ 28,60"
       ],
       [
-        "Azul",
-        "#888888"
+        "Beira - Modelo 14",
+        "R$ 28,60"
+      ],
+      [
+        "Meia Água - Modelo 9",
+        "R$ 28,60"
+      ],
+      [
+        "Meia Água - Modelo 10",
+        "R$ 28,60"
+      ],
+      [
+        "Meia Água - Modelo 11",
+        "R$ 28,60"
+      ],
+      [
+        "Meia Água - Modelo 12",
+        "R$ 28,60"
+      ],
+      [
+        "Fundo 1,30m - Modelo 1",
+        "R$ 28,60"
+      ],
+      [
+        "Fundo 1,30m - Modelo 2",
+        "R$ 28,60"
+      ],
+      [
+        "Fundo 1,30m - Modelo 3",
+        "R$ 28,60"
+      ],
+      [
+        "Fundo 1,30m - Modelo 4",
+        "R$ 28,60"
+      ],
+      [
+        "Fundo 1,30m - Modelo 17",
+        "R$ 28,60"
+      ],
+      [
+        "Fundo 1,30m - Modelo 18",
+        "R$ 28,60"
+      ],
+      [
+        "Fundo 1,80m - Modelo 5",
+        "R$ 28,60"
+      ],
+      [
+        "Fundo 1,80m - Modelo 6",
+        "R$ 28,60"
+      ],
+      [
+        "Fundo 1,80m - Modelo 7",
+        "R$ 28,60"
+      ],
+      [
+        "Fundo 1,80m - Modelo 8",
+        "R$ 28,60"
+      ],
+      [
+        "Fundo 1,80m - Modelo 15",
+        "R$ 28,60"
+      ],
+      [
+        "Fundo 1,80m - Modelo 16",
+        "R$ 28,60"
+      ],
+      [
+        "Finesse 85cm - Rotor Micro V",
+        "R$ 33,80"
       ]
     ],
-    "colorImages": {
-      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_preta.jpg?v=1773072063",
-      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_azul.jpg?v=1773072064"
-    }
+    "varImages": {
+      "Beira - Modelo 13": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-13_9199f71d-b95c-4d72-b1b0-16fb351fcf0c.png?v=1737636486",
+      "Beira - Modelo 14": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-14_d5202550-ffd9-43cf-95ae-3c796c3b4b63.png?v=1737636486",
+      "Meia Água - Modelo 9": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-09_4abfa100-cd27-470b-85a7-eb51806ef1f3.png?v=1737637449",
+      "Meia Água - Modelo 10": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-10_698c8c9b-51b5-4cae-aaeb-45cdeb2baa40.png?v=1737637449",
+      "Meia Água - Modelo 11": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-11_2746424b-ff6c-48ad-9fe2-57969ea201c4.png?v=1737637449",
+      "Meia Água - Modelo 12": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-12_6b0c46f0-c752-46a6-b59b-68879349053a.png?v=1737637449",
+      "Fundo 1,30m - Modelo 1": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-01_0687d65a-ff2c-4c55-bbac-f497a0217c6b.png?v=1737636375",
+      "Fundo 1,30m - Modelo 2": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-02_f11db813-2538-41a9-ae54-140dcf0e107f.png?v=1737636375",
+      "Fundo 1,30m - Modelo 3": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-03_5b05a6b5-da11-4f4e-89cc-68d94747e16b.png?v=1737636375",
+      "Fundo 1,30m - Modelo 4": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-04_5eac5caa-0e32-40ed-993c-bc826855adb9.png?v=1737636375",
+      "Fundo 1,30m - Modelo 17": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-17_42f1ff77-58eb-4f62-8111-c3521ea8566e.png?v=1737636375",
+      "Fundo 1,30m - Modelo 18": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-18_60bd0fae-18fc-4833-8608-e9e7aaebccb1.png?v=1737636375",
+      "Fundo 1,80m - Modelo 5": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-05_2a35b456-ea1f-4c96-a08e-7f1fc759c71d.png?v=1737636782",
+      "Fundo 1,80m - Modelo 6": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-06_eb775414-8375-477e-8a2c-294a0f142218.png?v=1737636782",
+      "Fundo 1,80m - Modelo 7": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-07_db0d0216-b8ce-44ba-8762-4cdabc72bff3.png?v=1737636782",
+      "Fundo 1,80m - Modelo 8": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-08_41a4da33-8559-469e-9ffa-6ce1cadaf1fa.png?v=1737636782",
+      "Fundo 1,80m - Modelo 15": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-153_f237610c-46e0-4309-984d-51f34858faf3.png?v=1737636782",
+      "Fundo 1,80m - Modelo 16": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-16_ded8a465-57af-4eec-8e09-425e61590955.png?v=1737636782",
+      "Finesse 85cm - Rotor Micro V": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chicote-finesse.png?v=1737637378"
+    },
+    "section": "Montagem"
+  },
+  {
+    "id": 3,
+    "slug": "atrativo-comum",
+    "category": "Atrativos",
+    "name": "Atrativo Comum",
+    "price": "R$ 5,80",
+    "img": "assets/img/shopify/cap-atrativo.png",
+    "link": "https://chumbadas.com.br/products/kit-atrativo-comum-5mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades",
+        ""
+      ]
+    ],
+    "swatches": [
+      [
+        "Amarelo",
+        "#facc15"
+      ],
+      [
+        "Amarelo Limão",
+        "#d9f99d"
+      ],
+      [
+        "Azul Claro",
+        "#38bdf8"
+      ],
+      [
+        "Azul Escuro",
+        "#1e3a8a"
+      ],
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Laranja Neon",
+        "url(assets/images/cores/laranja-Neon.png)"
+      ],
+      [
+        "Marrom Claro",
+        "#d97706"
+      ],
+      [
+        "Marrom Escuro",
+        "#451a03"
+      ],
+      [
+        "Preto",
+        "#111827"
+      ],
+      [
+        "Rosa Fluorescente",
+        "#f472b6"
+      ],
+      [
+        "Translúcido",
+        "rgba(255,255,255,0.4)"
+      ],
+      [
+        "Uva",
+        "#7c3aed"
+      ],
+      [
+        "Verde Musgo",
+        "#4d7c0f"
+      ],
+      [
+        "Vermelho",
+        "#dc2626"
+      ]
+    ],
+    "description": "Atrativo para Pesca 5 mm<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">O Atrativo para pesca é o acessório essencial para os pescadores que buscam maximizar sua captura e tornar a pesca ainda mais emocionante. Cada saquinho contém 5 filetes de atrativos, e o melhor de tudo é que cada filete pode ser facilmente cortado em até 10 pequenos atrativos individuais, garantindo uma longa duração e economia, totalizando 50 pequenas bolinhas de atrativo. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">A principal função do Atrativo para Pesca é deixar a isca extremamente atrativa para os peixes tanto pela cor como pelo movimento. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Além disso, o Atrativo para pesca tem uma característica inovadora. Dependendo do tamanho do anzol e da quantidade de atrativos usados simultaneamente, ele pode proporcionar flutuabilidade à isca. Isso significa que você pode ajustar a quantidade de atrativos conforme sua preferência e o tipo de peixe que deseja atrair. Experimente diferentes combinações para alcançar resultados surpreendentes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Outra vantagem incrível do Atrativo para pesca é sua capacidade de manter a isca na posição ideal. Muitas vezes, iscas afundam e acabam escondidas na areia, o que reduz a visibilidade para os peixes e diminui suas chances de sucesso na pesca. Com o Atrativo para pesca, você não precisa se preocupar com isso, pois ele ajuda a manter a isca flutuando sempre à vista dos peixes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Destacar os atrativos é simples e prático, podendo ser facilmente feito à mão. Dessa forma, você pode ajustar o tamanho do atrativo de acordo com suas preferências e necessidades específicas para cada pescaria.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Principais recursos do Atrativo para pesca:<br data-mce-fragment=\"1\">- Atrativo altamente eficaz para diversas espécies de peixes;<br data-mce-fragment=\"1\">- Possibilidade de cortar até 10 atrativos por filete;<br data-mce-fragment=\"1\">- Ajuda a isca a flutuar, dependendo do tamanho do anzol e da quantidade de atrativos usados;<br data-mce-fragment=\"1\">- Evita que a isca afunde e fique escondida na areia;<br data-mce-fragment=\"1\">- Fácil de destacar e ajustar o tamanho dos atrativos.",
+    "images": [
+      "assets/img/shopify/cap-atrativo.png",
+      "assets/img/shopify/capa-atrativo-holografico.png",
+      "assets/img/shopify/capim-ruby.png",
+      "assets/img/shopify/capim-ruby-emba.png",
+      "assets/img/shopify/vermelho-holografico.png",
+      "assets/img/shopify/vermelho-holografico-emba.png",
+      "assets/img/shopify/ruby-dourado.png",
+      "assets/img/shopify/ruby-dourado-emba.png",
+      "assets/img/shopify/cha.png",
+      "assets/img/shopify/roxo-estrelar.png",
+      "assets/img/shopify/vel-da-noite.png",
+      "assets/img/shopify/atrativo-rapadura.png",
+      "assets/img/shopify/Pastel.jpg",
+      "assets/img/shopify/medida_atrativo.jpg"
+    ],
+    "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
+    "specs": {
+      "Material": "EVA Floating macio e flexível",
+      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
+      "Função": "Flutuabilidade da isca, atração visual por cor/movimento e exposição do anzol",
+      "Indicação": "Montagem de chicotes para pesca de praia (surfcasting) e costão"
+    },
+    "section": "Atrativos"
+  },
+  {
+    "id": 4,
+    "slug": "atrativo-holografico",
+    "category": "Atrativos",
+    "name": "Atrativo Holográfico",
+    "price": "R$ 5,80",
+    "img": "assets/img/shopify/capa-atrativo-holografico.png",
+    "link": "https://chumbadas.com.br/products/kit-atrativo-holografico-5mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "Beijo da Sombra",
+        "R$ 5,80"
+      ],
+      [
+        "Capim Rubi",
+        "R$ 5,80"
+      ],
+      [
+        "Chá",
+        "R$ 5,80"
+      ],
+      [
+        "Luz Laranja",
+        "R$ 5,80"
+      ],
+      [
+        "Roxo Estelar",
+        "R$ 5,80"
+      ],
+      [
+        "Rubi Dourado",
+        "R$ 5,80"
+      ],
+      [
+        "Salmão Radiante",
+        "R$ 5,80"
+      ],
+      [
+        "Verde Cósmico",
+        "R$ 5,80"
+      ],
+      [
+        "Vermelho Holográfico",
+        "R$ 5,80"
+      ],
+      [
+        "Véu da Noite",
+        "R$ 5,80"
+      ]
+    ],
+    "swatches": [
+      [
+        "Beijo da Sombra",
+        "url(assets/img/shopify/holografico-beijo-da-sombra.jpg) center/cover"
+      ],
+      [
+        "Capim Rubi",
+        "url(assets/img/shopify/holografico-capim-rubi.jpg) center/cover"
+      ],
+      [
+        "Chá",
+        "url(assets/img/shopify/holografico-chá---pastel.jpg) center/cover"
+      ],
+      [
+        "Luz Laranja",
+        "url(assets/img/shopify/holografico-luz-laranja.jpg) center/cover"
+      ],
+      [
+        "Roxo Estelar",
+        "url(assets/img/shopify/holografico-roxo-estrelnar.jpg) center/cover"
+      ],
+      [
+        "Rubi Dourado",
+        "url(assets/img/shopify/holografico-rubi-dourado.jpg) center/cover"
+      ],
+      [
+        "Salmão Radiante",
+        "url(assets/img/shopify/holografico-salmão-radiante.jpg) center/cover"
+      ],
+      [
+        "Verde Cósmico",
+        "url(assets/img/shopify/holografico-verde-cósmico.jpg) center/cover"
+      ],
+      [
+        "Vermelho Holográfico",
+        "url(assets/img/shopify/holografico-vermelho-holográfico.jpg) center/cover"
+      ],
+      [
+        "Véu da Noite",
+        "url(assets/img/shopify/holografico-véu-da-noite.jpg) center/cover"
+      ]
+    ],
+    "description": "Atrativo para Pesca 5 mm<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">O Atrativo para pesca é o acessório essencial para os pescadores que buscam maximizar sua captura e tornar a pesca ainda mais emocionante. Cada saquinho contém 5 filetes de atrativos, e o melhor de tudo é que cada filete pode ser facilmente cortado em até 10 pequenos atrativos individuais, garantindo uma longa duração e economia, totalizando 50 pequenas bolinhas de atrativo. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">A principal função do Atrativo para Pesca é deixar a isca extremamente atrativa para os peixes tanto pela cor como pelo movimento. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Além disso, o Atrativo para pesca tem uma característica inovadora. Dependendo do tamanho do anzol e da quantidade de atrativos usados simultaneamente, ele pode proporcionar flutuabilidade à isca. Isso significa que você pode ajustar a quantidade de atrativos conforme sua preferência e o tipo de peixe que deseja atrair. Experimente diferentes combinações para alcançar resultados surpreendentes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Outra vantagem incrível do Atrativo para pesca é sua capacidade de manter a isca na posição ideal. Muitas vezes, iscas afundam e acabam escondidas na areia, o que reduz a visibilidade para os peixes e diminui suas chances de sucesso na pesca. Com o Atrativo para pesca, você não precisa se preocupar com isso, pois ele ajuda a manter a isca flutuando sempre à vista dos peixes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Destacar os atrativos é simples e prático, podendo ser facilmente feito à mão. Dessa forma, você pode ajustar o tamanho do atrativo de acordo com suas preferências e necessidades específicas para cada pescaria.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Principais recursos do Atrativo para pesca:<br data-mce-fragment=\"1\">- Atrativo altamente eficaz para diversas espécies de peixes;<br data-mce-fragment=\"1\">- Possibilidade de cortar até 10 atrativos por filete;<br data-mce-fragment=\"1\">- Ajuda a isca a flutuar, dependendo do tamanho do anzol e da quantidade de atrativos usados;<br data-mce-fragment=\"1\">- Evita que a isca afunde e fique escondida na areia;<br data-mce-fragment=\"1\">- Fácil de destacar e ajustar o tamanho dos atrativos.",
+    "images": [
+      "assets/img/shopify/capa-atrativo-holografico.png",
+      "assets/img/shopify/holografico-beijo-da-sombra.jpg",
+      "assets/img/shopify/holografico-capim-rubi.jpg",
+      "assets/img/shopify/holografico-chá---pastel.jpg",
+      "assets/img/shopify/holografico-luz-laranja.jpg",
+      "assets/img/shopify/holografico-roxo-estrelnar.jpg",
+      "assets/img/shopify/holografico-rubi-dourado.jpg",
+      "assets/img/shopify/holografico-salmão-radiante.jpg",
+      "assets/img/shopify/holografico-verde-cósmico.jpg",
+      "assets/img/shopify/holografico-vermelho-holográfico.jpg",
+      "assets/img/shopify/holografico-véu-da-noite.jpg"
+    ],
+    "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
+    "specs": {
+      "Material": "EVA Floating macio e flexível com brilho holográfico",
+      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
+      "Função": "Flutuabilidade da isca, atração visual por cor/movimento e exposição do anzol",
+      "Indicação": "Montagem de chicotes para pesca de praia (surfcasting) e costão"
+    },
+    "section": "Atrativos"
+  },
+  {
+    "id": 5,
+    "slug": "mini-atrativo-comum",
+    "category": "Atrativos",
+    "name": "Mini Atrativo Comum",
+    "price": "R$ 4,90",
+    "img": "assets/images/mini-atrativo-comum-amarelo-e99da884.jpg",
+    "link": "https://chumbadas.com.br/products/kit-mini-atrativo-comum?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades",
+        ""
+      ]
+    ],
+    "swatches": [
+      [
+        "Amarelo",
+        "#facc15"
+      ],
+      [
+        "Amarelo Limão",
+        "#d9f99d"
+      ],
+      [
+        "Azul Claro",
+        "#38bdf8"
+      ],
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Azul Escuro",
+        "#1e3a8a"
+      ],
+      [
+        "Laranja Neon",
+        "url(assets/images/cores/laranja-Neon.png)"
+      ],
+      [
+        "Marrom Claro",
+        "#d97706"
+      ],
+      [
+        "Marrom Escuro",
+        "#451a03"
+      ],
+      [
+        "Preto",
+        "#111827"
+      ],
+      [
+        "Rosa Fluorescente",
+        "#f472b6"
+      ],
+      [
+        "Translúcido",
+        "rgba(255,255,255,0.4)"
+      ],
+      [
+        "Uva",
+        "#7c3aed"
+      ],
+      [
+        "Verde Musgo",
+        "#4d7c0f"
+      ],
+      [
+        "Vermelho",
+        "#dc2626"
+      ]
+    ],
+    "description": "Os atrativos da Chumbada Oficial são referências no mercado pelo alto apelo visual e durabilidade na água. Fabricados com pigmentação brilhante e reflexos holográficos de alta qualidade, garantem destaque extra para suas montagens e iscas, aumentando significativamente a taxa de capturas.",
+    "images": [
+      "assets/images/mini-atrativo-comum-amarelo-e99da884.jpg"
+    ],
+    "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
+    "specs": {
+      "Material": "EVA Floating macio e flexível",
+      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
+      "Função": "Flutuabilidade da isca, atração visual por cor/movimento e exposição do anzol",
+      "Indicação": "Montagem de chicotes para pesca de praia (surfcasting) e costão"
+    },
+    "section": "Atrativos"
+  },
+  {
+    "id": 6,
+    "slug": "mini-atrativo-holografico",
+    "category": "Atrativos",
+    "name": "Mini Atrativo Holográfico",
+    "price": "R$ 4,90",
+    "img": "assets/img/shopify/capa-atrativo-holografico.png",
+    "link": "https://chumbadas.com.br/products/kit-mini-atrativo-holografico?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "Beijo da Sombra",
+        "R$ 4,90"
+      ],
+      [
+        "Capim Rubi",
+        "R$ 4,90"
+      ],
+      [
+        "Chá",
+        "R$ 4,90"
+      ],
+      [
+        "Luz Laranja",
+        "R$ 4,90"
+      ],
+      [
+        "Roxo Estelar",
+        "R$ 4,90"
+      ],
+      [
+        "Rubi Dourado",
+        "R$ 4,90"
+      ],
+      [
+        "Salmão Radiante",
+        "R$ 4,90"
+      ],
+      [
+        "Verde Cósmico",
+        "R$ 4,90"
+      ],
+      [
+        "Vermelho Holográfico",
+        "R$ 4,90"
+      ],
+      [
+        "Véu da Noite",
+        "R$ 4,90"
+      ]
+    ],
+    "swatches": [
+      [
+        "Beijo da Sombra",
+        "url(assets/img/shopify/holografico-beijo-da-sombra.jpg) center/cover"
+      ],
+      [
+        "Capim Rubi",
+        "url(assets/img/shopify/holografico-capim-rubi.jpg) center/cover"
+      ],
+      [
+        "Chá",
+        "url(assets/img/shopify/holografico-chá---pastel.jpg) center/cover"
+      ],
+      [
+        "Luz Laranja",
+        "url(assets/img/shopify/holografico-luz-laranja.jpg) center/cover"
+      ],
+      [
+        "Roxo Estelar",
+        "url(assets/img/shopify/holografico-roxo-estrelnar.jpg) center/cover"
+      ],
+      [
+        "Rubi Dourado",
+        "url(assets/img/shopify/holografico-rubi-dourado.jpg) center/cover"
+      ],
+      [
+        "Salmão Radiante",
+        "url(assets/img/shopify/holografico-salmão-radiante.jpg) center/cover"
+      ],
+      [
+        "Verde Cósmico",
+        "url(assets/img/shopify/holografico-verde-cósmico.jpg) center/cover"
+      ],
+      [
+        "Vermelho Holográfico",
+        "url(assets/img/shopify/holografico-vermelho-holográfico.jpg) center/cover"
+      ],
+      [
+        "Véu da Noite",
+        "url(assets/img/shopify/holografico-véu-da-noite.jpg) center/cover"
+      ]
+    ],
+    "description": "Atrativo para Pesca 5 mm<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">O Atrativo para pesca é o acessório essencial para os pescadores que buscam maximizar sua captura e tornar a pesca ainda mais emocionante. Cada saquinho contém 5 filetes de atrativos, e o melhor de tudo é que cada filete pode ser facilmente cortado em até 10 pequenos atrativos individuais, garantindo uma longa duração e economia, totalizando 50 pequenas bolinhas de atrativo. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">A principal função do Atrativo para Pesca é deixar a isca extremamente atrativa para os peixes tanto pela cor como pelo movimento. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Além disso, o Atrativo para pesca tem uma característica inovadora. Dependendo do tamanho do anzol e da quantidade de atrativos usados simultaneamente, ele pode proporcionar flutuabilidade à isca. Isso significa que você pode ajustar a quantidade de atrativos conforme sua preferência e o tipo de peixe que deseja atrair. Experimente diferentes combinações para alcançar resultados surpreendentes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Outra vantagem incrível do Atrativo para pesca é sua capacidade de manter a isca na posição ideal. Muitas vezes, iscas afundam e acabam escondidas na areia, o que reduz a visibilidade para os peixes e diminui suas chances de sucesso na pesca. Com o Atrativo para pesca, você não precisa se preocupar com isso, pois ele ajuda a manter a isca flutuando sempre à vista dos peixes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Destacar os atrativos é simples e prático, podendo ser facilmente feito à mão. Dessa forma, você pode ajustar o tamanho do atrativo de acordo com suas preferências e necessidades específicas para cada pescaria.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Principais recursos do Atrativo para pesca:<br data-mce-fragment=\"1\">- Atrativo altamente eficaz para diversas espécies de peixes;<br data-mce-fragment=\"1\">- Possibilidade de cortar até 10 atrativos por filete;<br data-mce-fragment=\"1\">- Ajuda a isca a flutuar, dependendo do tamanho do anzol e da quantidade de atrativos usados;<br data-mce-fragment=\"1\">- Evita que a isca afunde e fique escondida na areia;<br data-mce-fragment=\"1\">- Fácil de destacar e ajustar o tamanho dos atrativos.",
+    "images": [
+      "assets/img/shopify/capa-atrativo-holografico.png",
+      "assets/img/shopify/holografico-beijo-da-sombra.jpg",
+      "assets/img/shopify/holografico-capim-rubi.jpg",
+      "assets/img/shopify/holografico-chá---pastel.jpg",
+      "assets/img/shopify/holografico-luz-laranja.jpg",
+      "assets/img/shopify/holografico-roxo-estrelnar.jpg",
+      "assets/img/shopify/holografico-rubi-dourado.jpg",
+      "assets/img/shopify/holografico-salmão-radiante.jpg",
+      "assets/img/shopify/holografico-verde-cósmico.jpg",
+      "assets/img/shopify/holografico-vermelho-holográfico.jpg",
+      "assets/img/shopify/holografico-véu-da-noite.jpg"
+    ],
+    "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
+    "specs": {
+      "Material": "EVA Floating macio e flexível com brilho holográfico",
+      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
+      "Função": "Flutuabilidade da isca, atração visual por cor/movimento e exposição do anzol",
+      "Indicação": "Montagem de chicotes para pesca de praia (surfcasting) e costão"
+    },
+    "section": "Atrativos"
   },
   {
     "id": 27,
@@ -1547,12 +1639,18 @@ window.PRODUCTS = [
       "assets/img/shopify/ferradura.png",
       "assets/img/shopify/copo.png",
       "assets/img/shopify/completo-05_56905fe3-508c-49bb-b5da-bf44a8f539da.png",
-      "assets/img/shopify/calao.png"
+      "assets/img/shopify/calao.png",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo-capa.png?v=1725026399",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ferradura-preta.png?v=1757939203"
     ],
     "video": "assets/video/shopify/386269be8dba4c3ab290582221705070.mp4",
     "specs": {
       "Material": "Borracha premium",
       "Aplicação": "Pesca esportiva e de competição"
+    },
+    "varImages": {
+      "Somente copo": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo-capa.png?v=1725026399",
+      "Somente ferradura": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ferradura-preta.png?v=1757939203"
     }
   },
   {
@@ -2405,6 +2503,204 @@ window.PRODUCTS = [
     }
   },
   {
+    "id": 73,
+    "slug": "porta-pernadas-e-chicotes",
+    "category": "Organização",
+    "name": "Porta Pernadas e Chicotes",
+    "price": "R$ 29,90",
+    "img": "assets/img/shopify/sedalha-areia-capa.png",
+    "link": "https://chumbadas.com.br/collections/chicotes-montados",
+    "vars": null,
+    "description": "<p>Este produto contém 30 canais superiores e 30 canais inferiores. Nele é possível acomodar pernadas (anzóis empatados), chicotes com pernadas. A vantagem do porta pernada e chicote é que o mesmo causa menos memória nas linhas usadas por mantê-las esticadas, outra vantagem é seu formato plano comprido que ocupa pouco espaço em sua caixa de pesca.</p><p>Medida: 32 x 8,5 cm</p>",
+    "images": [
+      "assets/img/shopify/sedalha-areia-capa.png",
+      "assets/img/shopify/sedalha-areia.png",
+      "assets/img/shopify/sedalha-azul.png",
+      "assets/img/shopify/sedalha-azul-claro.png",
+      "assets/img/shopify/sedalha-rosa.png",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_pernada_e_chicotes_branco.jpg?v=1738591758",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_pernada_e_chicotes_preto.jpg?v=1738591758"
+    ],
+    "video": "",
+    "specs": {
+      "Comprimento/Medida": "8,5 CM",
+      "Dimensões": "32X8,5CM",
+      "Capacidade": "60 Canais (30 Sup. / 30 Inf.)",
+      "Indicação": "Acomodar pernadas (anzóis empatados)"
+    },
+    "section": "Organização",
+    "swatches": [
+      [
+        "Azul",
+        "#2563eb"
+      ],
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Rosa",
+        "#ec4899"
+      ],
+      [
+        "Areia",
+        "#ece0ca"
+      ],
+      [
+        "Preto",
+        "#111827"
+      ]
+    ],
+    "colorImages": {
+      "Azul": "assets/img/shopify/sedalha-azul.png",
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_pernada_e_chicotes_branco.jpg?v=1738591758",
+      "Rosa": "assets/img/shopify/sedalha-rosa.png",
+      "Areia": "assets/img/shopify/sedalha-areia.png",
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_pernada_e_chicotes_preto.jpg?v=1738591758"
+    },
+    "sizes": null
+  },
+  {
+    "id": 32,
+    "slug": "porta-pernada-cano",
+    "category": "Organização",
+    "name": "Porta Pernada Cano",
+    "price": "R$ 30,00",
+    "img": "assets/img/shopify/cano-capa.png",
+    "link": "https://chumbadas.com.br/products/porta-pernadas-e-chicotes?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "swatches": [
+      [
+        "Azul",
+        "#2563eb"
+      ],
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Marrom",
+        "#8a5a36"
+      ]
+    ],
+    "description": "<a href=\"https://youtu.be/tcXANAsZPk8\" title=\"Entenda o Porta Pernada Cano\">Porta Pernada Cano</a> – escolha de maneira fácil a pernada a ser usada, nesse novo organizador de anzóis empatados o pescador tem a opção de guardar 50 ou 100 anzóis (dependendo do tamanho do anzol) nos 50 canais divididos ao redor do produto.<br data-mce-fragment=\"1\">O Porta Pernada Cano é composto por um apoio de anzol, um pedaço de cano de esgoto 50mm padrão de mercado e uma peça de borracha onde é travada a linha, o mesmo será vendido em 8 configurações diferentes 30cm, 40cm, 50cm, 60cm, 70cm, 80cm, 100cm e a opção 30/60cm onde é possível guardar pernadas de 30cm e 60cm no mesmo cano pois o Trava Linha Cano de borracha tem um conector onde é possível estender o conjunto com mais canos.<br data-mce-fragment=\"1\">O comprador pode escolher adquirir o Porta Pernada Cano completo, somente o cano já cortado na medida para 30cm, 40cm, 50cm, 60cm, 70cm, 80cm, 100cm ou comprar somente as peças que fazem sua composição o Apoio Anzol Cano ou o Trava Linha Cano (borracha).",
+    "images": [
+      "assets/img/shopify/cano-capa.png",
+      "assets/img/shopify/30-cm-banco_24e57b07-67cb-4b0f-9828-253d4e3ec9fd.png",
+      "assets/img/shopify/todos_a61a20cf-866a-4a1d-a0fa-59510ba755fd.png",
+      "assets/img/shopify/30-cm-azul-regua_376cc6b4-1160-4d5c-b523-be2cbe671648.png",
+      "assets/img/shopify/30-cm-banco-regua_02370db5-378e-4070-b6e9-852bbfac9cdf.png",
+      "assets/img/shopify/30-e-60-branco-regua_d8f1d52e-603e-4e64-bee6-2f12e81baf32.png",
+      "assets/img/shopify/40-cm-azul-regua_6495daf4-3220-434a-b994-277e00969399.png",
+      "assets/img/shopify/40-cm-banco-regua_58e2bc0c-46f3-4fde-bcf8-6dbb33804f90.png",
+      "assets/img/shopify/40-cm-azul-regua_d32270c8-fe09-48ef-84b3-3fa584aeb439.png",
+      "assets/img/shopify/50-cm-banco-regua_53482abb-2fa1-4b44-b86b-bace6b09a6de.png",
+      "assets/img/shopify/50-cm-azul-regua_5a0e8a91-19a2-41dc-ab33-cbe413896845.png",
+      "assets/img/shopify/60-cm-banco-regua_e6bd7a1e-d2b3-41ed-aa2b-b6998f3431e2.png",
+      "assets/img/shopify/60-cm-azul-regua_4b7c222f-13bb-4c1a-8837-d8aee716065c.png",
+      "assets/img/shopify/70-cm-banco-regua_dc6de201-d58a-44d0-ad6f-dd98fb04f8b3.png",
+      "assets/img/shopify/70-cm-azul-regua_637cc206-7579-4caf-9109-485de694315b.png",
+      "assets/img/shopify/80-cm-banco-regua_7ff9c07c-1249-4fdc-83ae-b34b9fa570e7.png",
+      "assets/img/shopify/80-cm-azul-regua_4b071c6d-019c-41b2-ab5c-7c6f7fe52006.png",
+      "assets/img/shopify/100-cm-banco-regua_ec48c982-5dc9-4420-924b-acdcdb81e324.png",
+      "assets/img/shopify/100-cm-azul-regua_109bc051-c339-4701-b570-6cfa3965d1ad.png",
+      "assets/img/shopify/80-cm-banco-regua_71d32656-c353-440b-aedf-c83b4cce2322.png",
+      "assets/img/shopify/SomenteCanoBranco_edf334b2-400f-4657-b93d-32b34b7b5256.jpg",
+      "assets/img/shopify/SomenteCanoBranco_3484c864-4b72-4a56-9f2a-753a47a8b43f.jpg",
+      "assets/img/shopify/SomenteCanoBranco_e0115922-fbf2-4c1c-9b44-75c48daa7a9b.jpg",
+      "assets/img/shopify/SomenteCanoBranco_33cce13b-6a8a-43eb-a42e-c25925f0b4af.jpg",
+      "assets/img/shopify/SomenteCanoBranco_6babf043-cb84-4d3c-a509-a71f1d22dc2d.jpg",
+      "assets/img/shopify/SomenteCanoAzul_9e637403-fc0c-41ff-ad30-463aac2483d6.jpg",
+      "assets/img/shopify/SomenteCanoAzul_56796aae-3372-4234-9302-ac86f289b659.jpg",
+      "assets/img/shopify/SomenteCanoAzul_81c8cb18-1f3e-4158-a0d8-3e648fa9a18e.jpg",
+      "assets/img/shopify/SomenteCanoBranco_96f76d3f-3fe9-435b-98f7-2337b3bf0bb5.jpg",
+      "assets/img/shopify/SomenteCanoAzul_2cf372e3-b297-4a7d-b34f-4d903530be8c.jpg",
+      "assets/img/shopify/SomenteCanoAzul_0b82ef60-2fcd-40e6-9e30-b77c1595346d.jpg",
+      "assets/img/shopify/SomenteCanoAzul_d92759f2-0c70-41fe-8505-7695d4daf13a.jpg",
+      "assets/img/shopify/SomenteCanoAzul_60d195b3-66f6-4bad-a6fd-b1fc477a1be5.jpg",
+      "assets/img/shopify/SomenteCanoAzul_5d4b0b05-fe5e-4b96-9832-942683d50475.jpg",
+      "assets/img/shopify/SomenteCanoAzul_199cd214-c813-467e-ab16-febbc0324bf1.jpg",
+      "assets/img/shopify/SomenteCanoBranco_a9bf3d69-5ee0-47cd-bf79-35b6ca4913ee.jpg",
+      "assets/img/shopify/SomenteCanoBranco_bcf0533f-1e0a-4270-8026-c49a3ac524e4.jpg",
+      "assets/img/shopify/SomenteCanoBranco_84638a37-5753-4183-a71c-301af262fb5d.jpg",
+      "assets/img/shopify/SomenteCanoAzul_307f4a48-a16e-4dd7-9b86-82a35db89632.jpg",
+      "assets/img/shopify/30cm-marrom_4aa55bbc-ab4f-44e0-9c37-d56b04cf00f8.png",
+      "assets/img/shopify/30-60cm_c7df46b8-6d6e-4564-93c0-687a0bdf4f8f.png",
+      "assets/img/shopify/40cm_e44bb8d6-7be4-49cb-b370-8d82f215e5c0.png",
+      "assets/img/shopify/50cm_bb8b1f4c-7afc-4b13-bbe6-338a58e701a2.png",
+      "assets/img/shopify/60cm_482d05d6-f5e6-4d36-aedc-454a6a3b573b.png",
+      "assets/img/shopify/70cm_6f2163e6-b02b-471b-9e4f-a3c763ca1678.png",
+      "assets/img/shopify/80cm_0205724a-9fd7-4aef-95f5-389f12d25a67.png",
+      "assets/img/shopify/100cm_887f5489-3aa2-4094-be68-091b21b52f17.png",
+      "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
+      "assets/img/shopify/somente-cano-40cm_e6bca2ec-d0b2-4b79-b6cf-30cf21387706.png",
+      "assets/img/shopify/somente-cano-50cm_6e62cfdb-4e63-492e-8e19-f6db40bd566a.png",
+      "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
+      "assets/img/shopify/somente-cano-70cm_bcfbc84d-03ad-489d-87fa-50f969953709.png",
+      "assets/img/shopify/somente-cano-80cm_78f92977-f490-467b-92c2-d9fa9b1067dd.png",
+      "assets/img/shopify/somente-cano-100cm_a52c9c44-de3c-40a3-990c-bda2fabe13dd.png",
+      "assets/img/shopify/20cm-azul.png",
+      "assets/img/shopify/marrom.png",
+      "assets/img/shopify/branco.png",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio.png?v=1725024070",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/suporte-3_49d86944-6027-4fee-a41f-89707bb55c86.png?v=1725024074"
+    ],
+    "video": "https://youtu.be/tcXANAsZPk8",
+    "specs": {
+      "Material": "Borracha premium",
+      "Comprimento/Medida": "30CM"
+    },
+    "section": "Organização",
+    "colorImages": {
+      "Azul": "assets/img/shopify/SomenteCanoAzul_9e637403-fc0c-41ff-ad30-463aac2483d6.jpg",
+      "Branco": "assets/img/shopify/SomenteCanoBranco_edf334b2-400f-4657-b93d-32b34b7b5256.jpg",
+      "Marrom": "assets/img/shopify/30cm-marrom_4aa55bbc-ab4f-44e0-9c37-d56b04cf00f8.png"
+    },
+    "vars": [
+      [
+        "30cm",
+        "R$ 30,00"
+      ],
+      [
+        "40cm",
+        "R$ 32,00"
+      ],
+      [
+        "50cm",
+        "R$ 34,00"
+      ],
+      [
+        "60cm",
+        "R$ 36,00"
+      ],
+      [
+        "70cm",
+        "R$ 38,00"
+      ],
+      [
+        "80cm",
+        "R$ 40,00"
+      ],
+      [
+        "100cm",
+        "R$ 44,00"
+      ],
+      [
+        "Apoio de Anzol (Reposição)",
+        "R$ 2,69"
+      ]
+    ],
+    "varImages": {
+      "30cm": "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
+      "40cm": "assets/img/shopify/somente-cano-40cm_e6bca2ec-d0b2-4b79-b6cf-30cf21387706.png",
+      "50cm": "assets/img/shopify/somente-cano-50cm_6e62cfdb-4e63-492e-8e19-f6db40bd566a.png",
+      "60cm": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
+      "70cm": "assets/img/shopify/somente-cano-70cm_bcfbc84d-03ad-489d-87fa-50f969953709.png",
+      "80cm": "assets/img/shopify/somente-cano-80cm_78f92977-f490-467b-92c2-d9fa9b1067dd.png",
+      "100cm": "assets/img/shopify/somente-cano-100cm_a52c9c44-de3c-40a3-990c-bda2fabe13dd.png",
+      "Apoio de Anzol (Reposição)": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio.png?v=1725024070"
+    }
+  },
+  {
     "id": 33,
     "slug": "protetor-de-bobina-p-e-g",
     "category": "Proteção",
@@ -2474,41 +2770,676 @@ window.PRODUCTS = [
     "section": "Proteção"
   },
   {
-    "id": 65,
-    "slug": "trava-linha",
-    "category": "Peças",
-    "name": "Trava Linha",
-    "price": "R$ 4,20",
-    "img": "assets/img/shopify/pesca-12.jpg",
-    "link": "https://chumbadas.com.br/products/trava-linha-cano-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Linha de Multifilamento 4X – 300 metros | Chumbada Oficial</p>\n<p>Chegou a linha que fala a verdade.<br>A Verax 4X 300 m da Chumbada Oficial não é só mais uma multifilamento — é um novo padrão no mercado.</p>\n<p>Desenvolvida com alta tecnologia e testada por mais de 1 ano em condições reais de pesca, essa linha entrega o que promete: resistência de verdade e especificações honestas.</p>\n<p>O grande diferencial está no nome Verax — do latim, verdade, sinceridade.<br>Enquanto muitas marcas “maquiam” diâmetro e resistência, a Chumbada Oficial fez o caminho mais difícil: mostrar a realidade.</p>\n<p>👉 Espessura real<br>👉 Capacidade de tração real<br>👉 Sem exagero, sem enganação</p>\n<p>Compare com qualquer outra linha do mercado.<br>Meça. Teste. Coloque lado a lado.<br>Você vai perceber: a Verax entrega exatamente o que está na embalagem.</p>\n<p>Além da transparência, você leva uma linha:<br>✔ 4 fios de alta resistência<br>✔ Excelente sensibilidade<br>✔ Ótima performance de arremesso<br>✔ Baixa memória<br>✔ Alta durabilidade</p>\n<p>Se você busca performance, pode até encontrar várias opções.<br>Mas se você busca performance com verdade, a escolha é uma só.</p>\n<p>Chumbada Oficial – aqui a pesca é levada a sério. 🎣</p>\n<p>#ChumbadaOficial #LinhaVerax #Multifilamento #PescaEsportiva #Ajing #Ultralight #PescaDePraia #PescaBrasil #FishingLife #GearDePesca #PesqueESolte</p>",
+    "id": 2,
+    "slug": "camiseta-de-pesca-masculina",
+    "section": "Vestuário",
+    "category": "Vestuário",
+    "name": "Camisa de Pesca",
+    "price": "R$ 95,00",
+    "img": "assets/img/shopify/camisa.png",
+    "link": "https://chumbadas.com.br/products/camiseta-de-pesca-masculina?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "G",
+        ""
+      ],
+      [
+        "XG",
+        ""
+      ],
+      [
+        "XXG",
+        ""
+      ],
+      [
+        "EXG",
+        ""
+      ]
+    ],
+    "description": "<p>Camisa 100% poliester, com fator de proteção solar 35. Estampa em impressão digital.</p>\n<div class=\"table-responsive\" style=\"overflow-x:auto; margin-top: 15px;\">\n    <table class=\"specs-table\">\n        <thead>\n            <tr>\n                <th>MEDIDA (CM)</th>\n                <th>P</th>\n                <th>M</th>\n                <th>G</th>\n                <th>GG</th>\n                <th>XG</th>\n                <th>XXG</th>\n                <th>EXG</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td><strong>TÓRAX</strong></td>\n                <td>52</td>\n                <td>55</td>\n                <td>58</td>\n                <td>60</td>\n                <td>64</td>\n                <td>67</td>\n                <td>70</td>\n            </tr>\n            <tr>\n                <td><strong>COMPRIMENTO</strong></td>\n                <td>70</td>\n                <td>72</td>\n                <td>74</td>\n                <td>78</td>\n                <td>80</td>\n                <td>81</td>\n                <td>82</td>\n            </tr>\n            <tr>\n                <td><strong>MANGAS</strong></td>\n                <td>82</td>\n                <td>84</td>\n                <td>86</td>\n                <td>88</td>\n                <td>90</td>\n                <td>93</td>\n                <td>95</td>\n            </tr>\n        </tbody>\n    </table>\n</div>\n",
     "images": [
-      "assets/img/shopify/pesca-12.jpg",
-      "assets/img/shopify/pesca-11.jpg",
-      "assets/img/shopify/pesca-59.jpg",
-      "assets/img/shopify/pesca-62.jpg",
-      "assets/img/shopify/1_7e7f6ca2-e9fa-4fd2-a353-bd87ca20f9f0.jpg",
-      "assets/img/shopify/1_2.jpg",
-      "assets/img/shopify/1_5.jpg",
-      "assets/img/shopify/2_b6ee5156-7837-4a57-81f6-6099366220f0.jpg",
-      "assets/img/shopify/3.jpg",
-      "assets/img/shopify/3_5.jpg",
-      "assets/img/shopify/4_5.jpg",
-      "assets/img/shopify/5.jpg",
-      "assets/img/shopify/6_745b4c8c-ff0f-4ba3-9ce3-1fd17fdc3882.jpg",
-      "assets/img/shopify/8.jpg",
-      "assets/img/shopify/9.jpg",
-      "assets/img/shopify/10.jpg",
-      "assets/img/shopify/12.jpg",
-      "assets/img/shopify/linhaajing.jpg",
-      "assets/img/shopify/costas_b4940be1-8a74-414c-9903-c3be25aa3daf.jpg"
+      "assets/img/shopify/camisa.png",
+      "assets/img/shopify/camisa-capa.png",
+      "assets/img/shopify/camisa-nova.jpg"
     ],
     "video": "",
     "specs": {
-      "Comprimento/Medida": "300 METROS",
-      "Dimensões": "4X300M"
+      "Material": "Poliéster de alta performance",
+      "Proteção Solar": "FPS 35"
+    }
+  },
+  {
+    "id": 9,
+    "slug": "avental-chumbada",
+    "category": "Vestuário",
+    "name": "Avental Chumbada",
+    "price": "R$ 31,27",
+    "img": "assets/img/shopify/avental-capa.png",
+    "link": "https://chumbadas.com.br/products/avental-chumbada-bolso-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>Apresentamos o Avental Pescador: Com um tecido de fácil limpeza, este avental foi pensado para os apaixonados por pesca! Com dois bolsos estrategicamente posicionados, você pode guardar seu saca anzol, iscador e outros acessórios, tornando tudo mais prático. Ganhe tempo e agilidade nas etapas da pesca!</p>",
+    "images": [
+      "assets/img/shopify/avental-capa.png",
+      "assets/img/shopify/avental-01.png",
+      "assets/img/shopify/modelo-1.png",
+      "assets/img/shopify/modelo-2.png",
+      "assets/img/shopify/modelo-4.png",
+      "assets/img/shopify/modelo-6.png",
+      "assets/img/shopify/modelo-8.png",
+      "assets/img/shopify/avental-02.png",
+      "assets/img/shopify/avental-03.png"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Tecido impermeável de fácil limpeza",
+      "Diferenciais": "2 bolsos frontais estratégicos para acessórios rápidos (saca-anzol, tesoura, iscador)",
+      "Função": "Proteção corporal e agilidade durante o manuseio de peixes e iscas"
     },
-    "section": "Peças"
+    "section": "Vestuário"
+  },
+  {
+    "id": 10,
+    "slug": "bone-chumbada",
+    "category": "Vestuário",
+    "name": "Boné Chumbada",
+    "price": "R$ 36,00",
+    "img": "assets/img/shopify/bone-chumbada.png",
+    "link": "https://chumbadas.com.br/products/bone-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "swatches": [
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Preto",
+        "#111827"
+      ],
+      [
+        "Azul Claro",
+        "#38bdf8"
+      ],
+      [
+        "Azul Marinho",
+        "#0f172a"
+      ]
+    ],
+    "description": "Proporciona máxima proteção contra os raios solares com estilo esportivo e moderno. Feito com materiais respiráveis de alta durabilidade e ajuste confortável, ideal para longas jornadas de exposição ao sol.",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-3.jpg?v=1783013720",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-02.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-03.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-04.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-07.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-05.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-06.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-08.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-01.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-10.png?v=1723736549",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-09.png?v=1723736498"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Algodão e Poliéster respirável",
+      "Proteção": "Aba curva para máxima proteção solar UV contra raios solares",
+      "Ajuste": "Fivela traseira regulável confortável"
+    },
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-3.jpg?v=1783013720",
+    "colors": [
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Azul Claro",
+        "#888888"
+      ],
+      [
+        "Azul Marinho",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-05.png?v=1725024015",
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-03.png?v=1725024015",
+      "Azul Claro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-01.png?v=1725024015",
+      "Azul Marinho": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-09.png?v=1723736498"
+    }
+  },
+  {
+    "id": 13,
+    "slug": "chapeu-de-palha-chumbada",
+    "category": "Vestuário",
+    "name": "Chapéu de Palha Chumbada",
+    "price": "R$ 43,00",
+    "img": "assets/img/shopify/chapeu-capa.png",
+    "link": "https://chumbadas.com.br/products/chapel-de-palha-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>Chapéu de Palha da Chumbada Oficial</p>\n<p>Descubra o Chapéu de Palha da Chumbada Oficial, um acessório essencial para qualquer aventureiro ao ar livre! Projetado para oferecer proteção máxima contra os raios solares, este chapéu combina estilo rústico e funcionalidade.</p>\n<p>O Chapéu de Palha da Chumbada Oficial é leve e durável, garantindo conforto durante longas jornadas sob o sol. Sua aba larga proporciona uma sombra refrescante, mantendo o rosto e o pescoço protegidos dos raios UV nocivos.</p>\n<p>Com uma fita ajustável para um encaixe seguro e personalizado, este chapéu é ideal para pescadores, caminhantes e todos que apreciam a vida ao ar livre. Além disso, seu design clássico e elegante faz com que ele seja perfeito para qualquer ocasião, seja uma pescaria em um lago tranquilo ou um passeio casual no campo.</p>\n<p>Características:</p>\n<p>- Material: Palha de alta qualidade<br>- Aba larga para proteção solar<br>- Fita ajustável para um encaixe confortável<br>- Leve e durável<br>- Design clássico e elegante</p>\n<p>O Chapéu de Palha da Chumbada Oficial não é apenas um item de proteção, mas também um símbolo de estilo e respeito à natureza. Adquira o seu e esteja preparado para qualquer aventura ao ar livre!</p>\n<!---->",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chapeu-capa.png?v=1725024220",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chapeu_94827940-2a70-4825-baab-4666a1aaaeb8.png?v=1721917979",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chapeu-2.png?v=1721914354"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Palha natural de alta qualidade",
+      "Aba": "Aba larga para excelente sombra de rosto e pescoço",
+      "Ajuste": "Fita regulável sob o queixo para encaixe seguro"
+    },
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chapeu-capa.png?v=1725024220"
+  },
+  {
+    "id": 77,
+    "slug": "toalha-de-mao",
+    "category": "Vestuário",
+    "name": "Toalha de Mão",
+    "price": "R$ 10,75",
+    "img": "assets/img/shopify/toalha-capa.png",
+    "link": "https://chumbadas.com.br/products/toalha-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "6 modelos disponíveis",
+        ""
+      ]
+    ],
+    "description": "Apresentamos a Toalha Multiuso de Pesca da Chumbada Oficial 60x35: a companheira essencial para todas as suas aventuras à beira d'água. Projetada com paixão e precisão para os entusiastas da pesca, nossa inovadora toalha une funcionalidade, durabilidade e conveniência em um único produto.<br><br>Com suas generosas dimensões de 60x35, a Toalha da Chumbada Oficial oferece uma superfície ampla e altamente absorvente para atender a uma variedade de necessidades durante suas atividades de pesca. Seu material exclusivo, composto por um pano de fácil limpeza, combina a capacidade de absorção de água com uma textura que permite a remoção eficiente de sujeira, lama e detritos dos equipamentos e das mãos sendo de fácil limpeza após o uso.<br><br>O diferencial da Toalha da Chumbada Oficial reside em sua resistência e aderência excepcionais. Seja para segurar um peixe com esporões, enxugar as mãos molhadas ou limpar cuidadosamente seus utensílios, esta toalha foi desenvolvida para superar desafios diversos. A textura do tecido permite que você tenha uma firmeza segura. <br><br>Além disso, a Toalha da Chumbada Oficial 60x35 foi concebida para ser compacta e leve, tornando-a facilmente transportável em suas aventuras. Seu design de alta qualidade garante a longevidade, resistindo ao desgaste do ambiente externo e ao uso frequente.<br><br>**Características da Toalha da Chumbada Oficial 60x35:**<br><br>- Dimensões: 60x35 cm, oferecendo uma área ampla de uso.<br>- Régua Integrada: Possui uma régua de 40 cm para medir com precisão o peixe capturado.<br>- Material de Fácil Limpeza: Permite a remoção rápida de sujeira e detritos.<br>- Absorção Eficiente: Mantém suas mãos, equipamentos e peixes limpos e secos.<br>- Textura de Aderência: Manipule peixes com esporões e utensílios com segurança.<br>- Durabilidade Excepcional: Construída para resistir ao uso árduo ao ar livre.<br>- Leve e Compacta: Perfeita para transportar em suas aventuras de pesca.<br><br>Seja você um pescador experiente ou um amante da natureza que deseja explorar a pesca, a Toalha da Chumbada Oficial 60x35 é a parceira confiável que aprimorará sua experiência. Desde a secagem rápida das mãos até a manipulação cuidadosa de peixes espinhosos e a medição precisa, essa toalha versátil e funcional está pronta para se tornar um item indispensável em todas as suas jornadas de pesca.<br>",
+    "images": [
+      "assets/img/shopify/toalha-capa.png",
+      "assets/img/shopify/toalha-05_4069c005-8c7b-4992-a007-522148c621f3.png",
+      "assets/img/shopify/toalha-01_73ca1cc4-ff76-4430-9b28-a98367ec9f13.png",
+      "assets/img/shopify/toalha-02_487ce787-267f-4406-8735-6a787575af17.png",
+      "assets/img/shopify/toalha-04_dd9133e0-8965-4298-a309-b2a8a26f26ac.png",
+      "assets/img/shopify/toalha-03_2b88297b-b6d6-4ba4-95e6-b2872d21db25.png",
+      "assets/img/shopify/toalha-06_99e1ec8a-7b6a-4613-9016-cfb94ed110f5.png"
+    ],
+    "video": "",
+    "specs": {
+      "Comprimento/Medida": "40 CM",
+      "Dimensões": "60X35CM"
+    },
+    "section": "Vestuário"
+  },
+  {
+    "id": 78,
+    "slug": "tubeneck-tradicional",
+    "category": "Vestuário",
+    "name": "Tubeneck Tradicional",
+    "price": "R$ 41,00",
+    "img": "assets/img/shopify/Tube-Neck-tradicional-capa.png",
+    "link": "https://chumbadas.com.br/products/tube-neck-tradicional?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>### Descritivo do Produto: Tube Neck Tradicional</p>\n<p>#### Proteção Completa para Seu Rosto</p>\n<p>O Tube Neck Tradicional é a escolha perfeita para quem busca proteção e conforto durante atividades ao ar livre. Projetado para proteger seu rosto do sol e de insetos, ele é ideal para praticantes de esportes, pescadores, ciclistas, corredores e aventureiros em geral.</p>\n<p>#### Características Principais:</p>\n<p>- Material de Altíssima Qualidade: Fabricado com materiais premium que garantem durabilidade e resistência, o Tube Neck Tradicional é um acessório indispensável para sua proteção diária.<br>  <br>- Secagem Ultra Rápida: Com tecnologia de secagem rápida, o Tube Neck Tradicional mantém você seco e confortável, mesmo durante as atividades mais intensas.<br>  <br>- Controle Térmico: Desenvolvido para proporcionar controle térmico eficiente, ajuda a regular a temperatura corporal, mantendo-o fresco em climas quentes e aquecido em climas frios.<br>  <br>- Proteção Solar 50+ FPS: Equipado com fator de proteção solar 50+, ele bloqueia os raios UV nocivos, protegendo sua pele dos danos causados pela exposição ao sol.<br>  <br>- Formato Anatômico: Seu design anatômico garante um ajuste perfeito ao rosto, oferecendo conforto durante todo o dia, sem causar desconforto ou irritação.</p>\n<p><br>#### Cuidados e Manutenção</p>\n<p>Para garantir a durabilidade do seu Tube Neck Tradicional, lave-o à mão com sabão neutro e deixe secar à sombra. Evite o uso de alvejantes e a exposição prolongada ao sol após a lavagem.</p>\n<p>### Benefícios do Tube Neck Tradicional:</p>\n<p>- Proteção: Contra o sol e insetos.<br>- Conforto: Uso prolongado sem desconforto.<br>- Qualidade: Materiais duráveis e eficientes.</p>\n<p>Invista na sua proteção com o Tube Neck Tradicional e aproveite ao máximo suas atividades ao ar livre com segurança e conforto!</p>\n<!---->",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-tradicional-capa.png?v=1725026557",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-tradicional.png?v=1725026560"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Microfibra técnica respirável de altíssima qualidade",
+      "Proteção Solar": "FPS 50+ contra raios UV",
+      "Diferenciais": "Formato anatômico, secagem ultra rápida e regulação térmica"
+    },
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-tradicional-capa.png?v=1725026557",
+    "colors": [
+      [
+        "Branco",
+        "#888888"
+      ]
+    ]
+  },
+  {
+    "id": 79,
+    "slug": "tubeneck-premium",
+    "category": "Vestuário",
+    "name": "Tubeneck Premium",
+    "price": "R$ 59,00",
+    "img": "assets/img/shopify/Tube-Neck-Premium.capa.png",
+    "link": "https://chumbadas.com.br/products/tube-neck-premium?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>### Tube Neck Premium: Proteção Superior para suas Aventuras ao Ar Livre</p>\n<p>O Tube Neck Premium é o acessório indispensável para quem busca proteção e conforto durante atividades ao ar livre, como pescaria, trilhas, ciclismo e muito mais. Desenvolvido com tecnologia de ponta, este produto oferece uma série de benefícios que garantem a melhor experiência possível.</p>\n<p>#### Características Principais:</p>\n<p>- Proteção Completa: Bloqueia eficazmente os raios solares com proteção solar de 50+ FPS, mantendo sua pele segura dos danos causados pelo sol.<br>- Respiração Facilitada: Furos feitos a laser na posição da boca permitem uma respiração fácil e natural, evitando que seus óculos embacem, essencial durante momentos de concentração, como na pescaria.<br>- Conforto Prolongado: O formato anatômico do Tube Neck Premium se ajusta perfeitamente ao seu rosto, proporcionando conforto durante todo o dia sem causar incômodos.<br>- Alta Qualidade de Material: Fabricado com materiais de altíssima qualidade, este produto oferece controle térmico eficiente, mantendo você fresco mesmo em dias quentes.<br>- Secagem Ultra Rápida: Ideal para atividades que envolvem água ou suor, o tecido de secagem ultra rápida garante que você permaneça seco e confortável.</p>\n<p>#### Benefícios Adicionais:</p>\n<p>- Proteção contra Insetos: Além de proteger contra o sol, o Tube Neck Premium também ajuda a manter insetos indesejados longe do seu rosto.<br>- Versatilidade: Pode ser usado de diversas formas – como máscara, bandana, cachecol ou faixa de cabelo – adaptando-se às suas necessidades específicas.<br>- Estilo e Funcionalidade: Com um design moderno e prático, o Tube Neck Premium não só oferece proteção e conforto, mas também adiciona um toque de estilo às suas aventuras.</p>\n<p>#### Ideal Para:</p>\n<p>- Pescadores<br>- Ciclistas<br>- Caminhantes e Trilheiros<br>- Praticantes de esportes ao ar livre<br>- Qualquer pessoa que precise de proteção e conforto sob o sol</p>\n<p>Escolha o Tube Neck Premium e descubra a combinação perfeita de proteção, conforto e praticidade para suas atividades ao ar livre. Proteja-se com estilo e eficiência em qualquer situação.</p>\n<!----><!---->",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium.capa.png?v=1725026548",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium.png?v=1725026550",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium-azul.png?v=1721145615"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Microfibra técnica respirável de altíssima qualidade",
+      "Proteção Solar": "FPS 50+ contra raios UV",
+      "Diferenciais": "Furos feitos a laser na posição da boca para evitar embaçar óculos, secagem ultra rápida, formato anatômico"
+    },
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium.capa.png?v=1725026548",
+    "colors": [
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Azul Escuro",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium.png?v=1725026550",
+      "Azul Escuro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium-azul.png?v=1721145615"
+    }
+  },
+  {
+    "id": 80,
+    "slug": "calca-corta-vento-esporte",
+    "section": "Vestuário",
+    "category": "Vestuário",
+    "name": "Calça Corta Vento Esporte",
+    "price": "R$ 99,90",
+    "img": "assets/images/calca-corta-vento-esporte-preta-545adbbf.png",
+    "link": "https://chumbadas.com.br/products/calca-corta-vento-esporte?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "P",
+        ""
+      ],
+      [
+        "M",
+        ""
+      ],
+      [
+        "G",
+        ""
+      ],
+      [
+        "GG",
+        ""
+      ],
+      [
+        "1XG",
+        ""
+      ],
+      [
+        "2XG",
+        ""
+      ]
+    ],
+    "swatches": [
+      [
+        "Preto",
+        "#111827"
+      ],
+      [
+        "Azul Marinho",
+        "#0f172a"
+      ]
+    ],
+    "description": "Desenvolvida com tecido técnico inteligente, esta peça bloqueia o vento e resiste a respingos d'água, mantendo o conforto térmico sem comprometer a transpiração. Conta com design esportivo e caimento ergonômico, ideal para treinos e pescarias em condições dinâmicas.",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_corta-vento_esporte.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-preta.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-P.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-M.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-G.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-GG.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-1XG.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-2XG.jpg?v=1738232638"
+    ],
+    "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
+    "specs": {
+      "Material": "Tecido técnico inteligente (bloqueia vento e respingos)",
+      "Diferenciais": "Design esportivo, caimento ergonômico, ótima respirabilidade e secagem rápida",
+      "Indicação": "Treinos e pescarias em condições de ventania ou chuva leve"
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_corta-vento_esporte.jpg?v=1738232638",
+    "colors": [
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Azul Marinho",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-preta.jpg?v=1738232638",
+      "Azul Marinho": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_corta-vento_esporte.jpg?v=1738232638"
+    }
+  },
+  {
+    "id": 81,
+    "slug": "calca-elastic-comfort",
+    "category": "Vestuário",
+    "name": "Calça Elastic Comfort",
+    "price": "R$ 129,90",
+    "img": "assets/images/calca-elastica-comfort-verde-d9d9f7c1.png",
+    "link": "https://chumbadas.com.br/products/calca-elastic-comfort?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "P",
+        ""
+      ],
+      [
+        "M",
+        ""
+      ],
+      [
+        "G",
+        ""
+      ],
+      [
+        "GG",
+        ""
+      ],
+      [
+        "1XG",
+        ""
+      ],
+      [
+        "2XG",
+        ""
+      ]
+    ],
+    "swatches": [
+      [
+        "Preto",
+        "#111827"
+      ],
+      [
+        "Verde Escuro",
+        "#14532d"
+      ]
+    ],
+    "description": "Vestuário técnico esportivo projetado para atletas e pescadores exigentes. Combina proteção contra intempéries, excelente respirabilidade e flexibilidade total de movimentos.",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-preta.jpg?v=1737972173",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_elastic_comfort_verde_escuro.jpg?v=1738233419",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-P.jpg?v=1738233419",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-M.jpg?v=1738233419",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-G.jpg?v=1738233419",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-GG.jpg?v=1738233419",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-1XG.jpg?v=1738233419",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-2XG.jpg?v=1738233419"
+    ],
+    "video": "assets/video/shopify/afcba22e8161455985558453fe7ca258.mp4",
+    "specs": {
+      "Material": "Tecido técnico elástico de alta performance",
+      "Diferenciais": "Flexibilidade total de movimentos, respirabilidade e resistência a rasgos",
+      "Indicação": "Vestuário esportivo para pescadores e atletas exigentes"
+    },
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-preta.jpg?v=1737972173",
+    "colors": [
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Verde Escuro",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-preta.jpg?v=1737972173",
+      "Verde Escuro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_elastic_comfort_verde_escuro.jpg?v=1738233419"
+    }
+  },
+  {
+    "id": 82,
+    "slug": "blusa-corta-vento-comfort",
+    "category": "Vestuário",
+    "name": "Blusa Corta Vento Comfort",
+    "price": "R$ 155,00",
+    "img": "assets/img/shopify/Corta-vento-confort-preta-01.jpg",
+    "link": "https://chumbadas.com.br/products/blusa-corta-vento-comfort?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "P",
+        ""
+      ],
+      [
+        "M",
+        ""
+      ],
+      [
+        "G",
+        ""
+      ],
+      [
+        "GG",
+        ""
+      ],
+      [
+        "1XG",
+        ""
+      ],
+      [
+        "2XG",
+        ""
+      ]
+    ],
+    "swatches": [
+      [
+        "Preta",
+        "#111827"
+      ]
+    ],
+    "description": "<p>Blusa Corta Vento - Alta Qualidade e Versatilidade</p>\n<p>Descubra a Blusa Corta Vento, projetada para oferecer proteção e conforto em qualquer ocasião. Feita com material de alta qualidade, esta blusa é ideal para bloquear o vento, mantendo você aquecido e protegido. </p>\n<p>Com um design ultraleve e compacto, a Blusa Corta Vento é perfeita para ser levada em suas aventuras de pescaria sem ocupar espaço na sua mochila. Além disso, sua beleza e estilo tornam-a uma peça versátil, adequada para o uso no dia a dia. </p>\n<p>Disponível na elegante cor azul escuro, esta blusa não só proporciona funcionalidade, mas também um toque moderno ao seu guarda-roupa. Seja para enfrentar o vento frio durante a pescaria ou para compor um visual casual, a Blusa Corta Vento é a escolha ideal para quem busca praticidade sem abrir mão do estilo.</p>\n<!---->\n<h4>Tabela de Medidas</h4>\n<table class=\"size-table\">\n  <thead>\n    <tr>\n      <th>Tamanho</th>\n      <th>P</th>\n      <th>M</th>\n      <th>G</th>\n      <th>GG</th>\n      <th>EXG</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Largura</td>\n      <td>56</td>\n      <td>58</td>\n      <td>60</td>\n      <td>62</td>\n      <td>68</td>\n    </tr>\n    <tr>\n      <td>Altura</td>\n      <td>65</td>\n      <td>67</td>\n      <td>70</td>\n      <td>72</td>\n      <td>80</td>\n    </tr>\n  </tbody>\n</table>\n",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-01.jpg?v=1738167658",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-02.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-03.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-P.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-M.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-G.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-GG.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-1XG.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-2XG.jpg?v=1738167676"
+    ],
+    "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
+    "specs": {
+      "Material": "Tecido técnico leve corta-vento (Semi-impermeável)",
+      "Diferenciais": "Design ultraleve e compacto (não ocupa espaço na mochila), estilo versátil para uso diário",
+      "Proteção": "Bloqueio eficiente contra vento frio e respingos d'água"
+    },
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-01.jpg?v=1738167658",
+    "colors": [
+      [
+        "Preta",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Preta": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-01.jpg?v=1738167658"
+    }
+  },
+  {
+    "id": 83,
+    "slug": "blusa-corta-vento-esporte",
+    "category": "Vestuário",
+    "name": "Blusa Corta Vento Esporte",
+    "price": "R$ 119,00",
+    "img": "assets/img/shopify/capa_29c7635b-6c50-4d01-ab38-79cc9c4e900d.png",
+    "link": "https://chumbadas.com.br/products/blusa-corta-vento-chumbada-1?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "P",
+        ""
+      ],
+      [
+        "M",
+        ""
+      ],
+      [
+        "G",
+        ""
+      ],
+      [
+        "GG",
+        ""
+      ],
+      [
+        "1XG",
+        ""
+      ],
+      [
+        "2XG",
+        ""
+      ]
+    ],
+    "swatches": [
+      [
+        "Azul Claro",
+        "#38bdf8"
+      ],
+      [
+        "Azul Escuro",
+        "#1e3a8a"
+      ],
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Laranja",
+        "#f97316"
+      ]
+    ],
+    "description": "<p>Blusa Corta Vento - Alta Qualidade e Versatilidade</p>\n<p>Descubra a Blusa Corta Vento, projetada para oferecer proteção e conforto em qualquer ocasião. Feita com material de alta qualidade, esta blusa é ideal para bloquear o vento, mantendo você aquecido e protegido. </p>\n<p>Com um design ultraleve e compacto, a Blusa Corta Vento é perfeita para ser levada em suas aventuras de pescaria sem ocupar espaço na sua mochila. Além disso, sua beleza e estilo tornam-a uma peça versátil, adequada para o uso no dia a dia. </p>\n<p>Disponível na elegante cor azul escuro, esta blusa não só proporciona funcionalidade, mas também um toque moderno ao seu guarda-roupa. Seja para enfrentar o vento frio durante a pescaria ou para compor um visual casual, a Blusa Corta Vento é a escolha ideal para quem busca praticidade sem abrir mão do estilo.</p>\n<!---->\n<h4>Tabela de Medidas</h4>\n<table class=\"size-table\">\n  <thead>\n    <tr>\n      <th>Tamanho</th>\n      <th>P</th>\n      <th>M</th>\n      <th>G</th>\n      <th>GG</th>\n      <th>EXG</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Largura</td>\n      <td>56</td>\n      <td>58</td>\n      <td>60</td>\n      <td>62</td>\n      <td>68</td>\n    </tr>\n    <tr>\n      <td>Altura</td>\n      <td>65</td>\n      <td>67</td>\n      <td>70</td>\n      <td>72</td>\n      <td>80</td>\n    </tr>\n  </tbody>\n</table>\n",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa_29c7635b-6c50-4d01-ab38-79cc9c4e900d.png?v=1737554984",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-azul-claro.jpg?v=1737554984",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-branco.jpg?v=1737554984",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-laranja.jpg?v=1737554984",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-chumbada.png?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-chumbada-costas.png?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/P_2.jpg?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/M_2.jpg?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/G_2.jpg?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/GG_2.jpg?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1XG_2.jpg?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/2XG_2.jpg?v=1737567843"
+    ],
+    "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
+    "specs": {
+      "Material": "Tecido técnico leve corta-vento (Semi-impermeável)",
+      "Diferenciais": "Design ultraleve e compacto, ótimo caimento para prática esportiva dinâmica",
+      "Proteção": "Bloqueio eficiente contra vento frio e respingos d'água"
+    },
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa_29c7635b-6c50-4d01-ab38-79cc9c4e900d.png?v=1737554984",
+    "colors": [
+      [
+        "Azul Claro",
+        "#888888"
+      ],
+      [
+        "Azul Escuro",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Laranja",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Azul Claro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-azul-claro.jpg?v=1737554984",
+      "Azul Escuro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-chumbada.png?v=1737567843",
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-branco.jpg?v=1737554984",
+      "Laranja": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-laranja.jpg?v=1737554984"
+    }
+  },
+  {
+    "id": 84,
+    "slug": "blusa-corta-vento-presa-viva",
+    "category": "Vestuário",
+    "name": "Blusa Corta Vento Presa Viva",
+    "price": "R$ 260,00",
+    "img": "assets/img/shopify/corta-vento-capa.png",
+    "link": "https://chumbadas.com.br/products/blusa-corta-vento-presa-viva-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "P",
+        ""
+      ],
+      [
+        "M",
+        ""
+      ],
+      [
+        "G",
+        ""
+      ],
+      [
+        "GG",
+        ""
+      ],
+      [
+        "EXG",
+        ""
+      ]
+    ],
+    "description": "<p>Blusa Corta Vento - Alta Qualidade e Versatilidade</p>\n<p>Descubra a Blusa Corta Vento, projetada para oferecer proteção e conforto em qualquer ocasião. Feita com material de alta qualidade, esta blusa é ideal para bloquear o vento, mantendo você aquecido e protegido. </p>\n<p>Com um design ultraleve e compacto, a Blusa Corta Vento é perfeita para ser levada em suas aventuras de pescaria sem ocupar espaço na sua mochila. Além disso, sua beleza e estilo tornam-a uma peça versátil, adequada para o uso no dia a dia. </p>\n<p>Disponível na elegante cor azul escuro, esta blusa não só proporciona funcionalidade, mas também um toque moderno ao seu guarda-roupa. Seja para enfrentar o vento frio durante a pescaria ou para compor um visual casual, a Blusa Corta Vento é a escolha ideal para quem busca praticidade sem abrir mão do estilo.</p>\n<!---->\n<h4>Tabela de Medidas</h4>\n<table class=\"size-table\">\n  <thead>\n    <tr>\n      <th>Tamanho</th>\n      <th>P</th>\n      <th>M</th>\n      <th>G</th>\n      <th>GG</th>\n      <th>EXG</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Largura</td>\n      <td>56</td>\n      <td>58</td>\n      <td>60</td>\n      <td>62</td>\n      <td>68</td>\n    </tr>\n    <tr>\n      <td>Altura</td>\n      <td>65</td>\n      <td>67</td>\n      <td>70</td>\n      <td>72</td>\n      <td>80</td>\n    </tr>\n  </tbody>\n</table>\n",
+    "images": [
+      "assets/img/shopify/corta-vento-capa.png",
+      "assets/img/shopify/Corta-Vento.png",
+      "assets/img/shopify/photo_2024-05-17_10-18-31_e8372812-e178-46e9-9421-0f3604b60daf.jpg"
+    ],
+    "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
+    "specs": {
+      "Material": "Tecido técnico leve corta-vento (Semi-impermeável) especial Presa Viva",
+      "Diferenciais": "Design ultraleve, alta durabilidade e costuras elásticas reforçadas",
+      "Proteção": "Bloqueio de vento e conforto térmico excepcional na beira da água"
+    },
+    "section": "Vestuário"
+  },
+  {
+    "name": "Jaqueta de Pesca",
+    "desc": "<p><strong><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tabela-de-tamanhos-jaqueta.png?v=1732043770\">Jaqueta de Pesca Chumbada Oficial</strong></p>\n<p>Mantenha-se aquecido e protegido com a Jaqueta de Pesca Chumbada Oficial. Com uma arte exclusiva de um pescador nas costas, esta jaqueta combina estilo e funcionalidade. Feita em azul escuro, é perfeita para dias frios e ventosos, oferecendo conforto térmico e resistência ao vento. A frase \"Chumbada Oficial\" está estampada em uma manga, enquanto \"Pescar é Viver\" na outra, reforça a paixão pela pesca. Ideal para pescadores que buscam desempenho e estilo nas suas aventuras.</p>",
+    "specs": {},
+    "price": "399.00",
+    "category": "Vestuário",
+    "section": "Vestuário",
+    "colors": [],
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/jaqueta-frente.png?v=1724697596",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/jaqueta-frente.png?v=1724697596",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/costas.png?v=1724697597",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/lateral-02.jpg?v=1724697596",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/lateral-01.jpg?v=1724697597"
+    ]
+  },
+  {
+    "name": "Camiseta de Pesca Masculina",
+    "desc": "<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tabela-de-tamanhos-camiseta.png?v=1732043769\">Camisa 100% poliester, com fator de proteção solar 35. Estampa em impressão digital.</p>",
+    "specs": {},
+    "price": "95.00",
+    "category": "Vestuário",
+    "section": "Vestuário",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [
+      "G",
+      "XG",
+      "XXG",
+      "EXG"
+    ],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa.png?v=1784562308",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa.png?v=1784562308",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa-capa.png?v=1725024037",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/camisa-nova.jpg?v=1725024039"
+    ]
   },
   {
     "id": 8,
@@ -3373,1195 +4304,90 @@ window.PRODUCTS = [
     "section": "Acessórios"
   },
   {
-    "id": 2,
-    "slug": "camiseta-de-pesca-masculina",
-    "section": "Vestuário",
-    "category": "Vestuário",
-    "name": "Camisa de Pesca",
-    "price": "R$ 95,00",
-    "img": "assets/img/shopify/camisa.png",
-    "link": "https://chumbadas.com.br/products/camiseta-de-pesca-masculina?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "G",
-        ""
-      ],
-      [
-        "XG",
-        ""
-      ],
-      [
-        "XXG",
-        ""
-      ],
-      [
-        "EXG",
-        ""
-      ]
-    ],
-    "description": "<p>Camisa 100% poliester, com fator de proteção solar 35. Estampa em impressão digital.</p>\n<div class=\"table-responsive\" style=\"overflow-x:auto; margin-top: 15px;\">\n    <table class=\"specs-table\">\n        <thead>\n            <tr>\n                <th>MEDIDA (CM)</th>\n                <th>P</th>\n                <th>M</th>\n                <th>G</th>\n                <th>GG</th>\n                <th>XG</th>\n                <th>XXG</th>\n                <th>EXG</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td><strong>TÓRAX</strong></td>\n                <td>52</td>\n                <td>55</td>\n                <td>58</td>\n                <td>60</td>\n                <td>64</td>\n                <td>67</td>\n                <td>70</td>\n            </tr>\n            <tr>\n                <td><strong>COMPRIMENTO</strong></td>\n                <td>70</td>\n                <td>72</td>\n                <td>74</td>\n                <td>78</td>\n                <td>80</td>\n                <td>81</td>\n                <td>82</td>\n            </tr>\n            <tr>\n                <td><strong>MANGAS</strong></td>\n                <td>82</td>\n                <td>84</td>\n                <td>86</td>\n                <td>88</td>\n                <td>90</td>\n                <td>93</td>\n                <td>95</td>\n            </tr>\n        </tbody>\n    </table>\n</div>\n",
-    "images": [
-      "assets/img/shopify/camisa.png",
-      "assets/img/shopify/camisa-capa.png",
-      "assets/img/shopify/camisa-nova.jpg"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Poliéster de alta performance",
-      "Proteção Solar": "FPS 35"
-    }
-  },
-  {
-    "id": 9,
-    "slug": "avental-chumbada",
-    "category": "Vestuário",
-    "name": "Avental Chumbada",
-    "price": "R$ 31,27",
-    "img": "assets/img/shopify/avental-capa.png",
-    "link": "https://chumbadas.com.br/products/avental-chumbada-bolso-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Apresentamos o Avental Pescador: Com um tecido de fácil limpeza, este avental foi pensado para os apaixonados por pesca! Com dois bolsos estrategicamente posicionados, você pode guardar seu saca anzol, iscador e outros acessórios, tornando tudo mais prático. Ganhe tempo e agilidade nas etapas da pesca!</p>",
-    "images": [
-      "assets/img/shopify/avental-capa.png",
-      "assets/img/shopify/avental-01.png",
-      "assets/img/shopify/modelo-1.png",
-      "assets/img/shopify/modelo-2.png",
-      "assets/img/shopify/modelo-4.png",
-      "assets/img/shopify/modelo-6.png",
-      "assets/img/shopify/modelo-8.png",
-      "assets/img/shopify/avental-02.png",
-      "assets/img/shopify/avental-03.png"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Tecido impermeável de fácil limpeza",
-      "Diferenciais": "2 bolsos frontais estratégicos para acessórios rápidos (saca-anzol, tesoura, iscador)",
-      "Função": "Proteção corporal e agilidade durante o manuseio de peixes e iscas"
-    },
-    "section": "Vestuário"
-  },
-  {
-    "id": 10,
-    "slug": "bone-chumbada",
-    "category": "Vestuário",
-    "name": "Boné Chumbada",
-    "price": "R$ 36,00",
-    "img": "assets/img/shopify/bone-chumbada.png",
-    "link": "https://chumbadas.com.br/products/bone-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "swatches": [
-      [
-        "Branco",
-        "#ffffff"
-      ],
-      [
-        "Preto",
-        "#111827"
-      ],
-      [
-        "Azul Claro",
-        "#38bdf8"
-      ],
-      [
-        "Azul Marinho",
-        "#0f172a"
-      ]
-    ],
-    "description": "Proporciona máxima proteção contra os raios solares com estilo esportivo e moderno. Feito com materiais respiráveis de alta durabilidade e ajuste confortável, ideal para longas jornadas de exposição ao sol.",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-3.jpg?v=1783013720",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-02.png?v=1725024015",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-03.png?v=1725024015",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-04.png?v=1725024015",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-07.png?v=1725024015",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-05.png?v=1725024015",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-06.png?v=1725024015",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-08.png?v=1725024015",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-01.png?v=1725024015",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-10.png?v=1723736549",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-09.png?v=1723736498"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Algodão e Poliéster respirável",
-      "Proteção": "Aba curva para máxima proteção solar UV contra raios solares",
-      "Ajuste": "Fivela traseira regulável confortável"
-    },
-    "section": "Vestuário",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-3.jpg?v=1783013720",
-    "colors": [
-      [
-        "Branco",
-        "#888888"
-      ],
-      [
-        "Preto",
-        "#888888"
-      ],
-      [
-        "Azul Claro",
-        "#888888"
-      ],
-      [
-        "Azul Marinho",
-        "#888888"
-      ]
-    ],
-    "colorImages": {
-      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-05.png?v=1725024015",
-      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-03.png?v=1725024015",
-      "Azul Claro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-01.png?v=1725024015",
-      "Azul Marinho": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-09.png?v=1723736498"
-    }
-  },
-  {
-    "id": 13,
-    "slug": "chapeu-de-palha-chumbada",
-    "category": "Vestuário",
-    "name": "Chapéu de Palha Chumbada",
-    "price": "R$ 43,00",
-    "img": "assets/img/shopify/chapeu-capa.png",
-    "link": "https://chumbadas.com.br/products/chapel-de-palha-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Chapéu de Palha da Chumbada Oficial</p>\n<p>Descubra o Chapéu de Palha da Chumbada Oficial, um acessório essencial para qualquer aventureiro ao ar livre! Projetado para oferecer proteção máxima contra os raios solares, este chapéu combina estilo rústico e funcionalidade.</p>\n<p>O Chapéu de Palha da Chumbada Oficial é leve e durável, garantindo conforto durante longas jornadas sob o sol. Sua aba larga proporciona uma sombra refrescante, mantendo o rosto e o pescoço protegidos dos raios UV nocivos.</p>\n<p>Com uma fita ajustável para um encaixe seguro e personalizado, este chapéu é ideal para pescadores, caminhantes e todos que apreciam a vida ao ar livre. Além disso, seu design clássico e elegante faz com que ele seja perfeito para qualquer ocasião, seja uma pescaria em um lago tranquilo ou um passeio casual no campo.</p>\n<p>Características:</p>\n<p>- Material: Palha de alta qualidade<br>- Aba larga para proteção solar<br>- Fita ajustável para um encaixe confortável<br>- Leve e durável<br>- Design clássico e elegante</p>\n<p>O Chapéu de Palha da Chumbada Oficial não é apenas um item de proteção, mas também um símbolo de estilo e respeito à natureza. Adquira o seu e esteja preparado para qualquer aventura ao ar livre!</p>\n<!---->",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chapeu-capa.png?v=1725024220",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chapeu_94827940-2a70-4825-baab-4666a1aaaeb8.png?v=1721917979",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chapeu-2.png?v=1721914354"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Palha natural de alta qualidade",
-      "Aba": "Aba larga para excelente sombra de rosto e pescoço",
-      "Ajuste": "Fita regulável sob o queixo para encaixe seguro"
-    },
-    "section": "Vestuário",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chapeu-capa.png?v=1725024220"
-  },
-  {
-    "id": 77,
-    "slug": "toalha-de-mao",
-    "category": "Vestuário",
-    "name": "Toalha de Mão",
-    "price": "R$ 10,75",
-    "img": "assets/img/shopify/toalha-capa.png",
-    "link": "https://chumbadas.com.br/products/toalha-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "6 modelos disponíveis",
-        ""
-      ]
-    ],
-    "description": "Apresentamos a Toalha Multiuso de Pesca da Chumbada Oficial 60x35: a companheira essencial para todas as suas aventuras à beira d'água. Projetada com paixão e precisão para os entusiastas da pesca, nossa inovadora toalha une funcionalidade, durabilidade e conveniência em um único produto.<br><br>Com suas generosas dimensões de 60x35, a Toalha da Chumbada Oficial oferece uma superfície ampla e altamente absorvente para atender a uma variedade de necessidades durante suas atividades de pesca. Seu material exclusivo, composto por um pano de fácil limpeza, combina a capacidade de absorção de água com uma textura que permite a remoção eficiente de sujeira, lama e detritos dos equipamentos e das mãos sendo de fácil limpeza após o uso.<br><br>O diferencial da Toalha da Chumbada Oficial reside em sua resistência e aderência excepcionais. Seja para segurar um peixe com esporões, enxugar as mãos molhadas ou limpar cuidadosamente seus utensílios, esta toalha foi desenvolvida para superar desafios diversos. A textura do tecido permite que você tenha uma firmeza segura. <br><br>Além disso, a Toalha da Chumbada Oficial 60x35 foi concebida para ser compacta e leve, tornando-a facilmente transportável em suas aventuras. Seu design de alta qualidade garante a longevidade, resistindo ao desgaste do ambiente externo e ao uso frequente.<br><br>**Características da Toalha da Chumbada Oficial 60x35:**<br><br>- Dimensões: 60x35 cm, oferecendo uma área ampla de uso.<br>- Régua Integrada: Possui uma régua de 40 cm para medir com precisão o peixe capturado.<br>- Material de Fácil Limpeza: Permite a remoção rápida de sujeira e detritos.<br>- Absorção Eficiente: Mantém suas mãos, equipamentos e peixes limpos e secos.<br>- Textura de Aderência: Manipule peixes com esporões e utensílios com segurança.<br>- Durabilidade Excepcional: Construída para resistir ao uso árduo ao ar livre.<br>- Leve e Compacta: Perfeita para transportar em suas aventuras de pesca.<br><br>Seja você um pescador experiente ou um amante da natureza que deseja explorar a pesca, a Toalha da Chumbada Oficial 60x35 é a parceira confiável que aprimorará sua experiência. Desde a secagem rápida das mãos até a manipulação cuidadosa de peixes espinhosos e a medição precisa, essa toalha versátil e funcional está pronta para se tornar um item indispensável em todas as suas jornadas de pesca.<br>",
-    "images": [
-      "assets/img/shopify/toalha-capa.png",
-      "assets/img/shopify/toalha-05_4069c005-8c7b-4992-a007-522148c621f3.png",
-      "assets/img/shopify/toalha-01_73ca1cc4-ff76-4430-9b28-a98367ec9f13.png",
-      "assets/img/shopify/toalha-02_487ce787-267f-4406-8735-6a787575af17.png",
-      "assets/img/shopify/toalha-04_dd9133e0-8965-4298-a309-b2a8a26f26ac.png",
-      "assets/img/shopify/toalha-03_2b88297b-b6d6-4ba4-95e6-b2872d21db25.png",
-      "assets/img/shopify/toalha-06_99e1ec8a-7b6a-4613-9016-cfb94ed110f5.png"
-    ],
-    "video": "",
-    "specs": {
-      "Comprimento/Medida": "40 CM",
-      "Dimensões": "60X35CM"
-    },
-    "section": "Vestuário"
-  },
-  {
-    "id": 78,
-    "slug": "tubeneck-tradicional",
-    "category": "Vestuário",
-    "name": "Tubeneck Tradicional",
-    "price": "R$ 41,00",
-    "img": "assets/img/shopify/Tube-Neck-tradicional-capa.png",
-    "link": "https://chumbadas.com.br/products/tube-neck-tradicional?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>### Descritivo do Produto: Tube Neck Tradicional</p>\n<p>#### Proteção Completa para Seu Rosto</p>\n<p>O Tube Neck Tradicional é a escolha perfeita para quem busca proteção e conforto durante atividades ao ar livre. Projetado para proteger seu rosto do sol e de insetos, ele é ideal para praticantes de esportes, pescadores, ciclistas, corredores e aventureiros em geral.</p>\n<p>#### Características Principais:</p>\n<p>- Material de Altíssima Qualidade: Fabricado com materiais premium que garantem durabilidade e resistência, o Tube Neck Tradicional é um acessório indispensável para sua proteção diária.<br>  <br>- Secagem Ultra Rápida: Com tecnologia de secagem rápida, o Tube Neck Tradicional mantém você seco e confortável, mesmo durante as atividades mais intensas.<br>  <br>- Controle Térmico: Desenvolvido para proporcionar controle térmico eficiente, ajuda a regular a temperatura corporal, mantendo-o fresco em climas quentes e aquecido em climas frios.<br>  <br>- Proteção Solar 50+ FPS: Equipado com fator de proteção solar 50+, ele bloqueia os raios UV nocivos, protegendo sua pele dos danos causados pela exposição ao sol.<br>  <br>- Formato Anatômico: Seu design anatômico garante um ajuste perfeito ao rosto, oferecendo conforto durante todo o dia, sem causar desconforto ou irritação.</p>\n<p><br>#### Cuidados e Manutenção</p>\n<p>Para garantir a durabilidade do seu Tube Neck Tradicional, lave-o à mão com sabão neutro e deixe secar à sombra. Evite o uso de alvejantes e a exposição prolongada ao sol após a lavagem.</p>\n<p>### Benefícios do Tube Neck Tradicional:</p>\n<p>- Proteção: Contra o sol e insetos.<br>- Conforto: Uso prolongado sem desconforto.<br>- Qualidade: Materiais duráveis e eficientes.</p>\n<p>Invista na sua proteção com o Tube Neck Tradicional e aproveite ao máximo suas atividades ao ar livre com segurança e conforto!</p>\n<!---->",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-tradicional-capa.png?v=1725026557",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-tradicional.png?v=1725026560"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Microfibra técnica respirável de altíssima qualidade",
-      "Proteção Solar": "FPS 50+ contra raios UV",
-      "Diferenciais": "Formato anatômico, secagem ultra rápida e regulação térmica"
-    },
-    "section": "Vestuário",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-tradicional-capa.png?v=1725026557",
-    "colors": [
-      [
-        "Branco",
-        "#888888"
-      ]
-    ]
-  },
-  {
-    "id": 79,
-    "slug": "tubeneck-premium",
-    "category": "Vestuário",
-    "name": "Tubeneck Premium",
-    "price": "R$ 59,00",
-    "img": "assets/img/shopify/Tube-Neck-Premium.capa.png",
-    "link": "https://chumbadas.com.br/products/tube-neck-premium?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>### Tube Neck Premium: Proteção Superior para suas Aventuras ao Ar Livre</p>\n<p>O Tube Neck Premium é o acessório indispensável para quem busca proteção e conforto durante atividades ao ar livre, como pescaria, trilhas, ciclismo e muito mais. Desenvolvido com tecnologia de ponta, este produto oferece uma série de benefícios que garantem a melhor experiência possível.</p>\n<p>#### Características Principais:</p>\n<p>- Proteção Completa: Bloqueia eficazmente os raios solares com proteção solar de 50+ FPS, mantendo sua pele segura dos danos causados pelo sol.<br>- Respiração Facilitada: Furos feitos a laser na posição da boca permitem uma respiração fácil e natural, evitando que seus óculos embacem, essencial durante momentos de concentração, como na pescaria.<br>- Conforto Prolongado: O formato anatômico do Tube Neck Premium se ajusta perfeitamente ao seu rosto, proporcionando conforto durante todo o dia sem causar incômodos.<br>- Alta Qualidade de Material: Fabricado com materiais de altíssima qualidade, este produto oferece controle térmico eficiente, mantendo você fresco mesmo em dias quentes.<br>- Secagem Ultra Rápida: Ideal para atividades que envolvem água ou suor, o tecido de secagem ultra rápida garante que você permaneça seco e confortável.</p>\n<p>#### Benefícios Adicionais:</p>\n<p>- Proteção contra Insetos: Além de proteger contra o sol, o Tube Neck Premium também ajuda a manter insetos indesejados longe do seu rosto.<br>- Versatilidade: Pode ser usado de diversas formas – como máscara, bandana, cachecol ou faixa de cabelo – adaptando-se às suas necessidades específicas.<br>- Estilo e Funcionalidade: Com um design moderno e prático, o Tube Neck Premium não só oferece proteção e conforto, mas também adiciona um toque de estilo às suas aventuras.</p>\n<p>#### Ideal Para:</p>\n<p>- Pescadores<br>- Ciclistas<br>- Caminhantes e Trilheiros<br>- Praticantes de esportes ao ar livre<br>- Qualquer pessoa que precise de proteção e conforto sob o sol</p>\n<p>Escolha o Tube Neck Premium e descubra a combinação perfeita de proteção, conforto e praticidade para suas atividades ao ar livre. Proteja-se com estilo e eficiência em qualquer situação.</p>\n<!----><!---->",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium.capa.png?v=1725026548",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium.png?v=1725026550",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium-azul.png?v=1721145615"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Microfibra técnica respirável de altíssima qualidade",
-      "Proteção Solar": "FPS 50+ contra raios UV",
-      "Diferenciais": "Furos feitos a laser na posição da boca para evitar embaçar óculos, secagem ultra rápida, formato anatômico"
-    },
-    "section": "Vestuário",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium.capa.png?v=1725026548",
-    "colors": [
-      [
-        "Branco",
-        "#888888"
-      ],
-      [
-        "Azul Escuro",
-        "#888888"
-      ]
-    ],
-    "colorImages": {
-      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium.png?v=1725026550",
-      "Azul Escuro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium-azul.png?v=1721145615"
-    }
-  },
-  {
-    "id": 80,
-    "slug": "calca-corta-vento-esporte",
-    "section": "Vestuário",
-    "category": "Vestuário",
-    "name": "Calça Corta Vento Esporte",
-    "price": "R$ 99,90",
-    "img": "assets/images/calca-corta-vento-esporte-preta-545adbbf.png",
-    "link": "https://chumbadas.com.br/products/calca-corta-vento-esporte?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "P",
-        ""
-      ],
-      [
-        "M",
-        ""
-      ],
-      [
-        "G",
-        ""
-      ],
-      [
-        "GG",
-        ""
-      ],
-      [
-        "1XG",
-        ""
-      ],
-      [
-        "2XG",
-        ""
-      ]
-    ],
-    "swatches": [
-      [
-        "Preto",
-        "#111827"
-      ],
-      [
-        "Azul Marinho",
-        "#0f172a"
-      ]
-    ],
-    "description": "Desenvolvida com tecido técnico inteligente, esta peça bloqueia o vento e resiste a respingos d'água, mantendo o conforto térmico sem comprometer a transpiração. Conta com design esportivo e caimento ergonômico, ideal para treinos e pescarias em condições dinâmicas.",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_corta-vento_esporte.jpg?v=1738232638",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-preta.jpg?v=1738232638",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-P.jpg?v=1738232638",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-M.jpg?v=1738232638",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-G.jpg?v=1738232638",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-GG.jpg?v=1738232638",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-1XG.jpg?v=1738232638",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-2XG.jpg?v=1738232638"
-    ],
-    "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
-    "specs": {
-      "Material": "Tecido técnico inteligente (bloqueia vento e respingos)",
-      "Diferenciais": "Design esportivo, caimento ergonômico, ótima respirabilidade e secagem rápida",
-      "Indicação": "Treinos e pescarias em condições de ventania ou chuva leve"
-    },
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_corta-vento_esporte.jpg?v=1738232638",
-    "colors": [
-      [
-        "Preto",
-        "#888888"
-      ],
-      [
-        "Azul Marinho",
-        "#888888"
-      ]
-    ],
-    "colorImages": {
-      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-preta.jpg?v=1738232638",
-      "Azul Marinho": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_corta-vento_esporte.jpg?v=1738232638"
-    }
-  },
-  {
-    "id": 81,
-    "slug": "calca-elastic-comfort",
-    "category": "Vestuário",
-    "name": "Calça Elastic Comfort",
-    "price": "R$ 129,90",
-    "img": "assets/images/calca-elastica-comfort-verde-d9d9f7c1.png",
-    "link": "https://chumbadas.com.br/products/calca-elastic-comfort?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "P",
-        ""
-      ],
-      [
-        "M",
-        ""
-      ],
-      [
-        "G",
-        ""
-      ],
-      [
-        "GG",
-        ""
-      ],
-      [
-        "1XG",
-        ""
-      ],
-      [
-        "2XG",
-        ""
-      ]
-    ],
-    "swatches": [
-      [
-        "Preto",
-        "#111827"
-      ],
-      [
-        "Verde Escuro",
-        "#14532d"
-      ]
-    ],
-    "description": "Vestuário técnico esportivo projetado para atletas e pescadores exigentes. Combina proteção contra intempéries, excelente respirabilidade e flexibilidade total de movimentos.",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-preta.jpg?v=1737972173",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_elastic_comfort_verde_escuro.jpg?v=1738233419",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-P.jpg?v=1738233419",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-M.jpg?v=1738233419",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-G.jpg?v=1738233419",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-GG.jpg?v=1738233419",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-1XG.jpg?v=1738233419",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-2XG.jpg?v=1738233419"
-    ],
-    "video": "assets/video/shopify/afcba22e8161455985558453fe7ca258.mp4",
-    "specs": {
-      "Material": "Tecido técnico elástico de alta performance",
-      "Diferenciais": "Flexibilidade total de movimentos, respirabilidade e resistência a rasgos",
-      "Indicação": "Vestuário esportivo para pescadores e atletas exigentes"
-    },
-    "section": "Vestuário",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-preta.jpg?v=1737972173",
-    "colors": [
-      [
-        "Preto",
-        "#888888"
-      ],
-      [
-        "Verde Escuro",
-        "#888888"
-      ]
-    ],
-    "colorImages": {
-      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-preta.jpg?v=1737972173",
-      "Verde Escuro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_elastic_comfort_verde_escuro.jpg?v=1738233419"
-    }
-  },
-  {
-    "id": 82,
-    "slug": "blusa-corta-vento-comfort",
-    "category": "Vestuário",
-    "name": "Blusa Corta Vento Comfort",
-    "price": "R$ 155,00",
-    "img": "assets/img/shopify/Corta-vento-confort-preta-01.jpg",
-    "link": "https://chumbadas.com.br/products/blusa-corta-vento-comfort?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "P",
-        ""
-      ],
-      [
-        "M",
-        ""
-      ],
-      [
-        "G",
-        ""
-      ],
-      [
-        "GG",
-        ""
-      ],
-      [
-        "1XG",
-        ""
-      ],
-      [
-        "2XG",
-        ""
-      ]
-    ],
-    "swatches": [
-      [
-        "Preta",
-        "#111827"
-      ]
-    ],
-    "description": "<p>Blusa Corta Vento - Alta Qualidade e Versatilidade</p>\n<p>Descubra a Blusa Corta Vento, projetada para oferecer proteção e conforto em qualquer ocasião. Feita com material de alta qualidade, esta blusa é ideal para bloquear o vento, mantendo você aquecido e protegido. </p>\n<p>Com um design ultraleve e compacto, a Blusa Corta Vento é perfeita para ser levada em suas aventuras de pescaria sem ocupar espaço na sua mochila. Além disso, sua beleza e estilo tornam-a uma peça versátil, adequada para o uso no dia a dia. </p>\n<p>Disponível na elegante cor azul escuro, esta blusa não só proporciona funcionalidade, mas também um toque moderno ao seu guarda-roupa. Seja para enfrentar o vento frio durante a pescaria ou para compor um visual casual, a Blusa Corta Vento é a escolha ideal para quem busca praticidade sem abrir mão do estilo.</p>\n<!---->\n<h4>Tabela de Medidas</h4>\n<table class=\"size-table\">\n  <thead>\n    <tr>\n      <th>Tamanho</th>\n      <th>P</th>\n      <th>M</th>\n      <th>G</th>\n      <th>GG</th>\n      <th>EXG</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Largura</td>\n      <td>56</td>\n      <td>58</td>\n      <td>60</td>\n      <td>62</td>\n      <td>68</td>\n    </tr>\n    <tr>\n      <td>Altura</td>\n      <td>65</td>\n      <td>67</td>\n      <td>70</td>\n      <td>72</td>\n      <td>80</td>\n    </tr>\n  </tbody>\n</table>\n",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-01.jpg?v=1738167658",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-02.jpg?v=1738167676",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-03.jpg?v=1738167676",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-P.jpg?v=1738167676",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-M.jpg?v=1738167676",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-G.jpg?v=1738167676",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-GG.jpg?v=1738167676",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-1XG.jpg?v=1738167676",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-2XG.jpg?v=1738167676"
-    ],
-    "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
-    "specs": {
-      "Material": "Tecido técnico leve corta-vento (Semi-impermeável)",
-      "Diferenciais": "Design ultraleve e compacto (não ocupa espaço na mochila), estilo versátil para uso diário",
-      "Proteção": "Bloqueio eficiente contra vento frio e respingos d'água"
-    },
-    "section": "Vestuário",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-01.jpg?v=1738167658",
-    "colors": [
-      [
-        "Preta",
-        "#888888"
-      ]
-    ],
-    "colorImages": {
-      "Preta": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-01.jpg?v=1738167658"
-    }
-  },
-  {
-    "id": 83,
-    "slug": "blusa-corta-vento-esporte",
-    "category": "Vestuário",
-    "name": "Blusa Corta Vento Esporte",
-    "price": "R$ 119,00",
-    "img": "assets/img/shopify/capa_29c7635b-6c50-4d01-ab38-79cc9c4e900d.png",
-    "link": "https://chumbadas.com.br/products/blusa-corta-vento-chumbada-1?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "P",
-        ""
-      ],
-      [
-        "M",
-        ""
-      ],
-      [
-        "G",
-        ""
-      ],
-      [
-        "GG",
-        ""
-      ],
-      [
-        "1XG",
-        ""
-      ],
-      [
-        "2XG",
-        ""
-      ]
-    ],
-    "swatches": [
-      [
-        "Azul Claro",
-        "#38bdf8"
-      ],
-      [
-        "Azul Escuro",
-        "#1e3a8a"
-      ],
-      [
-        "Branco",
-        "#ffffff"
-      ],
-      [
-        "Laranja",
-        "#f97316"
-      ]
-    ],
-    "description": "<p>Blusa Corta Vento - Alta Qualidade e Versatilidade</p>\n<p>Descubra a Blusa Corta Vento, projetada para oferecer proteção e conforto em qualquer ocasião. Feita com material de alta qualidade, esta blusa é ideal para bloquear o vento, mantendo você aquecido e protegido. </p>\n<p>Com um design ultraleve e compacto, a Blusa Corta Vento é perfeita para ser levada em suas aventuras de pescaria sem ocupar espaço na sua mochila. Além disso, sua beleza e estilo tornam-a uma peça versátil, adequada para o uso no dia a dia. </p>\n<p>Disponível na elegante cor azul escuro, esta blusa não só proporciona funcionalidade, mas também um toque moderno ao seu guarda-roupa. Seja para enfrentar o vento frio durante a pescaria ou para compor um visual casual, a Blusa Corta Vento é a escolha ideal para quem busca praticidade sem abrir mão do estilo.</p>\n<!---->\n<h4>Tabela de Medidas</h4>\n<table class=\"size-table\">\n  <thead>\n    <tr>\n      <th>Tamanho</th>\n      <th>P</th>\n      <th>M</th>\n      <th>G</th>\n      <th>GG</th>\n      <th>EXG</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Largura</td>\n      <td>56</td>\n      <td>58</td>\n      <td>60</td>\n      <td>62</td>\n      <td>68</td>\n    </tr>\n    <tr>\n      <td>Altura</td>\n      <td>65</td>\n      <td>67</td>\n      <td>70</td>\n      <td>72</td>\n      <td>80</td>\n    </tr>\n  </tbody>\n</table>\n",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa_29c7635b-6c50-4d01-ab38-79cc9c4e900d.png?v=1737554984",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-azul-claro.jpg?v=1737554984",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-branco.jpg?v=1737554984",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-laranja.jpg?v=1737554984",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-chumbada.png?v=1737567843",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-chumbada-costas.png?v=1737567843",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/P_2.jpg?v=1737567843",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/M_2.jpg?v=1737567843",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/G_2.jpg?v=1737567843",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/GG_2.jpg?v=1737567843",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1XG_2.jpg?v=1737567843",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/2XG_2.jpg?v=1737567843"
-    ],
-    "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
-    "specs": {
-      "Material": "Tecido técnico leve corta-vento (Semi-impermeável)",
-      "Diferenciais": "Design ultraleve e compacto, ótimo caimento para prática esportiva dinâmica",
-      "Proteção": "Bloqueio eficiente contra vento frio e respingos d'água"
-    },
-    "section": "Vestuário",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa_29c7635b-6c50-4d01-ab38-79cc9c4e900d.png?v=1737554984",
-    "colors": [
-      [
-        "Azul Claro",
-        "#888888"
-      ],
-      [
-        "Azul Escuro",
-        "#888888"
-      ],
-      [
-        "Branco",
-        "#888888"
-      ],
-      [
-        "Laranja",
-        "#888888"
-      ]
-    ],
-    "colorImages": {
-      "Azul Claro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-azul-claro.jpg?v=1737554984",
-      "Azul Escuro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-chumbada.png?v=1737567843",
-      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-branco.jpg?v=1737554984",
-      "Laranja": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-laranja.jpg?v=1737554984"
-    }
-  },
-  {
-    "id": 84,
-    "slug": "blusa-corta-vento-presa-viva",
-    "category": "Vestuário",
-    "name": "Blusa Corta Vento Presa Viva",
-    "price": "R$ 260,00",
-    "img": "assets/img/shopify/corta-vento-capa.png",
-    "link": "https://chumbadas.com.br/products/blusa-corta-vento-presa-viva-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "P",
-        ""
-      ],
-      [
-        "M",
-        ""
-      ],
-      [
-        "G",
-        ""
-      ],
-      [
-        "GG",
-        ""
-      ],
-      [
-        "EXG",
-        ""
-      ]
-    ],
-    "description": "<p>Blusa Corta Vento - Alta Qualidade e Versatilidade</p>\n<p>Descubra a Blusa Corta Vento, projetada para oferecer proteção e conforto em qualquer ocasião. Feita com material de alta qualidade, esta blusa é ideal para bloquear o vento, mantendo você aquecido e protegido. </p>\n<p>Com um design ultraleve e compacto, a Blusa Corta Vento é perfeita para ser levada em suas aventuras de pescaria sem ocupar espaço na sua mochila. Além disso, sua beleza e estilo tornam-a uma peça versátil, adequada para o uso no dia a dia. </p>\n<p>Disponível na elegante cor azul escuro, esta blusa não só proporciona funcionalidade, mas também um toque moderno ao seu guarda-roupa. Seja para enfrentar o vento frio durante a pescaria ou para compor um visual casual, a Blusa Corta Vento é a escolha ideal para quem busca praticidade sem abrir mão do estilo.</p>\n<!---->\n<h4>Tabela de Medidas</h4>\n<table class=\"size-table\">\n  <thead>\n    <tr>\n      <th>Tamanho</th>\n      <th>P</th>\n      <th>M</th>\n      <th>G</th>\n      <th>GG</th>\n      <th>EXG</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Largura</td>\n      <td>56</td>\n      <td>58</td>\n      <td>60</td>\n      <td>62</td>\n      <td>68</td>\n    </tr>\n    <tr>\n      <td>Altura</td>\n      <td>65</td>\n      <td>67</td>\n      <td>70</td>\n      <td>72</td>\n      <td>80</td>\n    </tr>\n  </tbody>\n</table>\n",
-    "images": [
-      "assets/img/shopify/corta-vento-capa.png",
-      "assets/img/shopify/Corta-Vento.png",
-      "assets/img/shopify/photo_2024-05-17_10-18-31_e8372812-e178-46e9-9421-0f3604b60daf.jpg"
-    ],
-    "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
-    "specs": {
-      "Material": "Tecido técnico leve corta-vento (Semi-impermeável) especial Presa Viva",
-      "Diferenciais": "Design ultraleve, alta durabilidade e costuras elásticas reforçadas",
-      "Proteção": "Bloqueio de vento e conforto térmico excepcional na beira da água"
-    },
-    "section": "Vestuário"
-  },
-  {
-    "name": "Camiseta de Pesca Chumbada Oficial",
-    "desc": "<p><img src=\"https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tabela-de-tamanhos-camiseta.png?v=1732043769\" alt=\"\"></p>\n<p>Camisa 100% poliester, com fator de proteção solar 35. Estampa em impressão digital.</p>",
-    "specs": {},
-    "price": "142.00",
-    "category": "Camisa",
-    "section": "Camisa",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/camisa-nova.jpg?v=1776693530"
-  },
-  {
-    "name": "Jaqueta de Pesca",
-    "desc": "<p><strong><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tabela-de-tamanhos-jaqueta.png?v=1732043770\">Jaqueta de Pesca Chumbada Oficial</strong></p>\n<p>Mantenha-se aquecido e protegido com a Jaqueta de Pesca Chumbada Oficial. Com uma arte exclusiva de um pescador nas costas, esta jaqueta combina estilo e funcionalidade. Feita em azul escuro, é perfeita para dias frios e ventosos, oferecendo conforto térmico e resistência ao vento. A frase \"Chumbada Oficial\" está estampada em uma manga, enquanto \"Pescar é Viver\" na outra, reforça a paixão pela pesca. Ideal para pescadores que buscam desempenho e estilo nas suas aventuras.</p>",
-    "specs": {},
-    "price": "399.00",
-    "category": "Vestuário",
-    "section": "Vestuário",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/jaqueta-frente.png?v=1776190685"
-  },
-  {
-    "name": "Camiseta de Pesca Masculina",
-    "desc": "<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tabela-de-tamanhos-camiseta.png?v=1732043769\">Camisa 100% poliester, com fator de proteção solar 35. Estampa em impressão digital.</p>",
-    "specs": {},
-    "price": "95.00",
-    "category": "Vestuário",
-    "section": "Vestuário",
-    "colors": [],
-    "colorImages": {},
-    "sizes": [
-      "G",
-      "XG",
-      "XXG",
-      "EXG"
-    ],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa.png?v=1784562308",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa.png?v=1784562308",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa-capa.png?v=1725024037",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/camisa-nova.jpg?v=1725024039"
-    ]
-  },
-  {
-    "name": "Miçangas de Vidro (Pacote com 500)",
-    "desc": "<p>Para usos diversos</p>\n<p>Diâmetro Externo 2,5mm</p>\n<p>Ideal para linhas de até 0,8mm</p>\n<p>Contém 500 unidades</p>",
-    "specs": {},
-    "price": "6.20",
+    "id": 34,
+    "slug": "regua-cantoneira",
     "category": "Acessórios",
-    "section": "Acessórios",
-    "colors": [
-      [
-        "Amarela",
-        "#888888"
-      ],
-      [
-        "Areia",
-        "#888888"
-      ],
-      [
-        "Azul Clara",
-        "#888888"
-      ],
-      [
-        "Azul Escura",
-        "#888888"
-      ],
-      [
-        "Camaleão",
-        "#888888"
-      ],
-      [
-        "Cristal",
-        "#888888"
-      ],
-      [
-        "Laranja",
-        "#888888"
-      ],
-      [
-        "Marrom",
-        "#888888"
-      ],
-      [
-        "Rosa",
-        "#888888"
-      ],
-      [
-        "Verde",
-        "#888888"
-      ],
-      [
-        "Vermelha",
-        "#888888"
-      ]
-    ],
-    "colorImages": {
-      "Amarela": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-amarela.png?v=1725025338",
-      "Areia": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-areia.png?v=1725025338",
-      "Azul Clara": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-azul-claro.png?v=1725025338",
-      "Azul Escura": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-azul-escuro.png?v=1725025338",
-      "Camaleão": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-camaleao.png?v=1725025338",
-      "Cristal": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-cristal.png?v=1725025338",
-      "Laranja": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-laranja.png?v=1725025338",
-      "Marrom": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-marrom.png?v=1725025338",
-      "Rosa": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-rosa.png?v=1725025338",
-      "Verde": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-verde.png?v=1725025338",
-      "Vermelha": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-vermelha.png?v=1725025338"
-    },
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/micanga-de-vidro-capa.png?v=1725025334",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/micanga-de-vidro-capa.png?v=1725025334",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-amarela.png?v=1725025338",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-areia.png?v=1725025338",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-azul-claro.png?v=1725025338",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-azul-escuro.png?v=1725025338",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-camaleao.png?v=1725025338",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-cristal.png?v=1725025338",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-laranja.png?v=1725025338",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-marrom.png?v=1725025338",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-verde.png?v=1725025338",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-vermelha.png?v=1725025338",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-rosa.png?v=1725025338"
-    ]
-  },
-  {
-    "name": "Copo para Suporte de Vara Premium",
-    "desc": "<p>Copo para Suporte de Vara<span data-mce-fragment=\"1\"> - </span><span data-mce-fragment=\"1\">compatível com cantoneira de 1\" de largura por 1/8\" de espessura ou 25,4mm X 3,175mm.</span></p>",
-    "specs": {},
-    "price": "14.04",
-    "category": "Suportes",
-    "section": "Suportes",
-    "colors": [
-      [
-        "Preto",
-        "#888888"
-      ],
-      [
-        "Branco",
-        "#888888"
-      ]
-    ],
-    "colorImages": {
-      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CopoSuportedeVara1_ee277d55-700c-425f-a246-1efe991a0b1b.png?v=1725026401",
-      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/base-06.png?v=1725026401"
-    },
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo-capa.png?v=1725026399",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo-capa.png?v=1725026399",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CopoSuportedeVara1_ee277d55-700c-425f-a246-1efe991a0b1b.png?v=1725026401",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/base-06.png?v=1725026401"
-    ]
-  },
-  {
-    "name": "Ferradura para Suporte de Vara Premium",
-    "desc": "Ferradura para Suporte de Vara<span data-mce-fragment=\"1\"> - </span><span data-mce-fragment=\"1\">compatível com cantoneira de 1\" de largura por 1/8\" de espessura ou 25,4mm X 3,175mm.</span>",
-    "specs": {},
-    "price": "12.48",
-    "category": "Suportes",
-    "section": "Suportes",
-    "colors": [
-      [
-        "Preto",
-        "#888888"
-      ],
-      [
-        "Branco",
-        "#888888"
-      ]
-    ],
-    "colorImages": {
-      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ferradura-08.png?v=1757939203"
-    },
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ferradura-preta.png?v=1757939203",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ferradura-preta.png?v=1757939203",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ferradura-08.png?v=1757939203",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ferradura-preta-2.png?v=1757939203"
-    ]
-  },
-  {
-    "name": "Kit Destorcedor",
-    "desc": "<span>O Destorcedor para Pesca é um equipamento que foi desenvolvido para facilitar a prática de pesca. Ele é composto por um corpo principal feito de material resistente, como aço inoxidável, e por duas extremidades que se conectam a uma linha de pesca.</span><br><br><span>Sua principal função é evitar que a linha de pesca fique torcida, o que pode dificultar a captura de peixes e até mesmo causar danos à linha. Com o Destorcedor, a linha de pesca é mantida reta e livre de torções, o que aumenta a eficiência da pescaria.</span><br><br><span>O Destorcedor pode ser utilizado em diversas modalidades de pesca, como a pesca de água doce ou salgada, em rios, lagos ou no mar. Ele é de fácil utilização, bastando apenas conectá-lo à linha de pesca e deixar que ele faça o seu trabalho.</span><br><br><span>Além disso, o Destorcedor é um equipamento durável e resistente, capaz de suportar as condições mais adversas de pesca. Seu design compacto e leve permite que ele seja facilmente transportado na caixa de pesca, tornando-se um acessório indispensável para todo pescador.</span><br><br><span>Temos 4 tamanhos disponíveis que irão atender a diversas modalidades de pesca:</span><br><span>Destorcedor 7mm = 4Kg de capacidade</span><br><span>Destorcedor 11mm = 19Kg de capacidade</span><br><span>Destorcedor 15mm = 35Kg de capacidade</span><br><span>Destorcedor 25mm = 75Kg de capacidade</span>",
-    "specs": {},
-    "price": "4.91",
-    "category": "Montagem",
-    "section": "Montagem",
-    "colors": [],
-    "colorImages": {},
-    "sizes": [
-      "4kg 7mm (14unid)",
-      "19kg 11mm (12unid)",
-      "75kg 25mm (5unid)"
-    ],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Destorcedor-capa.png?v=1725025033",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Destorcedor-capa.png?v=1725025033",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Destorcedor_54f6d99b-982a-4d68-b6ef-981613cc955b.jpg?v=1725025037",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Destorcedor-7mm-frente_7d725e2c-c338-441b-a3bf-6d24d3ef9efd.jpg?v=1725025037",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Destorcedor-7mm-costas_851d4736-5ede-44da-a0e7-71992bb16625.jpg?v=1725025037",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Destorcedor-11mm-frente_7a63ff66-1128-43fb-b0ed-218881a7b7a0.jpg?v=1725025037",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Destorcedor-15mm-frente_cdef0adb-af66-48d7-9cba-d566d20e1d64.jpg?v=1725025037",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Destorcedor-25mm-frente_d004420e-131f-4f4c-a953-bb0e8385bdaa.jpg?v=1725025037"
-    ]
-  },
-  {
-    "id": 73,
-    "slug": "porta-pernadas-e-chicotes",
-    "category": "Organização",
-    "name": "Porta Pernadas e Chicotes",
-    "price": "R$ 29,90",
-    "img": "assets/img/shopify/sedalha-areia-capa.png",
-    "link": "https://chumbadas.com.br/collections/chicotes-montados",
-    "vars": null,
-    "description": "<p>Este produto contém 30 canais superiores e 30 canais inferiores. Nele é possível acomodar pernadas (anzóis empatados), chicotes com pernadas. A vantagem do porta pernada e chicote é que o mesmo causa menos memória nas linhas usadas por mantê-las esticadas, outra vantagem é seu formato plano comprido que ocupa pouco espaço em sua caixa de pesca.</p><p>Medida: 32 x 8,5 cm</p>",
-    "images": [
-      "assets/img/shopify/sedalha-areia-capa.png",
-      "assets/img/shopify/sedalha-areia.png",
-      "assets/img/shopify/sedalha-azul.png",
-      "assets/img/shopify/sedalha-azul-claro.png",
-      "assets/img/shopify/sedalha-rosa.png",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_pernada_e_chicotes_branco.jpg?v=1738591758",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_pernada_e_chicotes_preto.jpg?v=1738591758"
-    ],
-    "video": "",
-    "specs": {
-      "Comprimento/Medida": "8,5 CM",
-      "Dimensões": "32X8,5CM",
-      "Capacidade": "60 Canais (30 Sup. / 30 Inf.)",
-      "Indicação": "Acomodar pernadas (anzóis empatados)"
-    },
-    "section": "Organização",
-    "swatches": [
-      [
-        "Azul",
-        "#2563eb"
-      ],
-      [
-        "Branco",
-        "#ffffff"
-      ],
-      [
-        "Rosa",
-        "#ec4899"
-      ],
-      [
-        "Areia",
-        "#ece0ca"
-      ],
-      [
-        "Preto",
-        "#111827"
-      ]
-    ],
-    "colorImages": {
-      "Azul": "assets/img/shopify/sedalha-azul.png",
-      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_pernada_e_chicotes_branco.jpg?v=1738591758",
-      "Rosa": "assets/img/shopify/sedalha-rosa.png",
-      "Areia": "assets/img/shopify/sedalha-areia.png",
-      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_pernada_e_chicotes_preto.jpg?v=1738591758"
-    },
-    "sizes": null
-  },
-  {
-    "id": 32,
-    "slug": "porta-pernada-e-chicote",
-    "category": "Organização",
-    "name": "Porta Pernada e Chicote",
-    "price": "R$ 30,00",
-    "img": "assets/img/shopify/cano-capa.png",
-    "link": "https://chumbadas.com.br/products/porta-pernadas-e-chicotes?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "swatches": [
-      [
-        "Azul",
-        "#2563eb"
-      ],
-      [
-        "Branco",
-        "#ffffff"
-      ],
-      [
-        "Marrom",
-        "#8a5a36"
-      ]
-    ],
-    "description": "<a href=\"https://youtu.be/tcXANAsZPk8\" title=\"Entenda o Porta Pernada Cano\">Porta Pernada Cano</a> – escolha de maneira fácil a pernada a ser usada, nesse novo organizador de anzóis empatados o pescador tem a opção de guardar 50 ou 100 anzóis (dependendo do tamanho do anzol) nos 50 canais divididos ao redor do produto.<br data-mce-fragment=\"1\">O Porta Pernada Cano é composto por um apoio de anzol, um pedaço de cano de esgoto 50mm padrão de mercado e uma peça de borracha onde é travada a linha, o mesmo será vendido em 8 configurações diferentes 30cm, 40cm, 50cm, 60cm, 70cm, 80cm, 100cm e a opção 30/60cm onde é possível guardar pernadas de 30cm e 60cm no mesmo cano pois o Trava Linha Cano de borracha tem um conector onde é possível estender o conjunto com mais canos.<br data-mce-fragment=\"1\">O comprador pode escolher adquirir o Porta Pernada Cano completo, somente o cano já cortado na medida para 30cm, 40cm, 50cm, 60cm, 70cm, 80cm, 100cm ou comprar somente as peças que fazem sua composição o Apoio Anzol Cano ou o Trava Linha Cano (borracha).",
-    "images": [
-      "assets/img/shopify/cano-capa.png",
-      "assets/img/shopify/30-cm-banco_24e57b07-67cb-4b0f-9828-253d4e3ec9fd.png",
-      "assets/img/shopify/todos_a61a20cf-866a-4a1d-a0fa-59510ba755fd.png",
-      "assets/img/shopify/30-cm-azul-regua_376cc6b4-1160-4d5c-b523-be2cbe671648.png",
-      "assets/img/shopify/30-cm-banco-regua_02370db5-378e-4070-b6e9-852bbfac9cdf.png",
-      "assets/img/shopify/30-e-60-branco-regua_d8f1d52e-603e-4e64-bee6-2f12e81baf32.png",
-      "assets/img/shopify/40-cm-azul-regua_6495daf4-3220-434a-b994-277e00969399.png",
-      "assets/img/shopify/40-cm-banco-regua_58e2bc0c-46f3-4fde-bcf8-6dbb33804f90.png",
-      "assets/img/shopify/40-cm-azul-regua_d32270c8-fe09-48ef-84b3-3fa584aeb439.png",
-      "assets/img/shopify/50-cm-banco-regua_53482abb-2fa1-4b44-b86b-bace6b09a6de.png",
-      "assets/img/shopify/50-cm-azul-regua_5a0e8a91-19a2-41dc-ab33-cbe413896845.png",
-      "assets/img/shopify/60-cm-banco-regua_e6bd7a1e-d2b3-41ed-aa2b-b6998f3431e2.png",
-      "assets/img/shopify/60-cm-azul-regua_4b7c222f-13bb-4c1a-8837-d8aee716065c.png",
-      "assets/img/shopify/70-cm-banco-regua_dc6de201-d58a-44d0-ad6f-dd98fb04f8b3.png",
-      "assets/img/shopify/70-cm-azul-regua_637cc206-7579-4caf-9109-485de694315b.png",
-      "assets/img/shopify/80-cm-banco-regua_7ff9c07c-1249-4fdc-83ae-b34b9fa570e7.png",
-      "assets/img/shopify/80-cm-azul-regua_4b071c6d-019c-41b2-ab5c-7c6f7fe52006.png",
-      "assets/img/shopify/100-cm-banco-regua_ec48c982-5dc9-4420-924b-acdcdb81e324.png",
-      "assets/img/shopify/100-cm-azul-regua_109bc051-c339-4701-b570-6cfa3965d1ad.png",
-      "assets/img/shopify/80-cm-banco-regua_71d32656-c353-440b-aedf-c83b4cce2322.png",
-      "assets/img/shopify/SomenteCanoBranco_edf334b2-400f-4657-b93d-32b34b7b5256.jpg",
-      "assets/img/shopify/SomenteCanoBranco_3484c864-4b72-4a56-9f2a-753a47a8b43f.jpg",
-      "assets/img/shopify/SomenteCanoBranco_e0115922-fbf2-4c1c-9b44-75c48daa7a9b.jpg",
-      "assets/img/shopify/SomenteCanoBranco_33cce13b-6a8a-43eb-a42e-c25925f0b4af.jpg",
-      "assets/img/shopify/SomenteCanoBranco_6babf043-cb84-4d3c-a509-a71f1d22dc2d.jpg",
-      "assets/img/shopify/SomenteCanoAzul_9e637403-fc0c-41ff-ad30-463aac2483d6.jpg",
-      "assets/img/shopify/SomenteCanoAzul_56796aae-3372-4234-9302-ac86f289b659.jpg",
-      "assets/img/shopify/SomenteCanoAzul_81c8cb18-1f3e-4158-a0d8-3e648fa9a18e.jpg",
-      "assets/img/shopify/SomenteCanoBranco_96f76d3f-3fe9-435b-98f7-2337b3bf0bb5.jpg",
-      "assets/img/shopify/SomenteCanoAzul_2cf372e3-b297-4a7d-b34f-4d903530be8c.jpg",
-      "assets/img/shopify/SomenteCanoAzul_0b82ef60-2fcd-40e6-9e30-b77c1595346d.jpg",
-      "assets/img/shopify/SomenteCanoAzul_d92759f2-0c70-41fe-8505-7695d4daf13a.jpg",
-      "assets/img/shopify/SomenteCanoAzul_60d195b3-66f6-4bad-a6fd-b1fc477a1be5.jpg",
-      "assets/img/shopify/SomenteCanoAzul_5d4b0b05-fe5e-4b96-9832-942683d50475.jpg",
-      "assets/img/shopify/SomenteCanoAzul_199cd214-c813-467e-ab16-febbc0324bf1.jpg",
-      "assets/img/shopify/SomenteCanoBranco_a9bf3d69-5ee0-47cd-bf79-35b6ca4913ee.jpg",
-      "assets/img/shopify/SomenteCanoBranco_bcf0533f-1e0a-4270-8026-c49a3ac524e4.jpg",
-      "assets/img/shopify/SomenteCanoBranco_84638a37-5753-4183-a71c-301af262fb5d.jpg",
-      "assets/img/shopify/SomenteCanoAzul_307f4a48-a16e-4dd7-9b86-82a35db89632.jpg",
-      "assets/img/shopify/30cm-marrom_4aa55bbc-ab4f-44e0-9c37-d56b04cf00f8.png",
-      "assets/img/shopify/30-60cm_c7df46b8-6d6e-4564-93c0-687a0bdf4f8f.png",
-      "assets/img/shopify/40cm_e44bb8d6-7be4-49cb-b370-8d82f215e5c0.png",
-      "assets/img/shopify/50cm_bb8b1f4c-7afc-4b13-bbe6-338a58e701a2.png",
-      "assets/img/shopify/60cm_482d05d6-f5e6-4d36-aedc-454a6a3b573b.png",
-      "assets/img/shopify/70cm_6f2163e6-b02b-471b-9e4f-a3c763ca1678.png",
-      "assets/img/shopify/80cm_0205724a-9fd7-4aef-95f5-389f12d25a67.png",
-      "assets/img/shopify/100cm_887f5489-3aa2-4094-be68-091b21b52f17.png",
-      "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
-      "assets/img/shopify/somente-cano-40cm_e6bca2ec-d0b2-4b79-b6cf-30cf21387706.png",
-      "assets/img/shopify/somente-cano-50cm_6e62cfdb-4e63-492e-8e19-f6db40bd566a.png",
-      "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
-      "assets/img/shopify/somente-cano-70cm_bcfbc84d-03ad-489d-87fa-50f969953709.png",
-      "assets/img/shopify/somente-cano-80cm_78f92977-f490-467b-92c2-d9fa9b1067dd.png",
-      "assets/img/shopify/somente-cano-100cm_a52c9c44-de3c-40a3-990c-bda2fabe13dd.png",
-      "assets/img/shopify/20cm-azul.png",
-      "assets/img/shopify/marrom.png",
-      "assets/img/shopify/branco.png",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio.png?v=1725024070",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/suporte-3_49d86944-6027-4fee-a41f-89707bb55c86.png?v=1725024074"
-    ],
-    "video": "https://youtu.be/tcXANAsZPk8",
-    "specs": {
-      "Material": "Borracha premium",
-      "Comprimento/Medida": "30CM"
-    },
-    "section": "Organização",
-    "colorImages": {
-      "Azul": "assets/img/shopify/SomenteCanoAzul_9e637403-fc0c-41ff-ad30-463aac2483d6.jpg",
-      "Branco": "assets/img/shopify/SomenteCanoBranco_edf334b2-400f-4657-b93d-32b34b7b5256.jpg",
-      "Marrom": "assets/img/shopify/30cm-marrom_4aa55bbc-ab4f-44e0-9c37-d56b04cf00f8.png"
-    },
+    "name": "Régua Cantoneira",
+    "price": "a partir de R$ 16,79",
+    "img": "assets/img/shopify/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png",
+    "link": "https://chumbadas.com.br/products/regua-cantoneira?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
-      [
-        "30cm",
-        "R$ 30,00"
-      ],
-      [
-        "40cm",
-        "R$ 32,00"
-      ],
       [
         "50cm",
-        "R$ 34,00"
-      ],
-      [
-        "60cm",
-        "R$ 36,00"
-      ],
-      [
-        "70cm",
-        "R$ 38,00"
-      ],
-      [
-        "80cm",
-        "R$ 40,00"
+        "R$ 16,79"
       ],
       [
         "100cm",
-        "R$ 44,00"
-      ],
-      [
-        "Apoio de Anzol (Reposição)",
-        "R$ 2,69"
+        "R$ 24,75"
       ]
     ],
-    "varImages": {
-      "30cm": "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
-      "40cm": "assets/img/shopify/somente-cano-40cm_e6bca2ec-d0b2-4b79-b6cf-30cf21387706.png",
-      "50cm": "assets/img/shopify/somente-cano-50cm_6e62cfdb-4e63-492e-8e19-f6db40bd566a.png",
-      "60cm": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
-      "70cm": "assets/img/shopify/somente-cano-70cm_bcfbc84d-03ad-489d-87fa-50f969953709.png",
-      "80cm": "assets/img/shopify/somente-cano-80cm_78f92977-f490-467b-92c2-d9fa9b1067dd.png",
-      "100cm": "assets/img/shopify/somente-cano-100cm_a52c9c44-de3c-40a3-990c-bda2fabe13dd.png",
-      "Apoio de Anzol (Reposição)": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio.png?v=1725024070"
-    }
-  },
-  {
-    "id": 730,
-    "slug": "chicotes-montados-3-unidades",
-    "category": "Montagem",
-    "name": "Chicotes Montados (3 unidades)",
-    "price": "a partir de R$ 28,60",
-    "img": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/fundo-capa.webp?v=1737636375",
-    "link": "https://chumbadas.com.br/collections/chicotes-montados",
-    "description": "<p>Chicotes montados prontos para uso, fabricados com linhas de excelente qualidade e equipados com rotores de engate rápido com stopper.</p><ul><li><b>Beira:</b> Ideal para pesca abaixo de 40m. Linha vermelha 0.32mm.</li><li><b>Meia Água:</b> Ideal para pesca entre 40m e 100m. Linha vermelha 0.42mm.</li><li><b>Fundo:</b> Ideal para pesca acima de 100m. Linha vermelha 0.62mm.</li><li><b>Finesse:</b> Desenvolvido para capturas sutis com rotor micro V.</li></ul>",
+    "description": "Régua a prova d'agua com 15cm de largura, as medidas são extremamente precisas e aferidas individualmente.<br data-mce-fragment=\"1\">Cantoneira desenvolvida especialmente para essa finalidade, resistente, cantos arredondados e espessuras com raio para não ter problema no transporte, cola especial, a mesma não desgruda nem em contato com a água.",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/fundo-capa.webp?v=1737636375",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa-beira_p.jpg?v=1737636486",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/meia-agua-capa_1_76b66870-2364-4e10-b85c-486a4c29f38f.webp?v=1737637449",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/fundo_capa.webp?v=1737636782",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chicote-finesse-capa.webp?v=1737637378",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-13_9199f71d-b95c-4d72-b1b0-16fb351fcf0c.png?v=1737636486",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-14_d5202550-ffd9-43cf-95ae-3c796c3b4b63.png?v=1737636486",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-09_4abfa100-cd27-470b-85a7-eb51806ef1f3.png?v=1737637449",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-10_698c8c9b-51b5-4cae-aaeb-45cdeb2baa40.png?v=1737637449",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-11_2746424b-ff6c-48ad-9fe2-57969ea201c4.png?v=1737637449",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-12_6b0c46f0-c752-46a6-b59b-68879349053a.png?v=1737637449",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-01_0687d65a-ff2c-4c55-bbac-f497a0217c6b.png?v=1737636375",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-02_f11db813-2538-41a9-ae54-140dcf0e107f.png?v=1737636375",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-03_5b05a6b5-da11-4f4e-89cc-68d94747e16b.png?v=1737636375",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-04_5eac5caa-0e32-40ed-993c-bc826855adb9.png?v=1737636375",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-17_42f1ff77-58eb-4f62-8111-c3521ea8566e.png?v=1737636375",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-18_60bd0fae-18fc-4833-8608-e9e7aaebccb1.png?v=1737636375",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-05_2a35b456-ea1f-4c96-a08e-7f1fc759c71d.png?v=1737636782",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-06_eb775414-8375-477e-8a2c-294a0f142218.png?v=1737636782",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-07_db0d0216-b8ce-44ba-8762-4cdabc72bff3.png?v=1737636782",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-08_41a4da33-8559-469e-9ffa-6ce1cadaf1fa.png?v=1737636782",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-153_f237610c-46e0-4309-984d-51f34858faf3.png?v=1737636782",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-16_ded8a465-57af-4eec-8e09-425e61590955.png?v=1737636782",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chicote-finesse.png?v=1737637378"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png?v=1725025582",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-aberta.png?v=1725025585",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-50cm.png?v=1725025585",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-100cm.png?v=1725025585",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_preta.jpg?v=1773072063",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_azul.jpg?v=1773072064"
     ],
     "video": "",
     "specs": {
-      "Material": "Monofilamento / Fluorocarbono",
-      "Quantidade": "3 unidades por pacote",
-      "Rotores": "Equipado com Rotores de Engate Rápido e Stopper"
+      "Material": "Cantoneira plástica especial resistente e adesivo de alta aderência",
+      "Dimensões": "15cm de largura (Medidas extremamente precisas e aferidas individualmente)",
+      "Diferenciais": "Cantos arredondados, raio antiqueda para transporte e cola à prova d'água"
     },
-    "vars": [
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png?v=1725025582",
+    "colors": [
       [
-        "Beira - Modelo 13",
-        "R$ 28,60"
+        "Preto",
+        "#888888"
       ],
       [
-        "Beira - Modelo 14",
-        "R$ 28,60"
-      ],
-      [
-        "Meia Água - Modelo 9",
-        "R$ 28,60"
-      ],
-      [
-        "Meia Água - Modelo 10",
-        "R$ 28,60"
-      ],
-      [
-        "Meia Água - Modelo 11",
-        "R$ 28,60"
-      ],
-      [
-        "Meia Água - Modelo 12",
-        "R$ 28,60"
-      ],
-      [
-        "Fundo 1,30m - Modelo 1",
-        "R$ 28,60"
-      ],
-      [
-        "Fundo 1,30m - Modelo 2",
-        "R$ 28,60"
-      ],
-      [
-        "Fundo 1,30m - Modelo 3",
-        "R$ 28,60"
-      ],
-      [
-        "Fundo 1,30m - Modelo 4",
-        "R$ 28,60"
-      ],
-      [
-        "Fundo 1,30m - Modelo 17",
-        "R$ 28,60"
-      ],
-      [
-        "Fundo 1,30m - Modelo 18",
-        "R$ 28,60"
-      ],
-      [
-        "Fundo 1,80m - Modelo 5",
-        "R$ 28,60"
-      ],
-      [
-        "Fundo 1,80m - Modelo 6",
-        "R$ 28,60"
-      ],
-      [
-        "Fundo 1,80m - Modelo 7",
-        "R$ 28,60"
-      ],
-      [
-        "Fundo 1,80m - Modelo 8",
-        "R$ 28,60"
-      ],
-      [
-        "Fundo 1,80m - Modelo 15",
-        "R$ 28,60"
-      ],
-      [
-        "Fundo 1,80m - Modelo 16",
-        "R$ 28,60"
-      ],
-      [
-        "Finesse 85cm - Rotor Micro V",
-        "R$ 33,80"
+        "Azul",
+        "#888888"
       ]
     ],
-    "varImages": {
-      "Beira - Modelo 13": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-13_9199f71d-b95c-4d72-b1b0-16fb351fcf0c.png?v=1737636486",
-      "Beira - Modelo 14": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-14_d5202550-ffd9-43cf-95ae-3c796c3b4b63.png?v=1737636486",
-      "Meia Água - Modelo 9": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-09_4abfa100-cd27-470b-85a7-eb51806ef1f3.png?v=1737637449",
-      "Meia Água - Modelo 10": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-10_698c8c9b-51b5-4cae-aaeb-45cdeb2baa40.png?v=1737637449",
-      "Meia Água - Modelo 11": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-11_2746424b-ff6c-48ad-9fe2-57969ea201c4.png?v=1737637449",
-      "Meia Água - Modelo 12": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-12_6b0c46f0-c752-46a6-b59b-68879349053a.png?v=1737637449",
-      "Fundo 1,30m - Modelo 1": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-01_0687d65a-ff2c-4c55-bbac-f497a0217c6b.png?v=1737636375",
-      "Fundo 1,30m - Modelo 2": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-02_f11db813-2538-41a9-ae54-140dcf0e107f.png?v=1737636375",
-      "Fundo 1,30m - Modelo 3": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-03_5b05a6b5-da11-4f4e-89cc-68d94747e16b.png?v=1737636375",
-      "Fundo 1,30m - Modelo 4": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-04_5eac5caa-0e32-40ed-993c-bc826855adb9.png?v=1737636375",
-      "Fundo 1,30m - Modelo 17": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-17_42f1ff77-58eb-4f62-8111-c3521ea8566e.png?v=1737636375",
-      "Fundo 1,30m - Modelo 18": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-18_60bd0fae-18fc-4833-8608-e9e7aaebccb1.png?v=1737636375",
-      "Fundo 1,80m - Modelo 5": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-05_2a35b456-ea1f-4c96-a08e-7f1fc759c71d.png?v=1737636782",
-      "Fundo 1,80m - Modelo 6": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-06_eb775414-8375-477e-8a2c-294a0f142218.png?v=1737636782",
-      "Fundo 1,80m - Modelo 7": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-07_db0d0216-b8ce-44ba-8762-4cdabc72bff3.png?v=1737636782",
-      "Fundo 1,80m - Modelo 8": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-08_41a4da33-8559-469e-9ffa-6ce1cadaf1fa.png?v=1737636782",
-      "Fundo 1,80m - Modelo 15": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-153_f237610c-46e0-4309-984d-51f34858faf3.png?v=1737636782",
-      "Fundo 1,80m - Modelo 16": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-16_ded8a465-57af-4eec-8e09-425e61590955.png?v=1737636782",
-      "Finesse 85cm - Rotor Micro V": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chicote-finesse.png?v=1737637378"
+    "colorImages": {
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_preta.jpg?v=1773072063",
+      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_azul.jpg?v=1773072064"
+    }
+  },
+  {
+    "id": 65,
+    "slug": "trava-linha",
+    "category": "Acessórios",
+    "name": "Trava Linha",
+    "price": "R$ 4,20",
+    "img": "assets/img/shopify/pesca-12.jpg",
+    "link": "https://chumbadas.com.br/products/trava-linha-cano-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>Linha de Multifilamento 4X – 300 metros | Chumbada Oficial</p>\n<p>Chegou a linha que fala a verdade.<br>A Verax 4X 300 m da Chumbada Oficial não é só mais uma multifilamento — é um novo padrão no mercado.</p>\n<p>Desenvolvida com alta tecnologia e testada por mais de 1 ano em condições reais de pesca, essa linha entrega o que promete: resistência de verdade e especificações honestas.</p>\n<p>O grande diferencial está no nome Verax — do latim, verdade, sinceridade.<br>Enquanto muitas marcas “maquiam” diâmetro e resistência, a Chumbada Oficial fez o caminho mais difícil: mostrar a realidade.</p>\n<p>👉 Espessura real<br>👉 Capacidade de tração real<br>👉 Sem exagero, sem enganação</p>\n<p>Compare com qualquer outra linha do mercado.<br>Meça. Teste. Coloque lado a lado.<br>Você vai perceber: a Verax entrega exatamente o que está na embalagem.</p>\n<p>Além da transparência, você leva uma linha:<br>✔ 4 fios de alta resistência<br>✔ Excelente sensibilidade<br>✔ Ótima performance de arremesso<br>✔ Baixa memória<br>✔ Alta durabilidade</p>\n<p>Se você busca performance, pode até encontrar várias opções.<br>Mas se você busca performance com verdade, a escolha é uma só.</p>\n<p>Chumbada Oficial – aqui a pesca é levada a sério. 🎣</p>\n<p>#ChumbadaOficial #LinhaVerax #Multifilamento #PescaEsportiva #Ajing #Ultralight #PescaDePraia #PescaBrasil #FishingLife #GearDePesca #PesqueESolte</p>",
+    "images": [
+      "assets/img/shopify/pesca-12.jpg",
+      "assets/img/shopify/pesca-11.jpg",
+      "assets/img/shopify/pesca-59.jpg",
+      "assets/img/shopify/pesca-62.jpg",
+      "assets/img/shopify/1_7e7f6ca2-e9fa-4fd2-a353-bd87ca20f9f0.jpg",
+      "assets/img/shopify/1_2.jpg",
+      "assets/img/shopify/1_5.jpg",
+      "assets/img/shopify/2_b6ee5156-7837-4a57-81f6-6099366220f0.jpg",
+      "assets/img/shopify/3.jpg",
+      "assets/img/shopify/3_5.jpg",
+      "assets/img/shopify/4_5.jpg",
+      "assets/img/shopify/5.jpg",
+      "assets/img/shopify/6_745b4c8c-ff0f-4ba3-9ce3-1fd17fdc3882.jpg",
+      "assets/img/shopify/8.jpg",
+      "assets/img/shopify/9.jpg",
+      "assets/img/shopify/10.jpg",
+      "assets/img/shopify/12.jpg",
+      "assets/img/shopify/linhaajing.jpg",
+      "assets/img/shopify/costas_b4940be1-8a74-414c-9903-c3be25aa3daf.jpg"
+    ],
+    "video": "",
+    "specs": {
+      "Comprimento/Medida": "300 METROS",
+      "Dimensões": "4X300M"
     },
-    "section": "Montagem"
+    "section": "Acessórios"
   }
 ];
