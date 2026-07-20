@@ -635,7 +635,10 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Material": "Plástico de engenharia de alta densidade"
+      "Material": "Linha multifilamento especial de alta resistência e guias plásticos",
+      "Conteúdo": "4 suportes plásticos guia com 3 nós cada (Total de 12 nós de correr por pacote)",
+      "Indicação": "Montagem de chicotes de pesca, pernadas reguláveis e ajuste de altura de boias",
+      "Função": "Atuar como trava/stopper móvel ajustável sem danificar ou marcar a linha principal"
     },
     "section": "Montagem"
   },
