@@ -164,13 +164,12 @@ window.PRODUCTS = [
     ],
     "description": "<p><span>Atrativo Cônico Chumbada Oficial<br><br>Chegou mais uma novidade para turbinar suas pescarias! O Atrativo Cônico Chumbada Oficial foi desenvolvido com um material de altíssima flutuabilidade (floating), sendo ideal para utilização próximo ao anzol, junto à isca natural.<br><br>Sua principal função é manter a isca mais suspensa e com um movimento muito mais natural, aproveitando a ação das ondas, correnteza e maré. Além disso, ajuda a evitar que o anzol fique escondido sob a areia, aumentando sua exposição e melhorando as chances de fisgada.<br><br>Disponível em diversas cores, o Atrativo Cônico permite inúmeras combinações para o pescador personalizar sua montagem. Você pode utilizar uma única peça, combinar duas ou mais cores, montar em sentidos opostos ou criar configurações exclusivas conforme a necessidade da pescaria.<br><br>Cada embalagem acompanha 5 filetes com 10 unidades cada, totalizando 50 atrativos por pacote, garantindo excelente rendimento e diversas possibilidades de montagem.<br><br>✔ Material extremamente floating<br>✔ Mantém a isca mais visível e atrativa<br>✔ Ajuda a evitar que o anzol fique encoberto pela areia<br>✔ Diversas cores disponíveis<br>✔ Inúmeras formas de montagem e utilização<br>✔ Embalagem com 50 unidades<br>Mais movimento, mais visibilidade e mais eficiência para suas montagens de praia, costão e pesca com iscas naturais! </span></p>",
     "images": [
-      "assets/img/shopify/atrativoconicolaranja.png",
-      "assets/img/shopify/conico-amarelo-neon.jpg",
-      "assets/img/shopify/conico-branco-perola.jpg",
-      "assets/img/shopify/conico-laranja-neon.png",
-      "assets/img/shopify/conico-preto-brilhante.png",
-      "assets/img/shopify/conico-vermelho-holográfico.jpg",
-      "assets/img/shopify/conico-verde-neon.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/atrativoconicolaranja.png?v=1782141294",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Branco-perola_123a60b5-d082-46f6-ae92-0abeb20d91a1.jpg?v=1772022823",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Vermelho-Holografico_bc47a346-be98-4a37-aed4-75f08e544e16.jpg?v=1765378331",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Verde-Neon_00efb8a7-72eb-4696-9c8e-85fd48bd0e04.jpg?v=1765378331",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/preto-brilhante.png?v=1782411246",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/medida_atrativo_conico.jpg?v=1783517580"
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
     "specs": {
@@ -205,7 +204,41 @@ window.PRODUCTS = [
         "Verde Neon",
         "R$ 13,50"
       ]
-    ]
+    ],
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/atrativoconicolaranja.png?v=1782141294",
+    "colors": [
+      [
+        "Amarelo Neon",
+        "#888888"
+      ],
+      [
+        "Branco Pérola",
+        "#888888"
+      ],
+      [
+        "Laranja Neon",
+        "#888888"
+      ],
+      [
+        "Preto Brilhante",
+        "#888888"
+      ],
+      [
+        "Vermelho Holográfico",
+        "#888888"
+      ],
+      [
+        "Verde Neon",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Branco Pérola": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Branco-perola_123a60b5-d082-46f6-ae92-0abeb20d91a1.jpg?v=1772022823",
+      "Laranja Neon": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/atrativoconicolaranja.png?v=1782141294",
+      "Preto Brilhante": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/preto-brilhante.png?v=1782411246",
+      "Vermelho Holográfico": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Vermelho-Holografico_bc47a346-be98-4a37-aed4-75f08e544e16.jpg?v=1765378331",
+      "Verde Neon": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Verde-Neon_00efb8a7-72eb-4696-9c8e-85fd48bd0e04.jpg?v=1765378331"
+    }
   },
   {
     "id": 61,
@@ -227,11 +260,11 @@ window.PRODUCTS = [
     ],
     "description": "<p><b>Mini Secretária Chumbada Oficial </b><br><br>A Mini Secretária foi desenvolvida para facilitar a vida do pescador na hora da pescaria.<br><br>Compacta, prática e muito funcional, ela pode ser utilizada como uma bandeja de apoio para organizar os acessórios e trabalhar a isca com mais conforto e agilidade.<br><br>Pode ser usada em diferentes opções de encaixe:<br><br>Na cantoneira dos suportes de vara, na cantoneira Premium e Slim ou até mesmo em cano comum de esgoto de 2”.<br><br>Nela, o pescador pode apoiar e organizar itens como tesoura, saca-anzol, porta elastricot, iscador, iscas e outros acessórios essenciais durante a pescaria.<br><br>Além disso, conta com espaço próprio para apoiar e preparar a isca, deixando tudo à mão e tornando o momento da montagem muito mais prático.<br><br>Disponível nas opções <b>Preto Eco</b>, <b>Preta</b>, <b>Branca</b> e <b>Azul</b>.<br><br><b>Mini Secretária Chumbada Oficial: pequena no tamanho, gigante na praticidade.</b></p>",
     "images": [
-      "assets/img/shopify/mini_secretaria.jpg",
-      "assets/img/shopify/mini_secretaria_preto_eco_2.png",
-      "assets/img/shopify/Mini_Secretaria_Azul.jpg",
-      "assets/img/shopify/mini-secretaria_branca.png",
-      "assets/img/shopify/mini-secretaria.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini_secretaria.jpg?v=1781624501",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini_secretaria_preto_eco_2.png?v=1782219420",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Mini_Secretaria_Azul.jpg?v=1782215723",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini-secretaria_branca.png?v=1782150309",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini-secretaria.png?v=1782150309"
     ],
     "video": "",
     "specs": {
@@ -239,7 +272,32 @@ window.PRODUCTS = [
       "Funções": "Bandeja de apoio compacta para tesoura, saca-anzol, iscas e preparo rápido de montagens na praia",
       "Compatibilidade": "Encaixe em suportes de vara Slim, Premium ou canos de 2 polegadas"
     },
-    "section": "Lançamentos"
+    "section": "Lançamentos",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini_secretaria.jpg?v=1781624501",
+    "colors": [
+      [
+        "Preto Eco",
+        "#888888"
+      ],
+      [
+        "Azul",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Preto",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Preto Eco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini_secretaria_preto_eco_2.png?v=1782219420",
+      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Mini_Secretaria_Azul.jpg?v=1782215723",
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini-secretaria_branca.png?v=1782150309",
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini-secretaria.png?v=1782150309"
+    }
   },
   {
     "id": 3,
@@ -664,10 +722,10 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/rotor-de-engate-rapido-cabeca-de-cobra?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p><span>Rotor de Engate Rápido Cabeça de Cobra</span></p>\n<p><span>P - Chicote até 0,40 e pernada 0,20 a 0,28</span></p>\n<p><span>G - Chicote até 0,62 e pernada 0,28 a 0,42</span></p>\n<p><span>Contem 8 Unidades</span></p>",
     "images": [
-      "assets/img/shopify/Rotor-Cabeca-de-Cobra-capa.png",
-      "assets/img/shopify/Rotor-Cabeca-de-Cobra-dedo_798be5e7-17cc-4cea-aa37-0c4e04b334d4.png",
-      "assets/img/shopify/Rotor-Cabeca-de-Cobra_8c7cb230-87a7-4298-9401-c5de59872242.png",
-      "assets/img/shopify/Rotor-Cabeca-de-Cobra-2_acf4c8ce-cb38-45f2-98c2-dd3a10be944f.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Rotor-Cabeca-de-Cobra-capa.png?v=1725025650",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Rotor-Cabeca-de-Cobra-dedo_798be5e7-17cc-4cea-aa37-0c4e04b334d4.png?v=1725025653",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Rotor-Cabeca-de-Cobra_8c7cb230-87a7-4298-9401-c5de59872242.png?v=1725025653",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Rotor-Cabeca-de-Cobra-2_acf4c8ce-cb38-45f2-98c2-dd3a10be944f.png?v=1725025653"
     ],
     "video": "",
     "specs": {
@@ -676,7 +734,11 @@ window.PRODUCTS = [
       "Tamanhos": "P (Chicotes até 0,40mm / Pernadas 0,20 a 0,28mm) | G (Chicotes até 0,62mm / Pernadas 0,28 a 0,42mm)",
       "Função": "Troca rápida de pernadas sem nós e rotação anti-torção"
     },
-    "section": "Montagem"
+    "section": "Montagem",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Rotor-Cabeca-de-Cobra-capa.png?v=1725025650",
+    "sizes": [
+      "P"
+    ]
   },
   {
     "id": 28,
@@ -923,15 +985,16 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/micangas-de-latao-pacote-com-30?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Miçanga de Latão para usos diversos.</p>\n<p>Diâmetro externo 2,9mm</p>\n<p>Ideal para linhas de até 0,7mm</p>\n<p>As miçangas de latão possuem um lado plano que irá ficar em contato com o rotor e um lado côncavo que irá ficar em contato com o Stopper de borracha ou nó de correr.</p>\n<p>É aconselhável o uso de apenas uma miçanga côncava na parte inferior do rotor e outra miçanga de vidro na parte superior do rotor.</p>",
     "images": [
-      "assets/img/shopify/latao-capa.png",
-      "assets/img/shopify/MicangadeLatao.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/latao-capa.png?v=1725025321",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/MicangadeLatao.jpg?v=1725025323"
     ],
     "video": "",
     "specs": {
       "Material": "Latão maciço",
       "Diâmetro": "2,9mm"
     },
-    "section": "Montagem"
+    "section": "Montagem",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/latao-capa.png?v=1725025321"
   },
   {
     "id": 45,
@@ -963,17 +1026,37 @@ window.PRODUCTS = [
     ],
     "description": "<p>o KIT ENROLADOR é composto por 6 peças em alumínio:</p>\n<p>-Adaptador de mandril eixo 9mm</p>\n<p>-Parafuso especial 150mm</p>\n<p>-Parafuso especial 100mm</p>\n<p>-Calço 35mm</p>\n<p>-Calço Cônico 15mm</p>\n<p>-Trava para carretel 35mm</p>\n<p>O KIT ENROLADOR facilita a troca de linhas, a limpeza de linhas quando existe necessidade e o próprio preenchimento inicial do carretel. O mesmo foi desenvolvido para conseguir trabalhar com a maioria dos carretéis existentes no mercado, foi analisado os carretéis menores e os maiores padrões conforme Norma NBR 5314 ABNT. As distâncias que o KIT permite trabalhar entre as flanges são: distância mínima 10mm e distância máxima 125mm.</p>\n<p>O KIT ENROLADOR deve ser usado com cautela, existe o <a href=\"https://www.youtube.com/watch?v=JDEGXTCaCWc&amp;t=455s\" target=\"_blank\" title=\"Kit Enrolador\" rel=\"noopener noreferrer\">vídeo</a> explicativo mostrando os principais cuidados a serem tomados: O uso do KIT depende de uma parafusadeira, a mesma deve ter freio instantâneo pois assim qualquer problema o usuário solta o dedo e o sistema para de enrolar, controle de torque possibilitando o uso no menos torque possível e regulagem de velocidade instantânea no gatilho.</p>",
     "images": [
-      "assets/img/shopify/kit-enrolador-laranja-capa.png",
-      "assets/img/shopify/kit_enrolador.jpg",
-      "assets/img/shopify/kit-enrolador-natural.png",
-      "assets/img/shopify/kit-enrolador-laranja.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/kit-enrolador-laranja-capa.png?v=1725025229",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/kit_enrolador.jpg?v=1725025232",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/kit-enrolador-natural.png?v=1725025232",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/kit-enrolador-laranja.png?v=1725025232"
     ],
     "video": "https://www.youtube.com/watch?v=JDEGXTCaCWc&t=455s",
     "specs": {
       "Material": "Alumínio anodizado",
       "Conteúdo": "6 Peças"
     },
-    "section": "Montagem"
+    "section": "Montagem",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/kit-enrolador-laranja-capa.png?v=1725025229",
+    "colors": [
+      [
+        "Natural",
+        "#888888"
+      ],
+      [
+        "Roxo Metálico",
+        "#888888"
+      ],
+      [
+        "Laranja Metálico",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Natural": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/kit-enrolador-natural.png?v=1725025232",
+      "Roxo Metálico": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/kit_enrolador.jpg?v=1725025232",
+      "Laranja Metálico": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/kit-enrolador-laranja.png?v=1725025232"
+    }
   },
   {
     "id": 57,
@@ -1003,18 +1086,18 @@ window.PRODUCTS = [
     ],
     "description": "<p>Rotor de Engate Rápido</p>\n<p>Micro - <span data-mce-fragment=\"1\">0,13 e 0,18</span></p>\n<p>P - Pernada 0,20 a 0,26</p>\n<p>M - Pernada 0,26 a 0,31</p>\n<p>G -Pernada 0,31 a 0,45</p>",
     "images": [
-      "assets/img/shopify/rotor-micro-V-capa.png",
-      "assets/img/shopify/rotor-de-engate-rapido.png",
-      "assets/img/shopify/rotor-de-engate-rapido-P.png",
-      "assets/img/shopify/rotor-de-engate-rapido-M.png",
-      "assets/img/shopify/rotor-de-engate-rapido-G.png",
-      "assets/img/shopify/rotor-8-unidades-P_5eaa43bf-aadb-4cd5-abaf-6465824d93f4.png",
-      "assets/img/shopify/rotor-8-unidades-M_ebf32d64-0161-413e-8330-bc93b28e86f0.png",
-      "assets/img/shopify/rotor-8-unidades-G_8240a593-c0bc-4189-a7b5-033282bd5c76.png",
-      "assets/img/shopify/dedo.png",
-      "assets/img/shopify/emba-8.png",
-      "assets/img/shopify/emba-30.png",
-      "assets/img/shopify/quadriculado.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/rotor-micro-V-capa.png?v=1725025691",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-de-engate-rapido.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-de-engate-rapido-P.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-de-engate-rapido-M.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-de-engate-rapido-G.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-8-unidades-P_5eaa43bf-aadb-4cd5-abaf-6465824d93f4.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-8-unidades-M_ebf32d64-0161-413e-8330-bc93b28e86f0.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-8-unidades-G_8240a593-c0bc-4189-a7b5-033282bd5c76.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/dedo.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/emba-8.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/emba-30.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/quadriculado.png?v=1725025693"
     ],
     "video": "",
     "specs": {
@@ -1022,7 +1105,14 @@ window.PRODUCTS = [
       "Tamanhos": "Micro (Pernada 0,13 a 0,18mm) | P (0,20 a 0,26mm) | M (0,26 a 0,31mm) | G (0,31 a 0,45mm)",
       "Função": "Engate ultra rápido e livre rotação para pernadas de chicotes de pesca"
     },
-    "section": "Montagem"
+    "section": "Montagem",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/rotor-micro-V-capa.png?v=1725025691",
+    "sizes": [
+      "micro",
+      "Pequeno",
+      "Médio",
+      "Grande"
+    ]
   },
   {
     "id": 67,
@@ -1356,12 +1446,12 @@ window.PRODUCTS = [
     ],
     "description": "Régua a prova d'agua com 15cm de largura, as medidas são extremamente precisas e aferidas individualmente.<br data-mce-fragment=\"1\">Cantoneira desenvolvida especialmente para essa finalidade, resistente, cantos arredondados e espessuras com raio para não ter problema no transporte, cola especial, a mesma não desgruda nem em contato com a água.",
     "images": [
-      "assets/img/shopify/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png",
-      "assets/img/shopify/Regua-aberta.png",
-      "assets/img/shopify/Regua-50cm.png",
-      "assets/img/shopify/Regua-100cm.png",
-      "assets/img/shopify/cantoneira_preta.jpg",
-      "assets/img/shopify/cantoneira_azul.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png?v=1725025582",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-aberta.png?v=1725025585",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-50cm.png?v=1725025585",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-100cm.png?v=1725025585",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_preta.jpg?v=1773072063",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_azul.jpg?v=1773072064"
     ],
     "video": "",
     "specs": {
@@ -1369,7 +1459,22 @@ window.PRODUCTS = [
       "Dimensões": "15cm de largura (Medidas extremamente precisas e aferidas individualmente)",
       "Diferenciais": "Cantos arredondados, raio antiqueda para transporte e cola à prova d'água"
     },
-    "section": "Medição"
+    "section": "Medição",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png?v=1725025582",
+    "colors": [
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Azul",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_preta.jpg?v=1773072063",
+      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_azul.jpg?v=1773072064"
+    }
   },
   {
     "id": 27,
@@ -1424,23 +1529,78 @@ window.PRODUCTS = [
     ],
     "description": "<p>Nano Pipe o seu novo suporte de borracha, feito para canos de 2 polegadas ou 50 milímetros ( cano branco para esgoto ).<br data-mce-fragment=\"1\"> A borracha é de extrema qualidade, não gruda e não trinca com o passar do tempo.<br data-mce-fragment=\"1\"> Este acessório irá lhe auxiliar na pesca, não machuca o molinete nem a vara, nele existem encaixes para saca anzol, iscador, tesoura, pano, chicotes e porta isca. <br data-mce-fragment=\"1\"> O Nano Pipe foi desenvolvido pela Chumbada Oficial após vários testes.<br data-mce-fragment=\"1\"> Ótimo custo benefício, adquira já o seu.</p>\n<p> </p>\n<p>*Acessórios não inclusos. Imagem meramente ilustrativa.</p>",
     "images": [
-      "assets/img/shopify/nano-pipe-capa.png",
-      "assets/img/shopify/Nano-Pipe-Amarelo.png",
-      "assets/img/shopify/Nano-Pipe-azul.png",
-      "assets/img/shopify/Nano-Pipe-branco.png",
-      "assets/img/shopify/Nano-Pipe-cinza.png",
-      "assets/img/shopify/Nano-Pipe-laranja.png",
-      "assets/img/shopify/Nano-Pipe-Preto.png",
-      "assets/img/shopify/Nano-Pipe-Rosa.png",
-      "assets/img/shopify/Nano-Pipe-Roxo.png",
-      "assets/img/shopify/Nano-Pipe-Verde.png",
-      "assets/img/shopify/Nano-Pipe-Vermelho.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/nano-pipe-capa.png?v=1725025382",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-Amarelo.png?v=1725025387",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-azul.png?v=1725025387",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-branco.png?v=1725025387",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-cinza.png?v=1725025387",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-laranja.png?v=1725025387",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-Preto.png?v=1725025387",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-Rosa.png?v=1725025387",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-Roxo.png?v=1725025387",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-Verde.png?v=1725025387",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-Vermelho.png?v=1725025387"
     ],
     "video": "",
     "specs": {
       "Material": "Borracha de alta qualidade (Não gruda e não trinca)",
       "Compatibilidade": "Canos de esgoto de 2 polegadas (50 milímetros)",
       "Funções": "Apoio seguro sem riscar, suportes para saca anzol, iscador, tesoura, pano e chicotes"
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/nano-pipe-capa.png?v=1725025382",
+    "colors": [
+      [
+        "Verde",
+        "#888888"
+      ],
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Vermelho",
+        "#888888"
+      ],
+      [
+        "Roxo",
+        "#888888"
+      ],
+      [
+        "Rosa",
+        "#888888"
+      ],
+      [
+        "Laranja",
+        "#888888"
+      ],
+      [
+        "Cinza",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Azul",
+        "#888888"
+      ],
+      [
+        "Amarelo",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Verde": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-Verde.png?v=1725025387",
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-Preto.png?v=1725025387",
+      "Vermelho": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-Vermelho.png?v=1725025387",
+      "Roxo": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-Roxo.png?v=1725025387",
+      "Rosa": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-Rosa.png?v=1725025387",
+      "Laranja": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-laranja.png?v=1725025387",
+      "Cinza": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-cinza.png?v=1725025387",
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-branco.png?v=1725025387",
+      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-azul.png?v=1725025387",
+      "Amarelo": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Nano-Pipe-Amarelo.png?v=1725025387"
     }
   },
   {
@@ -1617,64 +1777,64 @@ window.PRODUCTS = [
     ],
     "description": "<p>O Suporte de Vara Slim da Chumbada Oficial é um produto inovador e prático, projetado especificamente para os entusiastas da pesca.</p>\n<p>Este novo modelo foi cuidadosamente desenvolvido com o objetivo de otimizar custos, oferecendo uma solução de alta qualidade a um preço acessível.</p>\n<p>Fabricado materiais de alta qualidade, o Suporte de Vara Slim da Chumbada Oficial é durável, resistente e muito leve sendo fácil de transporta-lo.</p>\n<p>O copo inferior do suporte não possui regulagem, mantendo-se em uma altura padrão que oferece estabilidade para a vara de pesca.</p>\n<p>Essa característica simplifica o uso e a montagem do suporte, proporcionando maior praticidade aos pescadores.</p>\n\n<p>O conjunto completo inclui todas as partes necessárias para o uso adequado do suporte, garantindo sua funcionalidade e desempenho ideais.</p>\n<p>Em resumo, o Suporte de Vara Slim da Chumbada Oficial é um produto de ótimo custo benefício prático, leve e com um belo design. Disponíveis nos tamanhos 40cm / 60cm / 85cm / 1m / 1,20m em várias cores.<br></p><br><p>💡 <strong>Dica Chumbada:</strong> As peças de borracha deste suporte (como o <strong>Apoio de Borracha</strong> e o <strong>Copo de Borracha</strong>) podem ser compradas separadamente em nosso site caso você precise de reposição!</p>",
     "images": [
-      "assets/img/shopify/suporte-de-vara-slim-capa.png",
-      "assets/img/shopify/photo_1_2026-01-13_11-58-58.jpg",
-      "assets/img/shopify/photo_2_2026-01-13_11-58-58.jpg",
-      "assets/img/shopify/photo_4_2026-01-13_11-58-58.jpg",
-      "assets/img/shopify/photo_5_2026-01-13_11-58-58.jpg",
-      "assets/img/shopify/photo_6_2026-01-13_11-58-58.jpg",
-      "assets/img/shopify/photo_7_2026-01-13_11-58-58.jpg",
-      "assets/img/shopify/amarelo-40.jpg",
-      "assets/img/shopify/amarelo-60.jpg",
-      "assets/img/shopify/amarelo-85.jpg",
-      "assets/img/shopify/azul-40.jpg",
-      "assets/img/shopify/azul-60.jpg",
-      "assets/img/shopify/azul-85.jpg",
-      "assets/img/shopify/azul-escuro-grande.png",
-      "assets/img/shopify/azul-escuro-medio.png",
-      "assets/img/shopify/Azul-escuro-pequeno.png",
-      "assets/img/shopify/branco-45.jpg",
-      "assets/img/shopify/branco-60.jpg",
-      "assets/img/shopify/branco-85.jpg",
-      "assets/img/shopify/branco-pequeno.png",
-      "assets/img/shopify/cinza-40.jpg",
-      "assets/img/shopify/cinza-60.jpg",
-      "assets/img/shopify/cinza-85.jpg",
-      "assets/img/shopify/laranja-40.jpg",
-      "assets/img/shopify/laranja-60.jpg",
-      "assets/img/shopify/laranja-85.jpg",
-      "assets/img/shopify/preto-40.jpg",
-      "assets/img/shopify/preto-60.jpg",
-      "assets/img/shopify/preto-85.jpg",
-      "assets/img/shopify/preto-grande.png",
-      "assets/img/shopify/preto-medio.png",
-      "assets/img/shopify/preto-pequeno.png",
-      "assets/img/shopify/rosa-40.jpg",
-      "assets/img/shopify/rosa-60.jpg",
-      "assets/img/shopify/rosa-85.jpg",
-      "assets/img/shopify/rosa-grande.png",
-      "assets/img/shopify/rosa-medio.png",
-      "assets/img/shopify/rosa-pequeno.png",
-      "assets/img/shopify/roxo-40.jpg",
-      "assets/img/shopify/roxo-60.jpg",
-      "assets/img/shopify/roxo-85.jpg",
-      "assets/img/shopify/vermelho-40.jpg",
-      "assets/img/shopify/vermelho-60.jpg",
-      "assets/img/shopify/vermelho-85.jpg",
-      "assets/img/shopify/vermelho-85.jpg",
-      "assets/img/shopify/roxo-85.jpg",
-      "assets/img/shopify/rosa-85.jpg",
-      "assets/img/shopify/laranja-85.jpg",
-      "assets/img/shopify/cinza-85.jpg",
-      "assets/img/shopify/branco-85.jpg",
-      "assets/img/shopify/azul-85.jpg",
-      "assets/img/shopify/amarelo-85.jpg",
-      "assets/img/shopify/preto-85.jpg",
-      "assets/img/shopify/verde-40.png",
-      "assets/img/shopify/verde-60.png",
-      "assets/img/shopify/verde-85.png",
-      "assets/img/shopify/verde-1m.png",
-      "assets/img/shopify/verde-1_20.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-de-vara-slim-capa.png?v=1725025977",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_1_2026-01-13_11-58-58.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_2_2026-01-13_11-58-58.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_4_2026-01-13_11-58-58.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_5_2026-01-13_11-58-58.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_6_2026-01-13_11-58-58.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_7_2026-01-13_11-58-58.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/amarelo-40.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/amarelo-60.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/amarelo-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/azul-40.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/azul-60.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/azul-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/azul-escuro-grande.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/azul-escuro-medio.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Azul-escuro-pequeno.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/branco-45.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/branco-60.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/branco-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/branco-pequeno.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cinza-40.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cinza-60.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cinza-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/laranja-40.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/laranja-60.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/laranja-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/preto-40.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/preto-60.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/preto-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/preto-grande.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/preto-medio.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/preto-pequeno.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/rosa-40.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/rosa-60.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/rosa-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/rosa-grande.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/rosa-medio.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/rosa-pequeno.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/roxo-40.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/roxo-60.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/roxo-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/vermelho-40.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/vermelho-60.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/vermelho-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/vermelho-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/roxo-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rosa-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/laranja-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/cinza-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/branco-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/azul-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/amarelo-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/preto-85.jpg?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/verde-40.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/verde-60.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/verde-85.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/verde-1m.png?v=1768317605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/verde-1_20.png?v=1768317605"
     ],
     "video": "assets/video/shopify/47f1a9c1b54d4381a82a3436e200e3c2.mp4",
     "specs": {
@@ -1682,7 +1842,15 @@ window.PRODUCTS = [
       "Tamanhos Disponíveis": "40cm, 60cm, 85cm, 1m, 1,20m",
       "Itens Avulsos (Reposição)": "Apoio de Borracha, Copo de Borracha, e Cano (podem ser adquiridos separadamente)"
     },
-    "section": "Suportes"
+    "section": "Suportes",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-de-vara-slim-capa.png?v=1725025977",
+    "sizes": [
+      "40 cm",
+      "60 cm",
+      "85 cm",
+      "1.00 m",
+      "1.20 m"
+    ]
   },
   {
     "id": 51,
@@ -1839,7 +2007,11 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/adaptador-de-vara-para-suporte-de-molinete?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Suporte de vara Chumbada Oficial - O Suporte de vara da Chumbada Oficial é fabricado com os melhores materiais disponíveis no mercado, o alumínio é o mais resistente da atualidade, a borracha foi especialmente desenvolvida para não se degradar nem em dias de sol forte e nem na chuva, unindo resistência e durabilidade.<br>O grande diferencial desse suporte é a proteção que o mesmo irá oferecer ao seu equipamento uma vez que a borracha é macia e não risca a vara como outros materiais mais rígidos.<br>O Suporte de vara da Chumbada Oficial foi testado e modificado durante meses por muitos pescadores conceituados no mercado até chegar ao nível atual de excelência. Seu design foi projetado para atender diversas situações de pesca podendo apoiar a vara de lado, deitada ou simplesmente de pé. Nos nossos testes reais, mesmo com ventos fortes o suporte atendeu todas as nossas expectativas.<br>Outro grande diferencial é o encaixe auxiliar na parte traseira da “ferradura” o mesmo permite apoiar a vara enquanto o pescador faz a iscagem ou a troca de chicotes com maior conforto, é possível também sacar o peixe com as mão livres.<br>O Suporte de vara da Chumbada Oficial possui um top de apoio do copo como sugestão porém é possível regular o mesmo em diversas alturas sob pressão sem parafusos ou travas evitando assim problemas futuros de reposição de peças.</p>",
     "images": [
-      "assets/img/shopify/adaptador-de-vara.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador_de_vara.jpg?v=1773061276",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador_de_vara_1.jpg?v=1773061407",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador_de_vara_2.jpg?v=1773061407",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador_de_vara_4.jpg?v=1773061407",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador_de_vara_3.jpg?v=1773061407"
     ],
     "video": "assets/video/shopify/f048e0960ef04c0da3f8fd8af9ab1fe5.mp4",
     "specs": {
@@ -1847,7 +2019,14 @@ window.PRODUCTS = [
       "Diferencial": "Apoio traseiro para iscagem ou troca de chicotes com as mãos livres",
       "Regulagem": "Altura sob pressão sem necessidade de parafusos ou travas"
     },
-    "section": "Suportes"
+    "section": "Suportes",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador_de_vara.jpg?v=1773061276",
+    "colors": [
+      [
+        "Preto",
+        "#888888"
+      ]
+    ]
   },
   {
     "id": 15,
@@ -1887,9 +2066,9 @@ window.PRODUCTS = [
     ],
     "description": "<p>Kit de Copos Organizadores PMG – Chumbada Oficial</p>\n<p>Pensando na praticidade que todo pescador precisa na beira d’água, a Chumbada Oficial agora conta com o Kit de Copos Organizadores PMG.</p>\n<p>Antes disponível apenas no tamanho G, ideal para acomodar o carretel que guarda os chicotes, agora a linha ficou ainda mais completa com os tamanhos P e M. Eles surgiram para ajudar o pescador a organizar e transportar, de forma prática, diversos acessórios indispensáveis para a pescaria.</p>\n<p>Os copos P e M são perfeitos para guardar stopper, chumbadas, dedeiras e muitos outros itens, mantendo tudo bem separado, protegido e sempre à mão. Já o tamanho G continua sendo a escolha certa para quem precisa armazenar o carretel de chicotes com segurança e praticidade.</p>\n<p>Agora, com o Kit PMG, o pescador tem mais versatilidade para montar sua organização do jeito que preferir, levando tudo em compartimentos compactos, práticos e fáceis de transportar para qualquer pescaria.</p>\n<p>Mais organização, praticidade e eficiência para acompanhar você em toda pescaria.</p>",
     "images": [
-      "assets/img/shopify/c4dd0fe0-b913-4b7f-981a-2bf5407f2337.png",
-      "assets/img/shopify/copo_branco.jpg",
-      "assets/img/shopify/copo_preto.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/c4dd0fe0-b913-4b7f-981a-2bf5407f2337.png?v=1773931964",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo_branco.jpg?v=1773931964",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo_preto.jpg?v=1773931964"
     ],
     "video": "",
     "specs": {
@@ -1897,7 +2076,14 @@ window.PRODUCTS = [
       "Conteúdo": "Kit com tamanhos P, M e G",
       "Indicação": "Organizar stoppers, chumbadas, dedeiras (P/M) e carretéis de chicotes (G)"
     },
-    "section": "Organização"
+    "section": "Organização",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/c4dd0fe0-b913-4b7f-981a-2bf5407f2337.png?v=1773931964",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "Kit:P/M/G"
+    ]
   },
   {
     "id": 16,
@@ -2016,16 +2202,16 @@ window.PRODUCTS = [
     ],
     "description": "<p>O Porta Elastricot da chumbada é prático e funcional, fabricado em polietileno, combinando leveza e resistência não incomoda no pescoço, sua maior novidade é a ausência de furos facilitando o manuseio no momento de colocar o elastricot, ideal para uso a noite ou por pessoas que possuem dificuldade visual, não há a necessidade de agulhas e nem precisa de habilidade soprando o elástico pelo orifício como nos Porta elastricot existentes no mercado.</p>",
     "images": [
-      "assets/img/shopify/porta-elastricot.png",
-      "assets/img/shopify/porta-elastricot-azul-claro.png",
-      "assets/img/shopify/portaeslatricot.jpg",
-      "assets/img/shopify/porta-elastricot-amarelo.png",
-      "assets/img/shopify/porta-elastricot-preto.png",
-      "assets/img/shopify/porta-elastricot-rosa.png",
-      "assets/img/shopify/porta-elastricot-verde.png",
-      "assets/img/shopify/porta-elastricot-vermelho.png",
-      "assets/img/shopify/porta-elastricot-branco.png",
-      "assets/img/shopify/porta_elastricot_translucido.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta-elastricot.png?v=1772216706",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-azul-claro.png?v=1772216706",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/portaeslatricot.jpg?v=1772216706",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-amarelo.png?v=1772216706",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-preto.png?v=1772216706",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-rosa.png?v=1772216706",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-verde.png?v=1772216706",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-vermelho.png?v=1772216706",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-branco.png?v=1772216706",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_elastricot_translucido.jpg?v=1772216706"
     ],
     "video": "assets/video/shopify/832fce9668cf4ebc8742747ac8f5b028.mp4",
     "specs": {
@@ -2033,7 +2219,57 @@ window.PRODUCTS = [
       "Diferencial": "Ausência de furos (Sem necessidade de soprar a linha ou usar agulhas)",
       "Uso": "Fácil manuseio com as mãos, ideal para pescarias noturnas"
     },
-    "section": "Organização"
+    "section": "Organização",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta-elastricot.png?v=1772216706",
+    "colors": [
+      [
+        "Amarelo",
+        "#888888"
+      ],
+      [
+        "Azul",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Laranja",
+        "#888888"
+      ],
+      [
+        "Rosa",
+        "#888888"
+      ],
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Translúcido",
+        "#888888"
+      ],
+      [
+        "Verde",
+        "#888888"
+      ],
+      [
+        "Vermelho",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Amarelo": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-amarelo.png?v=1772216706",
+      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-azul-claro.png?v=1772216706",
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-branco.png?v=1772216706",
+      "Laranja": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/portaeslatricot.jpg?v=1772216706",
+      "Rosa": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-rosa.png?v=1772216706",
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-preto.png?v=1772216706",
+      "Translúcido": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_elastricot_translucido.jpg?v=1772216706",
+      "Verde": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-verde.png?v=1772216706",
+      "Vermelho": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/porta-elastricot-vermelho.png?v=1772216706"
+    }
   },
   {
     "id": 31,
@@ -2055,11 +2291,11 @@ window.PRODUCTS = [
     ],
     "description": "<p>O Porta Isca e Chumbada é fabricado em plástico altamente resistente com rosca entre corpo e tampa assegurando que a mesma irá permanecer fechada, o mesmo possui alça de encaixe e desencaixe pois assim o pescador pode pendurar no carrinho de pesca, na cadeira ou na secretária de pesca.</p>\n<p>O Suporte pode ser usado para chumbadas organizando assim a caixa de pesca e facilitando o manuseio das mesmas, os orifícios da tampa servem para deixar algumas chumbadas em espera.</p>\n<p>O Suporte pode ser usado para colocar iscas, os orifícios da tampa permitem uma ventilação aumentando assim a qualidade das iscas.</p>",
     "images": [
-      "assets/img/shopify/porta-isca-capa.png",
-      "assets/img/shopify/portaisca.jpg",
-      "assets/img/shopify/photo_2024-12-03_06-46-17.jpg",
-      "assets/img/shopify/photo_2024-12-03_06-46-18.jpg",
-      "assets/img/shopify/photo_2024-12-04_14-13-22.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta-isca-capa.png?v=1725025508",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/portaisca.jpg?v=1725025510",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_2024-12-03_06-46-17.jpg?v=1733331716",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_2024-12-03_06-46-18.jpg?v=1733331717",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_2024-12-04_14-13-22.jpg?v=1733332482"
     ],
     "video": "assets/video/shopify/27352f06c76d4c6d8196c5a1c6b71cac.mp4",
     "specs": {
@@ -2067,7 +2303,22 @@ window.PRODUCTS = [
       "Funções": "Organizar chumbadas na caixa de pesca ou armazenar iscas naturais na beira da água",
       "Diferenciais": "Alça de engate rápido e tampa com furos de ventilação para iscas"
     },
-    "section": "Organização"
+    "section": "Organização",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta-isca-capa.png?v=1725025508",
+    "colors": [
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_2024-12-03_06-46-17.jpg?v=1733331716",
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta-isca-capa.png?v=1725025508"
+    }
   },
   {
     "id": 32,
@@ -2190,25 +2441,26 @@ window.PRODUCTS = [
     ],
     "description": "<p>Varal da Chumbada Oficial – Agilidade e Praticidade na Sua Pescaria!</p>\n<p>O Varal da Chumbada Oficial foi desenvolvido para tornar sua pescaria muito mais dinâmica e eficiente. Ele permite que você prepare o próximo chicote enquanto a linha atual está na água, garantindo que sua pescaria seja contínua e estratégica. Com ele, você pode montar diversos tipos de chicotes – seja para pesca na beira, meia-água ou fundo – e testar diferentes configurações de pernadas sem perder tempo.</p>\n<p>Vantagens do Varal da Chumbada Oficial:</p>\n<p>✅ Retrátil e Compacto – Quando fechado, mede apenas 1,40m, podendo ser facilmente guardado em qualquer case de vara de pesca. Esse tamanho é menor que um terço dos caniços convencionais de pesca de praia, garantindo praticidade no transporte.</p>\n<p>✅ Expansível para Maior Versatilidade – Quando esticado, atinge 2,50m, ideal para praias com areia fofa ou de tombo, onde é necessário afundar bem o varal para evitar que a maré o derrube. Também atende perfeitamente pescadores mais altos e aqueles que utilizam chicotes maiores.</p>\n<p>✅ Pente de Borracha – Proteção para Sua Linha – O pente do varal é feito de borracha, evitando danos à linha e proporcionando segurança no manuseio. Além disso, ele é totalmente preenchido por pente, facilitando a colocação do chicote sem a necessidade de buscar um ponto de apoio específico.</p>\n<p>✅ Barras de Pente Dobráveis – As barras de suporte do pente são dobráveis, tornando o transporte ainda mais fácil e compacto.</p>\n<p>✅ Alta Qualidade e Resistência – Fabricado com materiais de alta durabilidade e resistência, o Varal da Chumbada Oficial foi projetado e testado para garantir o melhor desempenho na sua pescaria.</p>\n<p>Se você quer mais praticidade, rapidez e eficiência na pesca de praia, o Varal da Chumbada Oficial é a escolha ideal. Com ele, sua pescaria se torna mais ágil e estratégica, garantindo melhores resultados!</p>",
     "images": [
-      "assets/img/shopify/Varal-02.jpg",
-      "assets/img/shopify/Varal-01.jpg",
-      "assets/img/shopify/Varal-03.jpg",
-      "assets/img/shopify/photo_1_2026-01-13_12-25-08.jpg",
-      "assets/img/shopify/photo_2_2026-01-13_12-25-08.jpg",
-      "assets/img/shopify/photo_3_2026-01-13_12-25-08.jpg",
-      "assets/img/shopify/photo_4_2026-01-13_12-25-08.jpg",
-      "assets/img/shopify/photo_5_2026-01-13_12-25-08.jpg",
-      "assets/img/shopify/photo_6_2026-01-13_12-25-08.jpg",
-      "assets/img/shopify/photo_7_2026-01-13_12-25-08.jpg",
-      "assets/img/shopify/photo_8_2026-01-13_12-25-08.jpg",
-      "assets/img/shopify/photo_9_2026-01-13_12-25-08.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Varal-02.jpg?v=1738666221",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Varal-01.jpg?v=1738666220",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Varal-03.jpg?v=1738666221",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_1_2026-01-13_12-25-08.jpg?v=1768317978",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_2_2026-01-13_12-25-08.jpg?v=1768317978",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_3_2026-01-13_12-25-08.jpg?v=1768317978",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_4_2026-01-13_12-25-08.jpg?v=1768317978",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_5_2026-01-13_12-25-08.jpg?v=1768317978",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_6_2026-01-13_12-25-08.jpg?v=1768317978",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_7_2026-01-13_12-25-08.jpg?v=1768317978",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_8_2026-01-13_12-25-08.jpg?v=1768317978",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_9_2026-01-13_12-25-08.jpg?v=1768317978"
     ],
     "video": "assets/video/shopify/d64300038abb454586b178602fb6bc56.mp4",
     "specs": {
       "Material": "Borracha premium",
       "Comprimento/Medida": "1,40M"
     },
-    "section": "Organização"
+    "section": "Organização",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Varal-02.jpg?v=1738666221"
   },
   {
     "id": 53,
@@ -2304,70 +2556,71 @@ window.PRODUCTS = [
     ],
     "description": "<a href=\"https://youtu.be/tcXANAsZPk8\" title=\"Entenda o Porta Pernada Cano\">Porta Pernada Cano</a> – escolha de maneira fácil a pernada a ser usada, nesse novo organizador de anzóis empatados o pescador tem a opção de guardar 50 ou 100 anzóis (dependendo do tamanho do anzol) nos 50 canais divididos ao redor do produto.<br data-mce-fragment=\"1\">O Porta Pernada Cano é composto por um apoio de anzol, um pedaço de cano de esgoto 50mm padrão de mercado e uma peça de borracha onde é travada a linha, o mesmo será vendido em 8 configurações diferentes 30cm, 40cm, 50cm, 60cm, 70cm, 80cm, 100cm e a opção 30/60cm onde é possível guardar pernadas de 30cm e 60cm no mesmo cano pois o Trava Linha Cano de borracha tem um conector onde é possível estender o conjunto com mais canos.<br data-mce-fragment=\"1\">O comprador pode escolher adquirir o Porta Pernada Cano completo, somente o cano já cortado na medida para 30cm, 40cm, 50cm, 60cm, 70cm, 80cm, 100cm ou comprar somente as peças que fazem sua composição o Apoio Anzol Cano ou o Trava Linha Cano (borracha).",
     "images": [
-      "assets/img/shopify/cano-capa.png",
-      "assets/img/shopify/30-cm-banco_24e57b07-67cb-4b0f-9828-253d4e3ec9fd.png",
-      "assets/img/shopify/todos_a61a20cf-866a-4a1d-a0fa-59510ba755fd.png",
-      "assets/img/shopify/30-cm-azul-regua_376cc6b4-1160-4d5c-b523-be2cbe671648.png",
-      "assets/img/shopify/30-cm-banco-regua_02370db5-378e-4070-b6e9-852bbfac9cdf.png",
-      "assets/img/shopify/30-e-60-branco-regua_d8f1d52e-603e-4e64-bee6-2f12e81baf32.png",
-      "assets/img/shopify/40-cm-azul-regua_6495daf4-3220-434a-b994-277e00969399.png",
-      "assets/img/shopify/40-cm-banco-regua_58e2bc0c-46f3-4fde-bcf8-6dbb33804f90.png",
-      "assets/img/shopify/40-cm-azul-regua_d32270c8-fe09-48ef-84b3-3fa584aeb439.png",
-      "assets/img/shopify/50-cm-banco-regua_53482abb-2fa1-4b44-b86b-bace6b09a6de.png",
-      "assets/img/shopify/50-cm-azul-regua_5a0e8a91-19a2-41dc-ab33-cbe413896845.png",
-      "assets/img/shopify/60-cm-banco-regua_e6bd7a1e-d2b3-41ed-aa2b-b6998f3431e2.png",
-      "assets/img/shopify/60-cm-azul-regua_4b7c222f-13bb-4c1a-8837-d8aee716065c.png",
-      "assets/img/shopify/70-cm-banco-regua_dc6de201-d58a-44d0-ad6f-dd98fb04f8b3.png",
-      "assets/img/shopify/70-cm-azul-regua_637cc206-7579-4caf-9109-485de694315b.png",
-      "assets/img/shopify/80-cm-banco-regua_7ff9c07c-1249-4fdc-83ae-b34b9fa570e7.png",
-      "assets/img/shopify/80-cm-azul-regua_4b071c6d-019c-41b2-ab5c-7c6f7fe52006.png",
-      "assets/img/shopify/100-cm-banco-regua_ec48c982-5dc9-4420-924b-acdcdb81e324.png",
-      "assets/img/shopify/100-cm-azul-regua_109bc051-c339-4701-b570-6cfa3965d1ad.png",
-      "assets/img/shopify/80-cm-banco-regua_71d32656-c353-440b-aedf-c83b4cce2322.png",
-      "assets/img/shopify/SomenteCanoBranco_edf334b2-400f-4657-b93d-32b34b7b5256.jpg",
-      "assets/img/shopify/SomenteCanoBranco_3484c864-4b72-4a56-9f2a-753a47a8b43f.jpg",
-      "assets/img/shopify/SomenteCanoBranco_e0115922-fbf2-4c1c-9b44-75c48daa7a9b.jpg",
-      "assets/img/shopify/SomenteCanoBranco_33cce13b-6a8a-43eb-a42e-c25925f0b4af.jpg",
-      "assets/img/shopify/SomenteCanoBranco_6babf043-cb84-4d3c-a509-a71f1d22dc2d.jpg",
-      "assets/img/shopify/SomenteCanoAzul_9e637403-fc0c-41ff-ad30-463aac2483d6.jpg",
-      "assets/img/shopify/SomenteCanoAzul_56796aae-3372-4234-9302-ac86f289b659.jpg",
-      "assets/img/shopify/SomenteCanoAzul_81c8cb18-1f3e-4158-a0d8-3e648fa9a18e.jpg",
-      "assets/img/shopify/SomenteCanoBranco_96f76d3f-3fe9-435b-98f7-2337b3bf0bb5.jpg",
-      "assets/img/shopify/SomenteCanoAzul_2cf372e3-b297-4a7d-b34f-4d903530be8c.jpg",
-      "assets/img/shopify/SomenteCanoAzul_0b82ef60-2fcd-40e6-9e30-b77c1595346d.jpg",
-      "assets/img/shopify/SomenteCanoAzul_d92759f2-0c70-41fe-8505-7695d4daf13a.jpg",
-      "assets/img/shopify/SomenteCanoAzul_60d195b3-66f6-4bad-a6fd-b1fc477a1be5.jpg",
-      "assets/img/shopify/SomenteCanoAzul_5d4b0b05-fe5e-4b96-9832-942683d50475.jpg",
-      "assets/img/shopify/SomenteCanoAzul_199cd214-c813-467e-ab16-febbc0324bf1.jpg",
-      "assets/img/shopify/SomenteCanoBranco_a9bf3d69-5ee0-47cd-bf79-35b6ca4913ee.jpg",
-      "assets/img/shopify/SomenteCanoBranco_bcf0533f-1e0a-4270-8026-c49a3ac524e4.jpg",
-      "assets/img/shopify/SomenteCanoBranco_84638a37-5753-4183-a71c-301af262fb5d.jpg",
-      "assets/img/shopify/SomenteCanoAzul_307f4a48-a16e-4dd7-9b86-82a35db89632.jpg",
-      "assets/img/shopify/30cm-marrom_4aa55bbc-ab4f-44e0-9c37-d56b04cf00f8.png",
-      "assets/img/shopify/30-60cm_c7df46b8-6d6e-4564-93c0-687a0bdf4f8f.png",
-      "assets/img/shopify/40cm_e44bb8d6-7be4-49cb-b370-8d82f215e5c0.png",
-      "assets/img/shopify/50cm_bb8b1f4c-7afc-4b13-bbe6-338a58e701a2.png",
-      "assets/img/shopify/60cm_482d05d6-f5e6-4d36-aedc-454a6a3b573b.png",
-      "assets/img/shopify/70cm_6f2163e6-b02b-471b-9e4f-a3c763ca1678.png",
-      "assets/img/shopify/80cm_0205724a-9fd7-4aef-95f5-389f12d25a67.png",
-      "assets/img/shopify/100cm_887f5489-3aa2-4094-be68-091b21b52f17.png",
-      "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
-      "assets/img/shopify/somente-cano-40cm_e6bca2ec-d0b2-4b79-b6cf-30cf21387706.png",
-      "assets/img/shopify/somente-cano-50cm_6e62cfdb-4e63-492e-8e19-f6db40bd566a.png",
-      "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
-      "assets/img/shopify/somente-cano-70cm_bcfbc84d-03ad-489d-87fa-50f969953709.png",
-      "assets/img/shopify/somente-cano-80cm_78f92977-f490-467b-92c2-d9fa9b1067dd.png",
-      "assets/img/shopify/somente-cano-100cm_a52c9c44-de3c-40a3-990c-bda2fabe13dd.png",
-      "assets/img/shopify/20cm-azul.png",
-      "assets/img/shopify/marrom.png",
-      "assets/img/shopify/branco.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cano-capa.png?v=1725024089",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/30-cm-banco_24e57b07-67cb-4b0f-9828-253d4e3ec9fd.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/todos_a61a20cf-866a-4a1d-a0fa-59510ba755fd.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/30-cm-azul-regua_376cc6b4-1160-4d5c-b523-be2cbe671648.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/30-cm-banco-regua_02370db5-378e-4070-b6e9-852bbfac9cdf.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/30-e-60-branco-regua_d8f1d52e-603e-4e64-bee6-2f12e81baf32.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/40-cm-azul-regua_6495daf4-3220-434a-b994-277e00969399.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/40-cm-banco-regua_58e2bc0c-46f3-4fde-bcf8-6dbb33804f90.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/40-cm-azul-regua_d32270c8-fe09-48ef-84b3-3fa584aeb439.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/50-cm-banco-regua_53482abb-2fa1-4b44-b86b-bace6b09a6de.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/50-cm-azul-regua_5a0e8a91-19a2-41dc-ab33-cbe413896845.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/60-cm-banco-regua_e6bd7a1e-d2b3-41ed-aa2b-b6998f3431e2.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/60-cm-azul-regua_4b7c222f-13bb-4c1a-8837-d8aee716065c.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/70-cm-banco-regua_dc6de201-d58a-44d0-ad6f-dd98fb04f8b3.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/70-cm-azul-regua_637cc206-7579-4caf-9109-485de694315b.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/80-cm-banco-regua_7ff9c07c-1249-4fdc-83ae-b34b9fa570e7.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/80-cm-azul-regua_4b071c6d-019c-41b2-ab5c-7c6f7fe52006.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/100-cm-banco-regua_ec48c982-5dc9-4420-924b-acdcdb81e324.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/100-cm-azul-regua_109bc051-c339-4701-b570-6cfa3965d1ad.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/80-cm-banco-regua_71d32656-c353-440b-aedf-c83b4cce2322.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoBranco_edf334b2-400f-4657-b93d-32b34b7b5256.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoBranco_3484c864-4b72-4a56-9f2a-753a47a8b43f.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoBranco_e0115922-fbf2-4c1c-9b44-75c48daa7a9b.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoBranco_33cce13b-6a8a-43eb-a42e-c25925f0b4af.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoBranco_6babf043-cb84-4d3c-a509-a71f1d22dc2d.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoAzul_9e637403-fc0c-41ff-ad30-463aac2483d6.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoAzul_56796aae-3372-4234-9302-ac86f289b659.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoAzul_81c8cb18-1f3e-4158-a0d8-3e648fa9a18e.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoBranco_96f76d3f-3fe9-435b-98f7-2337b3bf0bb5.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoAzul_2cf372e3-b297-4a7d-b34f-4d903530be8c.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoAzul_0b82ef60-2fcd-40e6-9e30-b77c1595346d.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoAzul_d92759f2-0c70-41fe-8505-7695d4daf13a.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoAzul_60d195b3-66f6-4bad-a6fd-b1fc477a1be5.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoAzul_5d4b0b05-fe5e-4b96-9832-942683d50475.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoAzul_199cd214-c813-467e-ab16-febbc0324bf1.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoBranco_a9bf3d69-5ee0-47cd-bf79-35b6ca4913ee.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoBranco_bcf0533f-1e0a-4270-8026-c49a3ac524e4.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoBranco_84638a37-5753-4183-a71c-301af262fb5d.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SomenteCanoAzul_307f4a48-a16e-4dd7-9b86-82a35db89632.jpg?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/30cm-marrom_4aa55bbc-ab4f-44e0-9c37-d56b04cf00f8.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/30-60cm_c7df46b8-6d6e-4564-93c0-687a0bdf4f8f.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/40cm_e44bb8d6-7be4-49cb-b370-8d82f215e5c0.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/50cm_bb8b1f4c-7afc-4b13-bbe6-338a58e701a2.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/60cm_482d05d6-f5e6-4d36-aedc-454a6a3b573b.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/70cm_6f2163e6-b02b-471b-9e4f-a3c763ca1678.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/80cm_0205724a-9fd7-4aef-95f5-389f12d25a67.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/100cm_887f5489-3aa2-4094-be68-091b21b52f17.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/somente-cano-40cm_e6bca2ec-d0b2-4b79-b6cf-30cf21387706.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/somente-cano-50cm_6e62cfdb-4e63-492e-8e19-f6db40bd566a.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/somente-cano-70cm_bcfbc84d-03ad-489d-87fa-50f969953709.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/somente-cano-80cm_78f92977-f490-467b-92c2-d9fa9b1067dd.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/somente-cano-100cm_a52c9c44-de3c-40a3-990c-bda2fabe13dd.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/20cm-azul.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/marrom.png?v=1725024095",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/branco.png?v=1725024095"
     ],
     "video": "https://youtu.be/tcXANAsZPk8",
     "specs": {
       "Material": "Borracha premium",
       "Comprimento/Medida": "30CM"
     },
-    "section": "Organização"
+    "section": "Organização",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cano-capa.png?v=1725024089"
   },
   {
     "id": 54,
@@ -2403,11 +2656,11 @@ window.PRODUCTS = [
     ],
     "description": "<p>Porta-Pernada Compacto – O Que Era Bom Ficou Ainda Melhor!</p>\n<p>Agora a organização das suas pernadas ficou ainda mais prática e eficiente com o Porta-Pernada Compacto!</p>\n<p>Com capacidade para armazenar até 68 anzóis distribuídos em 34 divisões, ele mantém suas pernadas organizadas e sempre prontas para uso. Sua principal vantagem é o design compacto e de baixa espessura, permitindo que seja facilmente guardado em pequenos compartimentos, ao contrário do modelo tradicional tipo cano.</p>\n<p>Além disso, sua eficiência na fixação é impressionante: trava pernadas com linhas de 0,10mm a 0,60mm, garantindo segurança e praticidade na hora de armazenar seu material de pesca.</p>\n<p>Feito com material resistente e durável, o Porta-Pernada Compacto é a escolha ideal para pescadores que buscam organização, praticidade e qualidade no transporte de suas pernadas.</p>\n<p>Leve mais praticidade para a sua pescaria!</p>",
     "images": [
-      "assets/img/shopify/porta-pernada-cano-compacto-capa.jpg",
-      "assets/img/shopify/porta-pernada-cano-compacto-01.jpg",
-      "assets/img/shopify/Porta-pernada-compacto-cinza.jpg",
-      "assets/img/shopify/Porta-pernada-compacto-violeta.jpg",
-      "assets/img/shopify/Porta-pernada-compacto-preto_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta-pernada-cano-compacto-capa.jpg?v=1738780702",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta-pernada-cano-compacto-01.jpg?v=1738780702",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Porta-pernada-compacto-cinza.jpg?v=1752163808",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Porta-pernada-compacto-violeta.jpg?v=1752163808",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Porta-pernada-compacto-preto_2.jpg?v=1755784367"
     ],
     "video": "assets/video/shopify/8c1dce1ee39c4882b74c80088adc3b80.mp4",
     "specs": {
@@ -2415,7 +2668,12 @@ window.PRODUCTS = [
       "Compatibilidade de Linhas": "Trava pernadas com linhas de 0,10mm a 0,60mm",
       "Indicação": "Organização segura e compacta de pernadas e chicotes de pesca"
     },
-    "section": "Organização"
+    "section": "Organização",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta-pernada-cano-compacto-capa.jpg?v=1738780702",
+    "sizes": [
+      "30cm",
+      "50cm"
+    ]
   },
   {
     "id": 59,
@@ -2443,18 +2701,38 @@ window.PRODUCTS = [
     ],
     "description": "O suporte de molinetes é um acessório prático e funcional, projetado para organizar e exibir seus molinetes de maneira elegante. Com capacidade para acomodar até 3 molinetes grandes ou 4 molinetes pequenos, esse suporte é perfeito para os amantes da pesca que desejam manter seus equipamentos de forma segura e acessível.<br><br>O suporte é acompanhado por duas buchas e dois parafusos, que permitem a instalação fácil e segura na parede. Com uma estrutura robusta e durável, esse suporte garante a estabilidade necessária para suportar o peso dos molinetes.<br><br>Além de sua funcionalidade prática, o suporte também possui um design atraente que adiciona um toque decorativo à parede da sala ou do quarto. Seu estilo elegante e minimalista complementa diversos ambientes, proporcionando um visual agradável enquanto mantém seus molinetes organizados e prontos para uso.<br><br>Se você é um pescador apaixonado e deseja manter seus molinetes de maneira organizada e visualmente atraente, o suporte de molinetes é a solução perfeita para você.",
     "images": [
-      "assets/img/shopify/suporte-para-molinetre-capa.png",
-      "assets/img/shopify/suporte-para-molinetes-montado.png",
-      "assets/img/shopify/suporte-para-molinetes.png",
-      "assets/img/shopify/suporte-para-molinete-azul-escuro.jpg",
-      "assets/img/shopify/suporte-para-molinetes-branco_ac7ae35b-75cc-423a-9bd6-e4f777e6529f.png",
-      "assets/img/shopify/suporte-para-molinetes-branco_00804a4b-e0e1-4aa4-a119-6046485dd0f3.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-molinetre-capa.png?v=1725026441",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/suporte-para-molinetes-montado.png?v=1725026443",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/suporte-para-molinetes.png?v=1725026443",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/suporte-para-molinete-azul-escuro.jpg?v=1725026443",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-molinetes-branco_ac7ae35b-75cc-423a-9bd6-e4f777e6529f.png?v=1725026443",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-molinetes-branco_00804a4b-e0e1-4aa4-a119-6046485dd0f3.png?v=1725026443"
     ],
     "video": "",
     "specs": {
       "Material": "Estrutura plástica robusta e durável",
       "Capacidade": "Acomoda até 3 molinetes grandes ou 4 molinetes pequenos",
       "Conteúdo": "Acompanha 2 buchas e 2 parafusos para fixação na parede"
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-molinetre-capa.png?v=1725026441",
+    "colors": [
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Azul",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/suporte-para-molinetes.png?v=1725026443",
+      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/suporte-para-molinete-azul-escuro.jpg?v=1725026443",
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-molinetes-branco_00804a4b-e0e1-4aa4-a119-6046485dd0f3.png?v=1725026443"
     }
   },
   {
@@ -2467,20 +2745,30 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/suporte-de-vara-de-parede?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Suporte de Varas de Parede da Chumbada Oficial</p>\n<p>Apresentamos o Suporte de Varas de Parede da Chumbada Oficial, um produto de alta qualidade fabricado com termoplástico resistente e durável. Este suporte é a solução perfeita para armazenar suas varas de pesca de forma organizada, segura e elegante.</p>\n<p>Características Principais:<br>- Material de Alta Qualidade: Fabricado com termoplástico de alta qualidade, garantindo durabilidade e resistência.<br>- Capacidade: Possui 5 compartimentos, cada um projetado para armazenar varas de uma, duas ou três partes, oferecendo versatilidade para diversos tipos de varas de pesca.<br>- Design Inovador: O suporte foi projetado para ser montado na parede ou no teto. Cada compartimento possui uma curvatura específica que assegura que os caniços fiquem guardados de maneira segura, evitando danos.<br>- Conjunto Completo: O Suporte de Varas é composto por um par de peças, lado direito e esquerdo, proporcionando um acabamento impecável com os parafusos escondidos na parte interna, onde as varas estarão armazenadas. Isso resulta em um visual limpo e agradável.<br>- Fácil Instalação: O produto acompanha 6 buchas, 6 parafusos e dois elásticos. Os elásticos são opcionais, recomendados para uso em embarcações ou veículos com cabine, proporcionando segurança extra durante o movimento.</p>\n<p> Benefícios:<br>- Segurança e Organização: Mantenha suas varas de pesca sempre organizadas e protegidas. O design curvado dos compartimentos garante que as varas fiquem firmes e seguras.<br>- Versatilidade: Ideal para ser instalado tanto na parede quanto no teto, adaptando-se facilmente ao espaço disponível em sua casa, barco ou veículo.<br>- Estética: Além de funcional, o suporte de varas também se torna um item decorativo, agregando valor ao ambiente onde está instalado.</p>\n<p>#### Uso Opcional dos Elásticos:<br>Os elásticos incluídos podem ser utilizados para adicionar uma camada extra de segurança, especialmente em ambientes que sofrem com movimentos constantes, como barcos e veículos com cabine. Eles garantem que as varas fiquem ainda mais fixas no suporte.</p>\n<p>Assista ao Nosso Vídeo:<br>Para ver o Suporte de Varas de Parede da Chumbada Oficial em ação, assista ao nosso vídeo completo no canal do YouTube Chumbada Oficial. No vídeo, mostramos o resultado do suporte instalado e como as varas ficam armazenadas. Veja como ele não só organiza suas varas de pesca, mas também adiciona um toque decorativo ao seu espaço.</p>\n<p>Adquira agora o Suporte de Varas de Parede da Chumbada Oficial e transforme a maneira como você organiza e protege suas varas de pesca!</p>\n<!---->",
     "images": [
-      "assets/img/shopify/capa_2b51a3fb-c17b-4fe6-8a76-6656ccece2b2.png",
-      "assets/img/shopify/suporte-de-vara-de-parede.png",
-      "assets/img/shopify/02.png",
-      "assets/img/shopify/03.png",
-      "assets/img/shopify/04.png",
-      "assets/img/shopify/05.png",
-      "assets/img/shopify/06.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa_2b51a3fb-c17b-4fe6-8a76-6656ccece2b2.png?v=1725026358",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-de-vara-de-parede.png?v=1778242091",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/02.png?v=1725026360",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/03.png?v=1725026360",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/04.png?v=1725026360",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/05.png?v=1725026360",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/06.png?v=1725026360"
     ],
     "video": "assets/video/shopify/46bcc152bdd645929cb9df7722646899.mp4",
     "specs": {
       "Material": "Plástico de engenharia de alta densidade",
       "Aplicação": "Pesca esportiva e de competição"
     },
-    "section": "Organização"
+    "section": "Organização",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa_2b51a3fb-c17b-4fe6-8a76-6656ccece2b2.png?v=1725026358",
+    "colors": [
+      [
+        "Branco",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/04.png?v=1725026360"
+    }
   },
   {
     "id": 33,
@@ -2987,7 +3275,7 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/iscador-agulhao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Iscador Agulhão – Iscador reforçado confeccionado em inox rígido, não enferruja e cabo termoplástico de engenharia, evitando que o cheiro da isca fique penetrado no mesmo, super resistente, a agulha não escapa do cabo.<br>Muito utilizado para iscar sardinhas inteiras, em pedaços ou mesmo outras iscas como por exemplo lulas. O Iscador Agulhão possui uma ponta altamente penetrante capaz de iscar sardinhas até mesmo congeladas.<br>Modo de usar – espete o Iscador Agulhão no rabo da sardinha e desça a ponta da agulha até a boca da mesma, engate o encastoado no rasgo existente da agulha e suba puxando o cabo de aço do encastoado até o final da sardinha.</p>",
     "images": [
-      "assets/img/shopify/Agulhao.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Agulhao.png?v=1701356600"
     ],
     "video": "assets/video/shopify/df63e0ebdb784b49b1dd9898641b2663.mp4",
     "specs": {
@@ -2995,7 +3283,8 @@ window.PRODUCTS = [
       "Uso": "Iscagem de sardinhas inteiras, em pedaços, ou lulas",
       "Diferenciais": "Ponta altamente penetrante para iscas congeladas, agulha fixa de alta durabilidade"
     },
-    "section": "Acessórios"
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Agulhao.png?v=1701356600"
   },
   {
     "id": 24,
@@ -3039,15 +3328,26 @@ window.PRODUCTS = [
     ],
     "description": "<p><span data-sheets-root=\"1\">Carretel Retangular<br><br>O Carretel Retangular é um organizador simples, prático e indispensável para o pescador que gosta de ter tudo pronto para a hora da pescaria. Ideal para chicotes de pesqueiro, lago e outras montagens, ele permite enrolar e armazenar o chicote já no tamanho ideal, deixando tudo muito mais organizado e fácil de usar.<br><br>Com ele, o pescador pode deixar a montagem completa preparada, com boia, anzol e até chumbada, quando necessário, facilitando muito na hora de trocar o conjunto e voltar rapidamente para a água. É a solução perfeita para quem busca agilidade, organização e praticidade na pescaria.<br><br>Compacto e eficiente, o Carretel Retangular ajuda a evitar embolos, protege a montagem e mantém seus chicotes sempre prontos para uso. Um acessório simples, mas que faz toda a diferença no dia a dia do pescador.<br><br>Também contamos com a versão em material Eco, produzida a partir do reaproveitamento de peças que apresentaram falhas no processo produtivo. Esse reaproveitamento não compromete a qualidade do produto, ajuda a reduzir desperdícios dentro da empresa e ainda proporciona um preço mais acessível, unindo economia, eficiência e aproveitamento inteligente de material.<br></span></p>",
     "images": [
-      "assets/img/shopify/carretel_retangular_1.jpg",
-      "assets/img/shopify/carretel_retangular.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel_retangular_1.jpg?v=1773237833",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel_retangular.jpg?v=1773237833"
     ],
     "video": "assets/video/shopify/392e00e1e2d94279b68674b6aa8e6ce6.mp4",
     "specs": {
       "Capacidade": "Até 5 Chicotes",
       "Indicação": "Pesqueiro, lago e montagens diversas"
     },
-    "section": "Acessórios"
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel_retangular_1.jpg?v=1773237833",
+    "colors": [
+      [
+        "Azul",
+        "#888888"
+      ],
+      [
+        "Preto",
+        "#888888"
+      ]
+    ]
   },
   {
     "id": 26,
@@ -3164,16 +3464,17 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/resgata-isca?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "Novo Resgata Isca da Chumbada Oficial, item essencial em sua caixa de pesca, não perca mais iscas em enroscos como galhos e pedras.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Fácil manuseio, não há a necessidade de cortar a linha, basta passar a linha no olhal central e descer o Resgata Isca até onde a isca se encontra travada, as correntes irão se enrolar na garateia, puxe, firmemente, e pronto, sua isca estará pronta para outra.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Carretel de borracha ideal para deixar livre no piso do barco evitando batidas, 20 metros de corda altamente resistente.",
     "images": [
-      "assets/img/shopify/resgata-isca-capa.png",
-      "assets/img/shopify/demostracao.png",
-      "assets/img/shopify/resgata-isca-foto-nova.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/resgata-isca-capa.png?v=1725025614",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/demostracao.png?v=1725025616",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/resgata-isca-foto-nova.png?v=1725025630"
     ],
     "video": "assets/video/shopify/d831c09b11ab4d2fbba842e2e78cf629.mp4",
     "specs": {
       "Material": "Borracha premium",
       "Comprimento/Medida": "20 METROS"
     },
-    "section": "Acessórios"
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/resgata-isca-capa.png?v=1725025614"
   },
   {
     "id": 37,
@@ -3241,15 +3542,15 @@ window.PRODUCTS = [
     ],
     "description": "<p>Praticidade e Eficiência e ótimo Custo Benefício<br>O Saca Anzol é o acessório indispensável para pescadores que buscam praticidade e eficiência. Fabricado em plástico de alta qualidade, ele foi desenvolvido especialmente para facilitar a retirada do anzol quando o peixe engole profundamente, preservando a integridade do equipamento e, sempre que possível, do peixe.<br>Ideal para pescarias de praia , este desembuchador combina eficiência e custo-benefício , sendo leve, resistente e acessível. Disponível em três tamanhos – pequeno, médio e grande –, ele atende às necessidades de diferentes tipos de pesca e espécies de peixes. Para maior conveniência, oferecemos também o kit completo com os três tamanhos, garantindo que você esteja preparado para qualquer situação.<br>Escolha o Saca Anzol / Desembuchador e torne suas pescarias ainda mais produtivas e práticas!</p>",
     "images": [
-      "assets/img/shopify/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg",
-      "assets/img/shopify/1125_-_foto_-_saca_anzol_1.jpg",
-      "assets/img/shopify/1125_-_foto_-_saca_anzol_2.jpg",
-      "assets/img/shopify/1125_-_foto_-_saca_anzol_3.jpg",
-      "assets/img/shopify/1125_-_foto_-_saca_anzol_4.jpg",
-      "assets/img/shopify/SacaAnzol-G_f9098de5-7f97-4f05-87f2-6f1cb934b110.jpg",
-      "assets/img/shopify/SacaAnzol-M_6afbf618-aaa7-4dee-85f1-537baecb4c1d.jpg",
-      "assets/img/shopify/SacaAnzol-P_23371b65-d873-4c3b-89a6-8b0d25c12ef4.jpg",
-      "assets/img/shopify/SacaAnzol-Kit.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg?v=1701357730",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1125_-_foto_-_saca_anzol_1.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1125_-_foto_-_saca_anzol_2.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1125_-_foto_-_saca_anzol_3.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1125_-_foto_-_saca_anzol_4.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-G_f9098de5-7f97-4f05-87f2-6f1cb934b110.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-M_6afbf618-aaa7-4dee-85f1-537baecb4c1d.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-P_23371b65-d873-4c3b-89a6-8b0d25c12ef4.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-Kit.jpg?v=1764885170"
     ],
     "video": "assets/video/shopify/c833d8cb432a4adf91c3016d36320c34.mp4",
     "specs": {
@@ -3257,7 +3558,14 @@ window.PRODUCTS = [
       "Tamanhos": "Disponível em P, M, G ou no Kit Completo com os 3 tamanhos",
       "Função": "Retirar anzóis profundos de forma rápida e segura sem machucar o peixe ou perder a linha"
     },
-    "section": "Acessórios"
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg?v=1701357730",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "Kit P/M/G"
+    ]
   },
   {
     "id": 42,
@@ -3289,11 +3597,11 @@ window.PRODUCTS = [
     ],
     "description": "A Agulha de Tarrafa da Chumbada Oficial foi meticulosamente projetada para atender às necessidades dos pescadores que valorizam a confecção artesanal de tarrafas de pesca. Com um material especial de alta qualidade, esta agulha representa uma revolução no processo de montagem, garantindo que o nylon fique firmemente enrolado sem o risco de escapar, mesmo quando exposto a movimentos bruscos ou quedas acidentais.<br><br>Construída com dedicação e conhecimento, a Agulha de Tarrafa da Chumbada Oficial se destaca por sua capacidade única de melhorar significativamente a eficiência e a confiabilidade da confecção de tarrafas. O material escolhido para sua fabricação oferece resistência excepcional, garantindo que a agulha suporte as demandas das atividades de pesca mais exigentes.<br><br>Uma das características mais notáveis dessa agulha é sua habilidade de manter o nylon de maneira segura e firme, simplificando o processo de montagem artesanal. Os pescadores não precisam mais se preocupar com desenrolamentos acidentais ou interrupções no processo de confecção. Com a Agulha de Tarrafa da Chumbada Oficial, a criação de tarrafas se torna uma atividade suave e sem complicações.<br><br>Ao escolher a Agulha de Tarrafa da Chumbada Oficial, você está optando por um produto que reflete o compromisso da marca em oferecer ferramentas de qualidade excepcional para os entusiastas da pesca artesanal. Prepare-se para aprimorar suas técnicas de confecção de tarrafas e desfrutar de uma experiência de pesca mais gratificante com esta agulha inovadora e confiável.",
     "images": [
-      "assets/img/shopify/agulha-capa.png",
-      "assets/img/shopify/capa.png",
-      "assets/img/shopify/15-20ccm.png",
-      "assets/img/shopify/15cm.png",
-      "assets/img/shopify/20cm.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/agulha-capa.png?v=1725023376",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/capa.png?v=1725023380",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/15-20ccm.png?v=1725023380",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/15cm.png?v=1725023380",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/20cm.png?v=1725023380"
     ],
     "video": "",
     "specs": {
@@ -3301,7 +3609,8 @@ window.PRODUCTS = [
       "Diferencial": "Desenho que segura o nylon firmemente sem escorregar em movimentos bruscos",
       "Indicação": "Confecção e reparos artesanais de tarrafas e redes de pesca"
     },
-    "section": "Acessórios"
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/agulha-capa.png?v=1725023376"
   },
   {
     "id": 50,
@@ -3365,9 +3674,9 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/ima-fix?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>O Imã Fix é o acessório indispensável para pescadores que buscam praticidade e segurança ao preparar seus equipamentos. Fabricado com borracha de alta qualidade e equipado com dois ímãs extremamente fortes, ele se adere firmemente a qualquer superfície ferrosa, permitindo que você apoie suas varas e acessórios de pesca sem preocupações.</p>\n<p>Sua borracha macia e resistente protege a lataria do carro contra arranhões e danos, garantindo um uso seguro e confiável. Compacto e portátil, o Imã Fix pode ser guardado facilmente em qualquer parte do carro, pronto para ser utilizado assim que você chegar ao seu destino de pesca. Basta fixá-lo na lataria e apoiar as varas inclinadas sem o risco de escorregarem ou caírem, graças à força dos ímãs.</p>\n<p>Seja na praia, no rio, no pesqueiro ou em qualquer outro local, o Imã Fix é a solução prática e eficiente para organizar seus equipamentos. Ideal para pescadores que valorizam qualidade, segurança e conveniência.</p>",
     "images": [
-      "assets/img/shopify/ima-fix-01.jpg",
-      "assets/img/shopify/ima-fix-03.jpg",
-      "assets/img/shopify/ima-fix-02.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-01.jpg?v=1732619441",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-03.jpg?v=1732619441",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-02.jpg?v=1732619442"
     ],
     "video": "assets/video/shopify/642cf361fcbd4a02b6534dabee598d73.mp4",
     "specs": {
@@ -3375,7 +3684,8 @@ window.PRODUCTS = [
       "Função": "Fixação magnética instantânea na lataria do veículo para apoiar varas de pesca inclinadas",
       "Diferencial": "Protege a pintura do veículo e evita quedas ou danos nas varas"
     },
-    "section": "Acessórios"
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-01.jpg?v=1732619441"
   },
   {
     "id": 56,
@@ -3387,16 +3697,17 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/amarra-vara-velcro?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Amarra Vara Velcro - Versatilidade e Praticidade na Sua Pescaria</p><br>\n<p>O Amarra Vara Velcro é um acessório indispensável para qualquer pescador que preza pela organização e praticidade. Fabricado em borracha de alta qualidade, o produto é extremamente versátil e durável, proporcionando diferentes formas de utilização tanto durante a pescaria quanto no transporte dos equipamentos.</p><br>\n<p>Com um design inovador, o Amarra Vara Velcro conta com uma faixa de velcro de 50 cm, que facilita a amarração das varas ou do suporte em diversos locais, como guarda-corpos, decks de pesca com gradil, cadeiras e até mesmo no bagageiro de veículos. Isso permite que você transporte as varas com carretilhas já montadas e prontas para o uso, garantindo agilidade e segurança no manuseio dos equipamentos.</p><br>\n<p>Além de ser um suporte prático para varas, o produto também serve como um eficiente amarrador, garantindo que as varas fiquem firmes e bem posicionadas, mesmo em locais de difícil fixação. Sua estrutura de borracha proporciona alta aderência e flexibilidade, adaptando-se perfeitamente a diferentes diâmetros de varas e locais de apoio, evitando deslizamentos e mantendo as varas seguras e estáveis durante toda a pescaria.</p><br>\n<p>Com a adição do velcro de 50 cm, o Amarra Vara Velcro é capaz de oferecer uma fixação ainda mais segura e eficiente, possibilitando amarrações rápidas e descomplicadas em praticamente qualquer superfície. Seja para apoiar as varas durante o uso ou para amarrá-las com segurança no transporte, o Amarra Vara Velcro é a solução definitiva para organização e funcionalidade no seu dia a dia de pesca.</p>",
     "images": [
-      "assets/img/shopify/capa-apoio-de-vara-velcro.jpg",
-      "assets/img/shopify/02_53040a0a-365d-46ad-abda-3c6ea1315569.jpg",
-      "assets/img/shopify/03.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa-apoio-de-vara-velcro.jpg?v=1730979392",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/02_53040a0a-365d-46ad-abda-3c6ea1315569.jpg?v=1730979392",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/03.jpg?v=1730979392"
     ],
     "video": "",
     "specs": {
       "Material": "Velcro ultra resistente",
       "Comprimento/Medida": "50 CM"
     },
-    "section": "Acessórios"
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa-apoio-de-vara-velcro.jpg?v=1730979392"
   },
   {
     "id": 60,
@@ -3426,16 +3737,39 @@ window.PRODUCTS = [
     ],
     "description": "<p>Com esse adaptador, o pescador consegue unir dois acessórios essenciais em uma única montagem: a Secretária de Pesca e a parte superior do <a href=\"#/produto/varal-chumbada\">Varal</a>.</p><p>Na prática, ele permite usar a Secretária junto com o Varal, deixando tudo mais organizado na beira da praia e ainda servindo como apoio para manter a vara inclinada.</p><p>Mais praticidade, mais organização e mais resistência para sua pescaria.</p><p>O Adaptador para Secretária e Varal da Chumbada Oficial ficou ainda melhor.</p><p>Agora ele recebeu reforço em dois pontos importantes: na região de apoio da Secretária e também na lingueta onde o <a href=\"#/produto/varal-chumbada\">Varal</a> é fixado, trazendo mais resistência, firmeza e segurança no uso.</p><p>Melhoria contínua é isso: ouvir, testar, reforçar e evoluir.</p>",
     "images": [
-      "assets/img/shopify/adaptador-secretaria-novo.jpg",
-      "assets/img/shopify/adaptador-secretaria-branco.jpg",
-      "assets/img/shopify/adaptador-secretaria-preto.jpg",
-      "assets/img/shopify/Adaptador-secretaria-cinza-05.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-branco.jpg?v=1774009906",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-preto.jpg?v=1774009906",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Adaptador-secretaria-cinza-05.jpg?v=1774009906"
     ],
     "video": "",
     "specs": {
       "Aplicação": "Pesca esportiva e de competição"
     },
-    "section": "Acessórios"
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-branco.jpg?v=1774009906",
+    "colors": [
+      [
+        "Azul",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Cinza",
+        "#888888"
+      ],
+      [
+        "Preto",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-branco.jpg?v=1774009906",
+      "Cinza": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Adaptador-secretaria-cinza-05.jpg?v=1774009906",
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-preto.jpg?v=1774009906"
+    }
   },
   {
     "id": 76,
@@ -3578,8 +3912,17 @@ window.PRODUCTS = [
     ],
     "description": "Proporciona máxima proteção contra os raios solares com estilo esportivo e moderno. Feito com materiais respiráveis de alta durabilidade e ajuste confortável, ideal para longas jornadas de exposição ao sol.",
     "images": [
-      "assets/img/shopify/bone-chumbada.png",
-      "assets/images/bones-09-947dc590.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-3.jpg?v=1783013720",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-02.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-03.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-04.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-07.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-05.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-06.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-08.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-01.png?v=1725024015",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-10.png?v=1723736549",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-09.png?v=1723736498"
     ],
     "video": "",
     "specs": {
@@ -3587,7 +3930,32 @@ window.PRODUCTS = [
       "Proteção": "Aba curva para máxima proteção solar UV contra raios solares",
       "Ajuste": "Fivela traseira regulável confortável"
     },
-    "section": "Vestuário"
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-3.jpg?v=1783013720",
+    "colors": [
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Azul Claro",
+        "#888888"
+      ],
+      [
+        "Azul Marinho",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-05.png?v=1725024015",
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-03.png?v=1725024015",
+      "Azul Claro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bone-01.png?v=1725024015",
+      "Azul Marinho": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/bones-09.png?v=1723736498"
+    }
   },
   {
     "id": 13,
@@ -3599,9 +3967,9 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/chapel-de-palha-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Chapéu de Palha da Chumbada Oficial</p>\n<p>Descubra o Chapéu de Palha da Chumbada Oficial, um acessório essencial para qualquer aventureiro ao ar livre! Projetado para oferecer proteção máxima contra os raios solares, este chapéu combina estilo rústico e funcionalidade.</p>\n<p>O Chapéu de Palha da Chumbada Oficial é leve e durável, garantindo conforto durante longas jornadas sob o sol. Sua aba larga proporciona uma sombra refrescante, mantendo o rosto e o pescoço protegidos dos raios UV nocivos.</p>\n<p>Com uma fita ajustável para um encaixe seguro e personalizado, este chapéu é ideal para pescadores, caminhantes e todos que apreciam a vida ao ar livre. Além disso, seu design clássico e elegante faz com que ele seja perfeito para qualquer ocasião, seja uma pescaria em um lago tranquilo ou um passeio casual no campo.</p>\n<p>Características:</p>\n<p>- Material: Palha de alta qualidade<br>- Aba larga para proteção solar<br>- Fita ajustável para um encaixe confortável<br>- Leve e durável<br>- Design clássico e elegante</p>\n<p>O Chapéu de Palha da Chumbada Oficial não é apenas um item de proteção, mas também um símbolo de estilo e respeito à natureza. Adquira o seu e esteja preparado para qualquer aventura ao ar livre!</p>\n<!---->",
     "images": [
-      "assets/img/shopify/chapeu-capa.png",
-      "assets/img/shopify/chapeu_94827940-2a70-4825-baab-4666a1aaaeb8.png",
-      "assets/img/shopify/chapeu-2.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chapeu-capa.png?v=1725024220",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chapeu_94827940-2a70-4825-baab-4666a1aaaeb8.png?v=1721917979",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chapeu-2.png?v=1721914354"
     ],
     "video": "",
     "specs": {
@@ -3609,7 +3977,8 @@ window.PRODUCTS = [
       "Aba": "Aba larga para excelente sombra de rosto e pescoço",
       "Ajuste": "Fita regulável sob o queixo para encaixe seguro"
     },
-    "section": "Vestuário"
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chapeu-capa.png?v=1725024220"
   },
   {
     "id": 77,
@@ -3652,8 +4021,8 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/tube-neck-tradicional?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>### Descritivo do Produto: Tube Neck Tradicional</p>\n<p>#### Proteção Completa para Seu Rosto</p>\n<p>O Tube Neck Tradicional é a escolha perfeita para quem busca proteção e conforto durante atividades ao ar livre. Projetado para proteger seu rosto do sol e de insetos, ele é ideal para praticantes de esportes, pescadores, ciclistas, corredores e aventureiros em geral.</p>\n<p>#### Características Principais:</p>\n<p>- Material de Altíssima Qualidade: Fabricado com materiais premium que garantem durabilidade e resistência, o Tube Neck Tradicional é um acessório indispensável para sua proteção diária.<br>  <br>- Secagem Ultra Rápida: Com tecnologia de secagem rápida, o Tube Neck Tradicional mantém você seco e confortável, mesmo durante as atividades mais intensas.<br>  <br>- Controle Térmico: Desenvolvido para proporcionar controle térmico eficiente, ajuda a regular a temperatura corporal, mantendo-o fresco em climas quentes e aquecido em climas frios.<br>  <br>- Proteção Solar 50+ FPS: Equipado com fator de proteção solar 50+, ele bloqueia os raios UV nocivos, protegendo sua pele dos danos causados pela exposição ao sol.<br>  <br>- Formato Anatômico: Seu design anatômico garante um ajuste perfeito ao rosto, oferecendo conforto durante todo o dia, sem causar desconforto ou irritação.</p>\n<p><br>#### Cuidados e Manutenção</p>\n<p>Para garantir a durabilidade do seu Tube Neck Tradicional, lave-o à mão com sabão neutro e deixe secar à sombra. Evite o uso de alvejantes e a exposição prolongada ao sol após a lavagem.</p>\n<p>### Benefícios do Tube Neck Tradicional:</p>\n<p>- Proteção: Contra o sol e insetos.<br>- Conforto: Uso prolongado sem desconforto.<br>- Qualidade: Materiais duráveis e eficientes.</p>\n<p>Invista na sua proteção com o Tube Neck Tradicional e aproveite ao máximo suas atividades ao ar livre com segurança e conforto!</p>\n<!---->",
     "images": [
-      "assets/img/shopify/Tube-Neck-tradicional-capa.png",
-      "assets/img/shopify/Tube-Neck-tradicional.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-tradicional-capa.png?v=1725026557",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-tradicional.png?v=1725026560"
     ],
     "video": "",
     "specs": {
@@ -3661,7 +4030,14 @@ window.PRODUCTS = [
       "Proteção Solar": "FPS 50+ contra raios UV",
       "Diferenciais": "Formato anatômico, secagem ultra rápida e regulação térmica"
     },
-    "section": "Vestuário"
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-tradicional-capa.png?v=1725026557",
+    "colors": [
+      [
+        "Branco",
+        "#888888"
+      ]
+    ]
   },
   {
     "id": 79,
@@ -3673,9 +4049,9 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/tube-neck-premium?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>### Tube Neck Premium: Proteção Superior para suas Aventuras ao Ar Livre</p>\n<p>O Tube Neck Premium é o acessório indispensável para quem busca proteção e conforto durante atividades ao ar livre, como pescaria, trilhas, ciclismo e muito mais. Desenvolvido com tecnologia de ponta, este produto oferece uma série de benefícios que garantem a melhor experiência possível.</p>\n<p>#### Características Principais:</p>\n<p>- Proteção Completa: Bloqueia eficazmente os raios solares com proteção solar de 50+ FPS, mantendo sua pele segura dos danos causados pelo sol.<br>- Respiração Facilitada: Furos feitos a laser na posição da boca permitem uma respiração fácil e natural, evitando que seus óculos embacem, essencial durante momentos de concentração, como na pescaria.<br>- Conforto Prolongado: O formato anatômico do Tube Neck Premium se ajusta perfeitamente ao seu rosto, proporcionando conforto durante todo o dia sem causar incômodos.<br>- Alta Qualidade de Material: Fabricado com materiais de altíssima qualidade, este produto oferece controle térmico eficiente, mantendo você fresco mesmo em dias quentes.<br>- Secagem Ultra Rápida: Ideal para atividades que envolvem água ou suor, o tecido de secagem ultra rápida garante que você permaneça seco e confortável.</p>\n<p>#### Benefícios Adicionais:</p>\n<p>- Proteção contra Insetos: Além de proteger contra o sol, o Tube Neck Premium também ajuda a manter insetos indesejados longe do seu rosto.<br>- Versatilidade: Pode ser usado de diversas formas – como máscara, bandana, cachecol ou faixa de cabelo – adaptando-se às suas necessidades específicas.<br>- Estilo e Funcionalidade: Com um design moderno e prático, o Tube Neck Premium não só oferece proteção e conforto, mas também adiciona um toque de estilo às suas aventuras.</p>\n<p>#### Ideal Para:</p>\n<p>- Pescadores<br>- Ciclistas<br>- Caminhantes e Trilheiros<br>- Praticantes de esportes ao ar livre<br>- Qualquer pessoa que precise de proteção e conforto sob o sol</p>\n<p>Escolha o Tube Neck Premium e descubra a combinação perfeita de proteção, conforto e praticidade para suas atividades ao ar livre. Proteja-se com estilo e eficiência em qualquer situação.</p>\n<!----><!---->",
     "images": [
-      "assets/img/shopify/Tube-Neck-Premium.capa.png",
-      "assets/img/shopify/Tube-Neck-Premium.png",
-      "assets/img/shopify/Tube-Neck-Premium-azul.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium.capa.png?v=1725026548",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium.png?v=1725026550",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium-azul.png?v=1721145615"
     ],
     "video": "",
     "specs": {
@@ -3683,7 +4059,22 @@ window.PRODUCTS = [
       "Proteção Solar": "FPS 50+ contra raios UV",
       "Diferenciais": "Furos feitos a laser na posição da boca para evitar embaçar óculos, secagem ultra rápida, formato anatômico"
     },
-    "section": "Vestuário"
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium.capa.png?v=1725026548",
+    "colors": [
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Azul Escuro",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium.png?v=1725026550",
+      "Azul Escuro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tube-Neck-Premium-azul.png?v=1721145615"
+    }
   },
   {
     "id": 80,
@@ -3732,13 +4123,35 @@ window.PRODUCTS = [
     ],
     "description": "Desenvolvida com tecido técnico inteligente, esta peça bloqueia o vento e resiste a respingos d'água, mantendo o conforto térmico sem comprometer a transpiração. Conta com design esportivo e caimento ergonômico, ideal para treinos e pescarias em condições dinâmicas.",
     "images": [
-      "assets/images/calca-corta-vento-esporte-preta-545adbbf.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_corta-vento_esporte.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-preta.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-P.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-M.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-G.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-GG.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-1XG.jpg?v=1738232638",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-2XG.jpg?v=1738232638"
     ],
     "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
     "specs": {
       "Material": "Tecido técnico inteligente (bloqueia vento e respingos)",
       "Diferenciais": "Design esportivo, caimento ergonômico, ótima respirabilidade e secagem rápida",
       "Indicação": "Treinos e pescarias em condições de ventania ou chuva leve"
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_corta-vento_esporte.jpg?v=1738232638",
+    "colors": [
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Azul Marinho",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca-corta-vento-esporte-preta.jpg?v=1738232638",
+      "Azul Marinho": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_corta-vento_esporte.jpg?v=1738232638"
     }
   },
   {
@@ -3787,7 +4200,14 @@ window.PRODUCTS = [
     ],
     "description": "Vestuário técnico esportivo projetado para atletas e pescadores exigentes. Combina proteção contra intempéries, excelente respirabilidade e flexibilidade total de movimentos.",
     "images": [
-      "assets/images/calca-elastica-comfort-verde-d9d9f7c1.png"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-preta.jpg?v=1737972173",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_elastic_comfort_verde_escuro.jpg?v=1738233419",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-P.jpg?v=1738233419",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-M.jpg?v=1738233419",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-G.jpg?v=1738233419",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-GG.jpg?v=1738233419",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-1XG.jpg?v=1738233419",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-2XG.jpg?v=1738233419"
     ],
     "video": "assets/video/shopify/afcba22e8161455985558453fe7ca258.mp4",
     "specs": {
@@ -3795,7 +4215,22 @@ window.PRODUCTS = [
       "Diferenciais": "Flexibilidade total de movimentos, respirabilidade e resistência a rasgos",
       "Indicação": "Vestuário esportivo para pescadores e atletas exigentes"
     },
-    "section": "Vestuário"
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-preta.jpg?v=1737972173",
+    "colors": [
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Verde Escuro",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Calca-elastic-comfort-preta.jpg?v=1737972173",
+      "Verde Escuro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/calca_elastic_comfort_verde_escuro.jpg?v=1738233419"
+    }
   },
   {
     "id": 82,
@@ -3839,15 +4274,15 @@ window.PRODUCTS = [
     ],
     "description": "<p>Blusa Corta Vento - Alta Qualidade e Versatilidade</p>\n<p>Descubra a Blusa Corta Vento, projetada para oferecer proteção e conforto em qualquer ocasião. Feita com material de alta qualidade, esta blusa é ideal para bloquear o vento, mantendo você aquecido e protegido. </p>\n<p>Com um design ultraleve e compacto, a Blusa Corta Vento é perfeita para ser levada em suas aventuras de pescaria sem ocupar espaço na sua mochila. Além disso, sua beleza e estilo tornam-a uma peça versátil, adequada para o uso no dia a dia. </p>\n<p>Disponível na elegante cor azul escuro, esta blusa não só proporciona funcionalidade, mas também um toque moderno ao seu guarda-roupa. Seja para enfrentar o vento frio durante a pescaria ou para compor um visual casual, a Blusa Corta Vento é a escolha ideal para quem busca praticidade sem abrir mão do estilo.</p>\n<!---->\n<h4>Tabela de Medidas</h4>\n<table class=\"size-table\">\n  <thead>\n    <tr>\n      <th>Tamanho</th>\n      <th>P</th>\n      <th>M</th>\n      <th>G</th>\n      <th>GG</th>\n      <th>EXG</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Largura</td>\n      <td>56</td>\n      <td>58</td>\n      <td>60</td>\n      <td>62</td>\n      <td>68</td>\n    </tr>\n    <tr>\n      <td>Altura</td>\n      <td>65</td>\n      <td>67</td>\n      <td>70</td>\n      <td>72</td>\n      <td>80</td>\n    </tr>\n  </tbody>\n</table>\n",
     "images": [
-      "assets/img/shopify/Corta-vento-confort-preta-01.jpg",
-      "assets/img/shopify/Corta-vento-confort-preta-02.jpg",
-      "assets/img/shopify/Corta-vento-confort-preta-03.jpg",
-      "assets/img/shopify/Corta-vento-confort-preta-P.jpg",
-      "assets/img/shopify/Corta-vento-confort-preta-M.jpg",
-      "assets/img/shopify/Corta-vento-confort-preta-G.jpg",
-      "assets/img/shopify/Corta-vento-confort-preta-GG.jpg",
-      "assets/img/shopify/Corta-vento-confort-preta-1XG.jpg",
-      "assets/img/shopify/Corta-vento-confort-preta-2XG.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-01.jpg?v=1738167658",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-02.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-03.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-P.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-M.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-G.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-GG.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-1XG.jpg?v=1738167676",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-2XG.jpg?v=1738167676"
     ],
     "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
     "specs": {
@@ -3855,7 +4290,17 @@ window.PRODUCTS = [
       "Diferenciais": "Design ultraleve e compacto (não ocupa espaço na mochila), estilo versátil para uso diário",
       "Proteção": "Bloqueio eficiente contra vento frio e respingos d'água"
     },
-    "section": "Vestuário"
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-01.jpg?v=1738167658",
+    "colors": [
+      [
+        "Preta",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Preta": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-confort-preta-01.jpg?v=1738167658"
+    }
   },
   {
     "id": 83,
@@ -3911,18 +4356,18 @@ window.PRODUCTS = [
     ],
     "description": "<p>Blusa Corta Vento - Alta Qualidade e Versatilidade</p>\n<p>Descubra a Blusa Corta Vento, projetada para oferecer proteção e conforto em qualquer ocasião. Feita com material de alta qualidade, esta blusa é ideal para bloquear o vento, mantendo você aquecido e protegido. </p>\n<p>Com um design ultraleve e compacto, a Blusa Corta Vento é perfeita para ser levada em suas aventuras de pescaria sem ocupar espaço na sua mochila. Além disso, sua beleza e estilo tornam-a uma peça versátil, adequada para o uso no dia a dia. </p>\n<p>Disponível na elegante cor azul escuro, esta blusa não só proporciona funcionalidade, mas também um toque moderno ao seu guarda-roupa. Seja para enfrentar o vento frio durante a pescaria ou para compor um visual casual, a Blusa Corta Vento é a escolha ideal para quem busca praticidade sem abrir mão do estilo.</p>\n<!---->\n<h4>Tabela de Medidas</h4>\n<table class=\"size-table\">\n  <thead>\n    <tr>\n      <th>Tamanho</th>\n      <th>P</th>\n      <th>M</th>\n      <th>G</th>\n      <th>GG</th>\n      <th>EXG</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Largura</td>\n      <td>56</td>\n      <td>58</td>\n      <td>60</td>\n      <td>62</td>\n      <td>68</td>\n    </tr>\n    <tr>\n      <td>Altura</td>\n      <td>65</td>\n      <td>67</td>\n      <td>70</td>\n      <td>72</td>\n      <td>80</td>\n    </tr>\n  </tbody>\n</table>\n",
     "images": [
-      "assets/img/shopify/capa_29c7635b-6c50-4d01-ab38-79cc9c4e900d.png",
-      "assets/img/shopify/corta-vento-azul-claro.jpg",
-      "assets/img/shopify/corta-vento-branco.jpg",
-      "assets/img/shopify/corta-vento-laranja.jpg",
-      "assets/img/shopify/Corta-vento-chumbada.png",
-      "assets/img/shopify/Corta-vento-chumbada-costas.png",
-      "assets/img/shopify/P_2.jpg",
-      "assets/img/shopify/M_2.jpg",
-      "assets/img/shopify/G_2.jpg",
-      "assets/img/shopify/GG_2.jpg",
-      "assets/img/shopify/1XG_2.jpg",
-      "assets/img/shopify/2XG_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa_29c7635b-6c50-4d01-ab38-79cc9c4e900d.png?v=1737554984",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-azul-claro.jpg?v=1737554984",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-branco.jpg?v=1737554984",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-laranja.jpg?v=1737554984",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-chumbada.png?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-chumbada-costas.png?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/P_2.jpg?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/M_2.jpg?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/G_2.jpg?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/GG_2.jpg?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1XG_2.jpg?v=1737567843",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/2XG_2.jpg?v=1737567843"
     ],
     "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
     "specs": {
@@ -3930,7 +4375,32 @@ window.PRODUCTS = [
       "Diferenciais": "Design ultraleve e compacto, ótimo caimento para prática esportiva dinâmica",
       "Proteção": "Bloqueio eficiente contra vento frio e respingos d'água"
     },
-    "section": "Vestuário"
+    "section": "Vestuário",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa_29c7635b-6c50-4d01-ab38-79cc9c4e900d.png?v=1737554984",
+    "colors": [
+      [
+        "Azul Claro",
+        "#888888"
+      ],
+      [
+        "Azul Escuro",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Laranja",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Azul Claro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-azul-claro.jpg?v=1737554984",
+      "Azul Escuro": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Corta-vento-chumbada.png?v=1737567843",
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-branco.jpg?v=1737554984",
+      "Laranja": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/corta-vento-laranja.jpg?v=1737554984"
+    }
   },
   {
     "id": 84,
@@ -4625,5 +5095,925 @@ window.PRODUCTS = [
     "rating": 5.0,
     "reviews": 0,
     "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/photo_2025-10-22_13-11-12.jpg?v=1773694070"
+  },
+  {
+    "name": "Porta Pernadas e Chicotes",
+    "desc": "<p>Este produto contém 30 canais superiores e 30 canais inferiores. Nele é possível acomodar pernadas (anzóis empatados), chicotes com pernadas. A vantagem do porta pernada e chicote é que o mesmo causa menos memória nas linhas usadas por mantê-las esticadas, outra vantagem é seu formato plano comprido que ocupa pouco espaço em sua caixa de pesca.</p>\n<p>Medida: 32 x 8,5 cm</p>",
+    "specs": {},
+    "price": "30.00",
+    "category": "Montagem",
+    "section": "Montagem",
+    "colors": [
+      [
+        "Azul",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Rosa",
+        "#888888"
+      ],
+      [
+        "Areia",
+        "#888888"
+      ],
+      [
+        "Preto",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/sedalha-azul.png?v=1725025534",
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_pernada_e_chicotes_branco.jpg?v=1738591758",
+      "Rosa": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/sedalha-rosa.png?v=1725025534",
+      "Areia": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/sedalha-areia.png?v=1725025534",
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_pernada_e_chicotes_preto.jpg?v=1738591758"
+    },
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/sedalha-areia-capa.png?v=1725025532",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/sedalha-areia-capa.png?v=1725025532",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/sedalha-areia.png?v=1725025534",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/sedalha-azul.png?v=1725025534",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/sedalha-azul-claro.png?v=1725025534",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/sedalha-rosa.png?v=1725025534",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_pernada_e_chicotes_branco.jpg?v=1738591758",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/porta_pernada_e_chicotes_preto.jpg?v=1738591758"
+    ]
+  },
+  {
+    "name": "Camiseta de Pesca Masculina",
+    "desc": "<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tabela-de-tamanhos-camiseta.png?v=1732043769\">Camisa 100% poliester, com fator de proteção solar 35. Estampa em impressão digital.</p>",
+    "specs": {},
+    "price": "95.00",
+    "category": "Vestuário",
+    "section": "Vestuário",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [
+      "G",
+      "XG",
+      "XXG",
+      "EXG"
+    ],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa.png?v=1784562308",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa.png?v=1784562308",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa-capa.png?v=1725024037",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/camisa-nova.jpg?v=1725024039"
+    ]
+  },
+  {
+    "name": "Pipa",
+    "desc": "<p><span>🎣NÃO PERCA MAIS O SEU MATERIAL NOS ENROSCOS🎣</span><br><span>-------------------------------------------------------------</span><br><span>▪️ Esse acessório da Chumbada Oficial, vai fazer seu equipamento flutuar sobre o fundo, não deixando a chumbada ir arrastando no fundo durante o recolhimento.</span><br><br><span>▪️ A Pipa funciona com a hidrodinâmica causada no recolhimento, fazendo assim a Pipa subir para a superfície.</span><br><br><span>▪️ \"Mas funciona mesmo?\" - SIMMM!! Testado e aprovado por grandes nomes da pesca, e também tem vídeo no YouTube da Pipa funcionando</span><br></p>",
+    "specs": {},
+    "price": "6.00",
+    "category": "Acessórios",
+    "section": "Acessórios",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pipa-capa-3.png?v=1725025441",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pipa-capa-3.png?v=1725025441",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Pipa-2unidades_6594cf33-b024-4508-a790-f39667ed2a69.jpg?v=1725025445"
+    ]
+  },
+  {
+    "name": "Stopper Modelo Oliva",
+    "desc": "<p>Stopper Modelo Oliva: Regulagem Precisa, Versatilidade e Segurança na captura do peixe.</p>\n<p>O Stopper modelo Oliva é muito mais do que um acessório para regulagem de linha; é uma solução inteligente que combina praticidade e segurança, especialmente em pescarias desafiadoras. Feito de borracha de alta qualidade, ele desliza com leve pressão na linha, permitindo ajustes precisos na altura da boia ou da pernada, atendendo diferentes situações como montagens de chicotes de pescas de praia ou Down Shot.</p>\n<p>Um detalhe importante, mas pouco observado, é sua função como um verdadeiro fusível na linha, oferecendo segurança durante a briga com o peixe. Quando o peixe oferece resistência e há risco de rasgar a boca ou estourar o anzol, o Stopper entra em ação. Ele desliza suavemente pela linha principal, sem deixar a linha afrouxar, mas aliviando a pressão sobre a membrana sensível da boca do peixe. Isso faz do Stopper modelo Oliva indispensável para pescarias onde os peixes têm bocas frágeis e delicadas.</p>\n<p>Na briga com o peixe, vários fatores trabalham em conjunto para absorver o impacto: a mola representada pela torção do caniço, a elasticidade da linha, o freio do molinete ou da carretilha, e, com o Stopper, você adiciona mais uma camada de proteção — o deslize controlado na linha. Esse sistema reduz significativamente os riscos de perder o peixe e aumenta suas chances de um combate bem-sucedido.</p>\n<p>Com um design discreto e hidrodinâmico, o modelo Oliva garante naturalidade ao conjunto e excelente performance em qualquer ambiente. Seja para ajustes precisos ou segurança em sua captura, o Stopper modelo Oliva é a ferramenta indispensável para pescadores exigentes.</p>",
+    "specs": {},
+    "price": "8.13",
+    "category": "Montagem",
+    "section": "Montagem",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [
+      "P",
+      "M",
+      "G"
+    ],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Stopper-oliva-grande-capa-2.png?v=1725025941",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Stopper-oliva-grande-capa-2.png?v=1725025941",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/StopperP2_38b5983f-b1ee-449f-b6c8-58ecb14ea751.jpg?v=1725025945",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/StopperM2_f4649fb4-bd6b-4bf4-a45b-d044d76daff2.jpg?v=1725025945",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/StopperG2_28f89b31-445e-4f75-af2c-5948993bd089.jpg?v=1725025945"
+    ]
+  },
+  {
+    "name": "Cobre Nó (Pacote com 40)",
+    "desc": "<p><span>Cobre Nó - Com esse acessório, você irá proteger o nó, que faz parte da montagem do seu sistema de pesca. O Cobre Nó irá evitar que o anzol e sujeiras, que possam existir, se enrosquem nos nós existentes e possibilitará uma ponta maior do nó, uma vez que essa ponta será coberta.</span></p>\n<div id=\"gtx-trans\" style=\"position: absolute; left: -35px; top: -20px;\">\n<div class=\"gtx-trans-icon\"></div>\n</div>",
+    "specs": {},
+    "price": "4.62",
+    "category": "Acessórios",
+    "section": "Acessórios",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [
+      "P",
+      "M",
+      "G"
+    ],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-4.jpg?v=1783013675",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-4.jpg?v=1783013675",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-6.jpg?v=1783013623",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoVarios.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/TamanhosCobreNo.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoAmareloP.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoAzulBicP.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoAzulClaroP.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoBrancoP.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoCinzaP.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoLaranjaP.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoMarromP.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoRosaP.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoVerdeClaroP.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoVerdeEscuroP.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoVermelhoP.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoAmareloM.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoAzulBicM.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoAzulClaroM.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoBrancoM.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoCinzaM.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoLaranjaM.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoMarromM.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoRosaM.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoVerdeClaroM.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoVerdeEscuroM.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoVermelhoM.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoAmareloG.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoAzulBicG.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoAzulClaroG.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoBrancoG.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoCinzaG.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoLaranjaG.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoMarromG.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoRosaG.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoVerdeClaroG.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoVerdeEscuroG.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoVermelhoG.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoPretoP.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoPretoM.jpg?v=1725024755",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CobreNoPretoG.jpg?v=1725024755"
+    ]
+  },
+  {
+    "name": "Apoio Anzol Cano",
+    "desc": "Apoio Anzol Cano – esse apoio pode ser adquirido individualmente, o mesmo possui 50 canais iguais onde os anzóis serão apoiados, caso prefira temos a opção dele já montado no <a href=\"https://chumbadas.com.br/collections/cano/products/porta-pernada-cano\">Porta Pernada Cano</a>.",
+    "specs": {},
+    "price": "2.69",
+    "category": "Suportes",
+    "section": "Suportes",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio.png?v=1725024070",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio.png?v=1725024070",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/suporte-3_49d86944-6027-4fee-a41f-89707bb55c86.png?v=1725024074"
+    ]
+  },
+  {
+    "name": "Chicote - BEIRA 1,00m - 3 Unidades",
+    "desc": "<p><strong>PESCA DE BEIRA</strong> 1 METRO - ENGATE RÁPIDO 3 UNID.<br><br><strong>MODELO 13</strong> BEIRA 1m <br>VERMELHO 0,32 mm<br>Ideal para pesca abaixo dos 40 metros de distância<br>2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER<br>Ideal para pernadas cuja espessura de linha seja entre 0,20 mm a 0,26 mm<br>MICRO SNAP ideal para chumbadas com olhal, chumbadas com haste simples e com destorcedor<br>PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 50 GRAMAS<br><br><strong>MODELO 14</strong> BEIRA 1m <br>INCOLOR 0,32 mm<br>Ideal para pesca abaixo dos 40 metros de distância<br>2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER<br>Ideal para pernadas cuja espessura de linha seja entre 0,20 mm a 0,26 mm<br>MICRO SNAP ideal para chumbadas com olhal, chumbadas com haste simples e com destorcedor<br>PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 50 GRAMAS</p>",
+    "specs": {},
+    "price": "28.60",
+    "category": "Montagem",
+    "section": "Montagem",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [
+      "13",
+      "14"
+    ],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa-beira_p.jpg?v=1737636486",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa-beira_p.jpg?v=1737636486",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-14_d5202550-ffd9-43cf-95ae-3c796c3b4b63.png?v=1737636486",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-13_9199f71d-b95c-4d72-b1b0-16fb351fcf0c.png?v=1737636486"
+    ]
+  },
+  {
+    "name": "Chicote - MEIA ÁGUA 1,15m - 3 Unidades",
+    "desc": "<p><strong>CHICOTE MEIA ÁGUA </strong>1,15 METRO - ENGATE RÁPIDO 3 UNID.</p>\n<p><br><strong>MODELO 9</strong><br>VERMELHO 0,42 mm<br>Ideal para pesca entre 40 e 100 metros de distância<br>2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER<br>Ideal para pernadas cuja espessura de linha seja entre 0,26 mm a 0,31 mm<br>MICRO SNAP ideal para chumbadas com olhal, chumbadas com haste simples e com destorcedor<br>PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 100 GRAMAS<br><br><strong>MODELO 10</strong><br>INCOLOR 0,42 mm<br>Ideal para pesca entre 40 e 100 metros de distância<br>2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER<br>Ideal para pernadas cuja espessura de linha seja entre 0,26 mm a 0,31 mm<br>MICRO SNAP ideal para chumbadas com olhal, chumbadas com haste simples e com destorcedor<br>PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 100 GRAMAS<br><br><strong>MODELO 11</strong><br>VERMELHO 0,42 mm<br>Ideal para pesca entre 40 e 100 metros de distância<br>2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER<br>Ideal para pernadas cuja espessura de linha seja entre 0,26 mm a 0,31 mm<br>SNAP UNIVERSAL compativel com a maioria dos modelos de chumbadas existentes no mercado<br>PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 100 GRAMAS<br><br><strong>MODELO 12</strong><br>INCOLOR 0,42 mm<br>Ideal para pesca entre 40 e 100 metros de distância<br>2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER<br>Ideal para pernadas cuja espessura de linha seja entre 0,26 mm a 0,31 mm<br>SNAP UNIVERSAL compativel com a maioria dos modelos de chumbadas existentes no mercado<br>PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 100 GRAMAS</p>",
+    "specs": {},
+    "price": "28.60",
+    "category": "Montagem",
+    "section": "Montagem",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/meia-agua-capa_1_76b66870-2364-4e10-b85c-486a4c29f38f.webp?v=1737637449",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/meia-agua-capa_1_76b66870-2364-4e10-b85c-486a4c29f38f.webp?v=1737637449",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-09_4abfa100-cd27-470b-85a7-eb51806ef1f3.png?v=1737637449",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-10_698c8c9b-51b5-4cae-aaeb-45cdeb2baa40.png?v=1737637449",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-11_2746424b-ff6c-48ad-9fe2-57969ea201c4.png?v=1737637449",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-12_6b0c46f0-c752-46a6-b59b-68879349053a.png?v=1737637449"
+    ]
+  },
+  {
+    "name": "Chicote - FUNDO 1,30m - 3 Unidades",
+    "desc": "<p class=\"p1\"><b>PESCA DE FUNDO 1,30 METRO ENGATE RÁPIDO 3 UNID. </b></p>\n<p class=\"p1\"><strong>MODELO 1</strong> FUNDO 1,30 m VERMELHO 0,62 mm</p>\n<p class=\"p1\">Ideal para pesca acima dos 100 metros de distância</p>\n<p class=\"p1\">2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER</p>\n<p class=\"p1\">Ideal para pernadas cuja espessura de linha seja entre 0,31 mm a 0,45 mm</p>\n<p class=\"p1\">MICRO SNAP ideal para chumbadas com olhal, chumbadas com haste simples e com destorcedor</p>\n<p class=\"p1\">PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 160 GRAMAS</p>\n<p class=\"p3\"><b><br></b></p>\n<p class=\"p1\"><strong>MODELO 2</strong> FUNDO 1,30 m INCOLOR 0,62 mm</p>\n<p class=\"p1\">Ideal para pesca acima dos 100 metros de distância</p>\n<p class=\"p1\">2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER</p>\n<p class=\"p1\">Ideal para pernadas cuja espessura de linha seja entre 0,31 mm a 0,45 mm</p>\n<p class=\"p1\">MICRO SNAP ideal para chumbadas com olhal, chumbadas com haste simples e com destorcedor</p>\n<p class=\"p1\">PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 160 GRAMAS</p>\n<p class=\"p2\"> </p>\n<p class=\"p2\"><strong>MODELO 3</strong> FUNDO 1,30 m VERMELHO 0,62 mm<br></p>\n<p class=\"p1\">Ideal para pesca acima dos 100 metros de distância</p>\n<p class=\"p1\">2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER</p>\n<p class=\"p1\">Ideal para pernadas cuja espessura de linha seja entre 0,31 mm a 0,45 mm</p>\n<p class=\"p1\">SNAP UNIVERSAL compativel com a maioria dos modelos de chumbadas existentes no mercado</p>\n<p class=\"p1\">PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 160 GRAMAS</p>\n<p class=\"p2\"><strong>MODELO 4</strong> FUNDO 1,30 m INCOLOR 0,62 mm</p>\n<p class=\"p1\">Ideal para pesca acima dos 100 metros de distância</p>\n<p class=\"p1\">2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER</p>\n<p class=\"p1\">Ideal para pernadas cuja espessura de linha seja entre 0,31 mm a 0,45 mm</p>\n<p class=\"p1\">SNAP UNIVERSAL compativel com a maioria dos modelos de chumbadas existentes no mercado</p>\n<p class=\"p1\">PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 160 GRAMAS</p>\n<p class=\"p2\"><strong>MODELO 17</strong> FUNDO 1,30 m INCOLOR 0,62 mm</p>\n<p class=\"p1\">Ideal para pesca acima dos 100 metros de distância</p>\n<p class=\"p1\">2 ROTORES MIÇANGA COM NÓ DE CORRER</p>\n<p class=\"p1\">Ideal para pernadas cuja espessura<br>de linha seja entre 0,31 mm a 0,55 mm ( UTILIZAR DE 2 A 3 \"nós bolinha\" )</p>\n<p class=\"p1\">MICRO SNAP ideal para chumbadas c om olhal, chumbadas com haste simples e com destorcedor</p>\n<p class=\"p1\">PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 160 GRAMAS</p>\n<p class=\"p2\"><strong>MODELO 18</strong> FUNDO 1,30 m INCOLOR 0,62 mm</p>\n<p class=\"p1\">Ideal para pesca acima dos 100 metros de distância</p>\n<p class=\"p1\">2 ROTORES MIÇANGA COM NÓ DE CORRER</p>\n<p class=\"p1\">Ideal para pernadas cuja espessura de linha seja entre 0,31 mm a 0,55 mm ( UTILIZAR DE 2 A 3 \"nós bolinha\" )</p>\n<p class=\"p1\">SNAP UNIVERSAL compativel com a maioria dos modelos de chumbadas existentes no mercado</p>\n<p class=\"p1\">PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 160 GRAMAS</p>",
+    "specs": {},
+    "price": "28.60",
+    "category": "Montagem",
+    "section": "Montagem",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "17",
+      "18"
+    ],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/fundo-capa.webp?v=1737636375",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/fundo-capa.webp?v=1737636375",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-01_0687d65a-ff2c-4c55-bbac-f497a0217c6b.png?v=1737636375",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-02_f11db813-2538-41a9-ae54-140dcf0e107f.png?v=1737636375",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-03_5b05a6b5-da11-4f4e-89cc-68d94747e16b.png?v=1737636375",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-04_5eac5caa-0e32-40ed-993c-bc826855adb9.png?v=1737636375",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-17_42f1ff77-58eb-4f62-8111-c3521ea8566e.png?v=1737636375",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-18_60bd0fae-18fc-4833-8608-e9e7aaebccb1.png?v=1737636375"
+    ]
+  },
+  {
+    "name": "Chicote - FUNDO 1,80m - 3 Unidades",
+    "desc": "<p class=\"p1\"><b>PESCA DE FUNDO 1,80 METRO ENGATE RÁPIDO 3 UNID. </b></p>\n<p class=\"p2\"><strong>MODELO 5</strong> FUNDO 1,80 m VERMELHO 0,62 mm</p>\n<p class=\"p2\">Ideal para pesca acima dos 100 metros de distância</p>\n<p class=\"p2\">2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER</p>\n<p class=\"p2\">Ideal para pernadas cuja espessura de linha seja entre 0,31 mm a 0,45 mm</p>\n<p class=\"p2\">MICRO SNAP ideal para chumbadas com olhal, chumbadas com haste simples e com destorcedor</p>\n<p class=\"p2\">PESO MÁXIMO RECOMENDADO (CASTING MAX.)CHUMBADAS DE ATÉ 160 GRAMAS</p>\n<p class=\"p2\"><br></p>\n<p class=\"p2\"><strong>MODELO 6</strong> FUNDO 1,80 m INCOLOR 0,62 mm</p>\n<p class=\"p2\">Ideal para pesca acima dos 100 metros de distância</p>\n<p class=\"p2\">2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER</p>\n<p class=\"p2\">Ideal para pernadas cuja espessura<br>de linha seja entre 0,31 mm a 0,45 mm</p>\n<p class=\"p2\">MICRO SNAP ideal para chumbadas com olhal, chumbadas com haste simples e com destorcedor</p>\n<p class=\"p2\">PESO MÁXIMO RECOMENDADO (CASTING MAX.)<br>CHUMBADAS DE ATÉ 160 GRAMAS</p>\n<p class=\"p3\"><br></p>\n<p class=\"p2\"><strong>MODELO 7</strong> FUNDO 1,80 m VERMELHO 0,62 mm</p>\n<p class=\"p2\">Ideal para pesca acima dos 100 metros de distância</p>\n<p class=\"p2\">2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER</p>\n<p class=\"p2\">Ideal para pernadas cuja espessura de linha seja entre 0,31 mm a 0,45 mm</p>\n<p class=\"p2\">SNAP UNIVERSAL compativel com a maioria dos modelos de chumbadas existentes no mercado</p>\n<p class=\"p2\">PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 160 GRAMAS</p>\n<p class=\"p3\"><br></p>\n<p class=\"p2\"><strong>MODELO 8</strong> FUNDO 1,80 m INCOLOR 0,62 mm</p>\n<p class=\"p2\">Ideal para pesca acima dos 100 metros de distância</p>\n<p class=\"p2\">2 ROTORES MODELO ENGATE RÁPIDO COM STOPPER</p>\n<p class=\"p2\">Ideal para pernadas cuja espessura de linha seja entre 0,31 mm a 0,45 mm</p>\n<p class=\"p2\">SNAP UNIVERSAL compativel com a maioria dos modelos de chumbadas existentes no mercado</p>\n<p class=\"p2\">PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 160 GRAMAS</p>\n<p class=\"p3\"><br></p>\n<p class=\"p2\"><strong>MODELO 15</strong> FUNDO 1,80 m INCOLOR 0,62 mm</p>\n<p class=\"p2\">Ideal para pesca acima dos 100 metros de distância</p>\n<p class=\"p2\">2 ROTORES MIÇANGA COM NÓ DE CORRER</p>\n<p class=\"p2\">Ideal para pernadas cuja espessura de linha seja entre 0,31 mm a 0,55 mm ( UTILIZAR DE 2 A 3 \"nós bolinha\" )</p>\n<p class=\"p2\">MICRO SNAP ideal para chumbadas com olhal, chumbadas com haste simples e com destorcedor</p>\n<p class=\"p2\">PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 160 GRAMAS</p>\n<p class=\"p3\"> </p>\n<p class=\"p2\"><strong>MODELO 16</strong> FUNDO 1,80 m INCOLOR 0,62 mm</p>\n<p class=\"p2\">Ideal para pesca acima dos 100 metros de distância</p>\n<p class=\"p2\">2 ROTORES MIÇANGA COM NÓ DE CORRER</p>\n<p class=\"p2\">Ideal para pernadas cuja espessura de linha seja entre 0,31 mm a 0,55 mm ( UTILIZAR DE 2 A 3 \"nós bolinha\" )</p>\n<p class=\"p2\">SNAP UNIVERSAL compativel com a maioria dos modelos de chumbadas existentes no mercado</p>\n<p class=\"p2\">PESO MÁXIMO RECOMENDADO (CASTING MAX.) CHUMBADAS DE ATÉ 160 GRAMAS</p>",
+    "specs": {},
+    "price": "28.60",
+    "category": "Montagem",
+    "section": "Montagem",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "15",
+      "16"
+    ],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/fundo_capa.webp?v=1737636782",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/fundo_capa.webp?v=1737636782",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-05_2a35b456-ea1f-4c96-a08e-7f1fc759c71d.png?v=1737636782",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-06_eb775414-8375-477e-8a2c-294a0f142218.png?v=1737636782",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-07_db0d0216-b8ce-44ba-8762-4cdabc72bff3.png?v=1737636782",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-08_41a4da33-8559-469e-9ffa-6ce1cadaf1fa.png?v=1737636782",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-153_f237610c-46e0-4309-984d-51f34858faf3.png?v=1737636782",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/modelo-16_ded8a465-57af-4eec-8e09-425e61590955.png?v=1737636782"
+    ]
+  },
+  {
+    "name": "Protetor de Bobina Chumbada",
+    "desc": " Protetor de Bobina Elástico para Molinete<br><br>O Protetor de Bobina Elástico é um inovador acessório desenvolvido para entusiastas da pesca que desejam manter suas linhas de molinete protegidas, organizadas e prontas para uso. Feito com um material elástico de alta qualidade, este produto foi projetado especificamente para cuidar da linha presente na bobina do molinete, proporcionando diversos benefícios aos pescadores.<br><br>Características Principais:<br>1. Proteção Avançada: O material elástico durável do protetor envolve firmemente a bobina do molinete, protegendo a linha contra danos causados por atritos, impactos e arranhões. Isso garante que sua linha permaneça em condições ideais para garantir um desempenho de pesca excelente.<br><br>2. Transporte Seguro: Ao transportar seu equipamento de pesca, o Protetor de Bobina Elástico oferece uma camada adicional de proteção. Ele impede que a linha se solte acidentalmente da bobina durante o transporte, evitando emaranhados e possíveis problemas.<br><br>3. Proteção contra Elementos: O protetor também funciona como uma barreira eficaz contra os elementos naturais. Seja sob o sol escaldante, chuva ou umidade, o material elástico mantém a linha protegida contra os efeitos prejudiciais do clima principalmente quando não estiver em uso por muito tempo.<br><br>4. Facilita o Armazenamento do Snap: Além de cuidar da linha, o Protetor de Bobina Elástico facilita armazenar o snap que está preso ao arranque. Isso elimina a necessidade de usar a unha do carretel para prender o snap, simplificando o processo e economizando tempo.<br><br>5. Fácil de Usar: Com um design inteligente e elástico, o protetor é fácil de colocar e remover da bobina do molinete. Sua flexibilidade permite que se ajuste a uma variedade de tamanhos de molinetes, tornando-o versátil e compatível com diversos modelos.<br><br>- #PescaComMolinete<br>- #AcessóriosDePesca<br>- #ProteçãoDeLinha<br>- #EquipamentoDePesca<br>- #InovaçãoNaPesca<br>- #OrganizaçãoDeLinha<br>- #ProteçãoParaMolinete<br>- #PescaSustentável<br>- #LazerAoArLivre<br>- #TecnologiaPesqueira<br><br>O Protetor de Bobina Elástico é uma solução prática e eficiente para pescadores que desejam preservar suas linhas, garantir a segurança durante o transporte e simplificar a preparação do equipamento. Com sua durabilidade e funcionalidade, ele se torna um aliado essencial para uma experiência de pesca mais agradável e produtiva.<br>",
+    "specs": {},
+    "price": "6.49",
+    "category": "Proteção",
+    "section": "Proteção",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [
+      "P",
+      "G"
+    ],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa_c9a07c21-e3f8-46d1-a84c-769fe323c1fc.png?v=1732043711",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa_c9a07c21-e3f8-46d1-a84c-769fe323c1fc.png?v=1732043711",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa-3.png?v=1732043711",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa-2.png?v=1732043711",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/tamanho.png?v=1725025559",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/modelo_01.jpg?v=1731322768",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/modelo_04.jpg?v=1731322768",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/modelo_05.jpg?v=1731322768",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/protetor_de_bobina_modelo_2_10346397-f337-48ef-a10a-32d021a8c34d.jpg?v=1747661612",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/protetor_de_bobina_modelo_3_656079cc-d3a3-4234-84ff-f7e07f013e39.jpg?v=1747661612",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/protetor_de_bobina_modelo_6.jpg?v=1747661612"
+    ]
+  },
+  {
+    "name": "Stopper Modelo Cilíndrico",
+    "desc": "<p><span>O Stopper Cilíndrico da Chumbada Oficial é uma segunda opção em relação ao modelo anterior, oferecendo as mesmas qualidades e características, porém com uma aderência aprimorada para situações que exigem uma trava mais firme. Assim como o modelo arredondado anterior, o Stopper Cilíndrico é vendido o kit com dois fardos contendo 10 unidades cada.</span></p>\n<p><span> Uma característica distintiva do Stopper Cilíndrico da Chumbada Oficial é a sua pega anatômica, projetada para facilitar a transferência do stopper para a linha do chicote de pesca. Essa pega ergonômica foi desenvolvida visando proporcionar conforto e precisão durante o manuseio, tornando a fixação na linha mais fácil e eficiente. </span></p>\n<p><span>Além disso, nossos stoppers são montados com cabos de aço colados, eliminando qualquer aborrecimento de escaparem durante a montagem. Essa construção confiável e durável garante que os stoppers permaneçam firmemente fixados à linha, mesmo em situações de alta pressão. </span></p>\n<p><span>O Stopper Cilíndrico da Chumbada Oficial é uma escolha confiável para pescadores que procuram uma opção adicional que ofereça uma trava sólida e segura. Sua aderência aprimorada proporciona maior segurança ao garantir que o stopper permaneça no lugar desejado, mesmo durante as situações mais desafiadoras de pesca. </span></p>",
+    "specs": {},
+    "price": "8.13",
+    "category": "Montagem",
+    "section": "Montagem",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [
+      "P",
+      "M",
+      "G"
+    ],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Stopper-cilindrico-capa.png?v=1725025924",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Stopper-cilindrico-capa.png?v=1725025924",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Stopper-cilindrico-M.png?v=1725025928",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Stopper-cilindrico-P.png?v=1725025928",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Stopper-cilindrico-G.png?v=1725025928",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Stopper-cilindrico-G_d22c0f54-7417-4703-ad9b-cf8e4e892443.png?v=1725025928",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Stopper-cilindrico-M_e5d28792-032c-4b56-97f1-3c63cc258644.png?v=1725025928",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Stopper-cilindrico-P_ebba56f0-32d5-4c1c-8cb5-51640feb938c.png?v=1725025928"
+    ]
+  },
+  {
+    "name": "Alicate Chumbada",
+    "desc": "<p>Conheça o Alicate de Pesca da Chumbada Oficial!<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Amantes da pesca, a espera acabou! Apresentamos a vocês o nosso lançamento incrível: o Alicate de Pesca Chumbada. Prepare-se para uma experiência de pesca mais segura e eficiente do que nunca!<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Detalhes que Fazem a Diferença: <br data-mce-fragment=\"1\">Feito com um material especial e resistente, o alicate é sua ferramenta confiável para lidar com iscas que possuem garateias. Chega de arriscar suas mãos! Com o nosso alicate, você estará sempre no controle, mesmo quando o peixe decidir dar uma balançada no momento de segura-lo ainda com isca.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Design Inteligente e Eficaz:<br data-mce-fragment=\"1\">O alicate possui um design inteligente, permitindo que você remova facilmente as garateias da isca de forma precisa e sem machucar o peixe. Sua cor laranja vibrante não é apenas estilosa, mas também garante visibilidade mesmo nas condições mais desafiadoras à beira da água.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Não Deixe a Emoção se Transformar em Risco:<br data-mce-fragment=\"1\">Nós entendemos que a emoção de pegar um peixe pode ser irresistível, mas sua segurança é primordial. Com o nosso alicate, você estará protegido contra acidentes desagradáveis com garateias pontiagudas. É hora de aproveitar cada captura sem preocupações!<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Não deixe esse lançamento escapar das suas mãos. Eleve suas aventuras de pesca a um novo patamar com o Alicate de Pesca Chumbada Oficial. <br data-mce-fragment=\"1\"></p>",
+    "specs": {},
+    "price": "6.90",
+    "category": "Acessórios",
+    "section": "Acessórios",
+    "colors": [
+      [
+        "Amarelo Neon",
+        "#888888"
+      ],
+      [
+        "Glow",
+        "#888888"
+      ],
+      [
+        "Laranja",
+        "#888888"
+      ],
+      [
+        "Preto",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Amarelo Neon": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/alicate.jpg?v=1773842723",
+      "Glow": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/alicate_glow.jpg?v=1773842723",
+      "Laranja": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/alicate2.png?v=1725023396",
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/alicate-preto_7d4da7e6-4416-46b1-9694-3074e87501cc.png?v=1725023396"
+    },
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/alicate-capa.png?v=1725023393",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/alicate-capa.png?v=1725023393",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/alicate-preto_7d4da7e6-4416-46b1-9694-3074e87501cc.png?v=1725023396",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/alicate2.png?v=1725023396",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/alicate.jpg?v=1773842723",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/alicate_glow.jpg?v=1773842723"
+    ]
+  },
+  {
+    "name": "Kit Nó de Correr",
+    "desc": "<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">O nó de correr é um componente fundamental na pesca, atuando como um stopper versátil que permite ajustar a posição das pernadas de acordo com as diferentes situações de pesca. Cada saquinho contém quatro conjuntos, totalizando doze nós de correr, oferecendo amplas opções de configuração.</span></p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">A utilização desse nó é simples e eficaz. Primeiro, você deve passar a linha pelo canal presente na pega de plástico. Em seguida, transfira o nó de correr para a linha e realize o aperto de acordo com a pressão desejada. Após garantir a fixação adequada, é recomendado cortar o excesso de linha, deixando cerca de 1,5 mm de ponta.</span></p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Esse conjunto é especialmente projetado para otimizar a técnica do nó de correr. A linha especial oferece resistência ideal sem prejudicar sua integridade, proporcionando uma montagem confiável dos chicotes de pesca.</span></p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Uma sugestão de montagem é a seguinte: comece com um nó de correr depois acrescente uma miçanga microtubo, coloque o rotor de engate rápido (cabeça de cobra ou V) se preferir miçanga rotor, coloque outra miçanga microtubo e, por fim, o nó de correr novamente. Essa configuração pode ser repetida caso você esteja montando um chicote para duas pernadas. Dessa forma, você terá uma montagem sólida e eficaz, pronta para enfrentar diversas situações de pesca.</span></p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">É possível usar o nó de correr para ajustes de altura de bóias, ou outras montagem que necessitem de trava na linha e que sejam ajustáveis. Lembrando sempre de ajustar a técnica e os componentes conforme as espécies alvo e as condições do ambiente aquático. Com essas orientações, você estará preparado para aproveitar ao máximo suas sessões de pesca com a confiança de que seu equipamento está bem montado e configurado.</span></p>",
+    "specs": {},
+    "price": "8.14",
+    "category": "Acessórios",
+    "section": "Acessórios",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/no-de-correr-capa.png?v=1725025410",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/no-de-correr-capa.png?v=1725025410",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/no-de-correr-p-embalagem.png?v=1725025413",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/no-de-correr-p-embalagem-costas.png?v=1725025413",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/no-de-correr-m-embalagem.png?v=1725025413"
+    ]
+  },
+  {
+    "name": "Chicote FINESSE- 85cm",
+    "desc": "<p><strong>Chicote Finesse</strong> da Chumbada Oficial<br><br>Descrição:<br>O Chicote Finesse da Chumbada Oficial é um produto desenvolvido especificamente para pescarias finesse, focadas em capturar peixes pequenos, como carapicus, peixe-rei, lambaris e bagrinhos. Projetado para pescarias na beira da água, onde arremessos longos não são necessários, mas sim uma sensibilidade extrema.<br><br>Características:<br>- Ideal para pescarias finesse de peixes pequenos.<br>- Facilita a pesca na beirinha da água, onde a sensibilidade é crucial.<br>- Acompanha carretel para chicotes composto por três unidades.<br>- Montado com produtos altamente delicados e pequenos, garantindo sensibilidade máxima.<br>- Inclui rotores de engate rápido, miçangas, nó de correr, snaps e destorcedores.<br>- Design pensado para combinar com a modalidade técnica e sensível de pesca.<br>- Essencial para pescadores de lazer ou de competição que buscam otimizar suas tralhas.<br><br>O Chicote Finesse da Chumbada Oficial é a escolha ideal para pescadores que desejam aprimorar sua técnica em pescarias finesse, garantindo capturas mais eficientes e satisfatórias. Adquira já o seu e eleve sua experiência de pesca a um novo patamar!</p>",
+    "specs": {},
+    "price": "33.80",
+    "category": "Montagem",
+    "section": "Montagem",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [
+      "Rotor de Engate Rápido Micro V"
+    ],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chicote-finesse-capa.webp?v=1737637378",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chicote-finesse-capa.webp?v=1737637378",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/chicote-finesse.png?v=1737637378"
+    ]
+  },
+  {
+    "name": "Kit Adaptador de Carretilha",
+    "desc": "<p>Adaptador para Carretilha</p>\n<p><em><strong>Este produto NÃO acompanha o suporte para molinetes.</strong></em></p>\n<p>Transforme a organização das suas carretilhas com o Adaptador para Carretilha, fornecido em conjuntos de 4 unidades. Projetado para suportar até 3 carretilhas, este adaptador é o complemento perfeito para o nosso sucesso de vendas, o Suporte de Molinetes.</p>\n<p>Versatilidade e Compatibilidade</p>\n<p>Desenvolvido com a mesma qualidade e atenção aos detalhes do Suporte de Molinetes, o Adaptador para Carretilha permite o armazenamento de diversos modelos e tamanhos de carretilhas, apoiando nas manivelas de forma segura e prática. Os adaptadores podem ser facilmente alocados em diferentes compartimentos do Suporte de Molinetes, ajustando-se ao tamanho da carretilha que será armazenada.</p>\n<p>Montagem Personalizável</p>\n<p>A montagem é extremamente flexível, permitindo que o usuário misture molinetes e carretilhas no mesmo suporte, conforme sua preferência. A recomendação é utilizar 4 Adaptadores de Carretilhas no Suporte de Molinetes, com um espaço de dois vãos livres entre eles, criando assim o espaço ideal para armazenar 3 carretilhas de maneira organizada.</p>\n<p>Estilo e Organização</p>\n<p>Além de funcional, o Suporte de Carretilhas pode se tornar um item decorativo para sua casa, mantendo suas carretilhas organizadas e prontas para uso. O Adaptador para Carretilha é a solução perfeita para pescadores que valorizam a organização e a estética dos seus equipamentos.</p>\n<p>Invista na organização dos seus equipamentos de pesca com o Adaptador para Carretilha e mantenha tudo em ordem com estilo e praticidade!</p>\n<!----><!---->",
+    "specs": {},
+    "price": "19.00",
+    "category": "Acessórios",
+    "section": "Acessórios",
+    "colors": [
+      [
+        "Branco - 4un",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Branco - 4un": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilhas-02_8eda4c7c-15c1-4ef1-9d93-2799f5843e64.png?v=1725026418"
+    },
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilhas-capa.png?v=1725026415",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilhas-capa.png?v=1725026415",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilhas-01_8e0b4e41-c163-4be7-8c3d-d6720723e443.png?v=1725026418",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilhas-02_045bc35a-4013-430e-9ec8-ea46e12db27b.png?v=1725026418",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilhas-02_8eda4c7c-15c1-4ef1-9d93-2799f5843e64.png?v=1725026418"
+    ]
+  },
+  {
+    "name": "Tela de Espremer Isca Chumbada",
+    "desc": "<p>Tela de Espremer Isca - Chumbada Oficial<br>A Tela de Espremer Isca da Chumbada Oficial foi desenvolvida com uma borracha especial que impede que a isca grude na mesma, proporcionando uma experiência prática e eficiente na preparação. Sua alta sensibilidade na pressão de esmagamento permite espremer a isca sem desfazê-la, mantendo-a intacta e volumosa, pronta para fisgadas certeiras.<br>Benefícios:<br>• Economia de Isca: Com um pequeno pedaço de camarão, você cria uma isca volumosa que simula um grande \"algodão\" dentro d'água, dificultando que o peixe roube a isca.<br>• Aumento da Eficiência na Fisgada: Mesmo com volume, a isca se mantém \"fofa\", favorecendo uma fisgada mais precisa e assertiva.<br>• Facilidade de Limpeza: A tela é fácil de limpar, permitindo rápida remoção do camarão ao final da pescaria.<br>• Durabilidade e Resistência: Material resistente que evita o desgaste com o passar do tempo.<br>• Praticidade e Organização: Conta com um gancho bolinha para fácil fixação em qualquer ponto, garantindo mais comodidade durante sua pescaria. A mesma é compacta e pode ser guardada em pequenos espaços.<br>Modo de Usar:<br>1. Colocação do Camarão: Posicione o camarão no iscador.<br>2. Fixação do Anzol: Passe o anzol pela isca de maneira segura e centralizada.<br>3. Esprema a Isca: Utilize a tela para espremer o camarão suavemente, retirando-o pronto para uso com volume ideal.<br>Disponível em diversas cores, a Tela de Espremer Isca da Chumbada Oficial é perfeita para ser utilizada com camarão, tornando sua pescaria mais produtiva, prática e eficiente.</p>",
+    "specs": {},
+    "price": "4.50",
+    "category": "Atrativos",
+    "section": "Atrativos",
+    "colors": [
+      [
+        "Preta",
+        "#888888"
+      ],
+      [
+        "Laranja",
+        "#888888"
+      ],
+      [
+        "Azul",
+        "#888888"
+      ],
+      [
+        "Amarela",
+        "#888888"
+      ],
+      [
+        "Verde",
+        "#888888"
+      ],
+      [
+        "Vermelha",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Preta": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/tela-preto.jpg?v=1726855041",
+      "Laranja": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/tela-laranja.jpg?v=1726855041",
+      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/azul-claro-capa.jpg?v=1726855041",
+      "Amarela": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/tela-amarelo.jpg?v=1726855041",
+      "Verde": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/tela-verde.jpg?v=1726855041",
+      "Vermelha": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/tela-vermelha.jpg?v=1726855041"
+    },
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/tela-capa.jpg?v=1726855041",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/tela-capa.jpg?v=1726855041",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/tela-laranja.jpg?v=1726855041",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/tela-vermelha.jpg?v=1726855041",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/tela-verde.jpg?v=1726855041",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/tela-preto.jpg?v=1726855041",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/tela-amarelo.jpg?v=1726855041",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/azul-claro-capa.jpg?v=1726855041"
+    ]
+  },
+  {
+    "name": "Kit Parte Superior do Varal para Chicotes - Com Tubo de Alumínio Incluído - Chumbada Oficial",
+    "desc": "<p>Este kit foi desenvolvido para pescadores que já possuem um adaptador para o varal e não precisam da parte inferior (cantoneira). Ideal para quem deseja completar ou personalizar seu equipamento sem adquirir o conjunto completo.</p>\n<p>O que está incluído no kit?</p>\n<p>✔️ Pente para varal – Composto por 10 pentes de borracha (5 de cada lado), proporcionando organização eficiente dos chicotes, evitando embaraços e facilitando a troca rápida durante a pescaria.<br>✔️ Articulador exclusivo – Projetado para permitir a dobra das barras em U, otimizando espaço no transporte e armazenamento do varal.<br>✔️ Duas barras em U (60 cm cada) – Estrutura resistente para suporte dos pentes do varal, garantindo firmeza e durabilidade na organização dos chicotes.<br>✔️ Tubo de alumínio incluído – 1,20 m de comprimento e 12,70 mm (1/2”) de diâmetro externo, compatível com o articulador, garantindo encaixe preciso e estabilidade na montagem do varal.</p>\n<p>Benefícios do kit:</p>\n<p>✅ Organização eficiente dos chicotes com pentes de borracha<br>✅ Estrutura dobrável para facilitar transporte e armazenamento<br>✅ Compatível com alguns adaptadores para varal já existentes – Por favor, verifique a compatibilidade do adaptador que você já possui para garantir que o nosso tubo de 1/2” (12,70 mm) encaixe corretamente.<br>✅ Componentes de alta qualidade e resistência<br>✅ Ideal para reposição ou personalização do seu varal</p>\n<p>🔹 Observação: Este kit não acompanha a cantoneira, que está disponível apenas no anúncio do varal completo.</p>\n<p>⚠️ Importante: Antes de adquirir este kit, verifique se o adaptador que você já possui é compatível com o nosso tubo de 1/2” (12,70 mm de diâmetro externo) para garantir o encaixe correto.</p>\n<p>Se você já tem um adaptador para o varal e não precisa da cantoneira, este kit é a escolha perfeita!</p>\n<p>👉 Garanta o seu agora e torne sua pescaria mais prática e organizada!</p>",
+    "specs": {},
+    "price": "128.92",
+    "category": "Montagem",
+    "section": "Montagem",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/varal-01_2.png?v=1739457551",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/varal-01_2.png?v=1739457551"
+    ]
+  },
+  {
+    "name": "Linha de Pesca",
+    "desc": "<p>Linha de Multifilamento 4X – 300 metros | Chumbada Oficial</p>\n<p>Chegou a linha que fala a verdade.<br>A Verax 4X 300 m da Chumbada Oficial não é só mais uma multifilamento — é um novo padrão no mercado.</p>\n<p>Desenvolvida com alta tecnologia e testada por mais de 1 ano em condições reais de pesca, essa linha entrega o que promete: resistência de verdade e especificações honestas.</p>\n<p>O grande diferencial está no nome Verax — do latim, verdade, sinceridade.<br>Enquanto muitas marcas “maquiam” diâmetro e resistência, a Chumbada Oficial fez o caminho mais difícil: mostrar a realidade.</p>\n<p>👉 Espessura real<br>👉 Capacidade de tração real<br>👉 Sem exagero, sem enganação</p>\n<p>Compare com qualquer outra linha do mercado.<br>Meça. Teste. Coloque lado a lado.<br>Você vai perceber: a Verax entrega exatamente o que está na embalagem.</p>\n<p>Além da transparência, você leva uma linha:<br>✔ 4 fios de alta resistência<br>✔ Excelente sensibilidade<br>✔ Ótima performance de arremesso<br>✔ Baixa memória<br>✔ Alta durabilidade</p>\n<p>Se você busca performance, pode até encontrar várias opções.<br>Mas se você busca performance com verdade, a escolha é uma só.</p>\n<p>Chumbada Oficial – aqui a pesca é levada a sério. 🎣</p>\n<p>#ChumbadaOficial #LinhaVerax #Multifilamento #PescaEsportiva #Ajing #Ultralight #PescaDePraia #PescaBrasil #FishingLife #GearDePesca #PesqueESolte</p>",
+    "specs": {},
+    "price": "89.91",
+    "category": "Montagem",
+    "section": "Montagem",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-12.jpg?v=1783014046",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-12.jpg?v=1783014046",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-11.jpg?v=1783014082",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-59.jpg?v=1783014506",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-62.jpg?v=1783014548",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1_7e7f6ca2-e9fa-4fd2-a353-bd87ca20f9f0.jpg?v=1777461545",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1_2.jpg?v=1777461545",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1_5.jpg?v=1777461545",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/2_b6ee5156-7837-4a57-81f6-6099366220f0.jpg?v=1777461545",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/3.jpg?v=1777461545",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/3_5.jpg?v=1777461545",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/4_5.jpg?v=1777461545",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/5.jpg?v=1777461545",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/6_745b4c8c-ff0f-4ba3-9ce3-1fd17fdc3882.jpg?v=1777461545",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/8.jpg?v=1777461545",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/9.jpg?v=1777461545",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/10.jpg?v=1777461545",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/12.jpg?v=1777461545",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/linhaajing.jpg?v=1777636605",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/costas_b4940be1-8a74-414c-9903-c3be25aa3daf.jpg?v=1777461545"
+    ]
+  },
+  {
+    "name": "Miçangas de Vidro (Pacote com 500)",
+    "desc": "<p>Para usos diversos</p>\n<p>Diâmetro Externo 2,5mm</p>\n<p>Ideal para linhas de até 0,8mm</p>\n<p>Contém 500 unidades</p>",
+    "specs": {},
+    "price": "6.20",
+    "category": "Acessórios",
+    "section": "Acessórios",
+    "colors": [
+      [
+        "Amarela",
+        "#888888"
+      ],
+      [
+        "Areia",
+        "#888888"
+      ],
+      [
+        "Azul Clara",
+        "#888888"
+      ],
+      [
+        "Azul Escura",
+        "#888888"
+      ],
+      [
+        "Camaleão",
+        "#888888"
+      ],
+      [
+        "Cristal",
+        "#888888"
+      ],
+      [
+        "Laranja",
+        "#888888"
+      ],
+      [
+        "Marrom",
+        "#888888"
+      ],
+      [
+        "Rosa",
+        "#888888"
+      ],
+      [
+        "Verde",
+        "#888888"
+      ],
+      [
+        "Vermelha",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Amarela": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-amarela.png?v=1725025338",
+      "Areia": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-areia.png?v=1725025338",
+      "Azul Clara": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-azul-claro.png?v=1725025338",
+      "Azul Escura": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-azul-escuro.png?v=1725025338",
+      "Camaleão": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-camaleao.png?v=1725025338",
+      "Cristal": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-cristal.png?v=1725025338",
+      "Laranja": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-laranja.png?v=1725025338",
+      "Marrom": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-marrom.png?v=1725025338",
+      "Rosa": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-rosa.png?v=1725025338",
+      "Verde": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-verde.png?v=1725025338",
+      "Vermelha": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-vermelha.png?v=1725025338"
+    },
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/micanga-de-vidro-capa.png?v=1725025334",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/micanga-de-vidro-capa.png?v=1725025334",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-amarela.png?v=1725025338",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-areia.png?v=1725025338",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-azul-claro.png?v=1725025338",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-azul-escuro.png?v=1725025338",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-camaleao.png?v=1725025338",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-cristal.png?v=1725025338",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-laranja.png?v=1725025338",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-marrom.png?v=1725025338",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-verde.png?v=1725025338",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-de-vidro-vermelha.png?v=1725025338",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/micanga-rosa.png?v=1725025338"
+    ]
+  },
+  {
+    "name": "Copo para Suporte de Vara Premium",
+    "desc": "<p>Copo para Suporte de Vara<span data-mce-fragment=\"1\"> - </span><span data-mce-fragment=\"1\">compatível com cantoneira de 1\" de largura por 1/8\" de espessura ou 25,4mm X 3,175mm.</span></p>",
+    "specs": {},
+    "price": "14.04",
+    "category": "Suportes",
+    "section": "Suportes",
+    "colors": [
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CopoSuportedeVara1_ee277d55-700c-425f-a246-1efe991a0b1b.png?v=1725026401",
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/base-06.png?v=1725026401"
+    },
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo-capa.png?v=1725026399",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo-capa.png?v=1725026399",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/CopoSuportedeVara1_ee277d55-700c-425f-a246-1efe991a0b1b.png?v=1725026401",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/base-06.png?v=1725026401"
+    ]
+  },
+  {
+    "name": "Ferradura para Suporte de Vara Premium",
+    "desc": "Ferradura para Suporte de Vara<span data-mce-fragment=\"1\"> - </span><span data-mce-fragment=\"1\">compatível com cantoneira de 1\" de largura por 1/8\" de espessura ou 25,4mm X 3,175mm.</span>",
+    "specs": {},
+    "price": "12.48",
+    "category": "Suportes",
+    "section": "Suportes",
+    "colors": [
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ferradura-08.png?v=1757939203"
+    },
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ferradura-preta.png?v=1757939203",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ferradura-preta.png?v=1757939203",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ferradura-08.png?v=1757939203",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ferradura-preta-2.png?v=1757939203"
+    ]
+  },
+  {
+    "name": "Copo Para Carretel de Chicotes",
+    "desc": "<p>O Copo para guardar chicotes da Chumbada está disponível em várias cores, o que permite que você escolha a que mais combina com o seu estilo, personalidade e claro organizado por cor se for o caso. Além disso, é um acessório resistente e durável, que protege seus chicotes de possíveis danos e ajuda a prolongar sua vida útil.</p>\n<p>Este copo foi desenvolvido exatamente para comportar 5 Carretéis para Chicotes, em cada carretel 5 chicotes portanto em um copo desses é possível levar 25 chicotes, dividindo em Beira, Meia Água, Fundo ou de qualquer outra forma que preferir.</p>\n<p>Com esse produto, você pode organizar seus chicotes de forma prática e fácil, garantindo que eles estejam sempre prontos para serem utilizados. Não perca mais tempo procurando seus chicotes no fundo da bolsa ou caixa de pesca. Adquira agora o Copo para guardar chicotes da Chumbada e tenha um acessório de pesca de alta qualidade em suas mãos.</p>",
+    "specs": {},
+    "price": "5.00",
+    "category": "Montagem",
+    "section": "Montagem",
+    "colors": [
+      [
+        "Azul",
+        "#888888"
+      ],
+      [
+        "Amarelo",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Laranja",
+        "#888888"
+      ],
+      [
+        "Roxo",
+        "#888888"
+      ],
+      [
+        "Rosa",
+        "#888888"
+      ],
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Cinza",
+        "#888888"
+      ],
+      [
+        "Vermelho",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-azul.png?v=1725024785",
+      "Amarelo": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-amarelo.png?v=1725024785",
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-branco-fechado_b0f4b520-9b71-4aef-af0d-bd6686b0c82c.png?v=1725024785",
+      "Laranja": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-laranja.png?v=1725024785",
+      "Roxo": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-roxo.png?v=1725024785",
+      "Rosa": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-rosa.png?v=1725024785",
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-preto.png?v=1725024785",
+      "Cinza": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-cinza.png?v=1725024785",
+      "Vermelho": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo-vermelho_2.png?v=1725024785"
+    },
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-13.jpg?v=1783014382",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-13.jpg?v=1783014382",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-14.jpg?v=1783014354",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-capa.png?v=1781107224",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-branco-fechado_b0f4b520-9b71-4aef-af0d-bd6686b0c82c.png?v=1725024785",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-amarelo.png?v=1725024785",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-azul.png?v=1725024785",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-cinza.png?v=1725024785",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-laranja.png?v=1725024785",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-preto.png?v=1725024785",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-rosa.png?v=1725024785",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/copo-roxo.png?v=1725024785",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/copo-vermelho_2.png?v=1725024785"
+    ]
+  },
+  {
+    "name": "Kit Suporte Para Carretilha e Molinete Individual",
+    "desc": "<p>Suporte para Carretilha e Molinete – Chumbada Oficial</p>\n<p>Mantenha seus equipamentos organizados e sempre prontos para ação com o Suporte para Carretilha e Molinete da Chumbada Oficial!</p>\n<p>Desenvolvido para comportar a maioria dos molinetes e carretilhas disponíveis no mercado, esse suporte é a solução ideal para quem busca praticidade e otimização de espaço.</p>\n<p>✔️ Kit completo com 4 peças<br>✔️ Instalação vertical, perfeita para locais com pouco espaço<br>✔️ Compatível com diversos modelos de carretilha e molinete<br>✔️ Disponível em diversas cores<br>✔️ Acompanha 4 buchas e 4 parafusos para fácil instalação</p>\n<p>Ideal para organizar seu equipamento de pesca em casa, na garagem, atras de portas. Praticidade, segurança e eficiência em um só produto!</p>",
+    "specs": {},
+    "price": "29.00",
+    "category": "Suportes",
+    "section": "Suportes",
+    "colors": [
+      [
+        "Azul",
+        "#888888"
+      ],
+      [
+        "Amarelo",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Cinza",
+        "#888888"
+      ],
+      [
+        "Laranja",
+        "#888888"
+      ],
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Rosa",
+        "#888888"
+      ],
+      [
+        "Verde",
+        "#888888"
+      ],
+      [
+        "Vermelho",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-azul.jpg?v=1742210273",
+      "Amarelo": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-amarelo.jpg?v=1742210273",
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-branco.jpg?v=1742210273",
+      "Laranja": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-laranja.jpg?v=1742210273",
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-preto.jpg?v=1742210273",
+      "Rosa": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-rosa.jpg?v=1742210274",
+      "Verde": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-verde.jpg?v=1742210273",
+      "Vermelho": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-vermelho.jpg?v=1742210273"
+    },
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Suporte-para-carretilha-e-molinete-individual-capa.png?v=1741173082",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Suporte-para-carretilha-e-molinete-individual-capa.png?v=1741173082",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Suporte-para-carretilha-e-molinete-individual-preto.png?v=1741173082",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Suporte-para-carretilha-e-molinete-individual-vermelho.png?v=1741173082",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Suporte-para-carretilha-e-molinete-individual-rosa.png?v=1741173082",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Suporte-para-carretilha-e-molinete-individual-azul.png?v=1741173082",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Suporte-para-carretilha-e-molinete-individual-amarelo.png?v=1741173082",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Suporte-para-carretilha-e-molinete-individual-verde.png?v=1741173082",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Suporte-para-carretilha-e-molinete-individual-laranja.png?v=1741173082",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Suporte-para-carretilha-e-molinete-individual-branco.png?v=1741173082",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-branco.jpg?v=1742210273",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-rosa.jpg?v=1742210274",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-laranja.jpg?v=1742210273",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-verde.jpg?v=1742210273",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-amarelo.jpg?v=1742210273",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-preto.jpg?v=1742210273",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-azul.jpg?v=1742210273",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-para-carretilha-individual-solapa-vermelho.jpg?v=1742210273"
+    ]
+  },
+  {
+    "name": "Apoio Barco de Borracha com Elástico",
+    "desc": "<p><span data-sheets-root=\"1\">Apoio Barco de Borracha – Proteção prática e eficaz para suas varas <br><br>O Apoio Barco de Borracha é a solução ideal para quem transporta varas de pesca em barcos de alumínio ou qualquer embarcação com cantos em 90 graus. Fabricado em material soft de borracha, ele funciona como uma cantoneira de encaixe simples, que dispensa parafusos, colas ou furos. <br><br>Sua instalação é extremamente fácil: basta apoiar o produto no canto do barco e, com o próprio peso, ele já fica fixado, oferecendo um apoio seguro para suas varas durante o transporte, especialmente em trajetos com muitas ondulações ou impacto de ondas — tão comuns em rios e canais. <br><br>Além de manter as varas firmes, o Apoio Barco de Borracha protege contra riscos, trincas e danos que podem ocorrer quando as varas ficam em contato direto com o casco metálico. <br><br>Simples, eficiente e indispensável para pescadores que valorizam seus equipamentos.</span></p>",
+    "specs": {},
+    "price": "19.90",
+    "category": "Acessórios",
+    "section": "Acessórios",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio-para-barco.png?v=1778240915",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio-para-barco.png?v=1778240915",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte-de-barco-capa.png?v=1745850565"
+    ]
+  },
+  {
+    "name": "Kit Destorcedor",
+    "desc": "<span>O Destorcedor para Pesca é um equipamento que foi desenvolvido para facilitar a prática de pesca. Ele é composto por um corpo principal feito de material resistente, como aço inoxidável, e por duas extremidades que se conectam a uma linha de pesca.</span><br><br><span>Sua principal função é evitar que a linha de pesca fique torcida, o que pode dificultar a captura de peixes e até mesmo causar danos à linha. Com o Destorcedor, a linha de pesca é mantida reta e livre de torções, o que aumenta a eficiência da pescaria.</span><br><br><span>O Destorcedor pode ser utilizado em diversas modalidades de pesca, como a pesca de água doce ou salgada, em rios, lagos ou no mar. Ele é de fácil utilização, bastando apenas conectá-lo à linha de pesca e deixar que ele faça o seu trabalho.</span><br><br><span>Além disso, o Destorcedor é um equipamento durável e resistente, capaz de suportar as condições mais adversas de pesca. Seu design compacto e leve permite que ele seja facilmente transportado na caixa de pesca, tornando-se um acessório indispensável para todo pescador.</span><br><br><span>Temos 4 tamanhos disponíveis que irão atender a diversas modalidades de pesca:</span><br><span>Destorcedor 7mm = 4Kg de capacidade</span><br><span>Destorcedor 11mm = 19Kg de capacidade</span><br><span>Destorcedor 15mm = 35Kg de capacidade</span><br><span>Destorcedor 25mm = 75Kg de capacidade</span>",
+    "specs": {},
+    "price": "4.91",
+    "category": "Montagem",
+    "section": "Montagem",
+    "colors": [],
+    "colorImages": {},
+    "sizes": [
+      "4kg 7mm (14unid)",
+      "19kg 11mm (12unid)",
+      "75kg 25mm (5unid)"
+    ],
+    "rating": 5.0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Destorcedor-capa.png?v=1725025033",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Destorcedor-capa.png?v=1725025033",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Destorcedor_54f6d99b-982a-4d68-b6ef-981613cc955b.jpg?v=1725025037",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Destorcedor-7mm-frente_7d725e2c-c338-441b-a3bf-6d24d3ef9efd.jpg?v=1725025037",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Destorcedor-7mm-costas_851d4736-5ede-44da-a0e7-71992bb16625.jpg?v=1725025037",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Destorcedor-11mm-frente_7a63ff66-1128-43fb-b0ed-218881a7b7a0.jpg?v=1725025037",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Destorcedor-15mm-frente_cdef0adb-af66-48d7-9cba-d566d20e1d64.jpg?v=1725025037",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Embalagem-Destorcedor-25mm-frente_d004420e-131f-4f4c-a953-bb0e8385bdaa.jpg?v=1725025037"
+    ]
   }
 ];
