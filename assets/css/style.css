@@ -1202,3 +1202,34 @@ a {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* Tabela de Medidas */
+.size-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+.size-table th, .size-table td {
+  padding: 12px 16px;
+  text-align: center;
+  border-bottom: 1px solid #e2e8f0;
+}
+.size-table th {
+  background-color: #f1f5f9;
+  font-weight: 600;
+  color: #1e293b;
+}
+.size-table td:first-child, .size-table th:first-child {
+  text-align: left;
+  font-weight: 600;
+  background-color: #f1f5f9;
+  color: #1e293b;
+}
+.size-table tbody tr:hover {
+  background-color: #f8fafc;
+}
