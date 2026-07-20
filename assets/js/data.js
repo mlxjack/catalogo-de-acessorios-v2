@@ -1212,43 +1212,6 @@ window.PRODUCTS = [
     }
   },
   {
-    "id": 65,
-    "slug": "trava-linha",
-    "category": "Acessórios",
-    "name": "Trava Linha",
-    "price": "R$ 4,20",
-    "img": "assets/img/shopify/pesca-12.jpg",
-    "link": "https://chumbadas.com.br/products/trava-linha-cano-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Linha de Multifilamento 4X – 300 metros | Chumbada Oficial</p>\n<p>Chegou a linha que fala a verdade.<br>A Verax 4X 300 m da Chumbada Oficial não é só mais uma multifilamento — é um novo padrão no mercado.</p>\n<p>Desenvolvida com alta tecnologia e testada por mais de 1 ano em condições reais de pesca, essa linha entrega o que promete: resistência de verdade e especificações honestas.</p>\n<p>O grande diferencial está no nome Verax — do latim, verdade, sinceridade.<br>Enquanto muitas marcas “maquiam” diâmetro e resistência, a Chumbada Oficial fez o caminho mais difícil: mostrar a realidade.</p>\n<p>👉 Espessura real<br>👉 Capacidade de tração real<br>👉 Sem exagero, sem enganação</p>\n<p>Compare com qualquer outra linha do mercado.<br>Meça. Teste. Coloque lado a lado.<br>Você vai perceber: a Verax entrega exatamente o que está na embalagem.</p>\n<p>Além da transparência, você leva uma linha:<br>✔ 4 fios de alta resistência<br>✔ Excelente sensibilidade<br>✔ Ótima performance de arremesso<br>✔ Baixa memória<br>✔ Alta durabilidade</p>\n<p>Se você busca performance, pode até encontrar várias opções.<br>Mas se você busca performance com verdade, a escolha é uma só.</p>\n<p>Chumbada Oficial – aqui a pesca é levada a sério. 🎣</p>\n<p>#ChumbadaOficial #LinhaVerax #Multifilamento #PescaEsportiva #Ajing #Ultralight #PescaDePraia #PescaBrasil #FishingLife #GearDePesca #PesqueESolte</p>",
-    "images": [
-      "assets/img/shopify/pesca-12.jpg",
-      "assets/img/shopify/pesca-11.jpg",
-      "assets/img/shopify/pesca-59.jpg",
-      "assets/img/shopify/pesca-62.jpg",
-      "assets/img/shopify/1_7e7f6ca2-e9fa-4fd2-a353-bd87ca20f9f0.jpg",
-      "assets/img/shopify/1_2.jpg",
-      "assets/img/shopify/1_5.jpg",
-      "assets/img/shopify/2_b6ee5156-7837-4a57-81f6-6099366220f0.jpg",
-      "assets/img/shopify/3.jpg",
-      "assets/img/shopify/3_5.jpg",
-      "assets/img/shopify/4_5.jpg",
-      "assets/img/shopify/5.jpg",
-      "assets/img/shopify/6_745b4c8c-ff0f-4ba3-9ce3-1fd17fdc3882.jpg",
-      "assets/img/shopify/8.jpg",
-      "assets/img/shopify/9.jpg",
-      "assets/img/shopify/10.jpg",
-      "assets/img/shopify/12.jpg",
-      "assets/img/shopify/linhaajing.jpg",
-      "assets/img/shopify/costas_b4940be1-8a74-414c-9903-c3be25aa3daf.jpg"
-    ],
-    "video": "",
-    "specs": {
-      "Comprimento/Medida": "300 METROS",
-      "Dimensões": "4X300M"
-    },
-    "section": "Acessórios"
-  },
-  {
     "id": 36,
     "slug": "rotor-de-engate-rapido-cabeca-de-cobra",
     "category": "Montagem",
@@ -3591,7 +3554,8 @@ window.PRODUCTS = [
       "assets/img/shopify/marrom.png",
       "assets/img/shopify/branco.png",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio.png?v=1725024070",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/suporte-3_49d86944-6027-4fee-a41f-89707bb55c86.png?v=1725024074"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/suporte-3_49d86944-6027-4fee-a41f-89707bb55c86.png?v=1725024074",
+      "assets/img/shopify/pesca-12.jpg"
     ],
     "video": "https://youtu.be/tcXANAsZPk8",
     "specs": {
@@ -3636,6 +3600,10 @@ window.PRODUCTS = [
       [
         "Apoio de Anzol (Reposição)",
         "R$ 2,69"
+      ],
+      [
+        "Trava Linha (Reposição)",
+        "R$ 4,20"
       ]
     ],
     "varImages": {
@@ -3646,7 +3614,8 @@ window.PRODUCTS = [
       "70cm": "assets/img/shopify/somente-cano-70cm_bcfbc84d-03ad-489d-87fa-50f969953709.png",
       "80cm": "assets/img/shopify/somente-cano-80cm_78f92977-f490-467b-92c2-d9fa9b1067dd.png",
       "100cm": "assets/img/shopify/somente-cano-100cm_a52c9c44-de3c-40a3-990c-bda2fabe13dd.png",
-      "Apoio de Anzol (Reposição)": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio.png?v=1725024070"
+      "Apoio de Anzol (Reposição)": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio.png?v=1725024070",
+      "Trava Linha (Reposição)": "assets/img/shopify/pesca-12.jpg"
     }
   },
   {
