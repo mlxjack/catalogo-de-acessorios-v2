@@ -515,7 +515,7 @@ window.PRODUCTS = [
     "category": "Vestuário",
     "name": "Boné Chumbada",
     "price": "R$ 36,00",
-    "img": "assets/images/bones-09-947dc590.png",
+    "img": "assets/img/shopify/bone-chumbada.png",
     "link": "https://chumbadas.com.br/products/bone-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
       [
@@ -537,6 +537,7 @@ window.PRODUCTS = [
     ],
     "description": "Proporciona máxima proteção contra os raios solares com estilo esportivo e moderno. Feito com materiais respiráveis de alta durabilidade e ajuste confortável, ideal para longas jornadas de exposição ao sol.",
     "images": [
+      "assets/img/shopify/bone-chumbada.png",
       "assets/images/bones-09-947dc590.png"
     ],
     "video": "",
@@ -910,87 +911,6 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/a16a04dcae884b1aa6ce969b1d6a2f52.mp4",
     "specs": {
       "Material": "Látex elástico"
-    }
-  },
-  {
-    "id": 19,
-    "slug": "dedeira-hard",
-    "category": "Proteção",
-    "name": "Dedeira Hard",
-    "price": "R$ 21,45",
-    "img": "assets/img/shopify/Dedeira-capa.png",
-    "link": "https://chumbadas.com.br/products/dedeira-de-protecao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Agora, a Chumbada Oficial elevou ainda mais a qualidade da sua Dedeira de Proteção ao introduzir dois novos modelos: a Dedeira Soft e a Dedeira Ultra Soft.Desenvolvida para atender diversas necessidades, a Dedeira de Proteção da Chumbada visa evitar acidentes durante o arremesso, protegendo o dedo indicador do pescador contra cortes causados pela linha, especialmente em arremessos mais longos que requerem maior força, minimizando assim o risco de acidentes decorrentes da falta de travamento do freio do molinete.</p>",
-    "images": [
-      "assets/img/shopify/Dedeira-capa.png",
-      "assets/img/shopify/Dedeira.jpg",
-      "assets/img/shopify/Dedeira-Hard-M.png",
-      "assets/img/shopify/Dedeira-hard-p.png",
-      "assets/img/shopify/Dedeira-Soft-G.png",
-      "assets/img/shopify/Dedeira-soft-M.png",
-      "assets/img/shopify/Dedeira-soft-p.png",
-      "assets/img/shopify/Dedeira-ultra-soft-G.png",
-      "assets/img/shopify/Dedeira-ultra-soft-M.png",
-      "assets/img/shopify/Dedeira-ultra-soft-p.png"
-    ],
-    "video": "assets/video/shopify/7a694cc2b68144599b48d161f0b51db2.mp4",
-    "specs": {
-      "Indicação": "Proteção do indicador durante o arremesso",
-      "Modelos": "Hard / Soft / Ultra Soft"
-    }
-  },
-  {
-    "id": 20,
-    "slug": "dedeira-soft",
-    "category": "Proteção",
-    "name": "Dedeira Soft",
-    "price": "R$ 21,45",
-    "img": "assets/img/shopify/Dedeira-capa.png",
-    "link": "https://chumbadas.com.br/products/dedeira-de-protecao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Agora, a Chumbada Oficial elevou ainda mais a qualidade da sua Dedeira de Proteção ao introduzir dois novos modelos: a Dedeira Soft e a Dedeira Ultra Soft.Desenvolvida para atender diversas necessidades, a Dedeira de Proteção da Chumbada visa evitar acidentes durante o arremesso, protegendo o dedo indicador do pescador contra cortes causados pela linha, especialmente em arremessos mais longos que requerem maior força, minimizando assim o risco de acidentes decorrentes da falta de travamento do freio do molinete.</p>",
-    "images": [
-      "assets/img/shopify/Dedeira-capa.png",
-      "assets/img/shopify/Dedeira.jpg",
-      "assets/img/shopify/Dedeira-Hard-M.png",
-      "assets/img/shopify/Dedeira-hard-p.png",
-      "assets/img/shopify/Dedeira-Soft-G.png",
-      "assets/img/shopify/Dedeira-soft-M.png",
-      "assets/img/shopify/Dedeira-soft-p.png",
-      "assets/img/shopify/Dedeira-ultra-soft-G.png",
-      "assets/img/shopify/Dedeira-ultra-soft-M.png",
-      "assets/img/shopify/Dedeira-ultra-soft-p.png"
-    ],
-    "video": "assets/video/shopify/7a694cc2b68144599b48d161f0b51db2.mp4",
-    "specs": {
-      "Indicação": "Proteção do indicador durante o arremesso",
-      "Modelos": "Hard / Soft / Ultra Soft"
-    }
-  },
-  {
-    "id": 21,
-    "slug": "dedeira-ultrasoft",
-    "category": "Proteção",
-    "name": "Dedeira Ultrasoft",
-    "price": "R$ 21,45",
-    "img": "assets/img/shopify/Dedeira-capa.png",
-    "link": "https://chumbadas.com.br/products/dedeira-de-protecao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Agora, a Chumbada Oficial elevou ainda mais a qualidade da sua Dedeira de Proteção ao introduzir dois novos modelos: a Dedeira Soft e a Dedeira Ultra Soft.Desenvolvida para atender diversas necessidades, a Dedeira de Proteção da Chumbada visa evitar acidentes durante o arremesso, protegendo o dedo indicador do pescador contra cortes causados pela linha, especialmente em arremessos mais longos que requerem maior força, minimizando assim o risco de acidentes decorrentes da falta de travamento do freio do molinete.</p>",
-    "images": [
-      "assets/img/shopify/Dedeira-capa.png",
-      "assets/img/shopify/Dedeira.jpg",
-      "assets/img/shopify/Dedeira-Hard-M.png",
-      "assets/img/shopify/Dedeira-hard-p.png",
-      "assets/img/shopify/Dedeira-Soft-G.png",
-      "assets/img/shopify/Dedeira-soft-M.png",
-      "assets/img/shopify/Dedeira-soft-p.png",
-      "assets/img/shopify/Dedeira-ultra-soft-G.png",
-      "assets/img/shopify/Dedeira-ultra-soft-M.png",
-      "assets/img/shopify/Dedeira-ultra-soft-p.png"
-    ],
-    "video": "assets/video/shopify/7a694cc2b68144599b48d161f0b51db2.mp4",
-    "specs": {
-      "Indicação": "Proteção do indicador durante o arremesso",
-      "Modelos": "Hard / Soft / Ultra Soft"
     }
   },
   {
@@ -1947,7 +1867,6 @@ window.PRODUCTS = [
     "price": "a partir de R$ 71,00",
     "img": "assets/img/shopify/completo-capa.png",
     "link": "https://chumbadas.com.br/products/suporte-de-vara-calao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "span": 2,
     "vars": [
       [
         "1m",
@@ -2027,7 +1946,6 @@ window.PRODUCTS = [
     "price": "a partir de R$ 16,10",
     "img": "assets/img/shopify/suporte-de-vara-slim-capa.png",
     "link": "https://chumbadas.com.br/products/suporte-de-vara-slim?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "span": 2,
     "vars": [
       [
         "Plástico 40cm",
@@ -2281,7 +2199,6 @@ window.PRODUCTS = [
     "price": "a partir de R$ 22,20",
     "img": "assets/img/shopify/photo_2025-03-24_07-29-37_2.jpg",
     "link": "https://chumbadas.com.br/products/suporte-horiziontal?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "span": 2,
     "vars": [
       [
         "40cm",
@@ -2532,7 +2449,6 @@ window.PRODUCTS = [
     "price": "a partir de R$ 18,90",
     "img": "assets/img/shopify/porta-pernada-cano-compacto-capa.jpg",
     "link": "https://chumbadas.com.br/products/porta-pernada-compacto?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "span": 2,
     "vars": [
       [
         "30cm",
@@ -2949,7 +2865,6 @@ window.PRODUCTS = [
     "price": "a partir de R$ 3,94",
     "img": "assets/img/shopify/Destorcedor-capa.png",
     "link": "https://chumbadas.com.br/products/destorcedor?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "span": 2,
     "vars": [
       [
         "4kg / 7mm / 14 un",
@@ -2991,7 +2906,6 @@ window.PRODUCTS = [
     "price": "a partir de R$ 5,48",
     "img": "assets/img/shopify/destorcedor-triplo-capa.png",
     "link": "https://chumbadas.com.br/products/kit-destorcedor-triplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "span": 2,
     "vars": [
       [
         "14kg 15mm (10unid)",
@@ -3130,7 +3044,6 @@ window.PRODUCTS = [
     "price": "a partir de R$ 3,38",
     "img": "assets/img/shopify/Snap-Frances-35mm-frente.jpg",
     "link": "https://chumbadas.com.br/collections/terminais",
-    "span": 2,
     "vars": [
       [
         "10mm - 5kg - 10 unidades",
@@ -3465,7 +3378,7 @@ window.PRODUCTS = [
     "category": "Vestuário",
     "name": "Blusa Corta Vento Comfort",
     "price": "R$ 155,00",
-    "img": "assets/img/shopify/corta-vento-capa.png",
+    "img": "assets/img/shopify/Corta-vento-confort-preta-01.jpg",
     "link": "https://chumbadas.com.br/products/blusa-corta-vento-comfort?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
@@ -3501,9 +3414,15 @@ window.PRODUCTS = [
     ],
     "description": "<p><img alt=\"\" src=\"assets/img/shopify/Tabela-de-tamanhos-corta-vento_2.png\">Blusa Corta Vento - Alta Qualidade e Versatilidade</p>\n<p>Descubra a Blusa Corta Vento, projetada para oferecer proteção e conforto em qualquer ocasião. Feita com material de alta qualidade, esta blusa é ideal para bloquear o vento, mantendo você aquecido e protegido. </p>\n<p>Com um design ultraleve e compacto, a Blusa Corta Vento é perfeita para ser levada em suas aventuras de pescaria sem ocupar espaço na sua mochila. Além disso, sua beleza e estilo tornam-a uma peça versátil, adequada para o uso no dia a dia. </p>\n<p>Disponível na elegante cor azul escuro, esta blusa não só proporciona funcionalidade, mas também um toque moderno ao seu guarda-roupa. Seja para enfrentar o vento frio durante a pescaria ou para compor um visual casual, a Blusa Corta Vento é a escolha ideal para quem busca praticidade sem abrir mão do estilo.</p>\n<!---->",
     "images": [
-      "assets/img/shopify/corta-vento-capa.png",
-      "assets/img/shopify/Corta-Vento.png",
-      "assets/img/shopify/photo_2024-05-17_10-18-31_e8372812-e178-46e9-9421-0f3604b60daf.jpg"
+      "assets/img/shopify/Corta-vento-confort-preta-01.jpg",
+      "assets/img/shopify/Corta-vento-confort-preta-02.jpg",
+      "assets/img/shopify/Corta-vento-confort-preta-03.jpg",
+      "assets/img/shopify/Corta-vento-confort-preta-P.jpg",
+      "assets/img/shopify/Corta-vento-confort-preta-M.jpg",
+      "assets/img/shopify/Corta-vento-confort-preta-G.jpg",
+      "assets/img/shopify/Corta-vento-confort-preta-GG.jpg",
+      "assets/img/shopify/Corta-vento-confort-preta-1XG.jpg",
+      "assets/img/shopify/Corta-vento-confort-preta-2XG.jpg"
     ],
     "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
     "specs": {}
@@ -3514,7 +3433,7 @@ window.PRODUCTS = [
     "category": "Vestuário",
     "name": "Blusa Corta Vento Esporte",
     "price": "R$ 119,00",
-    "img": "assets/img/shopify/corta-vento-capa.png",
+    "img": "assets/img/shopify/capa_29c7635b-6c50-4d01-ab38-79cc9c4e900d.png",
     "link": "https://chumbadas.com.br/products/blusa-corta-vento-chumbada-1?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
@@ -3562,9 +3481,18 @@ window.PRODUCTS = [
     ],
     "description": "<p><img alt=\"\" src=\"assets/img/shopify/Tabela-de-tamanhos-corta-vento_2.png\">Blusa Corta Vento - Alta Qualidade e Versatilidade</p>\n<p>Descubra a Blusa Corta Vento, projetada para oferecer proteção e conforto em qualquer ocasião. Feita com material de alta qualidade, esta blusa é ideal para bloquear o vento, mantendo você aquecido e protegido. </p>\n<p>Com um design ultraleve e compacto, a Blusa Corta Vento é perfeita para ser levada em suas aventuras de pescaria sem ocupar espaço na sua mochila. Além disso, sua beleza e estilo tornam-a uma peça versátil, adequada para o uso no dia a dia. </p>\n<p>Disponível na elegante cor azul escuro, esta blusa não só proporciona funcionalidade, mas também um toque moderno ao seu guarda-roupa. Seja para enfrentar o vento frio durante a pescaria ou para compor um visual casual, a Blusa Corta Vento é a escolha ideal para quem busca praticidade sem abrir mão do estilo.</p>\n<!---->",
     "images": [
-      "assets/img/shopify/corta-vento-capa.png",
-      "assets/img/shopify/Corta-Vento.png",
-      "assets/img/shopify/photo_2024-05-17_10-18-31_e8372812-e178-46e9-9421-0f3604b60daf.jpg"
+      "assets/img/shopify/capa_29c7635b-6c50-4d01-ab38-79cc9c4e900d.png",
+      "assets/img/shopify/corta-vento-azul-claro.jpg",
+      "assets/img/shopify/corta-vento-branco.jpg",
+      "assets/img/shopify/corta-vento-laranja.jpg",
+      "assets/img/shopify/Corta-vento-chumbada.png",
+      "assets/img/shopify/Corta-vento-chumbada-costas.png",
+      "assets/img/shopify/P_2.jpg",
+      "assets/img/shopify/M_2.jpg",
+      "assets/img/shopify/G_2.jpg",
+      "assets/img/shopify/GG_2.jpg",
+      "assets/img/shopify/1XG_2.jpg",
+      "assets/img/shopify/2XG_2.jpg"
     ],
     "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
     "specs": {}
@@ -3606,6 +3534,35 @@ window.PRODUCTS = [
       "assets/img/shopify/photo_2024-05-17_10-18-31_e8372812-e178-46e9-9421-0f3604b60daf.jpg"
     ],
     "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
+    "specs": {}
+  },
+  {
+    "id": 85,
+    "slug": "dedeira-chumbada",
+    "category": "Acessórios",
+    "name": "Dedeira",
+    "price": "Sob Consulta",
+    "img": "assets/img/shopify/dedeira.png",
+    "link": "https://chumbadas.com.br",
+    "vars": [
+      [
+        "Soft",
+        "Sob Consulta"
+      ],
+      [
+        "Hard",
+        "Sob Consulta"
+      ],
+      [
+        "Ultrasoft",
+        "Sob Consulta"
+      ]
+    ],
+    "description": "<p>A Dedeira da Chumbada Oficial é o acessório ideal para proteger os dedos durante os arremessos. Disponível nas variações Soft, Hard e Ultrasoft para se adequar a sua pescaria.</p>",
+    "images": [
+      "assets/img/shopify/dedeira.png"
+    ],
+    "video": "",
     "specs": {}
   }
 ];
