@@ -12,7 +12,7 @@ window.PRODUCTS = [
     "id": 1,
     "slug": "linha-multi-verax-4x-300m",
     "section": "Lançamentos",
-    "category": "Linhas",
+    "category": "Montagem",
     "name": "Linha Multi Verax 4X 300m",
     "price": "a partir de R$ 79,91",
     "img": "assets/img/shopify/pesca-12.jpg",
@@ -600,7 +600,7 @@ window.PRODUCTS = [
   {
     "id": 36,
     "slug": "rotor-de-engate-rapido-cabeca-de-cobra",
-    "category": "Linha Terminal e Kits",
+    "category": "Montagem",
     "name": "Rotor de Engate Rápido Cabeça de Cobra",
     "price": "R$ 8,10",
     "img": "assets/img/shopify/Rotor-Cabeca-de-Cobra-capa.png",
@@ -616,7 +616,7 @@ window.PRODUCTS = [
     "specs": {
       "Conteúdo": "8 Unidades"
     },
-    "section": "Linha Terminal e Kits"
+    "section": "Montagem"
   },
   {
     "id": 28,
@@ -2387,6 +2387,36 @@ window.PRODUCTS = [
     "section": "Proteção"
   },
   {
+    "id": 85,
+    "slug": "dedeira-chumbada",
+    "category": "Proteção",
+    "name": "Dedeira",
+    "price": "Sob Consulta",
+    "img": "assets/img/shopify/dedeira.png",
+    "link": "https://chumbadas.com.br",
+    "vars": [
+      [
+        "Soft",
+        "Sob Consulta"
+      ],
+      [
+        "Hard",
+        "Sob Consulta"
+      ],
+      [
+        "Ultrasoft",
+        "Sob Consulta"
+      ]
+    ],
+    "description": "<p>A Dedeira da Chumbada Oficial é o acessório ideal para proteger os dedos durante os arremessos. Disponível nas variações Soft, Hard e Ultrasoft para se adequar a sua pescaria.</p>",
+    "images": [
+      "assets/img/shopify/dedeira.png"
+    ],
+    "video": "",
+    "specs": {},
+    "section": "Proteção"
+  },
+  {
     "id": 48,
     "slug": "apoio-de-borracha",
     "category": "Peças",
@@ -3295,36 +3325,6 @@ window.PRODUCTS = [
       "assets/images/tela-vermelha-a2d4f4df.jpg"
     ],
     "video": "assets/video/shopify/9a7fd88adf6f474e92746620abdf847c.mp4",
-    "specs": {},
-    "section": "Acessórios"
-  },
-  {
-    "id": 85,
-    "slug": "dedeira-chumbada",
-    "category": "Acessórios",
-    "name": "Dedeira",
-    "price": "Sob Consulta",
-    "img": "assets/img/shopify/dedeira.png",
-    "link": "https://chumbadas.com.br",
-    "vars": [
-      [
-        "Soft",
-        "Sob Consulta"
-      ],
-      [
-        "Hard",
-        "Sob Consulta"
-      ],
-      [
-        "Ultrasoft",
-        "Sob Consulta"
-      ]
-    ],
-    "description": "<p>A Dedeira da Chumbada Oficial é o acessório ideal para proteger os dedos durante os arremessos. Disponível nas variações Soft, Hard e Ultrasoft para se adequar a sua pescaria.</p>",
-    "images": [
-      "assets/img/shopify/dedeira.png"
-    ],
-    "video": "",
     "specs": {},
     "section": "Acessórios"
   },
