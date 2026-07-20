@@ -207,7 +207,7 @@ window.PRODUCTS = [
     "category": "Atrativos",
     "name": "Atrativo Comum",
     "price": "R$ 5,80",
-    "img": "assets/img/shopify/capa-atrativo-holografico.png",
+    "img": "assets/img/shopify/cap-atrativo.png",
     "link": "https://chumbadas.com.br/products/kit-atrativo-comum-5mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
@@ -275,6 +275,7 @@ window.PRODUCTS = [
     ],
     "description": "Atrativo para Pesca 5 mm<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">O Atrativo para pesca é o acessório essencial para os pescadores que buscam maximizar sua captura e tornar a pesca ainda mais emocionante. Cada saquinho contém 5 filetes de atrativos, e o melhor de tudo é que cada filete pode ser facilmente cortado em até 10 pequenos atrativos individuais, garantindo uma longa duração e economia, totalizando 50 pequenas bolinhas de atrativo. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">A principal função do Atrativo para Pesca é deixar a isca extremamente atrativa para os peixes tanto pela cor como pelo movimento. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Além disso, o Atrativo para pesca tem uma característica inovadora. Dependendo do tamanho do anzol e da quantidade de atrativos usados simultaneamente, ele pode proporcionar flutuabilidade à isca. Isso significa que você pode ajustar a quantidade de atrativos conforme sua preferência e o tipo de peixe que deseja atrair. Experimente diferentes combinações para alcançar resultados surpreendentes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Outra vantagem incrível do Atrativo para pesca é sua capacidade de manter a isca na posição ideal. Muitas vezes, iscas afundam e acabam escondidas na areia, o que reduz a visibilidade para os peixes e diminui suas chances de sucesso na pesca. Com o Atrativo para pesca, você não precisa se preocupar com isso, pois ele ajuda a manter a isca flutuando sempre à vista dos peixes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Destacar os atrativos é simples e prático, podendo ser facilmente feito à mão. Dessa forma, você pode ajustar o tamanho do atrativo de acordo com suas preferências e necessidades específicas para cada pescaria.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Principais recursos do Atrativo para pesca:<br data-mce-fragment=\"1\">- Atrativo altamente eficaz para diversas espécies de peixes;<br data-mce-fragment=\"1\">- Possibilidade de cortar até 10 atrativos por filete;<br data-mce-fragment=\"1\">- Ajuda a isca a flutuar, dependendo do tamanho do anzol e da quantidade de atrativos usados;<br data-mce-fragment=\"1\">- Evita que a isca afunde e fique escondida na areia;<br data-mce-fragment=\"1\">- Fácil de destacar e ajustar o tamanho dos atrativos.",
     "images": [
+      "assets/img/shopify/cap-atrativo.png",
       "assets/img/shopify/capa-atrativo-holografico.png",
       "assets/img/shopify/capim-ruby.png",
       "assets/img/shopify/capim-ruby-emba.png",
