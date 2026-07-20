@@ -136,40 +136,70 @@ window.PRODUCTS = [
     "swatches": [
       [
         "Amarelo Neon",
-        "url(assets/images/cores/amarelo-neon.jpg)"
+        "url(assets/img/shopify/conico-amarelo-neon.jpg) center/cover"
       ],
       [
         "Branco Pérola",
-        "url(assets/images/cores/Branco-perola.jpg)"
+        "url(assets/img/shopify/conico-branco-perola.jpg) center/cover"
       ],
       [
         "Laranja Neon",
-        "url(assets/images/cores/laranja-Neon.png)"
+        "url(assets/img/shopify/conico-laranja-neon.png) center/cover"
+      ],
+      [
+        "Preto Brilhante",
+        "url(assets/img/shopify/conico-preto-brilhante.png) center/cover"
       ],
       [
         "Vermelho Holográfico",
-        "url(assets/images/cores/Vermelho-Holográfico.jpg)"
+        "url(assets/img/shopify/conico-vermelho-holográfico.jpg) center/cover"
       ],
       [
         "Verde Neon",
-        "url(assets/images/cores/Verde-neon.jpg)"
+        "url(assets/img/shopify/conico-verde-neon.jpg) center/cover"
       ]
     ],
     "description": "<p><span>Atrativo Cônico Chumbada Oficial<br><br>Chegou mais uma novidade para turbinar suas pescarias! O Atrativo Cônico Chumbada Oficial foi desenvolvido com um material de altíssima flutuabilidade (floating), sendo ideal para utilização próximo ao anzol, junto à isca natural.<br><br>Sua principal função é manter a isca mais suspensa e com um movimento muito mais natural, aproveitando a ação das ondas, correnteza e maré. Além disso, ajuda a evitar que o anzol fique escondido sob a areia, aumentando sua exposição e melhorando as chances de fisgada.<br><br>Disponível em diversas cores, o Atrativo Cônico permite inúmeras combinações para o pescador personalizar sua montagem. Você pode utilizar uma única peça, combinar duas ou mais cores, montar em sentidos opostos ou criar configurações exclusivas conforme a necessidade da pescaria.<br><br>Cada embalagem acompanha 5 filetes com 10 unidades cada, totalizando 50 atrativos por pacote, garantindo excelente rendimento e diversas possibilidades de montagem.<br><br>✔ Material extremamente floating<br>✔ Mantém a isca mais visível e atrativa<br>✔ Ajuda a evitar que o anzol fique encoberto pela areia<br>✔ Diversas cores disponíveis<br>✔ Inúmeras formas de montagem e utilização<br>✔ Embalagem com 50 unidades<br>Mais movimento, mais visibilidade e mais eficiência para suas montagens de praia, costão e pesca com iscas naturais! </span></p>",
     "images": [
       "assets/img/shopify/atrativoconicolaranja.png",
-      "assets/img/shopify/amarelo-Neon_ed6c1a88-8fb0-4b98-aea3-3fde11cb9225.jpg",
-      "assets/img/shopify/Branco-perola_123a60b5-d082-46f6-ae92-0abeb20d91a1.jpg",
-      "assets/img/shopify/Vermelho-Holografico_bc47a346-be98-4a37-aed4-75f08e544e16.jpg",
-      "assets/img/shopify/Verde-Neon_00efb8a7-72eb-4696-9c8e-85fd48bd0e04.jpg",
-      "assets/img/shopify/preto-brilhante.png",
-      "assets/img/shopify/medida_atrativo_conico.jpg"
+      "assets/img/shopify/conico-amarelo-neon.jpg",
+      "assets/img/shopify/conico-branco-perola.jpg",
+      "assets/img/shopify/conico-laranja-neon.png",
+      "assets/img/shopify/conico-preto-brilhante.png",
+      "assets/img/shopify/conico-vermelho-holográfico.jpg",
+      "assets/img/shopify/conico-verde-neon.jpg"
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
     "specs": {
       "Conteúdo": "1 Unidade"
     },
-    "section": "Lançamentos"
+    "section": "Lançamentos",
+    "vars": [
+      [
+        "Amarelo Neon",
+        "R$ 13,50"
+      ],
+      [
+        "Branco Pérola",
+        "R$ 13,50"
+      ],
+      [
+        "Laranja Neon",
+        "R$ 13,50"
+      ],
+      [
+        "Preto Brilhante",
+        "R$ 13,50"
+      ],
+      [
+        "Vermelho Holográfico",
+        "R$ 13,50"
+      ],
+      [
+        "Verde Neon",
+        "R$ 13,50"
+      ]
+    ]
   },
   {
     "id": 3,
@@ -260,7 +290,8 @@ window.PRODUCTS = [
       "assets/img/shopify/medida_atrativo.jpg"
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Atrativos"
   },
   {
     "id": 4,
@@ -272,15 +303,7 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/kit-atrativo-holografico-5mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "Amarelo Neon",
-        "R$ 5,80"
-      ],
-      [
-        "Beijo Da Sombra",
-        "R$ 5,80"
-      ],
-      [
-        "Branco Perola",
+        "Beijo da Sombra",
         "R$ 5,80"
       ],
       [
@@ -288,23 +311,7 @@ window.PRODUCTS = [
         "R$ 5,80"
       ],
       [
-        "Chá   Pastel",
-        "R$ 5,80"
-      ],
-      [
-        "Chá Verde",
-        "R$ 5,80"
-      ],
-      [
         "Chá",
-        "R$ 5,80"
-      ],
-      [
-        "Glow",
-        "R$ 5,80"
-      ],
-      [
-        "Laranja Neon",
         "R$ 5,80"
       ],
       [
@@ -312,15 +319,7 @@ window.PRODUCTS = [
         "R$ 5,80"
       ],
       [
-        "Preto Brilhante",
-        "R$ 5,80"
-      ],
-      [
-        "Rapadura",
-        "R$ 5,80"
-      ],
-      [
-        "Roxo Estrelnar",
+        "Roxo Estelar",
         "R$ 5,80"
       ],
       [
@@ -332,10 +331,6 @@ window.PRODUCTS = [
         "R$ 5,80"
       ],
       [
-        "Verde Neon",
-        "R$ 5,80"
-      ],
-      [
         "Verde Cósmico",
         "R$ 5,80"
       ],
@@ -344,61 +339,29 @@ window.PRODUCTS = [
         "R$ 5,80"
       ],
       [
-        "Véu Da Noite",
+        "Véu da Noite",
         "R$ 5,80"
       ]
     ],
     "swatches": [
       [
-        "Amarelo Neon",
-        "url(assets/img/shopify/holografico-amarelo-neon.jpg) center/cover"
-      ],
-      [
-        "Beijo Da Sombra",
+        "Beijo da Sombra",
         "url(assets/img/shopify/holografico-beijo-da-sombra.jpg) center/cover"
-      ],
-      [
-        "Branco Perola",
-        "url(assets/img/shopify/holografico-branco-perola.jpg) center/cover"
       ],
       [
         "Capim Rubi",
         "url(assets/img/shopify/holografico-capim-rubi.jpg) center/cover"
       ],
       [
-        "Chá   Pastel",
-        "url(assets/img/shopify/holografico-chá---pastel.jpg) center/cover"
-      ],
-      [
-        "Chá Verde",
-        "url(assets/img/shopify/holografico-chá-verde.jpg) center/cover"
-      ],
-      [
         "Chá",
-        "url(assets/img/shopify/holografico-chá.jpg) center/cover"
-      ],
-      [
-        "Glow",
-        "url(assets/img/shopify/holografico-glow.jpg) center/cover"
-      ],
-      [
-        "Laranja Neon",
-        "url(assets/img/shopify/holografico-laranja-neon.png) center/cover"
+        "url(assets/img/shopify/holografico-chá---pastel.jpg) center/cover"
       ],
       [
         "Luz Laranja",
         "url(assets/img/shopify/holografico-luz-laranja.jpg) center/cover"
       ],
       [
-        "Preto Brilhante",
-        "url(assets/img/shopify/holografico-preto-brilhante.png) center/cover"
-      ],
-      [
-        "Rapadura",
-        "url(assets/img/shopify/holografico-rapadura.jpg) center/cover"
-      ],
-      [
-        "Roxo Estrelnar",
+        "Roxo Estelar",
         "url(assets/img/shopify/holografico-roxo-estrelnar.jpg) center/cover"
       ],
       [
@@ -410,10 +373,6 @@ window.PRODUCTS = [
         "url(assets/img/shopify/holografico-salmão-radiante.jpg) center/cover"
       ],
       [
-        "Verde Neon",
-        "url(assets/img/shopify/holografico-verde-neon.jpg) center/cover"
-      ],
-      [
         "Verde Cósmico",
         "url(assets/img/shopify/holografico-verde-cósmico.jpg) center/cover"
       ],
@@ -422,47 +381,27 @@ window.PRODUCTS = [
         "url(assets/img/shopify/holografico-vermelho-holográfico.jpg) center/cover"
       ],
       [
-        "Véu Da Noite",
+        "Véu da Noite",
         "url(assets/img/shopify/holografico-véu-da-noite.jpg) center/cover"
       ]
     ],
     "description": "Atrativo para Pesca 5 mm<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">O Atrativo para pesca é o acessório essencial para os pescadores que buscam maximizar sua captura e tornar a pesca ainda mais emocionante. Cada saquinho contém 5 filetes de atrativos, e o melhor de tudo é que cada filete pode ser facilmente cortado em até 10 pequenos atrativos individuais, garantindo uma longa duração e economia, totalizando 50 pequenas bolinhas de atrativo. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">A principal função do Atrativo para Pesca é deixar a isca extremamente atrativa para os peixes tanto pela cor como pelo movimento. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Além disso, o Atrativo para pesca tem uma característica inovadora. Dependendo do tamanho do anzol e da quantidade de atrativos usados simultaneamente, ele pode proporcionar flutuabilidade à isca. Isso significa que você pode ajustar a quantidade de atrativos conforme sua preferência e o tipo de peixe que deseja atrair. Experimente diferentes combinações para alcançar resultados surpreendentes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Outra vantagem incrível do Atrativo para pesca é sua capacidade de manter a isca na posição ideal. Muitas vezes, iscas afundam e acabam escondidas na areia, o que reduz a visibilidade para os peixes e diminui suas chances de sucesso na pesca. Com o Atrativo para pesca, você não precisa se preocupar com isso, pois ele ajuda a manter a isca flutuando sempre à vista dos peixes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Destacar os atrativos é simples e prático, podendo ser facilmente feito à mão. Dessa forma, você pode ajustar o tamanho do atrativo de acordo com suas preferências e necessidades específicas para cada pescaria.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Principais recursos do Atrativo para pesca:<br data-mce-fragment=\"1\">- Atrativo altamente eficaz para diversas espécies de peixes;<br data-mce-fragment=\"1\">- Possibilidade de cortar até 10 atrativos por filete;<br data-mce-fragment=\"1\">- Ajuda a isca a flutuar, dependendo do tamanho do anzol e da quantidade de atrativos usados;<br data-mce-fragment=\"1\">- Evita que a isca afunde e fique escondida na areia;<br data-mce-fragment=\"1\">- Fácil de destacar e ajustar o tamanho dos atrativos.",
     "images": [
       "assets/img/shopify/capa-atrativo-holografico.png",
-      "assets/img/shopify/capim-ruby.png",
-      "assets/img/shopify/capim-ruby-emba.png",
-      "assets/img/shopify/vermelho-holografico.png",
-      "assets/img/shopify/vermelho-holografico-emba.png",
-      "assets/img/shopify/ruby-dourado.png",
-      "assets/img/shopify/ruby-dourado-emba.png",
-      "assets/img/shopify/cha.png",
-      "assets/img/shopify/roxo-estrelar.png",
-      "assets/img/shopify/vel-da-noite.png",
-      "assets/img/shopify/atrativo-rapadura.png",
-      "assets/img/shopify/Pastel.jpg",
-      "assets/img/shopify/medida_atrativo.jpg",
-      "assets/img/shopify/holografico-amarelo-neon.jpg",
       "assets/img/shopify/holografico-beijo-da-sombra.jpg",
-      "assets/img/shopify/holografico-branco-perola.jpg",
       "assets/img/shopify/holografico-capim-rubi.jpg",
       "assets/img/shopify/holografico-chá---pastel.jpg",
-      "assets/img/shopify/holografico-chá-verde.jpg",
-      "assets/img/shopify/holografico-chá.jpg",
-      "assets/img/shopify/holografico-glow.jpg",
-      "assets/img/shopify/holografico-laranja-neon.png",
       "assets/img/shopify/holografico-luz-laranja.jpg",
-      "assets/img/shopify/holografico-preto-brilhante.png",
-      "assets/img/shopify/holografico-rapadura.jpg",
       "assets/img/shopify/holografico-roxo-estrelnar.jpg",
       "assets/img/shopify/holografico-rubi-dourado.jpg",
       "assets/img/shopify/holografico-salmão-radiante.jpg",
-      "assets/img/shopify/holografico-verde-neon.jpg",
       "assets/img/shopify/holografico-verde-cósmico.jpg",
       "assets/img/shopify/holografico-vermelho-holográfico.jpg",
       "assets/img/shopify/holografico-véu-da-noite.jpg"
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Atrativos"
   },
   {
     "id": 5,
@@ -541,7 +480,8 @@ window.PRODUCTS = [
       "assets/images/mini-atrativo-comum-amarelo-e99da884.jpg"
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Atrativos"
   },
   {
     "id": 6,
@@ -553,15 +493,7 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/kit-mini-atrativo-holografico?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "Amarelo Neon",
-        "R$ 4,90"
-      ],
-      [
-        "Beijo Da Sombra",
-        "R$ 4,90"
-      ],
-      [
-        "Branco Perola",
+        "Beijo da Sombra",
         "R$ 4,90"
       ],
       [
@@ -569,23 +501,7 @@ window.PRODUCTS = [
         "R$ 4,90"
       ],
       [
-        "Chá   Pastel",
-        "R$ 4,90"
-      ],
-      [
-        "Chá Verde",
-        "R$ 4,90"
-      ],
-      [
         "Chá",
-        "R$ 4,90"
-      ],
-      [
-        "Glow",
-        "R$ 4,90"
-      ],
-      [
-        "Laranja Neon",
         "R$ 4,90"
       ],
       [
@@ -593,15 +509,7 @@ window.PRODUCTS = [
         "R$ 4,90"
       ],
       [
-        "Preto Brilhante",
-        "R$ 4,90"
-      ],
-      [
-        "Rapadura",
-        "R$ 4,90"
-      ],
-      [
-        "Roxo Estrelnar",
+        "Roxo Estelar",
         "R$ 4,90"
       ],
       [
@@ -613,10 +521,6 @@ window.PRODUCTS = [
         "R$ 4,90"
       ],
       [
-        "Verde Neon",
-        "R$ 4,90"
-      ],
-      [
         "Verde Cósmico",
         "R$ 4,90"
       ],
@@ -625,61 +529,29 @@ window.PRODUCTS = [
         "R$ 4,90"
       ],
       [
-        "Véu Da Noite",
+        "Véu da Noite",
         "R$ 4,90"
       ]
     ],
     "swatches": [
       [
-        "Amarelo Neon",
-        "url(assets/img/shopify/holografico-amarelo-neon.jpg) center/cover"
-      ],
-      [
-        "Beijo Da Sombra",
+        "Beijo da Sombra",
         "url(assets/img/shopify/holografico-beijo-da-sombra.jpg) center/cover"
-      ],
-      [
-        "Branco Perola",
-        "url(assets/img/shopify/holografico-branco-perola.jpg) center/cover"
       ],
       [
         "Capim Rubi",
         "url(assets/img/shopify/holografico-capim-rubi.jpg) center/cover"
       ],
       [
-        "Chá   Pastel",
-        "url(assets/img/shopify/holografico-chá---pastel.jpg) center/cover"
-      ],
-      [
-        "Chá Verde",
-        "url(assets/img/shopify/holografico-chá-verde.jpg) center/cover"
-      ],
-      [
         "Chá",
-        "url(assets/img/shopify/holografico-chá.jpg) center/cover"
-      ],
-      [
-        "Glow",
-        "url(assets/img/shopify/holografico-glow.jpg) center/cover"
-      ],
-      [
-        "Laranja Neon",
-        "url(assets/img/shopify/holografico-laranja-neon.png) center/cover"
+        "url(assets/img/shopify/holografico-chá---pastel.jpg) center/cover"
       ],
       [
         "Luz Laranja",
         "url(assets/img/shopify/holografico-luz-laranja.jpg) center/cover"
       ],
       [
-        "Preto Brilhante",
-        "url(assets/img/shopify/holografico-preto-brilhante.png) center/cover"
-      ],
-      [
-        "Rapadura",
-        "url(assets/img/shopify/holografico-rapadura.jpg) center/cover"
-      ],
-      [
-        "Roxo Estrelnar",
+        "Roxo Estelar",
         "url(assets/img/shopify/holografico-roxo-estrelnar.jpg) center/cover"
       ],
       [
@@ -691,10 +563,6 @@ window.PRODUCTS = [
         "url(assets/img/shopify/holografico-salmão-radiante.jpg) center/cover"
       ],
       [
-        "Verde Neon",
-        "url(assets/img/shopify/holografico-verde-neon.jpg) center/cover"
-      ],
-      [
         "Verde Cósmico",
         "url(assets/img/shopify/holografico-verde-cósmico.jpg) center/cover"
       ],
@@ -703,47 +571,27 @@ window.PRODUCTS = [
         "url(assets/img/shopify/holografico-vermelho-holográfico.jpg) center/cover"
       ],
       [
-        "Véu Da Noite",
+        "Véu da Noite",
         "url(assets/img/shopify/holografico-véu-da-noite.jpg) center/cover"
       ]
     ],
     "description": "Atrativo para Pesca 5 mm<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">O Atrativo para pesca é o acessório essencial para os pescadores que buscam maximizar sua captura e tornar a pesca ainda mais emocionante. Cada saquinho contém 5 filetes de atrativos, e o melhor de tudo é que cada filete pode ser facilmente cortado em até 10 pequenos atrativos individuais, garantindo uma longa duração e economia, totalizando 50 pequenas bolinhas de atrativo. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">A principal função do Atrativo para Pesca é deixar a isca extremamente atrativa para os peixes tanto pela cor como pelo movimento. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Além disso, o Atrativo para pesca tem uma característica inovadora. Dependendo do tamanho do anzol e da quantidade de atrativos usados simultaneamente, ele pode proporcionar flutuabilidade à isca. Isso significa que você pode ajustar a quantidade de atrativos conforme sua preferência e o tipo de peixe que deseja atrair. Experimente diferentes combinações para alcançar resultados surpreendentes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Outra vantagem incrível do Atrativo para pesca é sua capacidade de manter a isca na posição ideal. Muitas vezes, iscas afundam e acabam escondidas na areia, o que reduz a visibilidade para os peixes e diminui suas chances de sucesso na pesca. Com o Atrativo para pesca, você não precisa se preocupar com isso, pois ele ajuda a manter a isca flutuando sempre à vista dos peixes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Destacar os atrativos é simples e prático, podendo ser facilmente feito à mão. Dessa forma, você pode ajustar o tamanho do atrativo de acordo com suas preferências e necessidades específicas para cada pescaria.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Principais recursos do Atrativo para pesca:<br data-mce-fragment=\"1\">- Atrativo altamente eficaz para diversas espécies de peixes;<br data-mce-fragment=\"1\">- Possibilidade de cortar até 10 atrativos por filete;<br data-mce-fragment=\"1\">- Ajuda a isca a flutuar, dependendo do tamanho do anzol e da quantidade de atrativos usados;<br data-mce-fragment=\"1\">- Evita que a isca afunde e fique escondida na areia;<br data-mce-fragment=\"1\">- Fácil de destacar e ajustar o tamanho dos atrativos.",
     "images": [
       "assets/img/shopify/capa-atrativo-holografico.png",
-      "assets/img/shopify/capim-ruby.png",
-      "assets/img/shopify/capim-ruby-emba.png",
-      "assets/img/shopify/vermelho-holografico.png",
-      "assets/img/shopify/vermelho-holografico-emba.png",
-      "assets/img/shopify/ruby-dourado.png",
-      "assets/img/shopify/ruby-dourado-emba.png",
-      "assets/img/shopify/cha.png",
-      "assets/img/shopify/roxo-estrelar.png",
-      "assets/img/shopify/vel-da-noite.png",
-      "assets/img/shopify/atrativo-rapadura.png",
-      "assets/img/shopify/Pastel.jpg",
-      "assets/img/shopify/medida_atrativo.jpg",
-      "assets/img/shopify/holografico-amarelo-neon.jpg",
       "assets/img/shopify/holografico-beijo-da-sombra.jpg",
-      "assets/img/shopify/holografico-branco-perola.jpg",
       "assets/img/shopify/holografico-capim-rubi.jpg",
       "assets/img/shopify/holografico-chá---pastel.jpg",
-      "assets/img/shopify/holografico-chá-verde.jpg",
-      "assets/img/shopify/holografico-chá.jpg",
-      "assets/img/shopify/holografico-glow.jpg",
-      "assets/img/shopify/holografico-laranja-neon.png",
       "assets/img/shopify/holografico-luz-laranja.jpg",
-      "assets/img/shopify/holografico-preto-brilhante.png",
-      "assets/img/shopify/holografico-rapadura.jpg",
       "assets/img/shopify/holografico-roxo-estrelnar.jpg",
       "assets/img/shopify/holografico-rubi-dourado.jpg",
       "assets/img/shopify/holografico-salmão-radiante.jpg",
-      "assets/img/shopify/holografico-verde-neon.jpg",
       "assets/img/shopify/holografico-verde-cósmico.jpg",
       "assets/img/shopify/holografico-vermelho-holográfico.jpg",
       "assets/img/shopify/holografico-véu-da-noite.jpg"
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Atrativos"
   },
   {
     "id": 8,
@@ -763,7 +611,8 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/353a472db03342399ac28508784a2ccd.mp4",
     "specs": {
       "Conteúdo": "1 Unidade"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 11,
@@ -782,7 +631,8 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Conteúdo": "1 Unidade"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 12,
@@ -859,7 +709,8 @@ window.PRODUCTS = [
       "Comprimento/Medida": "5CM",
       "Capacidade": "Até 5 Chicotes",
       "Indicação": "Pesqueiro, lago e montagens diversas"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 14,
@@ -965,7 +816,8 @@ window.PRODUCTS = [
       "assets/img/shopify/CobreNoPretoG.jpg"
     ],
     "video": "",
-    "specs": {}
+    "specs": {},
+    "section": "Acessórios"
   },
   {
     "id": 15,
@@ -1010,7 +862,8 @@ window.PRODUCTS = [
       "assets/img/shopify/copo_preto.jpg"
     ],
     "video": "",
-    "specs": {}
+    "specs": {},
+    "section": "Organização"
   },
   {
     "id": 16,
@@ -1076,7 +929,8 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/a8fd4c77c94e42d5a9254dda44a98f4a.mp4",
     "specs": {
       "Capacidade": "5 Carretéis (Até 25 Chicotes)"
-    }
+    },
+    "section": "Organização"
   },
   {
     "id": 17,
@@ -1095,7 +949,8 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/a16a04dcae884b1aa6ce969b1d6a2f52.mp4",
     "specs": {
       "Material": "Látex elástico"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 18,
@@ -1114,7 +969,8 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/a16a04dcae884b1aa6ce969b1d6a2f52.mp4",
     "specs": {
       "Material": "Látex elástico"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 22,
@@ -1141,7 +997,8 @@ window.PRODUCTS = [
       "assets/img/shopify/iscador-transparente.png"
     ],
     "video": "assets/video/shopify/df63e0ebdb784b49b1dd9898641b2663.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Acessórios"
   },
   {
     "id": 23,
@@ -1158,7 +1015,8 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/df63e0ebdb784b49b1dd9898641b2663.mp4",
     "specs": {
       "Material": "Aço Inox"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 24,
@@ -1175,7 +1033,8 @@ window.PRODUCTS = [
       "assets/img/shopify/iscador-duplo-foto-transparente.png"
     ],
     "video": "assets/video/shopify/0800a917dc464f3cad93e5d756271c2c.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Acessórios"
   },
   {
     "id": 25,
@@ -1204,7 +1063,8 @@ window.PRODUCTS = [
     "specs": {
       "Capacidade": "Até 5 Chicotes",
       "Indicação": "Pesqueiro, lago e montagens diversas"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 26,
@@ -1283,12 +1143,13 @@ window.PRODUCTS = [
       "assets/img/shopify/snap-mais-cobre-no-verde.png"
     ],
     "video": "assets/video/shopify/618e4f454f004aa5b055dc9ab0df67cf.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Acessórios"
   },
   {
     "id": 27,
     "slug": "nano-pipe-borracha",
-    "section": "Suportes e organização",
+    "section": "Suportes",
     "category": "Suportes",
     "name": "Nano Pipe Borracha",
     "price": "R$ 11,00",
@@ -1373,7 +1234,8 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Material": "Plástico de engenharia de alta densidade"
-    }
+    },
+    "section": "Montagem"
   },
   {
     "id": 29,
@@ -1389,7 +1251,8 @@ window.PRODUCTS = [
       "assets/img/shopify/Pipa-2unidades_6594cf33-b024-4508-a790-f39667ed2a69.jpg"
     ],
     "video": "",
-    "specs": {}
+    "specs": {},
+    "section": "Acessórios"
   },
   {
     "id": 30,
@@ -1453,7 +1316,8 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/832fce9668cf4ebc8742747ac8f5b028.mp4",
     "specs": {
       "Material": "Látex elástico"
-    }
+    },
+    "section": "Organização"
   },
   {
     "id": 31,
@@ -1484,7 +1348,8 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/27352f06c76d4c6d8196c5a1c6b71cac.mp4",
     "specs": {
       "Material": "Plástico de engenharia de alta densidade"
-    }
+    },
+    "section": "Organização"
   },
   {
     "id": 32,
@@ -1580,7 +1445,8 @@ window.PRODUCTS = [
     "specs": {
       "Material": "Borracha premium",
       "Comprimento/Medida": "30CM"
-    }
+    },
+    "section": "Organização"
   },
   {
     "id": 33,
@@ -1610,7 +1476,8 @@ window.PRODUCTS = [
       "assets/img/shopify/protetor_de_bobina_modelo_6.jpg"
     ],
     "video": "",
-    "specs": {}
+    "specs": {},
+    "section": "Proteção"
   },
   {
     "id": 34,
@@ -1642,7 +1509,8 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Comprimento/Medida": "15CM"
-    }
+    },
+    "section": "Medição"
   },
   {
     "id": 35,
@@ -1662,7 +1530,8 @@ window.PRODUCTS = [
     "specs": {
       "Material": "Borracha premium",
       "Comprimento/Medida": "20 METROS"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 36,
@@ -1682,7 +1551,8 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Conteúdo": "8 Unidades"
-    }
+    },
+    "section": "Linha Terminal e Kits"
   },
   {
     "id": 37,
@@ -1727,7 +1597,8 @@ window.PRODUCTS = [
     "specs": {
       "Material": "Aço Inox",
       "Conteúdo": "1 Unidade"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 38,
@@ -1762,7 +1633,8 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/c833d8cb432a4adf91c3016d36320c34.mp4",
     "specs": {
       "Material": "Aço Inox"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 39,
@@ -1835,7 +1707,8 @@ window.PRODUCTS = [
       "assets/img/shopify/snap-mais-cobre-no-verde.png"
     ],
     "video": "",
-    "specs": {}
+    "specs": {},
+    "section": "Montagem"
   },
   {
     "id": 40,
@@ -1855,7 +1728,8 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/ef8ebb2364fb477a9b7803972081da0f.mp4",
     "specs": {
       "Material": "Borracha premium"
-    }
+    },
+    "section": "Montagem"
   },
   {
     "id": 41,
@@ -1878,7 +1752,8 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/ef8ebb2364fb477a9b7803972081da0f.mp4",
     "specs": {
       "Conteúdo": "1 Unidade"
-    }
+    },
+    "section": "Montagem"
   },
   {
     "id": 42,
@@ -1917,7 +1792,8 @@ window.PRODUCTS = [
       "assets/img/shopify/20cm.png"
     ],
     "video": "",
-    "specs": {}
+    "specs": {},
+    "section": "Acessórios"
   },
   {
     "id": 43,
@@ -1999,7 +1875,8 @@ window.PRODUCTS = [
       "Material": "Vidro lapidado",
       "Conteúdo": "1 Unidade",
       "Diâmetro": "2,5mm"
-    }
+    },
+    "section": "Montagem"
   },
   {
     "id": 44,
@@ -2018,7 +1895,8 @@ window.PRODUCTS = [
     "specs": {
       "Material": "Latão maciço",
       "Diâmetro": "2,9mm"
-    }
+    },
+    "section": "Montagem"
   },
   {
     "id": 45,
@@ -2059,12 +1937,13 @@ window.PRODUCTS = [
     "specs": {
       "Material": "Alumínio anodizado",
       "Conteúdo": "6 Peças"
-    }
+    },
+    "section": "Montagem"
   },
   {
     "id": 46,
     "slug": "suporte-de-vara-premium-completo",
-    "section": "Suportes de vara",
+    "section": "Suportes",
     "category": "Suportes",
     "name": "Suporte de Vara Premium Completo",
     "price": "a partir de R$ 71,00",
@@ -2299,7 +2178,8 @@ window.PRODUCTS = [
       "Material": "Estrutura em alumínio com peças em borracha e plástico premium",
       "Tamanhos Disponíveis": "40cm, 60cm, 85cm, 1m, 1,20m",
       "Itens Avulsos (Reposição)": "Apoio de Borracha, Copo de Borracha, e Cano (podem ser adquiridos separadamente)"
-    }
+    },
+    "section": "Suportes"
   },
   {
     "id": 48,
@@ -2316,7 +2196,8 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Material": "Borracha premium de alta densidade"
-    }
+    },
+    "section": "Peças"
   },
   {
     "id": 49,
@@ -2344,7 +2225,8 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Material": "Borracha premium de alta densidade"
-    }
+    },
+    "section": "Peças"
   },
   {
     "id": 50,
@@ -2391,12 +2273,13 @@ window.PRODUCTS = [
       "assets/img/shopify/alicate_glow.jpg"
     ],
     "video": "assets/video/shopify/39b1ccbd5af54293baa9aa65e95b4ef3.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Acessórios"
   },
   {
     "id": 51,
     "slug": "suporte-horizontal-completo",
-    "section": "Organização pesada",
+    "section": "Suportes",
     "category": "Suportes",
     "name": "Suporte Horizontal Completo",
     "price": "a partir de R$ 22,20",
@@ -2484,7 +2367,8 @@ window.PRODUCTS = [
     "specs": {
       "Material": "Borracha premium",
       "Comprimento/Medida": "1,40M"
-    }
+    },
+    "section": "Organização"
   },
   {
     "id": 53,
@@ -2642,7 +2526,8 @@ window.PRODUCTS = [
     "specs": {
       "Material": "Borracha premium",
       "Comprimento/Medida": "30CM"
-    }
+    },
+    "section": "Organização"
   },
   {
     "id": 54,
@@ -2685,7 +2570,8 @@ window.PRODUCTS = [
       "assets/img/shopify/Porta-pernada-compacto-preto_2.jpg"
     ],
     "video": "assets/video/shopify/8c1dce1ee39c4882b74c80088adc3b80.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Organização"
   },
   {
     "id": 55,
@@ -2704,7 +2590,8 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/642cf361fcbd4a02b6534dabee598d73.mp4",
     "specs": {
       "Material": "Borracha premium"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 56,
@@ -2724,7 +2611,8 @@ window.PRODUCTS = [
     "specs": {
       "Material": "Velcro ultra resistente",
       "Comprimento/Medida": "50 CM"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 57,
@@ -2770,7 +2658,8 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Comprimento/Medida": "0,26 M"
-    }
+    },
+    "section": "Montagem"
   },
   {
     "id": 58,
@@ -2788,12 +2677,13 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Material": "Borracha premium"
-    }
+    },
+    "section": "Suportes"
   },
   {
     "id": 59,
     "slug": "suporte-para-molinetes",
-    "section": "Molinetes e porta pernadas",
+    "section": "Organização",
     "category": "Organização",
     "name": "Suporte para Molinetes",
     "price": "R$ 22,00",
@@ -2862,7 +2752,8 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Aplicação": "Pesca esportiva e de competição"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 61,
@@ -2893,7 +2784,8 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Aplicação": "Pesca esportiva e de competição"
-    }
+    },
+    "section": "Acessórios"
   },
   {
     "id": 62,
@@ -2962,7 +2854,8 @@ window.PRODUCTS = [
       "assets/img/shopify/suporte-para-carretilha-individual-solapa-vermelho.jpg"
     ],
     "video": "",
-    "specs": {}
+    "specs": {},
+    "section": "Suportes"
   },
   {
     "id": 63,
@@ -2979,7 +2872,8 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/f048e0960ef04c0da3f8fd8af9ab1fe5.mp4",
     "specs": {
       "Material": "Borracha premium"
-    }
+    },
+    "section": "Suportes"
   },
   {
     "id": 65,
@@ -3015,7 +2909,8 @@ window.PRODUCTS = [
     "specs": {
       "Comprimento/Medida": "300 METROS",
       "Dimensões": "4X300M"
-    }
+    },
+    "section": "Peças"
   },
   {
     "id": 66,
@@ -3040,12 +2935,13 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Material": "Plástico de engenharia de alta densidade"
-    }
+    },
+    "section": "Peças"
   },
   {
     "id": 67,
     "slug": "destorcedores",
-    "section": "Linha terminal e kits",
+    "section": "Montagem",
     "category": "Montagem",
     "name": "Destorcedores",
     "price": "a partir de R$ 3,94",
@@ -3132,7 +3028,8 @@ window.PRODUCTS = [
       "assets/img/shopify/destorcedor-triplo-33mm_2c02312c-5551-4f54-a261-576b699bf92d.png"
     ],
     "video": "assets/video/shopify/f24631a07cd749d8ab917d74fb026519.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Montagem"
   },
   {
     "id": 69,
@@ -3165,7 +3062,8 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Conteúdo": "Um pacote"
-    }
+    },
+    "section": "Montagem"
   },
   {
     "id": 70,
@@ -3198,7 +3096,8 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Conteúdo": "Um pacote"
-    }
+    },
+    "section": "Montagem"
   },
   {
     "id": 71,
@@ -3220,7 +3119,8 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {},
-    "swatches": []
+    "swatches": [],
+    "section": "Montagem"
   },
   {
     "id": 72,
@@ -3279,7 +3179,8 @@ window.PRODUCTS = [
       "assets/img/shopify/Snap-Frances-10mm-frente.jpg"
     ],
     "video": "",
-    "specs": {}
+    "specs": {},
+    "section": "Montagem"
   },
   {
     "id": 73,
@@ -3323,7 +3224,8 @@ window.PRODUCTS = [
       "Dimensões": "32X8,5CM",
       "Capacidade": "60 Canais (30 Sup. / 30 Inf.)",
       "Indicação": "Acomodar pernadas (anzóis empatados)"
-    }
+    },
+    "section": "Montagem"
   },
   {
     "id": 75,
@@ -3347,7 +3249,8 @@ window.PRODUCTS = [
     "specs": {
       "Material": "Plástico de engenharia de alta densidade",
       "Aplicação": "Pesca esportiva e de competição"
-    }
+    },
+    "section": "Organização"
   },
   {
     "id": 76,
@@ -3388,7 +3291,8 @@ window.PRODUCTS = [
       "assets/images/tela-vermelha-a2d4f4df.jpg"
     ],
     "video": "assets/video/shopify/9a7fd88adf6f474e92746620abdf847c.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Acessórios"
   },
   {
     "id": 85,
@@ -3417,7 +3321,8 @@ window.PRODUCTS = [
       "assets/img/shopify/dedeira.png"
     ],
     "video": "",
-    "specs": {}
+    "specs": {},
+    "section": "Acessórios"
   },
   {
     "id": 2,

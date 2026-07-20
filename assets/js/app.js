@@ -160,8 +160,19 @@ function renderCatalog() {
               <input id="search-input" type="search" class="search-input" placeholder="O que você está procurando?" autocomplete="off" value="${escapeHTML(state.searchQuery)}">
             </div>
             
-            <div class="filters-wrapper">
-              <div class="filters-scroll" id="filters-scroll">
+            <div class="menu-dropdown-wrapper">
+              <button class="hamburger-menu-btn" id="hamburger-menu-btn" type="button" aria-expanded="false" aria-label="Menu de Categorias">
+                <svg class="hamburger-icon" viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="3" y1="12" x2="21" y2="12"></line>
+                  <line x1="3" y1="6" x2="21" y2="6"></line>
+                  <line x1="3" y1="18" x2="21" y2="18"></line>
+                </svg>
+                <span id="active-category-label">Todos</span>
+                <svg class="chevron-icon" viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" style="margin-left:auto; transition: transform 0.2s;">
+                  <polyline points="6 9 12 15 18 9"></polyline>
+                </svg>
+              </button>
+              <div class="categories-dropdown" id="categories-dropdown">
                 <!-- Filtros serão inseridos por JS -->
               </div>
             </div>
@@ -192,29 +203,58 @@ function renderCatalog() {
 }
 
 // Configurar chips de filtros
+// Configurar chips de filtros (Menu Hamburger Dropdown)
 function setupFilters() {
-  const scrollContainer = document.getElementById('filters-scroll');
-  if (!scrollContainer) return;
+  const dropdown = document.getElementById('categories-dropdown');
+  const btn = document.getElementById('hamburger-menu-btn');
+  const activeLabel = document.getElementById('active-category-label');
+  if (!dropdown || !btn || !activeLabel) return;
 
   // Extrair categorias únicas de PRODUCTS
   const categories = ['Todos', ...Array.from(new Set(PRODUCTS.map(p => p.category))).sort((a,b) => a.localeCompare(b, 'pt-BR'))];
 
-  scrollContainer.innerHTML = categories.map(cat => `
-    <button class="chip ${state.selectedCategory === cat ? 'active' : ''}" type="button" data-category="${escapeHTML(cat)}">
+  // Definir categoria ativa inicial
+  activeLabel.textContent = state.selectedCategory;
+
+  dropdown.innerHTML = categories.map(cat => `
+    <button class="dropdown-item ${state.selectedCategory === cat ? 'active' : ''}" type="button" data-category="${escapeHTML(cat)}">
       ${escapeHTML(cat)}
     </button>
   `).join('');
 
-  // Evento de clique
-  scrollContainer.addEventListener('click', e => {
-    const btn = e.target.closest('.chip');
-    if (!btn) return;
+  // Toggle dropdown
+  btn.addEventListener('click', e => {
+    e.stopPropagation();
+    const isExpanded = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', !isExpanded);
+    dropdown.classList.toggle('active', !isExpanded);
+    
+    // Rotate chevron
+    const chevron = btn.querySelector('.chevron-icon');
+    if (chevron) {
+      chevron.style.transform = isExpanded ? 'rotate(0deg)' : 'rotate(180deg)';
+    }
+  });
 
-    state.selectedCategory = btn.dataset.category;
+  // Fechar ao clicar fora
+  document.addEventListener('click', () => {
+    btn.setAttribute('aria-expanded', 'false');
+    dropdown.classList.remove('active');
+    const chevron = btn.querySelector('.chevron-icon');
+    if (chevron) chevron.style.transform = 'rotate(0deg)';
+  });
+
+  // Evento de clique na categoria
+  dropdown.addEventListener('click', e => {
+    const item = e.target.closest('.dropdown-item');
+    if (!item) return;
+
+    state.selectedCategory = item.dataset.category;
+    activeLabel.textContent = state.selectedCategory;
     
     // Atualizar classe ativa
-    scrollContainer.querySelectorAll('.chip').forEach(c => {
-      c.classList.toggle('active', c === btn);
+    dropdown.querySelectorAll('.dropdown-item').forEach(c => {
+      c.classList.toggle('active', c === item);
     });
 
     renderGrid();
@@ -282,12 +322,13 @@ function renderGrid() {
   // Mapear produtos para HTML
   let lastSection = '';
   grid.innerHTML = filtered.map(p => {
+    const pSection = p.section || p.category || 'Outros';
     let sectionBreak = '';
     
     // Separador visual de seções se estiver visualizando todos sem busca ativa
-    if (state.selectedCategory === 'Todos' && !state.searchQuery && p.section && p.section !== lastSection) {
-      lastSection = p.section;
-      sectionBreak = `<div class="section-break"><h3>${escapeHTML(p.section)}</h3></div>`;
+    if (state.selectedCategory === 'Todos' && !state.searchQuery && pSection !== lastSection) {
+      lastSection = pSection;
+      sectionBreak = `<div class="section-break"><h3>${escapeHTML(pSection)}</h3></div>`;
     }
 
     // Configurar spans e classes de layout
