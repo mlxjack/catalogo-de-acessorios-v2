@@ -208,6 +208,40 @@ window.PRODUCTS = [
     ]
   },
   {
+    "id": 61,
+    "slug": "mini-secretaria",
+    "category": "Acessórios",
+    "name": "Mini Secretária",
+    "price": "a partir de R$ 3,90",
+    "img": "assets/img/shopify/mini_secretaria.jpg",
+    "link": "https://chumbadas.com.br/products/mini-secretaria?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "PretoEco",
+        "R$ 3,90"
+      ],
+      [
+        "Colorido",
+        "R$ 6,90"
+      ]
+    ],
+    "description": "<p><b>Mini Secretária Chumbada Oficial </b><br><br>A Mini Secretária foi desenvolvida para facilitar a vida do pescador na hora da pescaria.<br><br>Compacta, prática e muito funcional, ela pode ser utilizada como uma bandeja de apoio para organizar os acessórios e trabalhar a isca com mais conforto e agilidade.<br><br>Pode ser usada em diferentes opções de encaixe:<br><br>Na cantoneira dos suportes de vara, na cantoneira Premium e Slim ou até mesmo em cano comum de esgoto de 2”.<br><br>Nela, o pescador pode apoiar e organizar itens como tesoura, saca-anzol, porta elastricot, iscador, iscas e outros acessórios essenciais durante a pescaria.<br><br>Além disso, conta com espaço próprio para apoiar e preparar a isca, deixando tudo à mão e tornando o momento da montagem muito mais prático.<br><br>Disponível nas opções <b>Preto Eco</b>, <b>Preta</b>, <b>Branca</b> e <b>Azul</b>.<br><br><b>Mini Secretária Chumbada Oficial: pequena no tamanho, gigante na praticidade.</b></p>",
+    "images": [
+      "assets/img/shopify/mini_secretaria.jpg",
+      "assets/img/shopify/mini_secretaria_preto_eco_2.png",
+      "assets/img/shopify/Mini_Secretaria_Azul.jpg",
+      "assets/img/shopify/mini-secretaria_branca.png",
+      "assets/img/shopify/mini-secretaria.png"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Polietileno de alta resistência contra raios UV e impactos",
+      "Funções": "Bandeja de apoio compacta para tesoura, saca-anzol, iscas e preparo rápido de montagens na praia",
+      "Compatibilidade": "Encaixe em suportes de vara Slim, Premium ou canos de 2 polegadas"
+    },
+    "section": "Lançamentos"
+  },
+  {
     "id": 3,
     "slug": "atrativo-comum",
     "category": "Atrativos",
@@ -3400,40 +3434,6 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Aplicação": "Pesca esportiva e de competição"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 61,
-    "slug": "mini-secretaria",
-    "category": "Acessórios",
-    "name": "Mini Secretária",
-    "price": "a partir de R$ 3,90",
-    "img": "assets/img/shopify/mini_secretaria.jpg",
-    "link": "https://chumbadas.com.br/products/mini-secretaria?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "PretoEco",
-        "R$ 3,90"
-      ],
-      [
-        "Colorido",
-        "R$ 6,90"
-      ]
-    ],
-    "description": "<p><b>Mini Secretária Chumbada Oficial </b><br><br>A Mini Secretária foi desenvolvida para facilitar a vida do pescador na hora da pescaria.<br><br>Compacta, prática e muito funcional, ela pode ser utilizada como uma bandeja de apoio para organizar os acessórios e trabalhar a isca com mais conforto e agilidade.<br><br>Pode ser usada em diferentes opções de encaixe:<br><br>Na cantoneira dos suportes de vara, na cantoneira Premium e Slim ou até mesmo em cano comum de esgoto de 2”.<br><br>Nela, o pescador pode apoiar e organizar itens como tesoura, saca-anzol, porta elastricot, iscador, iscas e outros acessórios essenciais durante a pescaria.<br><br>Além disso, conta com espaço próprio para apoiar e preparar a isca, deixando tudo à mão e tornando o momento da montagem muito mais prático.<br><br>Disponível nas opções <b>Preto Eco</b>, <b>Preta</b>, <b>Branca</b> e <b>Azul</b>.<br><br><b>Mini Secretária Chumbada Oficial: pequena no tamanho, gigante na praticidade.</b></p>",
-    "images": [
-      "assets/img/shopify/mini_secretaria.jpg",
-      "assets/img/shopify/mini_secretaria_preto_eco_2.png",
-      "assets/img/shopify/Mini_Secretaria_Azul.jpg",
-      "assets/img/shopify/mini-secretaria_branca.png",
-      "assets/img/shopify/mini-secretaria.png"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Polietileno de alta resistência contra raios UV e impactos",
-      "Funções": "Bandeja de apoio compacta para tesoura, saca-anzol, iscas e preparo rápido de montagens na praia",
-      "Compatibilidade": "Encaixe em suportes de vara Slim, Premium ou canos de 2 polegadas"
     },
     "section": "Acessórios"
   },
