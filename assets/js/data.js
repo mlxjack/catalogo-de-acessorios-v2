@@ -9,139 +9,6 @@ window.CONFIG = {
 
 window.PRODUCTS = [
   {
-    "id": 7,
-    "slug": "kit-atrativo-conico-85mm-5-filetes-com-10-unidades",
-    "category": "Atrativos",
-    "name": "Kit Atrativo Cônico 85mm - 5 Filetes com 10 Unidades",
-    "price": "R$ 13,50",
-    "img": "assets/img/shopify/atrativoconicolaranja.png",
-    "link": "https://chumbadas.com.br/products/kit-atrativo-conico-85mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "swatches": [
-      [
-        "Amarelo Neon",
-        "url(assets/img/shopify/conico-amarelo-neon.jpg) center/cover"
-      ],
-      [
-        "Branco Pérola",
-        "url(assets/img/shopify/conico-branco-perola.jpg) center/cover"
-      ],
-      [
-        "Laranja Neon",
-        "url(assets/img/shopify/conico-laranja-neon.png) center/cover"
-      ],
-      [
-        "Preto Brilhante",
-        "url(assets/img/shopify/conico-preto-brilhante.png) center/cover"
-      ],
-      [
-        "Vermelho Holográfico",
-        "url(assets/img/shopify/conico-vermelho-holográfico.jpg) center/cover"
-      ],
-      [
-        "Verde Neon",
-        "url(assets/img/shopify/conico-verde-neon.jpg) center/cover"
-      ]
-    ],
-    "description": "<p><span>Atrativo Cônico Chumbada Oficial<br><br>Chegou mais uma novidade para turbinar suas pescarias! O Atrativo Cônico Chumbada Oficial foi desenvolvido com um material de altíssima flutuabilidade (floating), sendo ideal para utilização próximo ao anzol, junto à isca natural.<br><br>Sua principal função é manter a isca mais suspensa e com um movimento muito mais natural, aproveitando a ação das ondas, correnteza e maré. Além disso, ajuda a evitar que o anzol fique escondido sob a areia, aumentando sua exposição e melhorando as chances de fisgada.<br><br>Disponível em diversas cores, o Atrativo Cônico permite inúmeras combinações para o pescador personalizar sua montagem. Você pode utilizar uma única peça, combinar duas ou mais cores, montar em sentidos opostos ou criar configurações exclusivas conforme a necessidade da pescaria.<br><br>Cada embalagem acompanha 5 filetes com 10 unidades cada, totalizando 50 atrativos por pacote, garantindo excelente rendimento e diversas possibilidades de montagem.<br><br>✔ Material extremamente floating<br>✔ Mantém a isca mais visível e atrativa<br>✔ Ajuda a evitar que o anzol fique encoberto pela areia<br>✔ Diversas cores disponíveis<br>✔ Inúmeras formas de montagem e utilização<br>✔ Embalagem com 50 unidades<br>Mais movimento, mais visibilidade e mais eficiência para suas montagens de praia, costão e pesca com iscas naturais! </span></p>",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/atrativoconicolaranja.png?v=1782141294",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Branco-perola_123a60b5-d082-46f6-ae92-0abeb20d91a1.jpg?v=1772022823",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Vermelho-Holografico_bc47a346-be98-4a37-aed4-75f08e544e16.jpg?v=1765378331",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Verde-Neon_00efb8a7-72eb-4696-9c8e-85fd48bd0e04.jpg?v=1765378331",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/preto-brilhante.png?v=1782411246",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/medida_atrativo_conico.jpg?v=1783517580"
-    ],
-    "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {
-      "Material": "EVA Floating de altíssima flutuabilidade",
-      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
-      "Indicação": "Pesca de praia (surfcasting), costão e montagens com iscas naturais",
-      "Função": "Elevar a isca da areia, aumentar o movimento natural e expor melhor o anzol"
-    },
-    "section": "Lançamentos",
-    "vars": [
-      [
-        "Amarelo Neon",
-        "R$ 13,50"
-      ],
-      [
-        "Branco Pérola",
-        "R$ 13,50"
-      ],
-      [
-        "Laranja Neon",
-        "R$ 13,50"
-      ],
-      [
-        "Preto Brilhante",
-        "R$ 13,50"
-      ],
-      [
-        "Vermelho Holográfico",
-        "R$ 13,50"
-      ],
-      [
-        "Verde Neon",
-        "R$ 13,50"
-      ]
-    ],
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/atrativoconicolaranja.png?v=1782141294",
-    "colors": [
-      [
-        "Amarelo Neon",
-        "#888888"
-      ],
-      [
-        "Branco Pérola",
-        "#888888"
-      ],
-      [
-        "Laranja Neon",
-        "#888888"
-      ],
-      [
-        "Preto Brilhante",
-        "#888888"
-      ],
-      [
-        "Vermelho Holográfico",
-        "#888888"
-      ],
-      [
-        "Verde Neon",
-        "#888888"
-      ]
-    ],
-    "colorImages": {
-      "Branco Pérola": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Branco-perola_123a60b5-d082-46f6-ae92-0abeb20d91a1.jpg?v=1772022823",
-      "Laranja Neon": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/atrativoconicolaranja.png?v=1782141294",
-      "Preto Brilhante": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/preto-brilhante.png?v=1782411246",
-      "Vermelho Holográfico": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Vermelho-Holografico_bc47a346-be98-4a37-aed4-75f08e544e16.jpg?v=1765378331",
-      "Verde Neon": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Verde-Neon_00efb8a7-72eb-4696-9c8e-85fd48bd0e04.jpg?v=1765378331"
-    }
-  },
-  {
-    "id": 64,
-    "slug": "clip-vara-com-fita-dupla-face",
-    "category": "Suportes",
-    "name": "Clip Vara (com fita dupla face)",
-    "price": "R$ 4,45",
-    "img": "assets/img/shopify/clip_vara.jpg",
-    "link": "#",
-    "description": "<p><span data-sheets-root=\"1\">O Clip Vara é um acessório de borracha versátil, compacto e muito prático, desenvolvido para apoiar varas de pesca com mais segurança e sem risco de danos.<br><br>Possui fita dupla face de alta resistência na parte traseira, permitindo a fixação em paredes, embarcações, bancadas ou outros locais estratégicos.<br><br>Por ser fabricado em borracha, o Clip Vara protege melhor o equipamento, evitando riscos e oferecendo um apoio firme para uma ou mais varas.<br><br>Existem diversas formas de utilização: pode ser usado individualmente para manter a vara apoiada no chão, ou em pares, fixados lateralmente, para deixar a vara na posição horizontal. Também é uma excelente opção para embarcações, auxiliando no apoio da vara durante a navegação.<br><br>Clip Vara Chumbada Oficial: praticidade, proteção e organização para suas varas de pesca.<br></span></p>",
-    "images": [
-      "assets/img/shopify/clip_vara.jpg"
-    ],
-    "video": "assets/video/shopify/65504d14f2124362b073af64022aad77.mov",
-    "specs": {
-      "Material": "Borracha flexível de alta qualidade",
-      "Conteúdo": "1 Clip Vara e Fita Dupla Face 3M de alta aderência",
-      "Fixação": "Adesiva (Paredes, barcos, caiaques, bancadas)",
-      "Indicação": "Organização e apoio seguro para varas de pesca (evita riscos)"
-    },
-    "section": "Lançamentos"
-  },
-  {
     "id": 1,
     "slug": "linha-multi-verax-4x-300m",
     "section": "Lançamentos",
@@ -298,6 +165,1088 @@ window.PRODUCTS = [
       "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini-secretaria_branca.png?v=1782150309",
       "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini-secretaria.png?v=1782150309"
     }
+  },
+  {
+    "id": 7,
+    "slug": "kit-atrativo-conico-85mm-5-filetes-com-10-unidades",
+    "category": "Atrativos",
+    "name": "Kit Atrativo Cônico 85mm - 5 Filetes com 10 Unidades",
+    "price": "R$ 13,50",
+    "img": "assets/img/shopify/atrativoconicolaranja.png",
+    "link": "https://chumbadas.com.br/products/kit-atrativo-conico-85mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "swatches": [
+      [
+        "Amarelo Neon",
+        "url(assets/img/shopify/conico-amarelo-neon.jpg) center/cover"
+      ],
+      [
+        "Branco Pérola",
+        "url(assets/img/shopify/conico-branco-perola.jpg) center/cover"
+      ],
+      [
+        "Laranja Neon",
+        "url(assets/img/shopify/conico-laranja-neon.png) center/cover"
+      ],
+      [
+        "Preto Brilhante",
+        "url(assets/img/shopify/conico-preto-brilhante.png) center/cover"
+      ],
+      [
+        "Vermelho Holográfico",
+        "url(assets/img/shopify/conico-vermelho-holográfico.jpg) center/cover"
+      ],
+      [
+        "Verde Neon",
+        "url(assets/img/shopify/conico-verde-neon.jpg) center/cover"
+      ]
+    ],
+    "description": "<p><span>Atrativo Cônico Chumbada Oficial<br><br>Chegou mais uma novidade para turbinar suas pescarias! O Atrativo Cônico Chumbada Oficial foi desenvolvido com um material de altíssima flutuabilidade (floating), sendo ideal para utilização próximo ao anzol, junto à isca natural.<br><br>Sua principal função é manter a isca mais suspensa e com um movimento muito mais natural, aproveitando a ação das ondas, correnteza e maré. Além disso, ajuda a evitar que o anzol fique escondido sob a areia, aumentando sua exposição e melhorando as chances de fisgada.<br><br>Disponível em diversas cores, o Atrativo Cônico permite inúmeras combinações para o pescador personalizar sua montagem. Você pode utilizar uma única peça, combinar duas ou mais cores, montar em sentidos opostos ou criar configurações exclusivas conforme a necessidade da pescaria.<br><br>Cada embalagem acompanha 5 filetes com 10 unidades cada, totalizando 50 atrativos por pacote, garantindo excelente rendimento e diversas possibilidades de montagem.<br><br>✔ Material extremamente floating<br>✔ Mantém a isca mais visível e atrativa<br>✔ Ajuda a evitar que o anzol fique encoberto pela areia<br>✔ Diversas cores disponíveis<br>✔ Inúmeras formas de montagem e utilização<br>✔ Embalagem com 50 unidades<br>Mais movimento, mais visibilidade e mais eficiência para suas montagens de praia, costão e pesca com iscas naturais! </span></p>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/atrativoconicolaranja.png?v=1782141294",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Branco-perola_123a60b5-d082-46f6-ae92-0abeb20d91a1.jpg?v=1772022823",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Vermelho-Holografico_bc47a346-be98-4a37-aed4-75f08e544e16.jpg?v=1765378331",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Verde-Neon_00efb8a7-72eb-4696-9c8e-85fd48bd0e04.jpg?v=1765378331",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/preto-brilhante.png?v=1782411246",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/medida_atrativo_conico.jpg?v=1783517580"
+    ],
+    "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
+    "specs": {
+      "Material": "EVA Floating de altíssima flutuabilidade",
+      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
+      "Indicação": "Pesca de praia (surfcasting), costão e montagens com iscas naturais",
+      "Função": "Elevar a isca da areia, aumentar o movimento natural e expor melhor o anzol"
+    },
+    "section": "Lançamentos",
+    "vars": [
+      [
+        "Amarelo Neon",
+        "R$ 13,50"
+      ],
+      [
+        "Branco Pérola",
+        "R$ 13,50"
+      ],
+      [
+        "Laranja Neon",
+        "R$ 13,50"
+      ],
+      [
+        "Preto Brilhante",
+        "R$ 13,50"
+      ],
+      [
+        "Vermelho Holográfico",
+        "R$ 13,50"
+      ],
+      [
+        "Verde Neon",
+        "R$ 13,50"
+      ]
+    ],
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/atrativoconicolaranja.png?v=1782141294",
+    "colors": [
+      [
+        "Amarelo Neon",
+        "#888888"
+      ],
+      [
+        "Branco Pérola",
+        "#888888"
+      ],
+      [
+        "Laranja Neon",
+        "#888888"
+      ],
+      [
+        "Preto Brilhante",
+        "#888888"
+      ],
+      [
+        "Vermelho Holográfico",
+        "#888888"
+      ],
+      [
+        "Verde Neon",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Branco Pérola": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Branco-perola_123a60b5-d082-46f6-ae92-0abeb20d91a1.jpg?v=1772022823",
+      "Laranja Neon": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/atrativoconicolaranja.png?v=1782141294",
+      "Preto Brilhante": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/preto-brilhante.png?v=1782411246",
+      "Vermelho Holográfico": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Vermelho-Holografico_bc47a346-be98-4a37-aed4-75f08e544e16.jpg?v=1765378331",
+      "Verde Neon": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Verde-Neon_00efb8a7-72eb-4696-9c8e-85fd48bd0e04.jpg?v=1765378331"
+    }
+  },
+  {
+    "id": 64,
+    "slug": "clip-vara-com-fita-dupla-face",
+    "category": "Suportes",
+    "name": "Clip Vara (com fita dupla face)",
+    "price": "R$ 4,45",
+    "img": "assets/img/shopify/clip_vara.jpg",
+    "link": "#",
+    "description": "<p><span data-sheets-root=\"1\">O Clip Vara é um acessório de borracha versátil, compacto e muito prático, desenvolvido para apoiar varas de pesca com mais segurança e sem risco de danos.<br><br>Possui fita dupla face de alta resistência na parte traseira, permitindo a fixação em paredes, embarcações, bancadas ou outros locais estratégicos.<br><br>Por ser fabricado em borracha, o Clip Vara protege melhor o equipamento, evitando riscos e oferecendo um apoio firme para uma ou mais varas.<br><br>Existem diversas formas de utilização: pode ser usado individualmente para manter a vara apoiada no chão, ou em pares, fixados lateralmente, para deixar a vara na posição horizontal. Também é uma excelente opção para embarcações, auxiliando no apoio da vara durante a navegação.<br><br>Clip Vara Chumbada Oficial: praticidade, proteção e organização para suas varas de pesca.<br></span></p>",
+    "images": [
+      "assets/img/shopify/clip_vara.jpg"
+    ],
+    "video": "assets/video/shopify/65504d14f2124362b073af64022aad77.mov",
+    "specs": {
+      "Material": "Borracha flexível de alta qualidade",
+      "Conteúdo": "1 Clip Vara e Fita Dupla Face 3M de alta aderência",
+      "Fixação": "Adesiva (Paredes, barcos, caiaques, bancadas)",
+      "Indicação": "Organização e apoio seguro para varas de pesca (evita riscos)"
+    },
+    "section": "Lançamentos"
+  },
+  {
+    "id": 8,
+    "slug": "adaptador-de-carretilha-kit-com-4",
+    "category": "Acessórios",
+    "name": "Adaptador de Carretilha Kit com 4",
+    "price": "R$ 19,00",
+    "img": "assets/img/shopify/suporte-para-carretilhas-capa.png",
+    "link": "https://chumbadas.com.br/products/kit-adaptador-de-carretilha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>Adaptador para Carretilha</p>\n<p><em><strong>Este produto NÃO acompanha o suporte para molinetes.</strong></em></p>\n<p>Transforme a organização das suas carretilhas com o Adaptador para Carretilha, fornecido em conjuntos de 4 unidades. Projetado para suportar até 3 carretilhas, este adaptador é o complemento perfeito para o nosso sucesso de vendas, o Suporte de Molinetes.</p>\n<p>Versatilidade e Compatibilidade</p>\n<p>Desenvolvido com a mesma qualidade e atenção aos detalhes do Suporte de Molinetes, o Adaptador para Carretilha permite o armazenamento de diversos modelos e tamanhos de carretilhas, apoiando nas manivelas de forma segura e prática. Os adaptadores podem ser facilmente alocados em diferentes compartimentos do Suporte de Molinetes, ajustando-se ao tamanho da carretilha que será armazenada.</p>\n<p>Montagem Personalizável</p>\n<p>A montagem é extremamente flexível, permitindo que o usuário misture molinetes e carretilhas no mesmo suporte, conforme sua preferência. A recomendação é utilizar 4 Adaptadores de Carretilhas no Suporte de Molinetes, com um espaço de dois vãos livres entre eles, criando assim o espaço ideal para armazenar 3 carretilhas de maneira organizada.</p>\n<p>Estilo e Organização</p>\n<p>Além de funcional, o Suporte de Carretilhas pode se tornar um item decorativo para sua casa, mantendo suas carretilhas organizadas e prontas para uso. O Adaptador para Carretilha é a solução perfeita para pescadores que valorizam a organização e a estética dos seus equipamentos.</p>\n<p>Invista na organização dos seus equipamentos de pesca com o Adaptador para Carretilha e mantenha tudo em ordem com estilo e praticidade!</p>\n<!----><!---->",
+    "images": [
+      "assets/img/shopify/suporte-para-carretilhas-capa.png",
+      "assets/img/shopify/suporte-para-carretilhas-01_8e0b4e41-c163-4be7-8c3d-d6720723e443.png",
+      "assets/img/shopify/suporte-para-carretilhas-02_045bc35a-4013-430e-9ec8-ea46e12db27b.png",
+      "assets/img/shopify/suporte-para-carretilhas-02_8eda4c7c-15c1-4ef1-9d93-2799f5843e64.png"
+    ],
+    "video": "assets/video/shopify/353a472db03342399ac28508784a2ccd.mp4",
+    "specs": {
+      "Material": "Polímero rígido resistente",
+      "Conteúdo": "Kit com 4 unidades (Permite organizar até 3 carretilhas no Suporte de Molinetes)",
+      "Função": "Adaptação de apoio de manivelas para armazenamento vertical no suporte padrão"
+    },
+    "section": "Acessórios"
+  },
+  {
+    "id": 11,
+    "slug": "bastao-luminoso",
+    "category": "Acessórios",
+    "name": "Bastão Luminoso",
+    "price": "R$ 1,50",
+    "img": "assets/img/shopify/bastao-luminoso-capa.png",
+    "link": "https://chumbadas.com.br/products/bastao-luminoso-star-light?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p><span>Bastão Luminoso para a utilização com o Star Light Sinker</span></p>\n<p><span>| 1 unidade |</span></p>",
+    "images": [
+      "assets/img/shopify/bastao-luminoso-capa.png",
+      "assets/img/shopify/bastao-luminoso-embalagem-2.png",
+      "assets/img/shopify/bastao-luminoso-embalagem_c2976b0e-ea1b-43ac-b8bc-e666795f6a92.png"
+    ],
+    "video": "",
+    "specs": {
+      "Conteúdo": "1 unidade por embalagem química",
+      "Indicação": "Pescaria noturna em conjunto com o Star Light Sinker (Chumbada Luminosa)",
+      "Duração": "Alta visibilidade por várias horas consecutivas"
+    },
+    "section": "Acessórios"
+  },
+  {
+    "id": 12,
+    "slug": "carretel-para-chicotes",
+    "category": "Acessórios",
+    "name": "Carretel para Chicotes",
+    "price": "R$ 1,50",
+    "img": "assets/img/shopify/capa.png",
+    "link": "https://chumbadas.com.br/products/carretel?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "swatches": [
+      [
+        "Laranja",
+        "#f97316"
+      ],
+      [
+        "Preto",
+        "#111827"
+      ],
+      [
+        "Amarelo",
+        "#facc15"
+      ],
+      [
+        "Azul",
+        "#2563eb"
+      ],
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Cinza",
+        "#94a3b8"
+      ],
+      [
+        "Rosa",
+        "#ec4899"
+      ],
+      [
+        "Roxo",
+        "#7c3aed"
+      ],
+      [
+        "Vermelho",
+        "#dc2626"
+      ],
+      [
+        "Cristal",
+        "rgba(255,255,255,0.4)"
+      ],
+      [
+        "Verde",
+        "#22c55e"
+      ]
+    ],
+    "description": "<span>Carretel para Chicotes de pesca, diâmetro da passagem onde o chicote será enrolado 5cm. O Carretel da Chumbada facilita o armazenamento e organização dos chicotes de pesca, </span><span>além da possibilidade de</span><span> levar o chicote montado com a pernada, pois o mesmo conta com apoios para os mesmos.</span><br><br><p>💡 <strong>Dica Chumbada:</strong> Leve também o <strong>Copo Organizador G</strong> para guardar e transportar seus carretéis com muito mais segurança e organização!</p>",
+    "images": [
+      "assets/img/shopify/capa.png",
+      "assets/img/shopify/frente-e-costas_f45626cb-89cf-4ede-bbfa-fd4ae0ce2838.jpg",
+      "assets/img/shopify/Carretel-preto-Frente_71df2736-149a-4fec-916d-263c57806e66.png",
+      "assets/img/shopify/Carretel-amarelo-frente_8238485b-7928-46cd-83ee-91b9d298dfe8.png",
+      "assets/img/shopify/Carretel-azul-frente_3356c20b-210c-4372-900d-ad9cae12258a.png",
+      "assets/img/shopify/Carretel-branco-frente_c85bca83-3a7e-412f-8a90-ce4a0626f402.png",
+      "assets/img/shopify/Carretel-laranja-Frente_e3d550e4-a8e3-434d-90b6-5dfd12b33264.png",
+      "assets/img/shopify/Carretel-rosaFrente_21042522-dfd5-4fc1-9689-c9b701c7e778.png",
+      "assets/img/shopify/Carretel-Roxo-Frente_db0c429e-5679-43bf-86b8-589e09afadc9.png",
+      "assets/img/shopify/Carretel-cinza-frente_83dff986-b950-4f79-b865-e5489394f494.png",
+      "assets/img/shopify/Carretel-vermelho-costas_42cae8eb-f803-41d4-a2c9-9aaa3067f555.png",
+      "assets/img/shopify/carretel-transparente-frente.jpg",
+      "assets/img/shopify/Carretel-verde-frente.png"
+    ],
+    "video": "assets/video/shopify/392e00e1e2d94279b68674b6aa8e6ce6.mp4",
+    "specs": {
+      "Comprimento/Medida": "5CM",
+      "Capacidade": "Até 5 Chicotes",
+      "Indicação": "Pesqueiro, lago e montagens diversas"
+    },
+    "section": "Acessórios"
+  },
+  {
+    "id": 14,
+    "slug": "cobreno-p-m-e-g",
+    "category": "Acessórios",
+    "name": "Cobrenó P, M e G",
+    "price": "R$ 4,62",
+    "img": "assets/img/shopify/pesca-4.jpg",
+    "link": "https://chumbadas.com.br/products/cobre-no-pacote-com-40?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "Pacote com 40",
+        ""
+      ]
+    ],
+    "swatches": [
+      [
+        "Amarelo",
+        "#facc15"
+      ],
+      [
+        "Azul Bic",
+        "#002fa7"
+      ],
+      [
+        "Azul Claro",
+        "#38bdf8"
+      ],
+      [
+        "Cinza",
+        "#94a3b8"
+      ],
+      [
+        "Laranja",
+        "#f97316"
+      ],
+      [
+        "Marrom",
+        "#78350f"
+      ],
+      [
+        "Preto",
+        "#111827"
+      ],
+      [
+        "Rosa",
+        "#ec4899"
+      ],
+      [
+        "Translúcido",
+        "rgba(255,255,255,0.4)"
+      ],
+      [
+        "Verde",
+        "#22c55e"
+      ],
+      [
+        "Vermelho",
+        "#dc2626"
+      ]
+    ],
+    "description": "<p><span>Cobre Nó - Com esse acessório, você irá proteger o nó, que faz parte da montagem do seu sistema de pesca. O Cobre Nó irá evitar que o anzol e sujeiras, que possam existir, se enrosquem nos nós existentes e possibilitará uma ponta maior do nó, uma vez que essa ponta será coberta.</span></p>\n<div id=\"gtx-trans\" style=\"position: absolute; left: -35px; top: -20px;\">\n<div class=\"gtx-trans-icon\"></div>\n</div>",
+    "images": [
+      "assets/img/shopify/pesca-4.jpg",
+      "assets/img/shopify/pesca-6.jpg",
+      "assets/img/shopify/CobreNoVarios.jpg",
+      "assets/img/shopify/TamanhosCobreNo.jpg",
+      "assets/img/shopify/CobreNoAmareloP.jpg",
+      "assets/img/shopify/CobreNoAzulBicP.jpg",
+      "assets/img/shopify/CobreNoAzulClaroP.jpg",
+      "assets/img/shopify/CobreNoBrancoP.jpg",
+      "assets/img/shopify/CobreNoCinzaP.jpg",
+      "assets/img/shopify/CobreNoLaranjaP.jpg",
+      "assets/img/shopify/CobreNoMarromP.jpg",
+      "assets/img/shopify/CobreNoRosaP.jpg",
+      "assets/img/shopify/CobreNoVerdeClaroP.jpg",
+      "assets/img/shopify/CobreNoVerdeEscuroP.jpg",
+      "assets/img/shopify/CobreNoVermelhoP.jpg",
+      "assets/img/shopify/CobreNoAmareloM.jpg",
+      "assets/img/shopify/CobreNoAzulBicM.jpg",
+      "assets/img/shopify/CobreNoAzulClaroM.jpg",
+      "assets/img/shopify/CobreNoBrancoM.jpg",
+      "assets/img/shopify/CobreNoCinzaM.jpg",
+      "assets/img/shopify/CobreNoLaranjaM.jpg",
+      "assets/img/shopify/CobreNoMarromM.jpg",
+      "assets/img/shopify/CobreNoRosaM.jpg",
+      "assets/img/shopify/CobreNoVerdeClaroM.jpg",
+      "assets/img/shopify/CobreNoVerdeEscuroM.jpg",
+      "assets/img/shopify/CobreNoVermelhoM.jpg",
+      "assets/img/shopify/CobreNoAmareloG.jpg",
+      "assets/img/shopify/CobreNoAzulBicG.jpg",
+      "assets/img/shopify/CobreNoAzulClaroG.jpg",
+      "assets/img/shopify/CobreNoBrancoG.jpg",
+      "assets/img/shopify/CobreNoCinzaG.jpg",
+      "assets/img/shopify/CobreNoLaranjaG.jpg",
+      "assets/img/shopify/CobreNoMarromG.jpg",
+      "assets/img/shopify/CobreNoRosaG.jpg",
+      "assets/img/shopify/CobreNoVerdeClaroG.jpg",
+      "assets/img/shopify/CobreNoVerdeEscuroG.jpg",
+      "assets/img/shopify/CobreNoVermelhoG.jpg",
+      "assets/img/shopify/CobreNoPretoP.jpg",
+      "assets/img/shopify/CobreNoPretoM.jpg",
+      "assets/img/shopify/CobreNoPretoG.jpg"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Borracha termoplástica flexível",
+      "Função": "Proteger o nó da montagem contra enroscos de anzol, acúmulo de sujeira e permitir ponta de nó maior",
+      "Indicação": "Conexões de snaps, destorcedores e líderes"
+    },
+    "section": "Acessórios"
+  },
+  {
+    "id": 17,
+    "slug": "elastricot-150m",
+    "category": "Acessórios",
+    "name": "Elastricot 150m",
+    "price": "R$ 2,30",
+    "img": "assets/img/shopify/elastricot-capa.png",
+    "link": "https://chumbadas.com.br/products/elastricot?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>O elastricot é uma linha elástica muito fina utilizada nas pescarias para fixar melhor a isca possibilitando melhores arremessos sem a perda das mesmas, a medida que o pescador enrola a linha elástica em torno da isca a mesma vai ficando amarrada sem a necessidade de um nó para finalizar.</p>",
+    "images": [
+      "assets/img/shopify/elastricot-capa.png",
+      "assets/img/shopify/elastricotextrafino.jpg",
+      "assets/img/shopify/elastricotfino.jpg"
+    ],
+    "video": "assets/video/shopify/a16a04dcae884b1aa6ce969b1d6a2f52.mp4",
+    "specs": {
+      "Material": "Elastômero elástico ultra fino de alta elasticidade",
+      "Metragem": "150 metros",
+      "Função": "Fixar e amarrar iscas moles (corrupto, camarão, lula) sem a necessidade de nós finais"
+    },
+    "section": "Acessórios"
+  },
+  {
+    "id": 18,
+    "slug": "elastricot-100m",
+    "category": "Acessórios",
+    "name": "Elastricot 100m",
+    "price": "R$ 1,99",
+    "img": "assets/img/shopify/elastricot-capa.png",
+    "link": "https://chumbadas.com.br/products/elastricot?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>O elastricot é uma linha elástica muito fina utilizada nas pescarias para fixar melhor a isca possibilitando melhores arremessos sem a perda das mesmas, a medida que o pescador enrola a linha elástica em torno da isca a mesma vai ficando amarrada sem a necessidade de um nó para finalizar.</p>",
+    "images": [
+      "assets/img/shopify/elastricot-capa.png",
+      "assets/img/shopify/elastricotextrafino.jpg",
+      "assets/img/shopify/elastricotfino.jpg"
+    ],
+    "video": "assets/video/shopify/a16a04dcae884b1aa6ce969b1d6a2f52.mp4",
+    "specs": {
+      "Material": "Elastômero elástico ultra fino de alta elasticidade",
+      "Metragem": "100 metros",
+      "Função": "Fixar e amarrar iscas moles (corrupto, camarão, lula) sem a necessidade de nós finais"
+    },
+    "section": "Acessórios"
+  },
+  {
+    "id": 22,
+    "slug": "iscador-preto-ou-cristal",
+    "category": "Acessórios",
+    "name": "Iscador Preto ou Cristal",
+    "price": "a partir de R$ 12,80",
+    "img": "assets/img/shopify/capa_80941e6b-848a-48e4-85b3-6c626c50a41c.png",
+    "link": "https://chumbadas.com.br/products/iscador?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "Preto",
+        "R$ 12,80"
+      ],
+      [
+        "Cristal",
+        "R$ 12,87"
+      ]
+    ],
+    "description": "<p><span>Esse iscador produzido e desenhado pela Chumbada, pode ser utilizado tanto para iscar corrupto, quanto para iscar camarão, de forma prática e profissional. </span></p>",
+    "images": [
+      "assets/img/shopify/capa_80941e6b-848a-48e4-85b3-6c626c50a41c.png",
+      "assets/img/shopify/iscador.png",
+      "assets/img/shopify/iscador-transparente.png"
+    ],
+    "video": "assets/video/shopify/df63e0ebdb784b49b1dd9898641b2663.mp4",
+    "specs": {
+      "Material": "Inox rígido de alta durabilidade e cabo anatômico",
+      "Aplicação": "Iscagem prática e profissional de corrupto e camarão",
+      "Indicação": "Pesca de praia e costão"
+    },
+    "section": "Acessórios"
+  },
+  {
+    "id": 23,
+    "slug": "iscador-agulhao",
+    "category": "Acessórios",
+    "name": "Iscador Agulhão",
+    "price": "R$ 20,00",
+    "img": "assets/img/shopify/Agulhao.png",
+    "link": "https://chumbadas.com.br/products/iscador-agulhao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>Iscador Agulhão – Iscador reforçado confeccionado em inox rígido, não enferruja e cabo termoplástico de engenharia, evitando que o cheiro da isca fique penetrado no mesmo, super resistente, a agulha não escapa do cabo.<br>Muito utilizado para iscar sardinhas inteiras, em pedaços ou mesmo outras iscas como por exemplo lulas. O Iscador Agulhão possui uma ponta altamente penetrante capaz de iscar sardinhas até mesmo congeladas.<br>Modo de usar – espete o Iscador Agulhão no rabo da sardinha e desça a ponta da agulha até a boca da mesma, engate o encastoado no rasgo existente da agulha e suba puxando o cabo de aço do encastoado até o final da sardinha.</p>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Agulhao.png?v=1701356600"
+    ],
+    "video": "assets/video/shopify/df63e0ebdb784b49b1dd9898641b2663.mp4",
+    "specs": {
+      "Material": "Inox rígido de alta rigidez (não entorta) e cabo termoplástico de engenharia",
+      "Uso": "Iscagem de sardinhas inteiras, em pedaços, ou lulas",
+      "Diferenciais": "Ponta altamente penetrante para iscas congeladas, agulha fixa de alta durabilidade"
+    },
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Agulhao.png?v=1701356600"
+  },
+  {
+    "id": 24,
+    "slug": "iscador-duplo-branco-ou-cristal",
+    "category": "Acessórios",
+    "name": "Iscador Duplo Branco ou Cristal",
+    "price": "R$ 14,70",
+    "img": "assets/img/shopify/iscador-duplo-capa.png",
+    "link": "https://chumbadas.com.br/products/iscador-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<span data-mce-fragment=\"1\">Esse Iscador Duplo produzido e desenhado pela Chumbada, pode ser utilizado tanto para iscar corrupto, quanto para iscar camarão, de forma prática e profissional. </span>",
+    "images": [
+      "assets/img/shopify/iscador-duplo-capa.png",
+      "assets/img/shopify/iscador-duplo.png",
+      "assets/img/shopify/iscador-duplo-foto-transparente.png"
+    ],
+    "video": "assets/video/shopify/0800a917dc464f3cad93e5d756271c2c.mp4",
+    "specs": {
+      "Material": "Inox rígido duplo e cabo anatômico",
+      "Aplicação": "Iscagem prática e profissional de corrupto e camarão",
+      "Diferencial": "Hastes duplas que auxiliam na sustentação da isca mole"
+    },
+    "section": "Acessórios"
+  },
+  {
+    "id": 25,
+    "slug": "carretel-retangular",
+    "category": "Acessórios",
+    "name": "Carretel Retangular",
+    "price": "a partir de R$ 0,49",
+    "img": "assets/img/shopify/carretel_retangular_1.jpg",
+    "link": "https://chumbadas.com.br/products/carretel-retangular?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "Preto",
+        "R$ 0,49"
+      ],
+      [
+        "Azul",
+        "R$ 0,65"
+      ]
+    ],
+    "description": "<p><span data-sheets-root=\"1\">Carretel Retangular<br><br>O Carretel Retangular é um organizador simples, prático e indispensável para o pescador que gosta de ter tudo pronto para a hora da pescaria. Ideal para chicotes de pesqueiro, lago e outras montagens, ele permite enrolar e armazenar o chicote já no tamanho ideal, deixando tudo muito mais organizado e fácil de usar.<br><br>Com ele, o pescador pode deixar a montagem completa preparada, com boia, anzol e até chumbada, quando necessário, facilitando muito na hora de trocar o conjunto e voltar rapidamente para a água. É a solução perfeita para quem busca agilidade, organização e praticidade na pescaria.<br><br>Compacto e eficiente, o Carretel Retangular ajuda a evitar embolos, protege a montagem e mantém seus chicotes sempre prontos para uso. Um acessório simples, mas que faz toda a diferença no dia a dia do pescador.<br><br>Também contamos com a versão em material Eco, produzida a partir do reaproveitamento de peças que apresentaram falhas no processo produtivo. Esse reaproveitamento não compromete a qualidade do produto, ajuda a reduzir desperdícios dentro da empresa e ainda proporciona um preço mais acessível, unindo economia, eficiência e aproveitamento inteligente de material.<br></span></p>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel_retangular_1.jpg?v=1773237833",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel_retangular.jpg?v=1773237833"
+    ],
+    "video": "assets/video/shopify/392e00e1e2d94279b68674b6aa8e6ce6.mp4",
+    "specs": {
+      "Capacidade": "Até 5 Chicotes",
+      "Indicação": "Pesqueiro, lago e montagens diversas"
+    },
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel_retangular_1.jpg?v=1773237833",
+    "colors": [
+      [
+        "Azul",
+        "#888888"
+      ],
+      [
+        "Preto",
+        "#888888"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "micro-snap-cobre-no-m",
+    "category": "Acessórios",
+    "name": "Micro Snap + Cobre Nó M",
+    "price": "R$ 4,36",
+    "img": "assets/img/shopify/snap-mais-cobre-no-capa.png",
+    "link": "https://chumbadas.com.br/products/kit-micro-snap-cobre-no-m-10-unidades-de-cada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "10 unidades de cada",
+        ""
+      ]
+    ],
+    "swatches": [
+      [
+        "Preto",
+        "#111827"
+      ],
+      [
+        "Amarelo",
+        "#facc15"
+      ],
+      [
+        "Azul Bic",
+        "#002fa7"
+      ],
+      [
+        "Azul Claro",
+        "#38bdf8"
+      ],
+      [
+        "Cinza",
+        "#94a3b8"
+      ],
+      [
+        "Laranja",
+        "#f97316"
+      ],
+      [
+        "Marrom",
+        "#78350f"
+      ],
+      [
+        "Rosa",
+        "#ec4899"
+      ],
+      [
+        "Translúcido",
+        "rgba(255,255,255,0.4)"
+      ],
+      [
+        "Verde",
+        "#22c55e"
+      ],
+      [
+        "Vermelho",
+        "#dc2626"
+      ]
+    ],
+    "description": "<p>Snap Chumbada e Cobre Nó a união perfeita entre praticidade e segurança, o Snap Chumbada possui uma ponta arredondada facilitando o movimento entre a Chumbada e o chicote de pesca.</p>",
+    "images": [
+      "assets/img/shopify/snap-mais-cobre-no-capa.png",
+      "assets/img/shopify/snap-mais-cobre-no-amarelo.png",
+      "assets/img/shopify/snap-mais-cobre-no-verde-escuro.png",
+      "assets/img/shopify/snap-mais-cobre-no-vermelho.png",
+      "assets/img/shopify/snap-mais-cobre-no-azul.png",
+      "assets/img/shopify/snap-mais-cobre-no-azul-claro.png",
+      "assets/img/shopify/snap-mais-cobre-no-cinza.png",
+      "assets/img/shopify/snap-mais-cobre-no-laranja.png",
+      "assets/img/shopify/snap-mais-cobre-no-marrom.png",
+      "assets/img/shopify/snap-mais-cobre-no-preto.png",
+      "assets/img/shopify/snap-mais-cobre-no-rosa.png",
+      "assets/img/shopify/snap-mais-cobre-no-translucido.png",
+      "assets/img/shopify/snap-mais-cobre-no-verde.png"
+    ],
+    "video": "assets/video/shopify/618e4f454f004aa5b055dc9ab0df67cf.mp4",
+    "specs": {
+      "Material": "Aço inoxidável de alta resistência e protetor Cobrenó termoplástico",
+      "Indicação": "Conexão rápida de chumbadas leves com proteção de nó",
+      "Função": "Troca de chumbada rápida e proteção contra algas e sujeiras"
+    },
+    "section": "Acessórios"
+  },
+  {
+    "id": 29,
+    "slug": "pipa-kit-com-2",
+    "category": "Acessórios",
+    "name": "Pipa Kit com 2",
+    "price": "R$ 6,00",
+    "img": "assets/img/shopify/pipa-capa-3.png",
+    "link": "https://chumbadas.com.br/products/pipa?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p><span>🎣NÃO PERCA MAIS O SEU MATERIAL NOS ENROSCOS🎣</span><br><span>-------------------------------------------------------------</span><br><span>▪️ Esse acessório da Chumbada Oficial, vai fazer seu equipamento flutuar sobre o fundo, não deixando a chumbada ir arrastando no fundo durante o recolhimento.</span><br><br><span>▪️ A Pipa funciona com a hidrodinâmica causada no recolhimento, fazendo assim a Pipa subir para a superfície.</span><br><br><span>▪️ \"Mas funciona mesmo?\" - SIMMM!! Testado e aprovado por grandes nomes da pesca, e também tem vídeo no YouTube da Pipa funcionando</span><br></p>",
+    "images": [
+      "assets/img/shopify/pipa-capa-3.png",
+      "assets/img/shopify/Pipa-2unidades_6594cf33-b024-4508-a790-f39667ed2a69.jpg"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Plástico leve de alta flutuabilidade e asas aerodinâmicas",
+      "Função": "Fazer a chumbada flutuar acima do fundo durante o recolhimento rápido, evitando enroscos",
+      "Conteúdo": "Kit com 2 pipas de flutuação"
+    },
+    "section": "Acessórios"
+  },
+  {
+    "id": 35,
+    "slug": "resgata-isca",
+    "category": "Acessórios",
+    "name": "Resgata Isca",
+    "price": "R$ 59,00",
+    "img": "assets/img/shopify/resgata-isca-capa.png",
+    "link": "https://chumbadas.com.br/products/resgata-isca?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "Novo Resgata Isca da Chumbada Oficial, item essencial em sua caixa de pesca, não perca mais iscas em enroscos como galhos e pedras.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Fácil manuseio, não há a necessidade de cortar a linha, basta passar a linha no olhal central e descer o Resgata Isca até onde a isca se encontra travada, as correntes irão se enrolar na garateia, puxe, firmemente, e pronto, sua isca estará pronta para outra.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Carretel de borracha ideal para deixar livre no piso do barco evitando batidas, 20 metros de corda altamente resistente.",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/resgata-isca-capa.png?v=1725025614",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/demostracao.png?v=1725025616",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/resgata-isca-foto-nova.png?v=1725025630"
+    ],
+    "video": "assets/video/shopify/d831c09b11ab4d2fbba842e2e78cf629.mp4",
+    "specs": {
+      "Material": "Borracha premium",
+      "Comprimento/Medida": "20 METROS"
+    },
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/resgata-isca-capa.png?v=1725025614"
+  },
+  {
+    "id": 37,
+    "slug": "saca-anzol-de-competicao-inox",
+    "category": "Acessórios",
+    "name": "Saca Anzol de Competição Inox",
+    "price": "R$ 24,00",
+    "img": "assets/img/shopify/Saca-Anzol-Competition-capa_f4985360-73f3-45d0-83ef-2f0eb7b5515f.png",
+    "link": "https://chumbadas.com.br/products/saca-anzol-de-competicao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "Nano",
+        "R$ 24,00"
+      ],
+      [
+        "P",
+        "R$ 24,00"
+      ],
+      [
+        "M",
+        "R$ 24,00"
+      ],
+      [
+        "G",
+        "R$ 24,00"
+      ]
+    ],
+    "description": "<p>O Saca Anzol de Competição é um acessório indispensável para pescadores que priorizam segurança, eficiência e praticidade em suas atividades. Fabricado com materiais de altíssima qualidade, ele combina a força e a resistência do termoplástico de engenharia com a durabilidade e a confiabilidade do aço inoxidável, resultando em um produto que não enferruja e não quebra, mesmo sob uso intenso em condições adversas.<br>Cada unidade é produzida com atenção máxima aos detalhes. A ponta do Saca Anzol de Competição é artesanalmente afiada e entortada, todos são testados individualmente garantindo que cada um funcione com a linha ideal mencionada garantindo precisão e eficácia ao retirar anzóis. O Saca Anzol de Competição é oferecido em 4 tamanhos NANO (ideal para linhas de até 0,23mm), MICRO (ideal para linhas de até 0,30 mm) PEQUENO (ideal para linhas de até 0,40mm) e MÉDIO para linhas de até 0,45mm). A escolha do tamanho do Saca Anzol está muito relacionado com o tipo de pescaria tamanho de peixe e tamanho de anzol. Fique atento se o anzol possui haste com olhal ( ideal usar tamanhos Pequeno e Médio ) ou haste com pata ( neste caso a atenção será somente para a espessura da linha e tamanho de anzol ).<br>Além disso, seu processo de fabricação exclusivo garante que o aço inox fique perfeitamente integrado ao termoplástico, eliminando qualquer risco de desprendimento durante o uso. Esse cuidado especial não apenas prolonga a vida útil do produto, mas também maximiza a segurança e a confiança do pescador.<br>O Saca Anzol de Competição é uma ferramenta projetada para situações onde o uso das mãos não é possível ou indicado. Seja por questões de segurança, como no caso de peixes com dentição perigosa, ou por necessidade, quando o anzol é profundamente engolido e não pode ser retirado de forma convencional, esta ferramenta se torna necessária. Em muitos casos, o uso de um acessório como este é o único meio de retirar o anzol sem causar maiores danos ao peixe ou ao pescador.<br>Compacto e leve, o Saca Anzol de Competição é fácil de transportar, podendo ser transportado junto com outros equipamentos de pesca sem ocupar espaço significativo. Essa portabilidade faz dele o companheiro ideal para todas as modalidades de pesca, com destaque especial para a pesca de praia , onde sua praticidade e funcionalidade se destacam ainda mais.<br>Mais do que apenas um acessório, o Saca Anzol de Competição é uma ferramenta de alta performance, pensada para atender às necessidades dos pescadores mais exigentes. Sua resistência, precisão e design ergonômico garantem uma experiência de uso excepcional. Seja você um iniciante ou um pescador experiente, ter um Saca Anzol de Competição em seu kit é sinônimo de estar preparado para qualquer situação, com segurança e eficiência ao alcance das mãos.</p>",
+    "images": [
+      "assets/img/shopify/Saca-Anzol-Competition-capa_f4985360-73f3-45d0-83ef-2f0eb7b5515f.png",
+      "assets/img/shopify/Saca-Anzol-Competition-Micro.png",
+      "assets/img/shopify/Saca-Anzol-Competition-P.png",
+      "assets/img/shopify/Saca-Anzol-Competition-Micro_bd410a0a-68e9-4443-b6cb-814dbcb9e503.png",
+      "assets/img/shopify/Saca-Anzol-Competition-P_0e8def94-84bc-4cac-be79-cf9ff411cfcb.png",
+      "assets/img/shopify/Saca-Anzol-Competition-M.png",
+      "assets/img/shopify/Saca-anzol-competicao-P-Cinza.png",
+      "assets/img/shopify/Saca-anzol-competicao-M-Preto.png",
+      "assets/img/shopify/Saca-anzol-competicao-nano-cristal.png",
+      "assets/img/shopify/saca-anzol-nano-embalagem.png"
+    ],
+    "video": "assets/video/shopify/c833d8cb432a4adf91c3016d36320c34.mp4",
+    "specs": {
+      "Material": "Aço Inox",
+      "Conteúdo": "1 Unidade"
+    },
+    "section": "Acessórios"
+  },
+  {
+    "id": 38,
+    "slug": "saca-anzol-desembuchador",
+    "category": "Acessórios",
+    "name": "Saca Anzol / Desembuchador",
+    "price": "a partir de R$ 8,40",
+    "img": "assets/img/shopify/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg",
+    "link": "https://chumbadas.com.br/products/saca-anzol-desembuchador?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "Unidade",
+        "R$ 8,40"
+      ],
+      [
+        "Kit P, M, G",
+        "R$ 20,16"
+      ]
+    ],
+    "description": "<p>Praticidade e Eficiência e ótimo Custo Benefício<br>O Saca Anzol é o acessório indispensável para pescadores que buscam praticidade e eficiência. Fabricado em plástico de alta qualidade, ele foi desenvolvido especialmente para facilitar a retirada do anzol quando o peixe engole profundamente, preservando a integridade do equipamento e, sempre que possível, do peixe.<br>Ideal para pescarias de praia , este desembuchador combina eficiência e custo-benefício , sendo leve, resistente e acessível. Disponível em três tamanhos – pequeno, médio e grande –, ele atende às necessidades de diferentes tipos de pesca e espécies de peixes. Para maior conveniência, oferecemos também o kit completo com os três tamanhos, garantindo que você esteja preparado para qualquer situação.<br>Escolha o Saca Anzol / Desembuchador e torne suas pescarias ainda mais produtivas e práticas!</p>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg?v=1701357730",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1125_-_foto_-_saca_anzol_1.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1125_-_foto_-_saca_anzol_2.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1125_-_foto_-_saca_anzol_3.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1125_-_foto_-_saca_anzol_4.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-G_f9098de5-7f97-4f05-87f2-6f1cb934b110.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-M_6afbf618-aaa7-4dee-85f1-537baecb4c1d.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-P_23371b65-d873-4c3b-89a6-8b0d25c12ef4.jpg?v=1764885170",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-Kit.jpg?v=1764885170"
+    ],
+    "video": "assets/video/shopify/c833d8cb432a4adf91c3016d36320c34.mp4",
+    "specs": {
+      "Material": "Plástico rígido de engenharia leve e resistente",
+      "Tamanhos": "Disponível em P, M, G ou no Kit Completo com os 3 tamanhos",
+      "Função": "Retirar anzóis profundos de forma rápida e segura sem machucar o peixe ou perder a linha"
+    },
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg?v=1701357730",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "Kit P/M/G"
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "agulha-de-tarrafa",
+    "category": "Acessórios",
+    "name": "Agulha de Tarrafa",
+    "price": "a partir de R$ 3,50",
+    "img": "assets/img/shopify/agulha-capa.png",
+    "link": "https://chumbadas.com.br/products/agulha-de-tarrafa?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "15cm",
+        "R$ 3,50"
+      ],
+      [
+        "20cm",
+        "R$ 3,85"
+      ]
+    ],
+    "swatches": [
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Azul",
+        "#2563eb"
+      ]
+    ],
+    "description": "A Agulha de Tarrafa da Chumbada Oficial foi meticulosamente projetada para atender às necessidades dos pescadores que valorizam a confecção artesanal de tarrafas de pesca. Com um material especial de alta qualidade, esta agulha representa uma revolução no processo de montagem, garantindo que o nylon fique firmemente enrolado sem o risco de escapar, mesmo quando exposto a movimentos bruscos ou quedas acidentais.<br><br>Construída com dedicação e conhecimento, a Agulha de Tarrafa da Chumbada Oficial se destaca por sua capacidade única de melhorar significativamente a eficiência e a confiabilidade da confecção de tarrafas. O material escolhido para sua fabricação oferece resistência excepcional, garantindo que a agulha suporte as demandas das atividades de pesca mais exigentes.<br><br>Uma das características mais notáveis dessa agulha é sua habilidade de manter o nylon de maneira segura e firme, simplificando o processo de montagem artesanal. Os pescadores não precisam mais se preocupar com desenrolamentos acidentais ou interrupções no processo de confecção. Com a Agulha de Tarrafa da Chumbada Oficial, a criação de tarrafas se torna uma atividade suave e sem complicações.<br><br>Ao escolher a Agulha de Tarrafa da Chumbada Oficial, você está optando por um produto que reflete o compromisso da marca em oferecer ferramentas de qualidade excepcional para os entusiastas da pesca artesanal. Prepare-se para aprimorar suas técnicas de confecção de tarrafas e desfrutar de uma experiência de pesca mais gratificante com esta agulha inovadora e confiável.",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/agulha-capa.png?v=1725023376",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/capa.png?v=1725023380",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/15-20ccm.png?v=1725023380",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/15cm.png?v=1725023380",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/20cm.png?v=1725023380"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Plástico especial flexível de alta resistência",
+      "Diferencial": "Desenho que segura o nylon firmemente sem escorregar em movimentos bruscos",
+      "Indicação": "Confecção e reparos artesanais de tarrafas e redes de pesca"
+    },
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/agulha-capa.png?v=1725023376"
+  },
+  {
+    "id": 50,
+    "slug": "alicate-de-pesca",
+    "category": "Acessórios",
+    "name": "Alicate de Pesca",
+    "price": "a partir de R$ 6,90",
+    "img": "assets/img/shopify/alicate-capa.png",
+    "link": "https://chumbadas.com.br/products/alicate-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "Plástico Cores",
+        "R$ 6,90"
+      ],
+      [
+        "Plástico Glow",
+        "R$ 7,90"
+      ]
+    ],
+    "swatches": [
+      [
+        "Amarelo Neon",
+        ""
+      ],
+      [
+        "Glow (brilha no escuro)",
+        ""
+      ],
+      [
+        "Laranja",
+        ""
+      ],
+      [
+        "Preto",
+        ""
+      ]
+    ],
+    "description": "<p>Conheça o Alicate de Pesca da Chumbada Oficial!<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Amantes da pesca, a espera acabou! Apresentamos a vocês o nosso lançamento incrível: o Alicate de Pesca Chumbada. Prepare-se para uma experiência de pesca mais segura e eficiente do que nunca!<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Detalhes que Fazem a Diferença: <br data-mce-fragment=\"1\">Feito com um material especial e resistente, o alicate é sua ferramenta confiável para lidar com iscas que possuem garateias. Chega de arriscar suas mãos! Com o nosso alicate, você estará sempre no controle, mesmo quando o peixe decidir dar uma balançada no momento de segura-lo ainda com isca.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Design Inteligente e Eficaz:<br data-mce-fragment=\"1\">O alicate possui um design inteligente, permitindo que você remova facilmente as garateias da isca de forma precisa e sem machucar o peixe. Sua cor laranja vibrante não é apenas estilosa, mas também garante visibilidade mesmo nas condições mais desafiadoras à beira da água.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Não Deixe a Emoção se Transformar em Risco:<br data-mce-fragment=\"1\">Nós entendemos que a emoção de pegar um peixe pode ser irresistível, mas sua segurança é primordial. Com o nosso alicate, você estará protegido contra acidentes desagradáveis com garateias pontiagudas. É hora de aproveitar cada captura sem preocupações!<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Não deixe esse lançamento escapar das suas mãos. Eleve suas aventuras de pesca a um novo patamar com o Alicate de Pesca Chumbada Oficial. <br data-mce-fragment=\"1\"></p>",
+    "images": [
+      "assets/img/shopify/alicate-capa.png",
+      "assets/img/shopify/alicate-preto_7d4da7e6-4416-46b1-9694-3074e87501cc.png",
+      "assets/img/shopify/alicate2.png",
+      "assets/img/shopify/alicate.jpg",
+      "assets/img/shopify/alicate_glow.jpg"
+    ],
+    "video": "assets/video/shopify/39b1ccbd5af54293baa9aa65e95b4ef3.mp4",
+    "specs": {
+      "Material": "Liga metálica de alta resistência revestida e pegada plástica",
+      "Cor": "Laranja vibrante (Fácil localização à beira d'água)",
+      "Função": "Remoção segura de garateias e anzóis de iscas artificiais ou naturais, protegendo as mãos"
+    },
+    "section": "Acessórios"
+  },
+  {
+    "id": 55,
+    "slug": "ima-fix",
+    "category": "Acessórios",
+    "name": "Imã Fix",
+    "price": "R$ 41,40",
+    "img": "assets/img/shopify/ima-fix-01.jpg",
+    "link": "https://chumbadas.com.br/products/ima-fix?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>O Imã Fix é o acessório indispensável para pescadores que buscam praticidade e segurança ao preparar seus equipamentos. Fabricado com borracha de alta qualidade e equipado com dois ímãs extremamente fortes, ele se adere firmemente a qualquer superfície ferrosa, permitindo que você apoie suas varas e acessórios de pesca sem preocupações.</p>\n<p>Sua borracha macia e resistente protege a lataria do carro contra arranhões e danos, garantindo um uso seguro e confiável. Compacto e portátil, o Imã Fix pode ser guardado facilmente em qualquer parte do carro, pronto para ser utilizado assim que você chegar ao seu destino de pesca. Basta fixá-lo na lataria e apoiar as varas inclinadas sem o risco de escorregarem ou caírem, graças à força dos ímãs.</p>\n<p>Seja na praia, no rio, no pesqueiro ou em qualquer outro local, o Imã Fix é a solução prática e eficiente para organizar seus equipamentos. Ideal para pescadores que valorizam qualidade, segurança e conveniência.</p>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-01.jpg?v=1732619441",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-03.jpg?v=1732619441",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-02.jpg?v=1732619442"
+    ],
+    "video": "assets/video/shopify/642cf361fcbd4a02b6534dabee598d73.mp4",
+    "specs": {
+      "Material": "Borracha macia protetora contra riscos na lataria e 2 superímãs de neodímio",
+      "Função": "Fixação magnética instantânea na lataria do veículo para apoiar varas de pesca inclinadas",
+      "Diferencial": "Protege a pintura do veículo e evita quedas ou danos nas varas"
+    },
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-01.jpg?v=1732619441"
+  },
+  {
+    "id": 56,
+    "slug": "amarra-vara-velcro",
+    "category": "Acessórios",
+    "name": "Amarra Vara Velcro",
+    "price": "R$ 17,90",
+    "img": "assets/img/shopify/capa-apoio-de-vara-velcro.jpg",
+    "link": "https://chumbadas.com.br/products/amarra-vara-velcro?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>Amarra Vara Velcro - Versatilidade e Praticidade na Sua Pescaria</p><br>\n<p>O Amarra Vara Velcro é um acessório indispensável para qualquer pescador que preza pela organização e praticidade. Fabricado em borracha de alta qualidade, o produto é extremamente versátil e durável, proporcionando diferentes formas de utilização tanto durante a pescaria quanto no transporte dos equipamentos.</p><br>\n<p>Com um design inovador, o Amarra Vara Velcro conta com uma faixa de velcro de 50 cm, que facilita a amarração das varas ou do suporte em diversos locais, como guarda-corpos, decks de pesca com gradil, cadeiras e até mesmo no bagageiro de veículos. Isso permite que você transporte as varas com carretilhas já montadas e prontas para o uso, garantindo agilidade e segurança no manuseio dos equipamentos.</p><br>\n<p>Além de ser um suporte prático para varas, o produto também serve como um eficiente amarrador, garantindo que as varas fiquem firmes e bem posicionadas, mesmo em locais de difícil fixação. Sua estrutura de borracha proporciona alta aderência e flexibilidade, adaptando-se perfeitamente a diferentes diâmetros de varas e locais de apoio, evitando deslizamentos e mantendo as varas seguras e estáveis durante toda a pescaria.</p><br>\n<p>Com a adição do velcro de 50 cm, o Amarra Vara Velcro é capaz de oferecer uma fixação ainda mais segura e eficiente, possibilitando amarrações rápidas e descomplicadas em praticamente qualquer superfície. Seja para apoiar as varas durante o uso ou para amarrá-las com segurança no transporte, o Amarra Vara Velcro é a solução definitiva para organização e funcionalidade no seu dia a dia de pesca.</p>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa-apoio-de-vara-velcro.jpg?v=1730979392",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/02_53040a0a-365d-46ad-abda-3c6ea1315569.jpg?v=1730979392",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/03.jpg?v=1730979392"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Velcro ultra resistente",
+      "Comprimento/Medida": "50 CM"
+    },
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa-apoio-de-vara-velcro.jpg?v=1730979392"
+  },
+  {
+    "id": 60,
+    "slug": "adaptador-da-secretaria",
+    "category": "Acessórios",
+    "name": "Adaptador da Secretária",
+    "price": "R$ 19,00",
+    "img": "assets/img/shopify/adaptador-secretaria-novo.jpg",
+    "link": "https://chumbadas.com.br/products/adaptador-da-secretaria?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "swatches": [
+      [
+        "Azul",
+        "#2563eb"
+      ],
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Cinza",
+        "#94a3b8"
+      ],
+      [
+        "Preto",
+        "#111827"
+      ]
+    ],
+    "description": "<p>Com esse adaptador, o pescador consegue unir dois acessórios essenciais em uma única montagem: a Secretária de Pesca e a parte superior do <a href=\"#/produto/varal-chumbada\">Varal</a>.</p><p>Na prática, ele permite usar a Secretária junto com o Varal, deixando tudo mais organizado na beira da praia e ainda servindo como apoio para manter a vara inclinada.</p><p>Mais praticidade, mais organização e mais resistência para sua pescaria.</p><p>O Adaptador para Secretária e Varal da Chumbada Oficial ficou ainda melhor.</p><p>Agora ele recebeu reforço em dois pontos importantes: na região de apoio da Secretária e também na lingueta onde o <a href=\"#/produto/varal-chumbada\">Varal</a> é fixado, trazendo mais resistência, firmeza e segurança no uso.</p><p>Melhoria contínua é isso: ouvir, testar, reforçar e evoluir.</p>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-branco.jpg?v=1774009906",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-preto.jpg?v=1774009906",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Adaptador-secretaria-cinza-05.jpg?v=1774009906"
+    ],
+    "video": "",
+    "specs": {
+      "Aplicação": "Pesca esportiva e de competição"
+    },
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-branco.jpg?v=1774009906",
+    "colors": [
+      [
+        "Azul",
+        "#888888"
+      ],
+      [
+        "Branco",
+        "#888888"
+      ],
+      [
+        "Cinza",
+        "#888888"
+      ],
+      [
+        "Preto",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-branco.jpg?v=1774009906",
+      "Cinza": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Adaptador-secretaria-cinza-05.jpg?v=1774009906",
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-preto.jpg?v=1774009906"
+    }
+  },
+  {
+    "id": 76,
+    "slug": "tela-de-espremer-iscas",
+    "category": "Acessórios",
+    "name": "Tela de Espremer Iscas",
+    "price": "R$ 4,50",
+    "img": "assets/images/tela-vermelha-a2d4f4df.jpg",
+    "link": "https://chumbadas.com.br/products/tela-de-espremer-isca-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "swatches": [
+      [
+        "Preta",
+        "#111827"
+      ],
+      [
+        "Laranja",
+        "#f97316"
+      ],
+      [
+        "Azul",
+        "#2563eb"
+      ],
+      [
+        "Amarela",
+        "#facc15"
+      ],
+      [
+        "Verde",
+        "#22c55e"
+      ],
+      [
+        "Vermelha",
+        "#dc2626"
+      ]
+    ],
+    "description": "O Tela de Espremer Iscas da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
+    "images": [
+      "assets/images/tela-vermelha-a2d4f4df.jpg"
+    ],
+    "video": "assets/video/shopify/9a7fd88adf6f474e92746620abdf847c.mp4",
+    "specs": {
+      "Material": "Tela plástica de alta densidade e resistência",
+      "Função": "Escoamento de líquidos e prensagem rápida de iscas moídas",
+      "Indicação": "Preparo de iscas e engodos para competições ou pesca de praia"
+    },
+    "section": "Acessórios"
+  },
+  {
+    "id": 34,
+    "slug": "regua-cantoneira",
+    "category": "Acessórios",
+    "name": "Régua Cantoneira",
+    "price": "a partir de R$ 16,79",
+    "img": "assets/img/shopify/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png",
+    "link": "https://chumbadas.com.br/products/regua-cantoneira?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "50cm",
+        "R$ 16,79"
+      ],
+      [
+        "100cm",
+        "R$ 24,75"
+      ]
+    ],
+    "description": "Régua a prova d'agua com 15cm de largura, as medidas são extremamente precisas e aferidas individualmente.<br data-mce-fragment=\"1\">Cantoneira desenvolvida especialmente para essa finalidade, resistente, cantos arredondados e espessuras com raio para não ter problema no transporte, cola especial, a mesma não desgruda nem em contato com a água.",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png?v=1725025582",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-aberta.png?v=1725025585",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-50cm.png?v=1725025585",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-100cm.png?v=1725025585",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_preta.jpg?v=1773072063",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_azul.jpg?v=1773072064"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Cantoneira plástica especial resistente e adesivo de alta aderência",
+      "Dimensões": "15cm de largura (Medidas extremamente precisas e aferidas individualmente)",
+      "Diferenciais": "Cantos arredondados, raio antiqueda para transporte e cola à prova d'água"
+    },
+    "section": "Acessórios",
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png?v=1725025582",
+    "colors": [
+      [
+        "Preto",
+        "#888888"
+      ],
+      [
+        "Azul",
+        "#888888"
+      ]
+    ],
+    "colorImages": {
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_preta.jpg?v=1773072063",
+      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_azul.jpg?v=1773072064"
+    }
+  },
+  {
+    "id": 65,
+    "slug": "trava-linha",
+    "category": "Acessórios",
+    "name": "Trava Linha",
+    "price": "R$ 4,20",
+    "img": "assets/img/shopify/pesca-12.jpg",
+    "link": "https://chumbadas.com.br/products/trava-linha-cano-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>Linha de Multifilamento 4X – 300 metros | Chumbada Oficial</p>\n<p>Chegou a linha que fala a verdade.<br>A Verax 4X 300 m da Chumbada Oficial não é só mais uma multifilamento — é um novo padrão no mercado.</p>\n<p>Desenvolvida com alta tecnologia e testada por mais de 1 ano em condições reais de pesca, essa linha entrega o que promete: resistência de verdade e especificações honestas.</p>\n<p>O grande diferencial está no nome Verax — do latim, verdade, sinceridade.<br>Enquanto muitas marcas “maquiam” diâmetro e resistência, a Chumbada Oficial fez o caminho mais difícil: mostrar a realidade.</p>\n<p>👉 Espessura real<br>👉 Capacidade de tração real<br>👉 Sem exagero, sem enganação</p>\n<p>Compare com qualquer outra linha do mercado.<br>Meça. Teste. Coloque lado a lado.<br>Você vai perceber: a Verax entrega exatamente o que está na embalagem.</p>\n<p>Além da transparência, você leva uma linha:<br>✔ 4 fios de alta resistência<br>✔ Excelente sensibilidade<br>✔ Ótima performance de arremesso<br>✔ Baixa memória<br>✔ Alta durabilidade</p>\n<p>Se você busca performance, pode até encontrar várias opções.<br>Mas se você busca performance com verdade, a escolha é uma só.</p>\n<p>Chumbada Oficial – aqui a pesca é levada a sério. 🎣</p>\n<p>#ChumbadaOficial #LinhaVerax #Multifilamento #PescaEsportiva #Ajing #Ultralight #PescaDePraia #PescaBrasil #FishingLife #GearDePesca #PesqueESolte</p>",
+    "images": [
+      "assets/img/shopify/pesca-12.jpg",
+      "assets/img/shopify/pesca-11.jpg",
+      "assets/img/shopify/pesca-59.jpg",
+      "assets/img/shopify/pesca-62.jpg",
+      "assets/img/shopify/1_7e7f6ca2-e9fa-4fd2-a353-bd87ca20f9f0.jpg",
+      "assets/img/shopify/1_2.jpg",
+      "assets/img/shopify/1_5.jpg",
+      "assets/img/shopify/2_b6ee5156-7837-4a57-81f6-6099366220f0.jpg",
+      "assets/img/shopify/3.jpg",
+      "assets/img/shopify/3_5.jpg",
+      "assets/img/shopify/4_5.jpg",
+      "assets/img/shopify/5.jpg",
+      "assets/img/shopify/6_745b4c8c-ff0f-4ba3-9ce3-1fd17fdc3882.jpg",
+      "assets/img/shopify/8.jpg",
+      "assets/img/shopify/9.jpg",
+      "assets/img/shopify/10.jpg",
+      "assets/img/shopify/12.jpg",
+      "assets/img/shopify/linhaajing.jpg",
+      "assets/img/shopify/costas_b4940be1-8a74-414c-9903-c3be25aa3daf.jpg"
+    ],
+    "video": "",
+    "specs": {
+      "Comprimento/Medida": "300 METROS",
+      "Dimensões": "4X300M"
+    },
+    "section": "Acessórios"
   },
   {
     "id": 36,
@@ -3415,979 +4364,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/costas.png?v=1724697597",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/lateral-02.jpg?v=1724697596",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/lateral-01.jpg?v=1724697597"
-    ]
-  },
-  {
-    "name": "Camiseta de Pesca Masculina",
-    "desc": "<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tabela-de-tamanhos-camiseta.png?v=1732043769\">Camisa 100% poliester, com fator de proteção solar 35. Estampa em impressão digital.</p>",
-    "specs": {},
-    "price": "95.00",
-    "category": "Vestuário",
-    "section": "Vestuário",
-    "colors": [],
-    "colorImages": {},
-    "sizes": [
-      "G",
-      "XG",
-      "XXG",
-      "EXG"
     ],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa.png?v=1784562308",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa.png?v=1784562308",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa-capa.png?v=1725024037",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/camisa-nova.jpg?v=1725024039"
-    ]
-  },
-  {
-    "id": 8,
-    "slug": "adaptador-de-carretilha-kit-com-4",
-    "category": "Acessórios",
-    "name": "Adaptador de Carretilha Kit com 4",
-    "price": "R$ 19,00",
-    "img": "assets/img/shopify/suporte-para-carretilhas-capa.png",
-    "link": "https://chumbadas.com.br/products/kit-adaptador-de-carretilha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Adaptador para Carretilha</p>\n<p><em><strong>Este produto NÃO acompanha o suporte para molinetes.</strong></em></p>\n<p>Transforme a organização das suas carretilhas com o Adaptador para Carretilha, fornecido em conjuntos de 4 unidades. Projetado para suportar até 3 carretilhas, este adaptador é o complemento perfeito para o nosso sucesso de vendas, o Suporte de Molinetes.</p>\n<p>Versatilidade e Compatibilidade</p>\n<p>Desenvolvido com a mesma qualidade e atenção aos detalhes do Suporte de Molinetes, o Adaptador para Carretilha permite o armazenamento de diversos modelos e tamanhos de carretilhas, apoiando nas manivelas de forma segura e prática. Os adaptadores podem ser facilmente alocados em diferentes compartimentos do Suporte de Molinetes, ajustando-se ao tamanho da carretilha que será armazenada.</p>\n<p>Montagem Personalizável</p>\n<p>A montagem é extremamente flexível, permitindo que o usuário misture molinetes e carretilhas no mesmo suporte, conforme sua preferência. A recomendação é utilizar 4 Adaptadores de Carretilhas no Suporte de Molinetes, com um espaço de dois vãos livres entre eles, criando assim o espaço ideal para armazenar 3 carretilhas de maneira organizada.</p>\n<p>Estilo e Organização</p>\n<p>Além de funcional, o Suporte de Carretilhas pode se tornar um item decorativo para sua casa, mantendo suas carretilhas organizadas e prontas para uso. O Adaptador para Carretilha é a solução perfeita para pescadores que valorizam a organização e a estética dos seus equipamentos.</p>\n<p>Invista na organização dos seus equipamentos de pesca com o Adaptador para Carretilha e mantenha tudo em ordem com estilo e praticidade!</p>\n<!----><!---->",
-    "images": [
-      "assets/img/shopify/suporte-para-carretilhas-capa.png",
-      "assets/img/shopify/suporte-para-carretilhas-01_8e0b4e41-c163-4be7-8c3d-d6720723e443.png",
-      "assets/img/shopify/suporte-para-carretilhas-02_045bc35a-4013-430e-9ec8-ea46e12db27b.png",
-      "assets/img/shopify/suporte-para-carretilhas-02_8eda4c7c-15c1-4ef1-9d93-2799f5843e64.png"
-    ],
-    "video": "assets/video/shopify/353a472db03342399ac28508784a2ccd.mp4",
-    "specs": {
-      "Material": "Polímero rígido resistente",
-      "Conteúdo": "Kit com 4 unidades (Permite organizar até 3 carretilhas no Suporte de Molinetes)",
-      "Função": "Adaptação de apoio de manivelas para armazenamento vertical no suporte padrão"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 11,
-    "slug": "bastao-luminoso",
-    "category": "Acessórios",
-    "name": "Bastão Luminoso",
-    "price": "R$ 1,50",
-    "img": "assets/img/shopify/bastao-luminoso-capa.png",
-    "link": "https://chumbadas.com.br/products/bastao-luminoso-star-light?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p><span>Bastão Luminoso para a utilização com o Star Light Sinker</span></p>\n<p><span>| 1 unidade |</span></p>",
-    "images": [
-      "assets/img/shopify/bastao-luminoso-capa.png",
-      "assets/img/shopify/bastao-luminoso-embalagem-2.png",
-      "assets/img/shopify/bastao-luminoso-embalagem_c2976b0e-ea1b-43ac-b8bc-e666795f6a92.png"
-    ],
-    "video": "",
-    "specs": {
-      "Conteúdo": "1 unidade por embalagem química",
-      "Indicação": "Pescaria noturna em conjunto com o Star Light Sinker (Chumbada Luminosa)",
-      "Duração": "Alta visibilidade por várias horas consecutivas"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 12,
-    "slug": "carretel-para-chicotes",
-    "category": "Acessórios",
-    "name": "Carretel para Chicotes",
-    "price": "R$ 1,50",
-    "img": "assets/img/shopify/capa.png",
-    "link": "https://chumbadas.com.br/products/carretel?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "swatches": [
-      [
-        "Laranja",
-        "#f97316"
-      ],
-      [
-        "Preto",
-        "#111827"
-      ],
-      [
-        "Amarelo",
-        "#facc15"
-      ],
-      [
-        "Azul",
-        "#2563eb"
-      ],
-      [
-        "Branco",
-        "#ffffff"
-      ],
-      [
-        "Cinza",
-        "#94a3b8"
-      ],
-      [
-        "Rosa",
-        "#ec4899"
-      ],
-      [
-        "Roxo",
-        "#7c3aed"
-      ],
-      [
-        "Vermelho",
-        "#dc2626"
-      ],
-      [
-        "Cristal",
-        "rgba(255,255,255,0.4)"
-      ],
-      [
-        "Verde",
-        "#22c55e"
-      ]
-    ],
-    "description": "<span>Carretel para Chicotes de pesca, diâmetro da passagem onde o chicote será enrolado 5cm. O Carretel da Chumbada facilita o armazenamento e organização dos chicotes de pesca, </span><span>além da possibilidade de</span><span> levar o chicote montado com a pernada, pois o mesmo conta com apoios para os mesmos.</span><br><br><p>💡 <strong>Dica Chumbada:</strong> Leve também o <strong>Copo Organizador G</strong> para guardar e transportar seus carretéis com muito mais segurança e organização!</p>",
-    "images": [
-      "assets/img/shopify/capa.png",
-      "assets/img/shopify/frente-e-costas_f45626cb-89cf-4ede-bbfa-fd4ae0ce2838.jpg",
-      "assets/img/shopify/Carretel-preto-Frente_71df2736-149a-4fec-916d-263c57806e66.png",
-      "assets/img/shopify/Carretel-amarelo-frente_8238485b-7928-46cd-83ee-91b9d298dfe8.png",
-      "assets/img/shopify/Carretel-azul-frente_3356c20b-210c-4372-900d-ad9cae12258a.png",
-      "assets/img/shopify/Carretel-branco-frente_c85bca83-3a7e-412f-8a90-ce4a0626f402.png",
-      "assets/img/shopify/Carretel-laranja-Frente_e3d550e4-a8e3-434d-90b6-5dfd12b33264.png",
-      "assets/img/shopify/Carretel-rosaFrente_21042522-dfd5-4fc1-9689-c9b701c7e778.png",
-      "assets/img/shopify/Carretel-Roxo-Frente_db0c429e-5679-43bf-86b8-589e09afadc9.png",
-      "assets/img/shopify/Carretel-cinza-frente_83dff986-b950-4f79-b865-e5489394f494.png",
-      "assets/img/shopify/Carretel-vermelho-costas_42cae8eb-f803-41d4-a2c9-9aaa3067f555.png",
-      "assets/img/shopify/carretel-transparente-frente.jpg",
-      "assets/img/shopify/Carretel-verde-frente.png"
-    ],
-    "video": "assets/video/shopify/392e00e1e2d94279b68674b6aa8e6ce6.mp4",
-    "specs": {
-      "Comprimento/Medida": "5CM",
-      "Capacidade": "Até 5 Chicotes",
-      "Indicação": "Pesqueiro, lago e montagens diversas"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 14,
-    "slug": "cobreno-p-m-e-g",
-    "category": "Acessórios",
-    "name": "Cobrenó P, M e G",
-    "price": "R$ 4,62",
-    "img": "assets/img/shopify/pesca-4.jpg",
-    "link": "https://chumbadas.com.br/products/cobre-no-pacote-com-40?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "Pacote com 40",
-        ""
-      ]
-    ],
-    "swatches": [
-      [
-        "Amarelo",
-        "#facc15"
-      ],
-      [
-        "Azul Bic",
-        "#002fa7"
-      ],
-      [
-        "Azul Claro",
-        "#38bdf8"
-      ],
-      [
-        "Cinza",
-        "#94a3b8"
-      ],
-      [
-        "Laranja",
-        "#f97316"
-      ],
-      [
-        "Marrom",
-        "#78350f"
-      ],
-      [
-        "Preto",
-        "#111827"
-      ],
-      [
-        "Rosa",
-        "#ec4899"
-      ],
-      [
-        "Translúcido",
-        "rgba(255,255,255,0.4)"
-      ],
-      [
-        "Verde",
-        "#22c55e"
-      ],
-      [
-        "Vermelho",
-        "#dc2626"
-      ]
-    ],
-    "description": "<p><span>Cobre Nó - Com esse acessório, você irá proteger o nó, que faz parte da montagem do seu sistema de pesca. O Cobre Nó irá evitar que o anzol e sujeiras, que possam existir, se enrosquem nos nós existentes e possibilitará uma ponta maior do nó, uma vez que essa ponta será coberta.</span></p>\n<div id=\"gtx-trans\" style=\"position: absolute; left: -35px; top: -20px;\">\n<div class=\"gtx-trans-icon\"></div>\n</div>",
-    "images": [
-      "assets/img/shopify/pesca-4.jpg",
-      "assets/img/shopify/pesca-6.jpg",
-      "assets/img/shopify/CobreNoVarios.jpg",
-      "assets/img/shopify/TamanhosCobreNo.jpg",
-      "assets/img/shopify/CobreNoAmareloP.jpg",
-      "assets/img/shopify/CobreNoAzulBicP.jpg",
-      "assets/img/shopify/CobreNoAzulClaroP.jpg",
-      "assets/img/shopify/CobreNoBrancoP.jpg",
-      "assets/img/shopify/CobreNoCinzaP.jpg",
-      "assets/img/shopify/CobreNoLaranjaP.jpg",
-      "assets/img/shopify/CobreNoMarromP.jpg",
-      "assets/img/shopify/CobreNoRosaP.jpg",
-      "assets/img/shopify/CobreNoVerdeClaroP.jpg",
-      "assets/img/shopify/CobreNoVerdeEscuroP.jpg",
-      "assets/img/shopify/CobreNoVermelhoP.jpg",
-      "assets/img/shopify/CobreNoAmareloM.jpg",
-      "assets/img/shopify/CobreNoAzulBicM.jpg",
-      "assets/img/shopify/CobreNoAzulClaroM.jpg",
-      "assets/img/shopify/CobreNoBrancoM.jpg",
-      "assets/img/shopify/CobreNoCinzaM.jpg",
-      "assets/img/shopify/CobreNoLaranjaM.jpg",
-      "assets/img/shopify/CobreNoMarromM.jpg",
-      "assets/img/shopify/CobreNoRosaM.jpg",
-      "assets/img/shopify/CobreNoVerdeClaroM.jpg",
-      "assets/img/shopify/CobreNoVerdeEscuroM.jpg",
-      "assets/img/shopify/CobreNoVermelhoM.jpg",
-      "assets/img/shopify/CobreNoAmareloG.jpg",
-      "assets/img/shopify/CobreNoAzulBicG.jpg",
-      "assets/img/shopify/CobreNoAzulClaroG.jpg",
-      "assets/img/shopify/CobreNoBrancoG.jpg",
-      "assets/img/shopify/CobreNoCinzaG.jpg",
-      "assets/img/shopify/CobreNoLaranjaG.jpg",
-      "assets/img/shopify/CobreNoMarromG.jpg",
-      "assets/img/shopify/CobreNoRosaG.jpg",
-      "assets/img/shopify/CobreNoVerdeClaroG.jpg",
-      "assets/img/shopify/CobreNoVerdeEscuroG.jpg",
-      "assets/img/shopify/CobreNoVermelhoG.jpg",
-      "assets/img/shopify/CobreNoPretoP.jpg",
-      "assets/img/shopify/CobreNoPretoM.jpg",
-      "assets/img/shopify/CobreNoPretoG.jpg"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Borracha termoplástica flexível",
-      "Função": "Proteger o nó da montagem contra enroscos de anzol, acúmulo de sujeira e permitir ponta de nó maior",
-      "Indicação": "Conexões de snaps, destorcedores e líderes"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 17,
-    "slug": "elastricot-150m",
-    "category": "Acessórios",
-    "name": "Elastricot 150m",
-    "price": "R$ 2,30",
-    "img": "assets/img/shopify/elastricot-capa.png",
-    "link": "https://chumbadas.com.br/products/elastricot?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>O elastricot é uma linha elástica muito fina utilizada nas pescarias para fixar melhor a isca possibilitando melhores arremessos sem a perda das mesmas, a medida que o pescador enrola a linha elástica em torno da isca a mesma vai ficando amarrada sem a necessidade de um nó para finalizar.</p>",
-    "images": [
-      "assets/img/shopify/elastricot-capa.png",
-      "assets/img/shopify/elastricotextrafino.jpg",
-      "assets/img/shopify/elastricotfino.jpg"
-    ],
-    "video": "assets/video/shopify/a16a04dcae884b1aa6ce969b1d6a2f52.mp4",
-    "specs": {
-      "Material": "Elastômero elástico ultra fino de alta elasticidade",
-      "Metragem": "150 metros",
-      "Função": "Fixar e amarrar iscas moles (corrupto, camarão, lula) sem a necessidade de nós finais"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 18,
-    "slug": "elastricot-100m",
-    "category": "Acessórios",
-    "name": "Elastricot 100m",
-    "price": "R$ 1,99",
-    "img": "assets/img/shopify/elastricot-capa.png",
-    "link": "https://chumbadas.com.br/products/elastricot?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>O elastricot é uma linha elástica muito fina utilizada nas pescarias para fixar melhor a isca possibilitando melhores arremessos sem a perda das mesmas, a medida que o pescador enrola a linha elástica em torno da isca a mesma vai ficando amarrada sem a necessidade de um nó para finalizar.</p>",
-    "images": [
-      "assets/img/shopify/elastricot-capa.png",
-      "assets/img/shopify/elastricotextrafino.jpg",
-      "assets/img/shopify/elastricotfino.jpg"
-    ],
-    "video": "assets/video/shopify/a16a04dcae884b1aa6ce969b1d6a2f52.mp4",
-    "specs": {
-      "Material": "Elastômero elástico ultra fino de alta elasticidade",
-      "Metragem": "100 metros",
-      "Função": "Fixar e amarrar iscas moles (corrupto, camarão, lula) sem a necessidade de nós finais"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 22,
-    "slug": "iscador-preto-ou-cristal",
-    "category": "Acessórios",
-    "name": "Iscador Preto ou Cristal",
-    "price": "a partir de R$ 12,80",
-    "img": "assets/img/shopify/capa_80941e6b-848a-48e4-85b3-6c626c50a41c.png",
-    "link": "https://chumbadas.com.br/products/iscador?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "Preto",
-        "R$ 12,80"
-      ],
-      [
-        "Cristal",
-        "R$ 12,87"
-      ]
-    ],
-    "description": "<p><span>Esse iscador produzido e desenhado pela Chumbada, pode ser utilizado tanto para iscar corrupto, quanto para iscar camarão, de forma prática e profissional. </span></p>",
-    "images": [
-      "assets/img/shopify/capa_80941e6b-848a-48e4-85b3-6c626c50a41c.png",
-      "assets/img/shopify/iscador.png",
-      "assets/img/shopify/iscador-transparente.png"
-    ],
-    "video": "assets/video/shopify/df63e0ebdb784b49b1dd9898641b2663.mp4",
-    "specs": {
-      "Material": "Inox rígido de alta durabilidade e cabo anatômico",
-      "Aplicação": "Iscagem prática e profissional de corrupto e camarão",
-      "Indicação": "Pesca de praia e costão"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 23,
-    "slug": "iscador-agulhao",
-    "category": "Acessórios",
-    "name": "Iscador Agulhão",
-    "price": "R$ 20,00",
-    "img": "assets/img/shopify/Agulhao.png",
-    "link": "https://chumbadas.com.br/products/iscador-agulhao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Iscador Agulhão – Iscador reforçado confeccionado em inox rígido, não enferruja e cabo termoplástico de engenharia, evitando que o cheiro da isca fique penetrado no mesmo, super resistente, a agulha não escapa do cabo.<br>Muito utilizado para iscar sardinhas inteiras, em pedaços ou mesmo outras iscas como por exemplo lulas. O Iscador Agulhão possui uma ponta altamente penetrante capaz de iscar sardinhas até mesmo congeladas.<br>Modo de usar – espete o Iscador Agulhão no rabo da sardinha e desça a ponta da agulha até a boca da mesma, engate o encastoado no rasgo existente da agulha e suba puxando o cabo de aço do encastoado até o final da sardinha.</p>",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Agulhao.png?v=1701356600"
-    ],
-    "video": "assets/video/shopify/df63e0ebdb784b49b1dd9898641b2663.mp4",
-    "specs": {
-      "Material": "Inox rígido de alta rigidez (não entorta) e cabo termoplástico de engenharia",
-      "Uso": "Iscagem de sardinhas inteiras, em pedaços, ou lulas",
-      "Diferenciais": "Ponta altamente penetrante para iscas congeladas, agulha fixa de alta durabilidade"
-    },
-    "section": "Acessórios",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Agulhao.png?v=1701356600"
-  },
-  {
-    "id": 24,
-    "slug": "iscador-duplo-branco-ou-cristal",
-    "category": "Acessórios",
-    "name": "Iscador Duplo Branco ou Cristal",
-    "price": "R$ 14,70",
-    "img": "assets/img/shopify/iscador-duplo-capa.png",
-    "link": "https://chumbadas.com.br/products/iscador-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<span data-mce-fragment=\"1\">Esse Iscador Duplo produzido e desenhado pela Chumbada, pode ser utilizado tanto para iscar corrupto, quanto para iscar camarão, de forma prática e profissional. </span>",
-    "images": [
-      "assets/img/shopify/iscador-duplo-capa.png",
-      "assets/img/shopify/iscador-duplo.png",
-      "assets/img/shopify/iscador-duplo-foto-transparente.png"
-    ],
-    "video": "assets/video/shopify/0800a917dc464f3cad93e5d756271c2c.mp4",
-    "specs": {
-      "Material": "Inox rígido duplo e cabo anatômico",
-      "Aplicação": "Iscagem prática e profissional de corrupto e camarão",
-      "Diferencial": "Hastes duplas que auxiliam na sustentação da isca mole"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 25,
-    "slug": "carretel-retangular",
-    "category": "Acessórios",
-    "name": "Carretel Retangular",
-    "price": "a partir de R$ 0,49",
-    "img": "assets/img/shopify/carretel_retangular_1.jpg",
-    "link": "https://chumbadas.com.br/products/carretel-retangular?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "Preto",
-        "R$ 0,49"
-      ],
-      [
-        "Azul",
-        "R$ 0,65"
-      ]
-    ],
-    "description": "<p><span data-sheets-root=\"1\">Carretel Retangular<br><br>O Carretel Retangular é um organizador simples, prático e indispensável para o pescador que gosta de ter tudo pronto para a hora da pescaria. Ideal para chicotes de pesqueiro, lago e outras montagens, ele permite enrolar e armazenar o chicote já no tamanho ideal, deixando tudo muito mais organizado e fácil de usar.<br><br>Com ele, o pescador pode deixar a montagem completa preparada, com boia, anzol e até chumbada, quando necessário, facilitando muito na hora de trocar o conjunto e voltar rapidamente para a água. É a solução perfeita para quem busca agilidade, organização e praticidade na pescaria.<br><br>Compacto e eficiente, o Carretel Retangular ajuda a evitar embolos, protege a montagem e mantém seus chicotes sempre prontos para uso. Um acessório simples, mas que faz toda a diferença no dia a dia do pescador.<br><br>Também contamos com a versão em material Eco, produzida a partir do reaproveitamento de peças que apresentaram falhas no processo produtivo. Esse reaproveitamento não compromete a qualidade do produto, ajuda a reduzir desperdícios dentro da empresa e ainda proporciona um preço mais acessível, unindo economia, eficiência e aproveitamento inteligente de material.<br></span></p>",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel_retangular_1.jpg?v=1773237833",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel_retangular.jpg?v=1773237833"
-    ],
-    "video": "assets/video/shopify/392e00e1e2d94279b68674b6aa8e6ce6.mp4",
-    "specs": {
-      "Capacidade": "Até 5 Chicotes",
-      "Indicação": "Pesqueiro, lago e montagens diversas"
-    },
-    "section": "Acessórios",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/carretel_retangular_1.jpg?v=1773237833",
-    "colors": [
-      [
-        "Azul",
-        "#888888"
-      ],
-      [
-        "Preto",
-        "#888888"
-      ]
-    ]
-  },
-  {
-    "id": 26,
-    "slug": "micro-snap-cobre-no-m",
-    "category": "Acessórios",
-    "name": "Micro Snap + Cobre Nó M",
-    "price": "R$ 4,36",
-    "img": "assets/img/shopify/snap-mais-cobre-no-capa.png",
-    "link": "https://chumbadas.com.br/products/kit-micro-snap-cobre-no-m-10-unidades-de-cada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "10 unidades de cada",
-        ""
-      ]
-    ],
-    "swatches": [
-      [
-        "Preto",
-        "#111827"
-      ],
-      [
-        "Amarelo",
-        "#facc15"
-      ],
-      [
-        "Azul Bic",
-        "#002fa7"
-      ],
-      [
-        "Azul Claro",
-        "#38bdf8"
-      ],
-      [
-        "Cinza",
-        "#94a3b8"
-      ],
-      [
-        "Laranja",
-        "#f97316"
-      ],
-      [
-        "Marrom",
-        "#78350f"
-      ],
-      [
-        "Rosa",
-        "#ec4899"
-      ],
-      [
-        "Translúcido",
-        "rgba(255,255,255,0.4)"
-      ],
-      [
-        "Verde",
-        "#22c55e"
-      ],
-      [
-        "Vermelho",
-        "#dc2626"
-      ]
-    ],
-    "description": "<p>Snap Chumbada e Cobre Nó a união perfeita entre praticidade e segurança, o Snap Chumbada possui uma ponta arredondada facilitando o movimento entre a Chumbada e o chicote de pesca.</p>",
-    "images": [
-      "assets/img/shopify/snap-mais-cobre-no-capa.png",
-      "assets/img/shopify/snap-mais-cobre-no-amarelo.png",
-      "assets/img/shopify/snap-mais-cobre-no-verde-escuro.png",
-      "assets/img/shopify/snap-mais-cobre-no-vermelho.png",
-      "assets/img/shopify/snap-mais-cobre-no-azul.png",
-      "assets/img/shopify/snap-mais-cobre-no-azul-claro.png",
-      "assets/img/shopify/snap-mais-cobre-no-cinza.png",
-      "assets/img/shopify/snap-mais-cobre-no-laranja.png",
-      "assets/img/shopify/snap-mais-cobre-no-marrom.png",
-      "assets/img/shopify/snap-mais-cobre-no-preto.png",
-      "assets/img/shopify/snap-mais-cobre-no-rosa.png",
-      "assets/img/shopify/snap-mais-cobre-no-translucido.png",
-      "assets/img/shopify/snap-mais-cobre-no-verde.png"
-    ],
-    "video": "assets/video/shopify/618e4f454f004aa5b055dc9ab0df67cf.mp4",
-    "specs": {
-      "Material": "Aço inoxidável de alta resistência e protetor Cobrenó termoplástico",
-      "Indicação": "Conexão rápida de chumbadas leves com proteção de nó",
-      "Função": "Troca de chumbada rápida e proteção contra algas e sujeiras"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 29,
-    "slug": "pipa-kit-com-2",
-    "category": "Acessórios",
-    "name": "Pipa Kit com 2",
-    "price": "R$ 6,00",
-    "img": "assets/img/shopify/pipa-capa-3.png",
-    "link": "https://chumbadas.com.br/products/pipa?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p><span>🎣NÃO PERCA MAIS O SEU MATERIAL NOS ENROSCOS🎣</span><br><span>-------------------------------------------------------------</span><br><span>▪️ Esse acessório da Chumbada Oficial, vai fazer seu equipamento flutuar sobre o fundo, não deixando a chumbada ir arrastando no fundo durante o recolhimento.</span><br><br><span>▪️ A Pipa funciona com a hidrodinâmica causada no recolhimento, fazendo assim a Pipa subir para a superfície.</span><br><br><span>▪️ \"Mas funciona mesmo?\" - SIMMM!! Testado e aprovado por grandes nomes da pesca, e também tem vídeo no YouTube da Pipa funcionando</span><br></p>",
-    "images": [
-      "assets/img/shopify/pipa-capa-3.png",
-      "assets/img/shopify/Pipa-2unidades_6594cf33-b024-4508-a790-f39667ed2a69.jpg"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Plástico leve de alta flutuabilidade e asas aerodinâmicas",
-      "Função": "Fazer a chumbada flutuar acima do fundo durante o recolhimento rápido, evitando enroscos",
-      "Conteúdo": "Kit com 2 pipas de flutuação"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 35,
-    "slug": "resgata-isca",
-    "category": "Acessórios",
-    "name": "Resgata Isca",
-    "price": "R$ 59,00",
-    "img": "assets/img/shopify/resgata-isca-capa.png",
-    "link": "https://chumbadas.com.br/products/resgata-isca?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "Novo Resgata Isca da Chumbada Oficial, item essencial em sua caixa de pesca, não perca mais iscas em enroscos como galhos e pedras.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Fácil manuseio, não há a necessidade de cortar a linha, basta passar a linha no olhal central e descer o Resgata Isca até onde a isca se encontra travada, as correntes irão se enrolar na garateia, puxe, firmemente, e pronto, sua isca estará pronta para outra.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Carretel de borracha ideal para deixar livre no piso do barco evitando batidas, 20 metros de corda altamente resistente.",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/resgata-isca-capa.png?v=1725025614",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/demostracao.png?v=1725025616",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/resgata-isca-foto-nova.png?v=1725025630"
-    ],
-    "video": "assets/video/shopify/d831c09b11ab4d2fbba842e2e78cf629.mp4",
-    "specs": {
-      "Material": "Borracha premium",
-      "Comprimento/Medida": "20 METROS"
-    },
-    "section": "Acessórios",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/resgata-isca-capa.png?v=1725025614"
-  },
-  {
-    "id": 37,
-    "slug": "saca-anzol-de-competicao-inox",
-    "category": "Acessórios",
-    "name": "Saca Anzol de Competição Inox",
-    "price": "R$ 24,00",
-    "img": "assets/img/shopify/Saca-Anzol-Competition-capa_f4985360-73f3-45d0-83ef-2f0eb7b5515f.png",
-    "link": "https://chumbadas.com.br/products/saca-anzol-de-competicao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "Nano",
-        "R$ 24,00"
-      ],
-      [
-        "P",
-        "R$ 24,00"
-      ],
-      [
-        "M",
-        "R$ 24,00"
-      ],
-      [
-        "G",
-        "R$ 24,00"
-      ]
-    ],
-    "description": "<p>O Saca Anzol de Competição é um acessório indispensável para pescadores que priorizam segurança, eficiência e praticidade em suas atividades. Fabricado com materiais de altíssima qualidade, ele combina a força e a resistência do termoplástico de engenharia com a durabilidade e a confiabilidade do aço inoxidável, resultando em um produto que não enferruja e não quebra, mesmo sob uso intenso em condições adversas.<br>Cada unidade é produzida com atenção máxima aos detalhes. A ponta do Saca Anzol de Competição é artesanalmente afiada e entortada, todos são testados individualmente garantindo que cada um funcione com a linha ideal mencionada garantindo precisão e eficácia ao retirar anzóis. O Saca Anzol de Competição é oferecido em 4 tamanhos NANO (ideal para linhas de até 0,23mm), MICRO (ideal para linhas de até 0,30 mm) PEQUENO (ideal para linhas de até 0,40mm) e MÉDIO para linhas de até 0,45mm). A escolha do tamanho do Saca Anzol está muito relacionado com o tipo de pescaria tamanho de peixe e tamanho de anzol. Fique atento se o anzol possui haste com olhal ( ideal usar tamanhos Pequeno e Médio ) ou haste com pata ( neste caso a atenção será somente para a espessura da linha e tamanho de anzol ).<br>Além disso, seu processo de fabricação exclusivo garante que o aço inox fique perfeitamente integrado ao termoplástico, eliminando qualquer risco de desprendimento durante o uso. Esse cuidado especial não apenas prolonga a vida útil do produto, mas também maximiza a segurança e a confiança do pescador.<br>O Saca Anzol de Competição é uma ferramenta projetada para situações onde o uso das mãos não é possível ou indicado. Seja por questões de segurança, como no caso de peixes com dentição perigosa, ou por necessidade, quando o anzol é profundamente engolido e não pode ser retirado de forma convencional, esta ferramenta se torna necessária. Em muitos casos, o uso de um acessório como este é o único meio de retirar o anzol sem causar maiores danos ao peixe ou ao pescador.<br>Compacto e leve, o Saca Anzol de Competição é fácil de transportar, podendo ser transportado junto com outros equipamentos de pesca sem ocupar espaço significativo. Essa portabilidade faz dele o companheiro ideal para todas as modalidades de pesca, com destaque especial para a pesca de praia , onde sua praticidade e funcionalidade se destacam ainda mais.<br>Mais do que apenas um acessório, o Saca Anzol de Competição é uma ferramenta de alta performance, pensada para atender às necessidades dos pescadores mais exigentes. Sua resistência, precisão e design ergonômico garantem uma experiência de uso excepcional. Seja você um iniciante ou um pescador experiente, ter um Saca Anzol de Competição em seu kit é sinônimo de estar preparado para qualquer situação, com segurança e eficiência ao alcance das mãos.</p>",
-    "images": [
-      "assets/img/shopify/Saca-Anzol-Competition-capa_f4985360-73f3-45d0-83ef-2f0eb7b5515f.png",
-      "assets/img/shopify/Saca-Anzol-Competition-Micro.png",
-      "assets/img/shopify/Saca-Anzol-Competition-P.png",
-      "assets/img/shopify/Saca-Anzol-Competition-Micro_bd410a0a-68e9-4443-b6cb-814dbcb9e503.png",
-      "assets/img/shopify/Saca-Anzol-Competition-P_0e8def94-84bc-4cac-be79-cf9ff411cfcb.png",
-      "assets/img/shopify/Saca-Anzol-Competition-M.png",
-      "assets/img/shopify/Saca-anzol-competicao-P-Cinza.png",
-      "assets/img/shopify/Saca-anzol-competicao-M-Preto.png",
-      "assets/img/shopify/Saca-anzol-competicao-nano-cristal.png",
-      "assets/img/shopify/saca-anzol-nano-embalagem.png"
-    ],
-    "video": "assets/video/shopify/c833d8cb432a4adf91c3016d36320c34.mp4",
-    "specs": {
-      "Material": "Aço Inox",
-      "Conteúdo": "1 Unidade"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 38,
-    "slug": "saca-anzol-desembuchador",
-    "category": "Acessórios",
-    "name": "Saca Anzol / Desembuchador",
-    "price": "a partir de R$ 8,40",
-    "img": "assets/img/shopify/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg",
-    "link": "https://chumbadas.com.br/products/saca-anzol-desembuchador?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "Unidade",
-        "R$ 8,40"
-      ],
-      [
-        "Kit P, M, G",
-        "R$ 20,16"
-      ]
-    ],
-    "description": "<p>Praticidade e Eficiência e ótimo Custo Benefício<br>O Saca Anzol é o acessório indispensável para pescadores que buscam praticidade e eficiência. Fabricado em plástico de alta qualidade, ele foi desenvolvido especialmente para facilitar a retirada do anzol quando o peixe engole profundamente, preservando a integridade do equipamento e, sempre que possível, do peixe.<br>Ideal para pescarias de praia , este desembuchador combina eficiência e custo-benefício , sendo leve, resistente e acessível. Disponível em três tamanhos – pequeno, médio e grande –, ele atende às necessidades de diferentes tipos de pesca e espécies de peixes. Para maior conveniência, oferecemos também o kit completo com os três tamanhos, garantindo que você esteja preparado para qualquer situação.<br>Escolha o Saca Anzol / Desembuchador e torne suas pescarias ainda mais produtivas e práticas!</p>",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg?v=1701357730",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1125_-_foto_-_saca_anzol_1.jpg?v=1764885170",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1125_-_foto_-_saca_anzol_2.jpg?v=1764885170",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1125_-_foto_-_saca_anzol_3.jpg?v=1764885170",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1125_-_foto_-_saca_anzol_4.jpg?v=1764885170",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-G_f9098de5-7f97-4f05-87f2-6f1cb934b110.jpg?v=1764885170",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-M_6afbf618-aaa7-4dee-85f1-537baecb4c1d.jpg?v=1764885170",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-P_23371b65-d873-4c3b-89a6-8b0d25c12ef4.jpg?v=1764885170",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol-Kit.jpg?v=1764885170"
-    ],
-    "video": "assets/video/shopify/c833d8cb432a4adf91c3016d36320c34.mp4",
-    "specs": {
-      "Material": "Plástico rígido de engenharia leve e resistente",
-      "Tamanhos": "Disponível em P, M, G ou no Kit Completo com os 3 tamanhos",
-      "Função": "Retirar anzóis profundos de forma rápida e segura sem machucar o peixe ou perder a linha"
-    },
-    "section": "Acessórios",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg?v=1701357730",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "Kit P/M/G"
-    ]
-  },
-  {
-    "id": 42,
-    "slug": "agulha-de-tarrafa",
-    "category": "Acessórios",
-    "name": "Agulha de Tarrafa",
-    "price": "a partir de R$ 3,50",
-    "img": "assets/img/shopify/agulha-capa.png",
-    "link": "https://chumbadas.com.br/products/agulha-de-tarrafa?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "15cm",
-        "R$ 3,50"
-      ],
-      [
-        "20cm",
-        "R$ 3,85"
-      ]
-    ],
-    "swatches": [
-      [
-        "Branco",
-        "#ffffff"
-      ],
-      [
-        "Azul",
-        "#2563eb"
-      ]
-    ],
-    "description": "A Agulha de Tarrafa da Chumbada Oficial foi meticulosamente projetada para atender às necessidades dos pescadores que valorizam a confecção artesanal de tarrafas de pesca. Com um material especial de alta qualidade, esta agulha representa uma revolução no processo de montagem, garantindo que o nylon fique firmemente enrolado sem o risco de escapar, mesmo quando exposto a movimentos bruscos ou quedas acidentais.<br><br>Construída com dedicação e conhecimento, a Agulha de Tarrafa da Chumbada Oficial se destaca por sua capacidade única de melhorar significativamente a eficiência e a confiabilidade da confecção de tarrafas. O material escolhido para sua fabricação oferece resistência excepcional, garantindo que a agulha suporte as demandas das atividades de pesca mais exigentes.<br><br>Uma das características mais notáveis dessa agulha é sua habilidade de manter o nylon de maneira segura e firme, simplificando o processo de montagem artesanal. Os pescadores não precisam mais se preocupar com desenrolamentos acidentais ou interrupções no processo de confecção. Com a Agulha de Tarrafa da Chumbada Oficial, a criação de tarrafas se torna uma atividade suave e sem complicações.<br><br>Ao escolher a Agulha de Tarrafa da Chumbada Oficial, você está optando por um produto que reflete o compromisso da marca em oferecer ferramentas de qualidade excepcional para os entusiastas da pesca artesanal. Prepare-se para aprimorar suas técnicas de confecção de tarrafas e desfrutar de uma experiência de pesca mais gratificante com esta agulha inovadora e confiável.",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/agulha-capa.png?v=1725023376",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/capa.png?v=1725023380",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/15-20ccm.png?v=1725023380",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/15cm.png?v=1725023380",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/20cm.png?v=1725023380"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Plástico especial flexível de alta resistência",
-      "Diferencial": "Desenho que segura o nylon firmemente sem escorregar em movimentos bruscos",
-      "Indicação": "Confecção e reparos artesanais de tarrafas e redes de pesca"
-    },
-    "section": "Acessórios",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/agulha-capa.png?v=1725023376"
-  },
-  {
-    "id": 50,
-    "slug": "alicate-de-pesca",
-    "category": "Acessórios",
-    "name": "Alicate de Pesca",
-    "price": "a partir de R$ 6,90",
-    "img": "assets/img/shopify/alicate-capa.png",
-    "link": "https://chumbadas.com.br/products/alicate-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "Plástico Cores",
-        "R$ 6,90"
-      ],
-      [
-        "Plástico Glow",
-        "R$ 7,90"
-      ]
-    ],
-    "swatches": [
-      [
-        "Amarelo Neon",
-        ""
-      ],
-      [
-        "Glow (brilha no escuro)",
-        ""
-      ],
-      [
-        "Laranja",
-        ""
-      ],
-      [
-        "Preto",
-        ""
-      ]
-    ],
-    "description": "<p>Conheça o Alicate de Pesca da Chumbada Oficial!<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Amantes da pesca, a espera acabou! Apresentamos a vocês o nosso lançamento incrível: o Alicate de Pesca Chumbada. Prepare-se para uma experiência de pesca mais segura e eficiente do que nunca!<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Detalhes que Fazem a Diferença: <br data-mce-fragment=\"1\">Feito com um material especial e resistente, o alicate é sua ferramenta confiável para lidar com iscas que possuem garateias. Chega de arriscar suas mãos! Com o nosso alicate, você estará sempre no controle, mesmo quando o peixe decidir dar uma balançada no momento de segura-lo ainda com isca.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Design Inteligente e Eficaz:<br data-mce-fragment=\"1\">O alicate possui um design inteligente, permitindo que você remova facilmente as garateias da isca de forma precisa e sem machucar o peixe. Sua cor laranja vibrante não é apenas estilosa, mas também garante visibilidade mesmo nas condições mais desafiadoras à beira da água.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Não Deixe a Emoção se Transformar em Risco:<br data-mce-fragment=\"1\">Nós entendemos que a emoção de pegar um peixe pode ser irresistível, mas sua segurança é primordial. Com o nosso alicate, você estará protegido contra acidentes desagradáveis com garateias pontiagudas. É hora de aproveitar cada captura sem preocupações!<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Não deixe esse lançamento escapar das suas mãos. Eleve suas aventuras de pesca a um novo patamar com o Alicate de Pesca Chumbada Oficial. <br data-mce-fragment=\"1\"></p>",
-    "images": [
-      "assets/img/shopify/alicate-capa.png",
-      "assets/img/shopify/alicate-preto_7d4da7e6-4416-46b1-9694-3074e87501cc.png",
-      "assets/img/shopify/alicate2.png",
-      "assets/img/shopify/alicate.jpg",
-      "assets/img/shopify/alicate_glow.jpg"
-    ],
-    "video": "assets/video/shopify/39b1ccbd5af54293baa9aa65e95b4ef3.mp4",
-    "specs": {
-      "Material": "Liga metálica de alta resistência revestida e pegada plástica",
-      "Cor": "Laranja vibrante (Fácil localização à beira d'água)",
-      "Função": "Remoção segura de garateias e anzóis de iscas artificiais ou naturais, protegendo as mãos"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 55,
-    "slug": "ima-fix",
-    "category": "Acessórios",
-    "name": "Imã Fix",
-    "price": "R$ 41,40",
-    "img": "assets/img/shopify/ima-fix-01.jpg",
-    "link": "https://chumbadas.com.br/products/ima-fix?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>O Imã Fix é o acessório indispensável para pescadores que buscam praticidade e segurança ao preparar seus equipamentos. Fabricado com borracha de alta qualidade e equipado com dois ímãs extremamente fortes, ele se adere firmemente a qualquer superfície ferrosa, permitindo que você apoie suas varas e acessórios de pesca sem preocupações.</p>\n<p>Sua borracha macia e resistente protege a lataria do carro contra arranhões e danos, garantindo um uso seguro e confiável. Compacto e portátil, o Imã Fix pode ser guardado facilmente em qualquer parte do carro, pronto para ser utilizado assim que você chegar ao seu destino de pesca. Basta fixá-lo na lataria e apoiar as varas inclinadas sem o risco de escorregarem ou caírem, graças à força dos ímãs.</p>\n<p>Seja na praia, no rio, no pesqueiro ou em qualquer outro local, o Imã Fix é a solução prática e eficiente para organizar seus equipamentos. Ideal para pescadores que valorizam qualidade, segurança e conveniência.</p>",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-01.jpg?v=1732619441",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-03.jpg?v=1732619441",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-02.jpg?v=1732619442"
-    ],
-    "video": "assets/video/shopify/642cf361fcbd4a02b6534dabee598d73.mp4",
-    "specs": {
-      "Material": "Borracha macia protetora contra riscos na lataria e 2 superímãs de neodímio",
-      "Função": "Fixação magnética instantânea na lataria do veículo para apoiar varas de pesca inclinadas",
-      "Diferencial": "Protege a pintura do veículo e evita quedas ou danos nas varas"
-    },
-    "section": "Acessórios",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/ima-fix-01.jpg?v=1732619441"
-  },
-  {
-    "id": 56,
-    "slug": "amarra-vara-velcro",
-    "category": "Acessórios",
-    "name": "Amarra Vara Velcro",
-    "price": "R$ 17,90",
-    "img": "assets/img/shopify/capa-apoio-de-vara-velcro.jpg",
-    "link": "https://chumbadas.com.br/products/amarra-vara-velcro?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Amarra Vara Velcro - Versatilidade e Praticidade na Sua Pescaria</p><br>\n<p>O Amarra Vara Velcro é um acessório indispensável para qualquer pescador que preza pela organização e praticidade. Fabricado em borracha de alta qualidade, o produto é extremamente versátil e durável, proporcionando diferentes formas de utilização tanto durante a pescaria quanto no transporte dos equipamentos.</p><br>\n<p>Com um design inovador, o Amarra Vara Velcro conta com uma faixa de velcro de 50 cm, que facilita a amarração das varas ou do suporte em diversos locais, como guarda-corpos, decks de pesca com gradil, cadeiras e até mesmo no bagageiro de veículos. Isso permite que você transporte as varas com carretilhas já montadas e prontas para o uso, garantindo agilidade e segurança no manuseio dos equipamentos.</p><br>\n<p>Além de ser um suporte prático para varas, o produto também serve como um eficiente amarrador, garantindo que as varas fiquem firmes e bem posicionadas, mesmo em locais de difícil fixação. Sua estrutura de borracha proporciona alta aderência e flexibilidade, adaptando-se perfeitamente a diferentes diâmetros de varas e locais de apoio, evitando deslizamentos e mantendo as varas seguras e estáveis durante toda a pescaria.</p><br>\n<p>Com a adição do velcro de 50 cm, o Amarra Vara Velcro é capaz de oferecer uma fixação ainda mais segura e eficiente, possibilitando amarrações rápidas e descomplicadas em praticamente qualquer superfície. Seja para apoiar as varas durante o uso ou para amarrá-las com segurança no transporte, o Amarra Vara Velcro é a solução definitiva para organização e funcionalidade no seu dia a dia de pesca.</p>",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa-apoio-de-vara-velcro.jpg?v=1730979392",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/02_53040a0a-365d-46ad-abda-3c6ea1315569.jpg?v=1730979392",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/03.jpg?v=1730979392"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Velcro ultra resistente",
-      "Comprimento/Medida": "50 CM"
-    },
-    "section": "Acessórios",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/capa-apoio-de-vara-velcro.jpg?v=1730979392"
-  },
-  {
-    "id": 60,
-    "slug": "adaptador-da-secretaria",
-    "category": "Acessórios",
-    "name": "Adaptador da Secretária",
-    "price": "R$ 19,00",
-    "img": "assets/img/shopify/adaptador-secretaria-novo.jpg",
-    "link": "https://chumbadas.com.br/products/adaptador-da-secretaria?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "swatches": [
-      [
-        "Azul",
-        "#2563eb"
-      ],
-      [
-        "Branco",
-        "#ffffff"
-      ],
-      [
-        "Cinza",
-        "#94a3b8"
-      ],
-      [
-        "Preto",
-        "#111827"
-      ]
-    ],
-    "description": "<p>Com esse adaptador, o pescador consegue unir dois acessórios essenciais em uma única montagem: a Secretária de Pesca e a parte superior do <a href=\"#/produto/varal-chumbada\">Varal</a>.</p><p>Na prática, ele permite usar a Secretária junto com o Varal, deixando tudo mais organizado na beira da praia e ainda servindo como apoio para manter a vara inclinada.</p><p>Mais praticidade, mais organização e mais resistência para sua pescaria.</p><p>O Adaptador para Secretária e Varal da Chumbada Oficial ficou ainda melhor.</p><p>Agora ele recebeu reforço em dois pontos importantes: na região de apoio da Secretária e também na lingueta onde o <a href=\"#/produto/varal-chumbada\">Varal</a> é fixado, trazendo mais resistência, firmeza e segurança no uso.</p><p>Melhoria contínua é isso: ouvir, testar, reforçar e evoluir.</p>",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-branco.jpg?v=1774009906",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-preto.jpg?v=1774009906",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Adaptador-secretaria-cinza-05.jpg?v=1774009906"
-    ],
-    "video": "",
-    "specs": {
-      "Aplicação": "Pesca esportiva e de competição"
-    },
-    "section": "Acessórios",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-branco.jpg?v=1774009906",
-    "colors": [
-      [
-        "Azul",
-        "#888888"
-      ],
-      [
-        "Branco",
-        "#888888"
-      ],
-      [
-        "Cinza",
-        "#888888"
-      ],
-      [
-        "Preto",
-        "#888888"
-      ]
-    ],
-    "colorImages": {
-      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-branco.jpg?v=1774009906",
-      "Cinza": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Adaptador-secretaria-cinza-05.jpg?v=1774009906",
-      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/adaptador-secretaria-preto.jpg?v=1774009906"
-    }
-  },
-  {
-    "id": 76,
-    "slug": "tela-de-espremer-iscas",
-    "category": "Acessórios",
-    "name": "Tela de Espremer Iscas",
-    "price": "R$ 4,50",
-    "img": "assets/images/tela-vermelha-a2d4f4df.jpg",
-    "link": "https://chumbadas.com.br/products/tela-de-espremer-isca-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "swatches": [
-      [
-        "Preta",
-        "#111827"
-      ],
-      [
-        "Laranja",
-        "#f97316"
-      ],
-      [
-        "Azul",
-        "#2563eb"
-      ],
-      [
-        "Amarela",
-        "#facc15"
-      ],
-      [
-        "Verde",
-        "#22c55e"
-      ],
-      [
-        "Vermelha",
-        "#dc2626"
-      ]
-    ],
-    "description": "O Tela de Espremer Iscas da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
-    "images": [
-      "assets/images/tela-vermelha-a2d4f4df.jpg"
-    ],
-    "video": "assets/video/shopify/9a7fd88adf6f474e92746620abdf847c.mp4",
-    "specs": {
-      "Material": "Tela plástica de alta densidade e resistência",
-      "Função": "Escoamento de líquidos e prensagem rápida de iscas moídas",
-      "Indicação": "Preparo de iscas e engodos para competições ou pesca de praia"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 34,
-    "slug": "regua-cantoneira",
-    "category": "Acessórios",
-    "name": "Régua Cantoneira",
-    "price": "a partir de R$ 16,79",
-    "img": "assets/img/shopify/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png",
-    "link": "https://chumbadas.com.br/products/regua-cantoneira?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "50cm",
-        "R$ 16,79"
-      ],
-      [
-        "100cm",
-        "R$ 24,75"
-      ]
-    ],
-    "description": "Régua a prova d'agua com 15cm de largura, as medidas são extremamente precisas e aferidas individualmente.<br data-mce-fragment=\"1\">Cantoneira desenvolvida especialmente para essa finalidade, resistente, cantos arredondados e espessuras com raio para não ter problema no transporte, cola especial, a mesma não desgruda nem em contato com a água.",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png?v=1725025582",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-aberta.png?v=1725025585",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-50cm.png?v=1725025585",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Regua-100cm.png?v=1725025585",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_preta.jpg?v=1773072063",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_azul.jpg?v=1773072064"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Cantoneira plástica especial resistente e adesivo de alta aderência",
-      "Dimensões": "15cm de largura (Medidas extremamente precisas e aferidas individualmente)",
-      "Diferenciais": "Cantos arredondados, raio antiqueda para transporte e cola à prova d'água"
-    },
-    "section": "Acessórios",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png?v=1725025582",
-    "colors": [
-      [
-        "Preto",
-        "#888888"
-      ],
-      [
-        "Azul",
-        "#888888"
-      ]
-    ],
-    "colorImages": {
-      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_preta.jpg?v=1773072063",
-      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/cantoneira_azul.jpg?v=1773072064"
-    }
-  },
-  {
-    "id": 65,
-    "slug": "trava-linha",
-    "category": "Acessórios",
-    "name": "Trava Linha",
-    "price": "R$ 4,20",
-    "img": "assets/img/shopify/pesca-12.jpg",
-    "link": "https://chumbadas.com.br/products/trava-linha-cano-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Linha de Multifilamento 4X – 300 metros | Chumbada Oficial</p>\n<p>Chegou a linha que fala a verdade.<br>A Verax 4X 300 m da Chumbada Oficial não é só mais uma multifilamento — é um novo padrão no mercado.</p>\n<p>Desenvolvida com alta tecnologia e testada por mais de 1 ano em condições reais de pesca, essa linha entrega o que promete: resistência de verdade e especificações honestas.</p>\n<p>O grande diferencial está no nome Verax — do latim, verdade, sinceridade.<br>Enquanto muitas marcas “maquiam” diâmetro e resistência, a Chumbada Oficial fez o caminho mais difícil: mostrar a realidade.</p>\n<p>👉 Espessura real<br>👉 Capacidade de tração real<br>👉 Sem exagero, sem enganação</p>\n<p>Compare com qualquer outra linha do mercado.<br>Meça. Teste. Coloque lado a lado.<br>Você vai perceber: a Verax entrega exatamente o que está na embalagem.</p>\n<p>Além da transparência, você leva uma linha:<br>✔ 4 fios de alta resistência<br>✔ Excelente sensibilidade<br>✔ Ótima performance de arremesso<br>✔ Baixa memória<br>✔ Alta durabilidade</p>\n<p>Se você busca performance, pode até encontrar várias opções.<br>Mas se você busca performance com verdade, a escolha é uma só.</p>\n<p>Chumbada Oficial – aqui a pesca é levada a sério. 🎣</p>\n<p>#ChumbadaOficial #LinhaVerax #Multifilamento #PescaEsportiva #Ajing #Ultralight #PescaDePraia #PescaBrasil #FishingLife #GearDePesca #PesqueESolte</p>",
-    "images": [
-      "assets/img/shopify/pesca-12.jpg",
-      "assets/img/shopify/pesca-11.jpg",
-      "assets/img/shopify/pesca-59.jpg",
-      "assets/img/shopify/pesca-62.jpg",
-      "assets/img/shopify/1_7e7f6ca2-e9fa-4fd2-a353-bd87ca20f9f0.jpg",
-      "assets/img/shopify/1_2.jpg",
-      "assets/img/shopify/1_5.jpg",
-      "assets/img/shopify/2_b6ee5156-7837-4a57-81f6-6099366220f0.jpg",
-      "assets/img/shopify/3.jpg",
-      "assets/img/shopify/3_5.jpg",
-      "assets/img/shopify/4_5.jpg",
-      "assets/img/shopify/5.jpg",
-      "assets/img/shopify/6_745b4c8c-ff0f-4ba3-9ce3-1fd17fdc3882.jpg",
-      "assets/img/shopify/8.jpg",
-      "assets/img/shopify/9.jpg",
-      "assets/img/shopify/10.jpg",
-      "assets/img/shopify/12.jpg",
-      "assets/img/shopify/linhaajing.jpg",
-      "assets/img/shopify/costas_b4940be1-8a74-414c-9903-c3be25aa3daf.jpg"
-    ],
-    "video": "",
-    "specs": {
-      "Comprimento/Medida": "300 METROS",
-      "Dimensões": "4X300M"
-    },
-    "section": "Acessórios"
+    "img": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/jaqueta-frente.png?v=1724697596"
   }
 ];
