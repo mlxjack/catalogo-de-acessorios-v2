@@ -1603,6 +1603,14 @@ window.PRODUCTS = [
       [
         "Borracha 120cm",
         "R$ 36,58"
+      ],
+      [
+        "Apoio de Borracha (Reposição)",
+        "R$ 4,00"
+      ],
+      [
+        "Copo de Borracha (Reposição)",
+        "R$ 5,00"
       ]
     ],
     "swatches": [
@@ -1706,7 +1714,10 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/verde-60.png?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/verde-85.png?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/verde-1m.png?v=1768317605",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/verde-1_20.png?v=1768317605"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/verde-1_20.png?v=1768317605",
+      "assets/img/shopify/apoio_borracha.jpg",
+      "assets/img/shopify/Copo_borracha.jpg",
+      "assets/img/shopify/Copo_borracha1.png"
     ],
     "video": "assets/video/shopify/47f1a9c1b54d4381a82a3436e200e3c2.mp4",
     "specs": {
@@ -1722,7 +1733,11 @@ window.PRODUCTS = [
       "85 cm",
       "1.00 m",
       "1.20 m"
-    ]
+    ],
+    "varImages": {
+      "Apoio de Borracha (Reposição)": "assets/img/shopify/apoio_borracha.jpg",
+      "Copo de Borracha (Reposição)": "assets/img/shopify/Copo_borracha.jpg"
+    }
   },
   {
     "id": 51,
@@ -2227,7 +2242,8 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_6_2026-01-13_12-25-08.jpg?v=1768317978",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_7_2026-01-13_12-25-08.jpg?v=1768317978",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_8_2026-01-13_12-25-08.jpg?v=1768317978",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_9_2026-01-13_12-25-08.jpg?v=1768317978"
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/photo_9_2026-01-13_12-25-08.jpg?v=1768317978",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/varal-01_2.png?v=1739457551"
     ],
     "video": "assets/video/shopify/d64300038abb454586b178602fb6bc56.mp4",
     "specs": {
@@ -2235,7 +2251,10 @@ window.PRODUCTS = [
       "Comprimento/Medida": "1,40M"
     },
     "section": "Organização",
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Varal-02.jpg?v=1738666221"
+    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Varal-02.jpg?v=1738666221",
+    "varImages": {
+      "Superior com tubo": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/varal-01_2.png?v=1739457551"
+    }
   },
   {
     "id": 54,
@@ -2455,57 +2474,6 @@ window.PRODUCTS = [
     "section": "Proteção"
   },
   {
-    "id": 48,
-    "slug": "apoio-de-borracha",
-    "category": "Peças",
-    "name": "Apoio de Borracha",
-    "price": "R$ 4,00",
-    "img": "assets/img/shopify/apoio_borracha.jpg",
-    "link": "https://chumbadas.com.br/products/apoio-de-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Apoio de Borracha para suporte de vara slim</p>",
-    "images": [
-      "assets/img/shopify/apoio_borracha.jpg"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Borracha premium de alta densidade",
-      "Compatibilidade": "Peça sobressalente de reposição para o suporte de vara Slim",
-      "Função": "Apoio seguro anti-risco para a vara"
-    },
-    "section": "Peças"
-  },
-  {
-    "id": 49,
-    "slug": "copo-de-borracha",
-    "category": "Peças",
-    "name": "Copo de Borracha",
-    "price": "R$ 5,00",
-    "img": "assets/img/shopify/Copo_borracha.jpg",
-    "link": "https://chumbadas.com.br/products/copo-de-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "swatches": [
-      [
-        "Preto",
-        "#111827"
-      ],
-      [
-        "Branco",
-        "#ffffff"
-      ]
-    ],
-    "description": "<p>Copo de Borracha para suporte de vara slim</p>",
-    "images": [
-      "assets/img/shopify/Copo_borracha.jpg",
-      "assets/img/shopify/Copo_borracha1.png"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Borracha premium de alta densidade",
-      "Compatibilidade": "Peça sobressalente de reposição para o suporte de vara Slim",
-      "Função": "Apoio inferior de encaixe do pé da vara"
-    },
-    "section": "Peças"
-  },
-  {
     "id": 65,
     "slug": "trava-linha",
     "category": "Peças",
@@ -2539,34 +2507,6 @@ window.PRODUCTS = [
     "specs": {
       "Comprimento/Medida": "300 METROS",
       "Dimensões": "4X300M"
-    },
-    "section": "Peças"
-  },
-  {
-    "id": 66,
-    "slug": "apoio-para-anzol",
-    "category": "Peças",
-    "name": "Apoio para Anzol",
-    "price": "R$ 2,69",
-    "img": "assets/img/shopify/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg",
-    "link": "https://chumbadas.com.br/products/apoio-anzol-cano?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Praticidade e Eficiência e ótimo Custo Benefício<br>O Saca Anzol é o acessório indispensável para pescadores que buscam praticidade e eficiência. Fabricado em plástico de alta qualidade, ele foi desenvolvido especialmente para facilitar a retirada do anzol quando o peixe engole profundamente, preservando a integridade do equipamento e, sempre que possível, do peixe.<br>Ideal para pescarias de praia , este desembuchador combina eficiência e custo-benefício , sendo leve, resistente e acessível. Disponível em três tamanhos – pequeno, médio e grande –, ele atende às necessidades de diferentes tipos de pesca e espécies de peixes. Para maior conveniência, oferecemos também o kit completo com os três tamanhos, garantindo que você esteja preparado para qualquer situação.<br>Escolha o Saca Anzol / Desembuchador e torne suas pescarias ainda mais produtivas e práticas!</p>",
-    "images": [
-      "assets/img/shopify/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg",
-      "assets/img/shopify/1125_-_foto_-_saca_anzol_1.jpg",
-      "assets/img/shopify/1125_-_foto_-_saca_anzol_2.jpg",
-      "assets/img/shopify/1125_-_foto_-_saca_anzol_3.jpg",
-      "assets/img/shopify/1125_-_foto_-_saca_anzol_4.jpg",
-      "assets/img/shopify/SacaAnzol-G_f9098de5-7f97-4f05-87f2-6f1cb934b110.jpg",
-      "assets/img/shopify/SacaAnzol-M_6afbf618-aaa7-4dee-85f1-537baecb4c1d.jpg",
-      "assets/img/shopify/SacaAnzol-P_23371b65-d873-4c3b-89a6-8b0d25c12ef4.jpg",
-      "assets/img/shopify/SacaAnzol-Kit.jpg"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Plástico rígido de engenharia leve e resistente",
-      "Função": "Retirar anzóis profundos de forma rápida e segura sem machucar o peixe",
-      "Tamanhos": "Disponível em P, M, G ou no Kit Completo com os 3 tamanhos"
     },
     "section": "Peças"
   },
@@ -4075,615 +4015,17 @@ window.PRODUCTS = [
     "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/camisa-nova.jpg?v=1776693530"
   },
   {
-    "name": "Iscador Simples",
-    "desc": "<p><span>Esse iscador produzido e desenhado pela Chumbada, pode ser utilizado tanto para iscar corrupto, quanto para iscar camarão, de forma prática e profissional. </span></p>",
-    "specs": {},
-    "price": "15.70",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/iscador.png?v=1776189451"
-  },
-  {
-    "name": "Kit Snap + Cobre Nó (G) 20 unidades de cada",
-    "desc": "<p>Snap Chumbada e Cobre Nó a união perfeita entre praticidade e segurança, o Snap Chumbada possui uma ponta arredondada facilitando o movimento entre a Chumbada e o chicote de pesca.</p>",
-    "specs": {},
-    "price": "14.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/snap-mais-cobre-no-amarelo.png?v=1776190294"
-  },
-  {
-    "name": "Kit Anzol 90° - 10 unidades",
-    "desc": "<p><span>O anzol 90º é um tipo de anzol que se diferencia dos demais pela sua curvatura, que é exatamente de 90 graus. Essa característica permite que ele seja usado em diversas situações, como na pesca com iscas artificiais, por exemplo.</span></p>\n<p><span>A curvatura do anzol 90º também é responsável por aumentar a eficácia da fisgada, pois ela proporciona uma melhor penetração do anzol na boca do peixe, garantindo uma fixação mais segura.</span></p>\n<p><span>Os anzóis 90º estão disponíveis em diferentes tamanhos e formatos, para atender às necessidades dos pescadores e dos diferentes tipos de peixes.</span></p>\n<p><span>Se você está buscando um anzol que ofereça uma boa fisgada e seja versátil o suficiente para ser usado em diferentes situações, o anzol 90º pode ser uma ótima opção.</span></p>",
-    "specs": {},
-    "price": "32.50",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/capa-anzol-90o.png?v=1776190415"
-  },
-  {
-    "name": "Kit Anzol EWG - 10 unidades",
-    "desc": "Quer uma montagem de pesca que reduza os enroscos e aumente sua eficiência? O anzol EWG é a escolha ideal para iscas artificiais soft!<br>Com sua curva ampla e ponta afiada, ele é perfeito para uma montagem anti enrosco. Além disso, sua durabilidade e versatilidade garantem uma ótima experiência de pesca em qualquer situação. <br>Adquira agora mesmo o seu anzol EWG e prepare-se para fisgar o peixe dos seus sonhos!<br><br>Disponíveis nos tamanhos:<br>1/0 - 2/0 - 3/0 - 4/0 - 5/0 - 6/0 - 7/0<br>1# - 2# - 4# - 6#",
-    "specs": {},
-    "price": "32.50",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/Ewg-1-0_61c39aa4-74ce-43d6-aaf7-a53f9d753d60.png?v=1776695164"
-  },
-  {
-    "name": "Kit Anzol 60° - 10 unidades",
-    "desc": "<p><span>O anzol 90º é um tipo de anzol que se diferencia dos demais pela sua curvatura, que é exatamente de 90 graus. Essa característica permite que ele seja usado em diversas situações, como na pesca com iscas artificiais, por exemplo.</span></p>\n<p><span>A curvatura do anzol 90º também é responsável por aumentar a eficácia da fisgada, pois ela proporciona uma melhor penetração do anzol na boca do peixe, garantindo uma fixação mais segura.</span></p>\n<p><span>Os anzóis 90º estão disponíveis em diferentes tamanhos e formatos, para atender às necessidades dos pescadores e dos diferentes tipos de peixes.</span></p>\n<p><span>Se você está buscando um anzol que ofereça uma boa fisgada e seja versátil o suficiente para ser usado em diferentes situações, o anzol 90º pode ser uma ótima opção.</span></p>",
-    "specs": {},
-    "price": "32.50",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/3-0-60o_806d18f2-1623-4fd5-a71a-931173b285f1.png?v=1773694513"
-  },
-  {
-    "name": "Kit Anzol 60° com Mola - 10 unidades",
-    "desc": "<p></p>",
-    "specs": {},
-    "price": "32.50",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/anzol-60o-com-mola.jpg?v=1773694511"
-  },
-  {
-    "name": "Miçanga Micro Tubo",
-    "desc": "<p>A Miçanga Microtubo da Chumbada Oficial é um componente especialmente projetado para atuar como uma superfície de apoio para o rotor de Engate Rápido, Miçanga Rotor ou mesmo Destorcedores pequenos que prendem as pernadas do chicote de pesca.</p>\n<p>Sua principal característica é proporcionar um baixo atrito na corrente de água, durante o giro do rotor,  durante o arremesso e recolhimento otimizando o desempenho do sistema.</p>\n<p>Essa miçanga é fabricada em tamanho reduzido, permitindo um encaixe preciso e eficiente. Com sua tecnologia especializada, ela contribui para a suavidade e eficácia do conjunto de pesca, tornando essa experiência ainda mais agradável e produtiva.</p>",
-    "specs": {},
-    "price": "18.90",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/mucanga-micro-tubo-amarelo_b855f6ef-1aea-4ad1-955b-c48f1e813247.jpg?v=1773694508"
-  },
-  {
-    "name": "Kit Anteninha Átomo 11mm - 2 Unidades",
-    "desc": "Apresentamos a Anteninha Átomo de 11mm: a revolução em iscas de pesca de superfície desenvolvida especificamente para pescadores de pesqueiros em busca de tambaquis, tambacus e pacus. Com a combinação perfeita de design inovador e materiais de alta qualidade, esta anteninha vai elevar sua experiência de pesca a um novo patamar.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Características Principais:<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Materiais de Borracha de Qualidade: A Anteninha Átomo é confeccionada com material de borracha flexível, o que a torna irresistivelmente natural aos olhos dos peixes, imitando de forma convincente a ração que eles adoram.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Flutuabilidade Superior: Graças à sua flutuabilidade, esta antena permanece na superfície da água, exatamente onde os tambaquis, tambacus e pacus costumam se alimentar. Isso aumenta suas chances de sucesso na pesca.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Fácil de Usar: A montagem é simples e eficaz. Basta passar a ponta do anzol através de uma das bolinhas da extremidade da Anteninha Átomo, fixando-a na linha após o olhal do anzol. Em seguida, passe a ponta do anzol pela bolinha central para camuflar o anzol perfeitamente, mantendo-o equilibrado e evitando que a antena se desloque para a curva do anzol.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Versatilidade Incrível: Com a Anteninha Átomo, as possibilidades de montagem são infinitas. Personalize sua isca adicionando miçangas tradicionais ou os nossos atrativos coloridos também feitos de borracha, permitindo que você adapte sua abordagem de acordo com as preferências dos peixes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Tamanho Ideal de Anzol: Recomendamos o uso de anzóis robaleiros wide gap nos tamanhos 1/0 ou 2/0 para obter os melhores resultados com esta isca.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Prepare-se para vivenciar uma experiência de pesca de superfície incomparável com a Anteninha Átomo de 11mm. Leve seu equipamento para o próximo nível e esteja pronto para capturar os maiores exemplares de tambaquis, tambacus e pacus. Seja um mestre da pesca com a Anteninha Átomo!",
-    "specs": {},
-    "price": "9.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/anteninha-preta.jpg?v=1773694487"
-  },
-  {
-    "name": "Kit Isca Artificial Camarão Offset Articulado",
-    "desc": "<p>Camarão para Offset Articulado:<br><br>Apresentamos o Camarão para Offset, uma inovação no mundo da pesca que vai revolucionar sua técnica e proporcionar resultados surpreendentes. Este camarão é fabricado com uma borracha de extrema qualidade, conhecida por sua flexibilidade e durabilidade excepcionais, garantindo que você tenha um parceiro confiável em todas as suas pescarias.<br><br>O destaque do Camarão Offset é a cabeça fina, projetada especificamente para a montagem do anzol offset por cima da isca. Essa característica exclusiva permite um nado único e uma hidrodinâmica incrível, tornando-o irresistível para os peixes que procuram uma presa fácil. A barriga cavada do camarão facilita a fisgada, mesmo com anzóis offset lastreados.<br><br>Os detalhes realistas, como suas patas e olhos avantajados, proporcionam vibrações e movimentos que atraem os peixes de maneira eficaz. O rabo em leque deste camarão cria um grande deslocamento de água, aumentando suas chances de atrair a atenção dos predadores.<br><br>Disponível em uma variedade de cores, desde as mais brilhantes e translúcidas até as mais escuras e fechadas, o Camarão Offset oferece opções para se adaptar ao seu ambiente de pesca e às preferências dos peixes.<br><br>Os tamanhos disponíveis para o Camarão Offset são 5cm, 7cm, 9cm, 11cm e 13cm, permitindo que você escolha o tamanho ideal para suas necessidades de pesca. Prepare-se para uma pescaria de sucesso e experiências memoráveis com o Camarão para Offset.</p>",
-    "specs": {},
-    "price": "38.40",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/capa-01.jpg?v=1773694483"
-  },
-  {
-    "name": "Kit Isca Artificial Batelouca",
-    "desc": "<p>Descubra a isca Batelouca, uma inovação em resistência e realismo para a sua pescaria!</p>\n<p>Projetada para durar, essa isca suporta inúmeras pescas de traíras sem perder a eficácia. Seu nado incrivel realista faz dela a escolha ideal para traíras, black bass e muitos outros.</p>\n<p>A Batelouca foi rigorosamente testada por guias de pesca e lojistas especializados antes de seu lançamento, garantindo a melhor qualidade para sua experiência de pesca.</p>\n<p>Seja você um pescador experiente ou iniciante, a Batelouca está pronta para transformar sua próxima pescaria em um sucesso!</p>",
-    "specs": {},
-    "price": "32.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/batelouca-roxo-estrelar.jpg?v=1776190590"
-  },
-  {
-    "name": "Isca Artificial Boom Paddle",
-    "desc": "<p>Boom Paddle da Chumbada Oficial- Versatilidade e Resistência para Todo Pescador! 🐟<br><br>Prepare-se para transformar suas pescarias com a nova linha Boom Paddle! Agora disponível nos tamanhos maiores de 18 e 20 cm. e em breve lançaremos os incríveis 16cm. 14cm. 12cm. 10cm e 8cm. <br><br>Perfeição para Diversos Tipos de Peixe: Ideal para capturar garoupa. cherne. caranha e robalão. a Boom Paddle é a escolha certa para pescadores que buscam eficiência e facilidade. Sua ação autônoma permite que você a utilize em movimentos rápidos ou lentos. adequando-se ao seu estilo de pesca.<br><br>Adaptação Total: Quer pescar na superfície. meia água ou fundo? Sem problemas! Alternando pesos de jig heads e velocidade de trabalho. a Boom Paddle se adapta perfeitamente. E na pesca oceânica. ela brilha com o simples uso do peso do jig head na descida. maximizando suas chances de sucesso.<br><br>Durabilidade Excepcional: Feita com material de alta resistência. a Boom Paddle aguenta múltiplas pescarias sem danos. garantindo um ótimo custo-benefício e satisfação contínua.<br><br>Não perca essa novidade! Adquira já a sua Boom Paddle e sinta a diferença em cada arremesso.</p>",
-    "specs": {},
-    "price": "24.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/boom-padlle-luz-laranja.jpg?v=1775572331"
-  },
-  {
-    "name": "Anzol Akita Kitsune Premium (Pct com 15)",
-    "desc": "<p dir=\"auto\">Anzol Akita Kitsune</p>\n<p dir=\"auto\">O anzol Akita Kitsune é uma escolha excepcional para pescadores que procuram uma ferramenta confiável e eficiente para suas pescarias. Com um design cuidadosamente elaborado, este anzol oferece uma série de características que o tornam indispensável para pescadores de todos os níveis de habilidade.</p>\n<p dir=\"auto\">Primeiramente, sua leveza é uma característica notável. Construído com materiais de alta qualidade, o anzol Akita Kitsune é extremamente leve, proporcionando uma pescaria mais eficaz pois irá ajudar na flutuabilidade da isca evitando que a mesma fique escondida enterrada, ideal para pescas na meia água e superfície.</p>\n<p dir=\"auto\">A ponta afiada do anzol Akita Kitsune garante uma penetração rápida e eficaz, garantindo uma taxa de captura impressionante. Além disso, sua abertura pequena e o ângulo negativo em relação à haste o tornam especialmente adequado para peixes com boca pequena, aumentando a probabilidade do peixe ser fisgado ao sugar a isca.</p>\n<p dir=\"auto\">Uma outra vantagem do anzol Akita Kitsune é seu banho de proteção dourado. Este revestimento não apenas adiciona uma estética elegante, mas também desempenha um papel crucial na durabilidade e integridade do anzol. Ele protege contra a corrosão e o desgaste, garantindo que o anzol mantenha sua afiação e resistência mesmo após múltiplas utilizações.</p>\n<p dir=\"auto\">Além disso, o reflexo dourado do banho de proteção é altamente atrativo para os peixes, especialmente em dias ensolarados. Isso aumenta consideravelmente as chances de atrair peixes e garantir uma captura bem-sucedida.</p>\n<p dir=\"auto\">Em resumo, o anzol Akita Kitsune é uma escolha excepcional para pescadores que buscam desempenho superior, durabilidade e eficácia. Sua leveza, afiação precisa, design inteligente e banho de proteção dourado o tornam um companheiro confiável em qualquer aventura de pesca.</p>",
-    "specs": {},
-    "price": "55.10",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/Akita-Kitsune-3-embalagem_24440575-86c6-411c-bb82-faad3f731c99.png?v=1773694420"
-  },
-  {
-    "name": "Anzol Akita Sode Premium (Pct com 15)",
-    "desc": "<p dir=\"auto\">Anzol Akita Sode</p>\n<p dir=\"auto\">O anzol Akita Sode é uma escolha excepcional para pescadores que procuram uma ferramenta confiável e eficiente para suas pescarias. Com um design cuidadosamente elaborado, este anzol oferece uma série de características que o tornam indispensável para pescadores de todos os níveis de habilidade.</p>\n<p dir=\"auto\">Construído com materiais de alta qualidade, o anzol Akita Sode é extremamente resistente, possibilitando a captura de peixes grandes.</p>\n<p dir=\"auto\">A ponta afiada do anzol Akita Sode garante uma penetração rápida e eficaz, garantindo uma taxa de captura impressionante. Além disso, seu formato envenenado (ponta torta para fora) facilita a fisgada do peixe no momento em que o mesmo tenta jogar a isca para fora da boca. Sua abertura maior possibilita carregar mais isca, aumentando as chances de fisgar o grande troféu enquanto os peixes menores tentam roubar a isca.</p>\n<p dir=\"auto\">Uma outra vantagem do anzol Akita Sode é seu banho azul de proteção. Este revestimento desempenha um papel crucial na durabilidade e integridade do anzol. Ele protege contra a corrosão e o desgaste, garantindo que o anzol mantenha sua afiação e resistência mesmo após múltiplas utilizações.</p>\n<p dir=\"auto\">Em resumo, o anzol Akita Sode é uma escolha excepcional para pescadores que buscam desempenho superior, durabilidade e eficácia. Sua resistência, afiação precisa, design inteligente e banho de proteção o tornam um companheiro confiável em qualquer aventura de pesca.</p>",
-    "specs": {},
-    "price": "55.10",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/Akita-Sode-2-embalagem_ac13b914-9159-4d42-9fba-d2bfb8806adb.png?v=1773694420"
-  },
-  {
     "name": "Jaqueta de Pesca",
     "desc": "<p><strong><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Tabela-de-tamanhos-jaqueta.png?v=1732043770\">Jaqueta de Pesca Chumbada Oficial</strong></p>\n<p>Mantenha-se aquecido e protegido com a Jaqueta de Pesca Chumbada Oficial. Com uma arte exclusiva de um pescador nas costas, esta jaqueta combina estilo e funcionalidade. Feita em azul escuro, é perfeita para dias frios e ventosos, oferecendo conforto térmico e resistência ao vento. A frase \"Chumbada Oficial\" está estampada em uma manga, enquanto \"Pescar é Viver\" na outra, reforça a paixão pela pesca. Ideal para pescadores que buscam desempenho e estilo nas suas aventuras.</p>",
     "specs": {},
     "price": "399.00",
-    "category": "Outros",
-    "section": "Outros",
+    "category": "Vestuário",
+    "section": "Vestuário",
     "colors": [],
     "sizes": [],
     "rating": 5.0,
     "reviews": 0,
     "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/jaqueta-frente.png?v=1776190685"
-  },
-  {
-    "name": "Anzol 50656 (Pct com 15)",
-    "desc": "<p>O anzol modelo 50656 é um verdadeiro destaque para pescarias que exigem precisão e eficiência. Fabricado com um material extremamente fino, sua principal característica é ser altamente fisgador, facilitando a captura de peixes com menor esforço no momento da fisgada. Apesar de a resistência não ser seu ponto forte, ele compensa com outras vantagens incomparáveis.</p>\n<p>Este anzol é ultraleve, o que o torna ideal para situações em que a leveza faz a diferença. Sua morte bem aberta permite acomodar iscas generosas, mesmo em seus menores tamanhos, garantindo versatilidade para diferentes tipos de pescaria. Além disso, o design leve do anzol 50656 o torna perfeito para correntezas, proporcionando uma movimentação natural da isca, que atrai ainda mais os peixes.</p>\n<p>Seja na pesca esportiva ou recreativa, o anzol 50656 combina eficiência e delicadeza, sendo uma excelente escolha para quem busca resultados com precisão e desempenho.</p>",
-    "specs": {},
-    "price": "18.20",
-    "category": "Anzol",
-    "section": "Anzol",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/Anzol-50656-Olhal-3-Niquel.png?v=1776190726"
-  },
-  {
-    "name": "Anzol 53117 (Pct com 15)",
-    "desc": "<p>Versatilidade e Eficiência na Pesca</p>\n<p>O Anzol 53117 é a escolha perfeita para pescadores que buscam um equipamento versátil e confiável. Desenvolvido para oferecer máxima eficiência em diferentes modalidades de pesca, este anzol combina resistência e afiação de forma excepcional. </p>\n<p>Uma de suas principais características é sua ponta envenenada, ou seja, ligeiramente inclinada em relação à haste. Esse design exclusivo proporciona fisgadas precisas e seguras, especialmente no momento crítico em que o peixe tenta cuspir a isca após sentir o anzol. Além disso, sua \"morte\" generosa permite carregar iscas maiores e mais volumosas, sem comprometer sua performance.</p>\n<p>O Anzol 53117 é ideal para uma ampla variedade de ambientes e espécies:  <br>Excelente para capturar peixes como canguás e outros que preferem uma isca mais caprichada.  Este modelo é muito utilizado nas plataformas de pesca.</p>\n<p><br>Fabricado com materiais de alta resistência e entregue ao cliente com afiação pronta para uso, o Anzol 53117 garante fisgadas eficazes e maior segurança durante a pesca. Se você precisa de um anzol que combine qualidade, versatilidade e desempenho, o Anzol 53117 é a sua melhor escolha.</p>",
-    "specs": {},
-    "price": "18.20",
-    "category": "Anzol",
-    "section": "Anzol",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/Anzol-53117-Olhal-4-Niquel.png?v=1776190734"
-  },
-  {
-    "name": "Anzol Akitasune (Pct com 15)",
-    "desc": "<p>Precisão e Resistência</p>\n<p>O Anzol Akitasune é projetado para atender pescadores exigentes que precisam de um equipamento confiável para capturar peixes com bocas menores. Com uma ponta ultraafiada e acabamento de alta qualidade, o Akitasune oferece máxima penetração e reduz o risco de escape. Fabricado em aço carbono tratado, combina resistência e durabilidade, ideal para pescarias desafiadoras em água doce ou salgada.</p>\n<p>Este anzol é perfeito para espécies menores ou que requerem maior precisão na fisgada, sem comprometer a força necessária para enfrentar peixes mais valentes. O design refinado e discreto garante que a isca seja apresentada de forma natural, aumentando a eficiência da pesca.</p>\n<p>Seja em rios, lagos ou no mar, confie no Anzol Akitasune para levar sua pescaria ao próximo nível!</p>",
-    "specs": {},
-    "price": "18.20",
-    "category": "Anzol",
-    "section": "Anzol",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/Anzol-Akitasune.png?v=1776190742"
-  },
-  {
-    "name": "Anzol Chinu (Pct com 15)",
-    "desc": "<p>Resistência e Versatilidade para Todas as Pescarias</p>\n<p>O Anzol Chinu é um modelo de anzol extremamente conhecido na maioria das modalidades de pesca. Conhecido por sua alta resistência e versatilidade, ele é ideal para pescadores que buscam performance em diferentes tipos de ambiente, seja em pesqueiros, rios, ou na pesca de praia.</p>\n<p>Projetado com uma haste pequena, o Anzol Chinu oferece um equilíbrio perfeito entre robustez e praticidade, sendo capaz de suportar grandes desafios, mesmo com peixes de grande porte. Sua capacidade de aceitar uma isca generosa amplia as possibilidades, tornando-o a escolha certa para atrair diferentes espécies.</p>\n<p>Com o Anzol Chinu, você estará preparado para capturas inesquecíveis, confiando em um equipamento que entrega qualidade e eficiência em cada detalhe.</p>",
-    "specs": {},
-    "price": "18.80",
-    "category": "Anzol",
-    "section": "Anzol",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/Anzol-Chinu.png?v=1776190750"
-  },
-  {
-    "name": "Anzol Iseama (Pct com 15)",
-    "desc": "<p>O Anzol Iseama é sinônimo de qualidade e eficiência para pescadores que exigem o melhor em seus equipamentos. Fabricado com aço de alta resistência, ele é projetado para suportar as capturas mais desafiadoras sem deformações ou quebras, garantindo confiança em cada fisgada.  </p>\n<p>Com ponta já envenenada de fábrica, o Iseama oferece extrema precisão e penetração rápida, enquanto sua fisga foi desenvolvida para ser altamente eficaz. Uma vez que o peixe é fisgado, será muito difícil que ele escape, aumentando significativamente as chances de sucesso em sua pescaria.  </p>\n<p>Versátil e adaptável, o Anzol Iseama pode ser usado em diversas modalidades, seja na pesca de praia, rios ou pesqueiros. Ele é a escolha ideal para quem busca desempenho superior e resultados garantidos, independentemente do ambiente ou do tipo de peixe.  </p>\n<p>Confie no Anzol Iseama e transforme sua experiência de pesca!</p>",
-    "specs": {},
-    "price": "18.20",
-    "category": "Anzol",
-    "section": "Anzol",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/isaema.png?v=1776190757"
-  },
-  {
-    "name": "Anzol Izumezina (Pct com 15)",
-    "desc": "<p>Versatilidade e Resistência</p>\n<p>O Anzol Izumezina, projetado com qualidade e precisão, é a escolha ideal para pescadores exigentes. Fabricado com materiais de alta resistência, este anzol é extremamente durável, mesmo em tamanhos pequenos, é perfeito para enfrentar as condições mais desafiadoras em pescarias oceânicas. Seu design exclusivo com morte aberta, proporciona maior eficiência nas fisgadas, possibilidade de carrega-lo mais com isca, e espaço para uma boa fisgada mesmo com iscas artificiais garantindo maior taxa de sucesso.</p>\n<p>Características principais:</p>\n<p>- Extrema resistência: Ideal para captura de espécies oceânicas, mesmo em condições adversas.<br>- Versatilidade única: Perfeito para montagem de suporte hooks, utilizado em metal jigs.<br>- Desempenho superior em sistemas como Down Shot ou Double Shot.<br>- Compatibilidade com kits: Utilizado com o Kit Down Shot da Chumbada Oficial na extremidade inferior do chicote mais uma isca artificial em uma pernada superior (montado com Izumezina sem peso), ou Double Shot com Jig Heads e iscas artificiais na extremidade inferior do chicote e uma pernada superior com outra isca artificial (montado com Izumezina sem peso).<br>- Aplicação prática: Pode ser empregado como parte da pernada em diversos sistemas de pesca, principalmente com iscas artificiais como camarão soft.</p>\n<p>Seja para pescarias técnicas ou para quem busca o melhor desempenho, o Anzol Izumezina combina inovação, durabilidade e funcionalidade. Um produto indispensável para maximizar suas aventuras de pesca.</p>",
-    "specs": {},
-    "price": "18.20",
-    "category": "Anzol",
-    "section": "Anzol",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/izumezina.png?v=1776190766"
-  },
-  {
-    "name": "Anzol Keiryu (Pct com 15)",
-    "desc": "<p>O Anzol Keiryu  é o aliado perfeito para pescadores que valorizam resistência, afiação e versatilidade. Amplamente utilizado na pesca de praia, também é excelente para a captura de tilápias em rios e pesqueiros e tainhas nas plataformas de pesca quando há a incidência dessa espécie (utilizando minhoca de praia e pedaços pequenos de carne adicionando corante vermelho alimentício), sendo indispensável para pescadores esportivos e profissionais.  </p>\n<p>Os tamanhos menores do Keiryu  são especialmente eficazes na pesca de tainhas, destacando-se em plataformas de pesca, onde a precisão e a segurança do anzol fazem toda a diferença. Sua fisga curvada para dentro garante que o peixe permaneça firmemente preso, reduzindo perdas e aumentando suas chances de sucesso.  </p>\n<p>Seja em montagens de sistemas de pesca de praia ou em situações específicas, como plataformas de pesca, o Keyriu é a escolha confiável para capturas variadas.</p>",
-    "specs": {},
-    "price": "18.20",
-    "category": "Anzol",
-    "section": "Anzol",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/keiryu_1.jpg?v=1773694342"
-  },
-  {
-    "name": "Anzol Kitsune (Pct com 15)",
-    "desc": "<p>O Anzol Kitsune é o equilíbrio perfeito entre resistência, versatilidade e eficiência, seu design o posiciona entre os modelos Akita Kitsune (morte baixa e ideal para peixes de boca pequena ) e Maruseigo (design coringa e muito resistente na maioria das modalidades de pesca). </p>\n<p>Com uma haste ligeiramente alongada, oferece praticidade na montagem e possibilidade de auxiliar a iscada nele mesmo sem atrapalhar a fisga. Sua morte baixa, porém eficaz, é ideal para segurar a isca de maneira firme sem comprometer a naturalidade da apresentação. Além disso, sua estrutura robusta garante resistência mesmo diante de espécies de maior porte.  </p>\n<p>O Anzol Kitsune é perfeito para iscas um pouco mais generosas (lembrando de usar mais sua haste principalmente na pesca de praia), sendo a escolha ideal para pescadores que buscam um equipamento confiável e adaptável a diversas situações de pesca. Seja em água doce ou salgada, ele proporciona performance e eficiência para aumentar suas chances de fisgada.  </p>\n<p>Destaques:<br>- Haste comprida: facilita a montagem e manuseio.  <br>- Morte baixa: agilidade na fisgada.  <br>- Estrutura resistente: suporta peixes de maior porte.  <br>- Versatilidade: ideal para iscas generosas e diversas modalidades de pesca.  </p>\n<p>O Anzol Kitsune é a escolha certa para quem deseja unir força e funcionalidade em um único modelo de anzol.</p>",
-    "specs": {},
-    "price": "18.20",
-    "category": "Anzol",
-    "section": "Anzol",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/kitsune.png?v=1776190780"
-  },
-  {
-    "name": "Anzol Maruseigo XC (Pct com 15)",
-    "desc": "<p>Anzol Maruseigo XC (Pct com 15)</p>",
-    "specs": {},
-    "price": "22.40",
-    "category": "Anzol",
-    "section": "Anzol",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/maruseigo-xc.png?v=1776190795"
-  },
-  {
-    "name": "Anzol Sode (Pct com 15)",
-    "desc": "<p>Versatilidade e Confiabilidade para Sua Pescaria</p>\n<p>O anzol SODE é um dos favoritos entre os pescadores, especialmente nas pescarias de praia, mas suas características permitem seu uso também em rios e pesqueiros. Com um design cuidadosamente projetado, o SODE combina eficiência e precisão, sendo ideal para a captura de espécies como o carapicu, a carapeba e até mesmo sargos.</p>\n<p>Características:<br>Morte Bem Aberta: Seu formato proporciona maior área de captura, garantindo fisgadas mais eficazes e a possibilidade de carregar iscas generosas.<br>Fisga Paralela à Haste: Esse detalhe no design aumenta a confiabilidade na fisgada<br>Haste Ligeiramente Comprida: Ideal para peixes com dentes (se atentar aos tamanhos dos peixes locais).<br>Leveza e Afiamento Extremo: Facilitando a penetração, mesmo em espécies com boca mais dura.<br>Perfil Compacto: A morte aberta e baixa, torna-o discreto e eficiente na água e em meio a isca.<br>O anzol SODE é perfeito para quem busca alta performance, seja em praias, rios ou pesqueiros. Um equipamento confiável que tem nível e precisão, pronto para elevar o nível de sua pescaria</p>",
-    "specs": {},
-    "price": "16.80",
-    "category": "Anzol",
-    "section": "Anzol",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/sode.png?v=1776190805"
-  },
-  {
-    "name": "Anzol Akita Kitsune Premium QUIMIPOINT (Pct com 15)",
-    "desc": "<p>Anzol Akita Kitsune Premium Quimipoint</p>\n<p>O Akita Kitsune Premium Quimipoint representa o que há de mais moderno no mundo da pesca esportiva. Equipado com a tecnologia de afiação química mais avançada disponível atualmente no mercado mundial, este anzol é feito para quem leva a pesca a sério — especialmente atletas que participam de campeonatos e competições de alto nível, onde cada fisgada faz a diferença.</p>\n<p>Sua ponta ultrafina, afiada por processo químico de última geração, garante fisgadas instantâneas e extremamente precisas, mesmo com os toques mais sutis. Essa precisão é essencial em torneios, onde tempo de reação e aproveitamento de ataque são cruciais para o sucesso.</p>\n<p>Fabricado com aço de alta resistência, este modelo foi projetado para suportar combates intensos com peixes fortes, sem abrir ou deformar. Ainda assim, mantém uma leveza estratégica, que favorece a apresentação da isca em meia água ou superfície usando atrativos ou boias, evitando que ela afunde na areia e perca eficiência.</p>\n<p>Seu formato técnico, com haste curta, abertura reduzida e ponta em ângulo negativo, é ideal para espécies de boca menor e técnicas refinadas, ampliando as chances de fisgada durante a sucção da isca.</p>\n<p>O Akita Kitsune Premium Quimipoint é a escolha certa para pescadores exigentes, técnicos e competitivos, que buscam excelência em cada detalhe da pescaria.</p>\n<p>Precisão, resistência e tecnologia de ponta – tudo em um só anzol.</p>",
-    "specs": {},
-    "price": "48.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/akita-kitsune-prod.jpg?v=1773694309"
-  },
-  {
-    "name": "Anzol Kisu Libero Premium QUIMIPOINT (Pct com 15)",
-    "desc": "<p>Anzol Kisu Libero Quimipoint – Precisão e Potência para Longas Distâncias</p>\n<p>O Kisu Libero Quimipoint foi desenvolvido para pescadores que exigem performance em cada arremesso. Com haste mais longa que o padrão, permite o uso de mais isca, como camarão, minhoca ou lula, proporcionando atratividade extra aos peixes, especialmente em pescarias de praia.</p>\n<p>Sua morte alta oferece firmeza na fisgada, impedindo que o peixe escape com facilidade. Aliada à tecnologia Quimipoint, que proporciona um afiamento químico de altíssima precisão, a fisgada se torna instantânea.</p>\n<p>Ideal para lançamentos longos, o Kisu Libero garante não só alcance, mas também a segurança de trazer o peixe até a areia com firmeza. Seja para peixes rápidos ou mais cautelosos, essa é a combinação perfeita entre engenharia e eficiência na pesca de praia.</p>",
-    "specs": {},
-    "price": "48.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/kisu-libero-prod.jpg?v=1773694302"
-  },
-  {
-    "name": "Anzol Atleta Kisu Premium QUIMIPOINT",
-    "desc": "<p><span data-sheets-root=\"1\">Anzol Atleta Kisu Premium Quimipoint – Chumbada Oficial <br><br>O Atleta Kisu Premium Quimipoint, da Chumbada Oficial, é o anzol ideal para quem busca versatilidade, resistência e alto desempenho em qualquer tipo de pescaria. Com design próprio e cuidadosamente desenvolvido, ele combina força, precisão e eficiência em um único modelo. <br><br>Com formato muito parecido ao consagrado Akita Kitsune, o Atleta Kisu se diferencia por ter um gap levemente maior, oferecendo uma fisgada ainda mais certeira, além de ser mais resistente, suportando bem peixes mais fortes ou briguentos. <br><br>Características principais: <br>• Formato Coringa: Um anzol universal, que se adapta perfeitamente a diversos tipos de pesca e espécies. Seja no rio, mar ou pesqueiro, ele entrega resultado. <br>• Gap Levemente Maior: Ideal para o uso com iscas como camarão, lula e outras menores, favorecendo a apresentação da isca e aumentando a eficiência da fisgada. <br>• Alta Resistência: Estrutura reforçada, com ponta Quimipoint super afiada, garantindo penetração fácil e segura. <br>• Revestimento Anticorrosivo: Excelente durabilidade em ambientes de água salgada e doce. <br><br>O Atleta Kisu Premium Quimipoint é aquele anzol que não pode faltar no seu estojo: forte, afiado e pronto para qualquer situação. <br>Tamanhos disponíveis: #4#5#6#7#8#9</span></p>",
-    "specs": {},
-    "price": "48.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/atleta-kisu-prod.jpg?v=1773694298"
-  },
-  {
-    "name": "Anzol First Kisu Premium (Pct com 15)",
-    "desc": "<style type=\"text/css\"><!--br {mso-data-placement:same-cell;}--></style>\n<style type=\"text/css\"><!--br {mso-data-placement:same-cell;}--></style>\n<p><span data-sheets-root=\"1\">Anzol First Kisu – Precisão e Desempenho em Cada Fisgada<br>O First Kisu é um anzol de alta performance, desenvolvido com foco em competições de pesca, onde cada detalhe faz a diferença. Extremamente afiado e com ponta envenenada, oferece fisgadas rápidas e precisas mesmo com os toques mais sutis.<br><br>A ponta envenenada consiste em uma leve inclinação lateral da ponta do anzol em relação à haste, o que proporciona uma fisgada instantânea no momento exato em que o peixe sente o anzol e cospe a isca. Essa torção sutil transforma o comportamento natural do peixe em uma vantagem para o pescador, fisgando no reflexo da tentativa de escapar.<br><br>Seu formato foi pensado para oferecer o equilíbrio ideal entre resistência e sensibilidade. Leve, discreto e com excelente penetração, é perfeito para pescarias técnicas, especialmente em praias ou pesqueiros que exigem precisão.<br><br>Disponível em embalagem com 15 unidades, o First Kisu é o anzol ideal para quem busca desempenho profissional em qualquer tipo de pescaria.</span><br></p>",
-    "specs": {},
-    "price": "48.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/first-kisu-prod.jpg?v=1773694297"
-  },
-  {
-    "name": "Anzol A1 Kisu Premium QUIMIPOINT (Pct com 15)",
-    "desc": "<style type=\"text/css\"><!--br {mso-data-placement:same-cell;}--></style>\n<p><span data-sheets-root=\"1\">Anzol A1 Kisu Premium Quimipoint<br>O A1 Kisu Premium Quimipoint foi desenvolvido para pescadores que buscam alto desempenho, precisão e confiabilidade, mesmo em condições desafiadoras. Ele combina afiação extrema com resistência superior, oferecendo um dos melhores custos-benefícios do mercado para pesca técnica e refinada.<br><br>Sua principal inovação está na tecnologia Quimipoint, um avançado processo de afiação química que resulta em uma ponta extremamente fina e penetrante. Essa tecnologia proporciona o mais alto nível de afiação disponível atualmente, garantindo fisgadas rápidas e seguras mesmo com toques sutis dos peixes.<br><br>A composição metálica da linha A1 utiliza uma liga especial de tungstênio e vanádio, que confere ao anzol:<br><br>Até 20% mais resistência à tração em comparação com ligas convencionais;<br><br>25% mais dureza, mantendo a ponta afiada por muito mais tempo;<br><br>100% mais resistência ao desgaste, assegurando durabilidade superior mesmo após várias pescarias.<br><br>Outro diferencial importante é sua haste prolongada, que permite iscar com maior quantidade ou comprimento de isca, mesmo se tratando de um anzol de tamanho pequeno. Essa característica aumenta a atratividade da isca e melhora a apresentação ao peixe, sem comprometer a sutileza necessária em pescarias mais técnicas.<br><br>Tamanhos disponíveis:<br>#2,5 – #4 – #5 – #6 – #7 – #8<br><br>O A1 Kisu Premium Quimipoint é indicado para pescarias que exigem sensibilidade, precisão e firmeza, como pesca de praia, rios e tilápias, com iscas naturais ou artificiais de pequeno porte</span></p>",
-    "specs": {},
-    "price": "48.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/a1-kisu-prod.jpg?v=1773694280"
-  },
-  {
-    "name": "Anzol A5 Kisu Premium Quimipoint (Pct com 15)",
-    "desc": "<style type=\"text/css\"><!--br {mso-data-placement:same-cell;}--></style>\n<p><span data-sheets-root=\"1\">Anzol Chumbada Oficial A5 Kisu Premium Quimipoint – Fisgada Rápida, Peixe na Mão<br><br>O A5 Kisu Premium Quimipoint, da Chumbada Oficial, é um anzol desenvolvido para quem busca máxima eficiência na fisgada e mínimo risco de escape. Com a avançada tecnologia Quimipoint, sua ponta é afiada quimicamente, proporcionando penetração imediata, mesmo nos toques mais leves.<br><br>Seu grande diferencial está no design, que segura o peixe com firmeza, evitando que ele escape após a fisgada — uma vantagem decisiva, principalmente em pescarias em praias de tombo, onde muitos peixes se soltam antes de serem recolhidos. Ideal para competições.<br><br>Por ser um anzol delicado e preciso, ele não comporta muita isca, sendo ideal para pescarias de longa distância, onde é necessário leveza e aerodinâmica. Também se destaca nas pescarias de tilápia, sendo extremamente sensível e eficiente.<br><br>Destaques do A5 Kisu Premium Quimipoint:<br><br>Tecnologia Quimipoint: ponta afiada quimicamente para fisgadas certeiras<br><br>Design Kisu com alta retenção: o peixe bate e fica<br><br>Ideal para pesca de praia (tombo) e longos arremessos<br><br>Excelente para tilápias e peixes que exigem sensibilidade<br><br>Aço carbono de alta resistência e acabamento anti-reflexo<br><br>Chumbada Oficial A5 Kisu – Fisgada rápida. Segurança total. Peixe garantido</span></p>",
-    "specs": {},
-    "price": "48.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/a5-kisu-prod.jpg?v=1773694278"
-  },
-  {
-    "name": "Anzol A4 Kisu Premium Quimipoint (Pct com 15)",
-    "desc": "<p>A4 KISU Premium Quimipoint – Chumbada Oficial</p>\n<p>O A4 KISU Premium Quimipoint da Chumbada Oficial é a escolha ideal para pescarias de alto nível e competições. Disponível nos tamanhos 4, 5, 6, 7 e 8, ele é fabricado com aço super reforçado e conta com uma haste longa, perfeita para carregar mais isca e garantir uma apresentação impecável.</p>\n<p>Seu gap possui o tamanho ideal para fisgadas firmes, enquanto a morte curta foi desenvolvida especialmente para capturar peixes rápidos de passagem, otimizando o desempenho nas pescarias mais exigentes.</p>\n<p>Equipado com a inovadora tecnologia Quimipoint, o A4 KISU Premium entrega uma ponta extremamente afiada, utilizando o que há de mais moderno no mercado mundial em termos de afiação. A precisão e a durabilidade da ponta garantem fisgadas rápidas, eficazes e muito mais produtividade.</p>\n<p>Características principais:<br> • Estrutura super reforçada para grandes desafios<br> • Haste longa para maior carga de isca<br> • Gap com tamanho ideal para competições<br> • Morte curta para peixes rápidos de passagem<br> • Tecnologia Quimipoint: ponta ultraafiada com a mais avançada tecnologia de afiação do mercado mundial<br> • Alta durabilidade e resistência ao desgaste</p>",
-    "specs": {},
-    "price": "48.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/a4-kisu-prod.jpg?v=1773694266"
-  },
-  {
-    "name": "Anzol Aji Sendou Premium",
-    "desc": "<p><span data-sheets-root=\"1\">Aji Sendou Premium – Chumbada Oficial <br><br>O Aji Sendou Premium da Chumbada Oficial é um anzol especialmente desenvolvido para pescadores exigentes que buscam alto desempenho nas pescarias de praia. Seu design combina curvatura acentuada com haste curta, proporcionando fisgadas precisas, geralmente no “canivete” do peixe – ponto que aumenta as chances de captura e reduz o risco de o peixe escapar durante o recolhimento. Além disso, esse formato ajuda a evitar que o peixe engula o anzol, facilitando tanto o manuseio quanto a soltura quando necessário. <br><br>Produzido com aço de alta resistência e acabamento na cor verde, o anzol não só é durável e resistente à corrosão, como também se destaca como um atrativo visual para os peixes, simulando o brilho de pequenos organismos marinhos. Sua robustez permite o uso de iscas maiores como tatuíra, corrupto, camarão e outras mais volumosas, sendo ideal para quem busca peixes de médio a grande porte com eficiência e segurança. <br><br>Com o Aji Sendou Premium, você tem mais do que um anzol: tem uma ferramenta de confiança nas condições mais exigentes da pesca esportiva. <br>Tamanhos disponíveis: #9 #10 #11</span></p>",
-    "specs": {},
-    "price": "48.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/aji-sendou-prod.jpg?v=1773694257"
-  },
-  {
-    "name": "Anzol Fune Karei Premium QUIMIPOINT",
-    "desc": "<p><span data-sheets-root=\"1\">O Anzol Fune Karei Premium Quimipoint da Chumbada Oficial foi desenvolvido com precisão e tecnologia de ponta para oferecer desempenho superior, resistência e versatilidade ao pescador moderno. <br><br>Principais características: <br>• Afiação Química Quimipoint: Uma das tecnologias mais inovadoras do mundo da pesca atualmente, garante uma ponta extremamente afiada, com penetração rápida e fisgadas precisas. <br>• Design de Pata: Haste reta e sem olho, ideal para amarração direta da linha. <br>• Cor: Preto, discreto e eficiente para pescarias em fundos variados. <br>• Alta Resistência: Fabricado com aço de altíssima qualidade, suporta tração intensa e é ideal para uso com iscas grandes e captura de peixes de grande porte. <br>• Versátil: Pode ser utilizado em pescarias de rio, praia, pesqueiros e também na pesca embarcada. <br><br>O Fune Karei Premium Quimipoint é a escolha ideal para quem busca performance, inovação e resistência em qualquer tipo de pescaria. <br>Tamanhos disponíveis: #11#13#14#15</span></p>",
-    "specs": {},
-    "price": "48.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/fune-karei-prod.jpg?v=1773694256"
-  },
-  {
-    "name": "Anzol Yamame Premium QUIMIPOINT",
-    "desc": "<p><span data-sheets-root=\"1\">Anzol Yamame Premium Quimipoint – Chumbada Oficial <br><br>O Anzol Yamame Premium Quimipoint da Chumbada Oficial é meticulosamente projetado para pescadores que buscam máxima eficiência ao utilizar iscas maiores, como o corrupto pequeno. Seu design inovador apresenta um gap amplo, facilitando a acomodação de iscas volumosas e garantindo fisgadas mais eficazes. <br><br>A ponta elevada do anzol simplifica o processo de iscagem e é especialmente adequada para a captura de espécies com bocas de maior abertura, como pampo, parati e cangoa. Essa configuração aumenta significativamente a taxa de sucesso nas fisgadas, tornando-o um aliado indispensável na pesca dessas espécies. <br><br>Incorporando a tecnologia de afiação química Quimipoint, o Yamame Premium Quimipoint apresenta pontas ultrafinas e extremamente afiadas, garantindo fisgadas instantâneas e precisas, mesmo em toques sutis. Essa tecnologia assegura que o anzol penetre rapidamente, reduzindo a chance de o peixe escapar. <br><br>Além disso, o anzol possui um microfarpa que mantém o peixe seguro durante a recuperação, mas facilita a soltura quando necessário, ideal para pescadores que praticam o pesque e solte. Sua construção robusta e leve favorece a apresentação natural da isca, evitando que ela afunde na areia e perca eficiência. <br><br>Em resumo, o Anzol Yamame Premium Quimipoint combina design avançado, materiais de alta qualidade e tecnologia de ponta para oferecer uma experiência de pesca superior, especialmente ao lidar com iscas maiores e espécies de bocas amplas. <br>Tamanhos disponíveis: #3 #4 #5 #6 #7 #8</span></p>",
-    "specs": {},
-    "price": "48.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/yamame-prod.jpg?v=1773694255"
-  },
-  {
-    "name": "Isca Artificial AjiTwin",
-    "desc": "<p><span data-sheets-root=\"1\">Lançamento Chumbada Oficial – AjiTwin<br>Apresentamos a AjiTwin, uma isca floating de alta resistência, projetada especialmente para a modalidade Aji­ng — técnica japonesa de pesca ultra-finesse, dinâmica e surpreendente. Ideal para capturas constantes de peixes menores, mas com a emoção extra de, a qualquer momento, fisgar um troféu inesperado.<br><br>Com design equilibrado e ação natural na água, a AjiTwin oferece desempenho excepcional mesmo nas condições mais sutis, garantindo movimentos irresistíveis aos predadores.<br><br>Tamanhos disponíveis: 5,5 cm e 4,5 cm<br>Tipo: Flutuante (Floating)<br>Uso recomendado: Pesca ultra-finesse na modalidade Aji­ng<br><br>Seja no mar ou em água doce, a AjiTwin vai te surpreender a cada arremesso!<br><br>#AjiTwin #AjiNg #PescaJaponesa #PescaUltralight #PescaFinesse #PescaEsportiva #FishingLife #FishingLures #IscaArtificial #ChumbadaOficial #PescaDeRobalo #PescaDePraia #SoftBait #FishingAddict #JapanFishing #PescaBrasileira #PescadorEsportivo #Lures #PescaEmbarcada #PescaNoMar #FishingGear #IscasSoft #FishermanLife #PescaComEstilo #Pesca</span></p>",
-    "specs": {},
-    "price": "14.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/capa-aji-twin_f4501ff0-2946-450a-96c5-d33c0c8d8df8.png?v=1776094843"
-  },
-  {
-    "name": "Isca Artificial AjiStingV",
-    "desc": "<p><span data-sheets-root=\"1\">Lançamento Chumbada Oficial – AjiStingV<br>A AjiStingV é uma isca ultralight desenvolvida especialmente para a modalidade Aji­ng, unindo design inovador e alta performance. Seu corpo foi totalmente projetado para aproveitar ao máximo a hidrodinâmica, gerando movimentos naturais e irresistíveis.<br><br>Possui cavidades estrategicamente posicionadas que liberam bolhas durante o trabalho, atraindo a atenção dos predadores. Além disso, conta com um furo que simula o olho da presa, aumentando o realismo.<br><br>Na cabeça, há uma massa especialmente projetada para a passagem do anzol, utilizando o mínimo de material possível para deixar o máximo de gap livre, garantindo fisgadas rápidas e precisas na boca do peixe.<br><br>Tamanho: 5 cm<br>Cores: Variadas<br>Tipo: Ultralight (Aji­ng)<br><br>Seja no mar ou em água doce, a AjiStingV entrega eficiência, realismo e fisgadas certeiras!<br><br>#AjiStingV #AjiNg #PescaUltralight #PescaJaponesa #PescaEsportiva #PescaFinesse #FishingLife #FishingLures #IscaArtificial #ChumbadaOficial #PescaDeRobalo #PescaDePraia #SoftBait #FishingAddict #JapanFishing #PescaBrasileira #PescadorEsportivo #Lures #PescaEmbarcada #PescaNoMar #FishingGear #IscasSoft #FishermanLife #PescaComEstilo #Pesca</span></p>",
-    "specs": {},
-    "price": "28.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/AjiStingV-cha.png?v=1777053529"
-  },
-  {
-    "name": "Kit Isca Artificial AjiNeedle",
-    "desc": "<p><span data-sheets-root=\"1\">A AjNeddle é uma isca desenvolvida para a pesca ultra finesse Ajing, com características únicas de alta velocidade de movimento e intensa vibração, chamando a atenção dos peixes mesmo em situações de pouca atividade. <br><br>Seu nome vem da palavra “Needle” (agulha), em referência ao seu corpo fino e hidrodinâmico, que corta a água com extrema agilidade. Produzida com material floating, super resistente e atóxico, essa micro isca soft de 4,5 cm está disponível em diversas cores, proporcionando uma pescaria de muita produtividade, mas com chances reais de capturar troféus inesperados. <br><br><br>#Ajing #Ultrafinesse #UltraLightFishing #AjingBrasil #MicroIscaSoft #PescaFinesse #AjingLife #ChumbadaOficial #FinesseFishing #AjNeddle #Needle #FishingVibes #IscaSoft #IscaFloating #PescaUltralight</span></p>",
-    "specs": {},
-    "price": "34.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/AjiNeedle-Cha.png?v=1777054023"
-  },
-  {
-    "name": "Kit Isca Artificial AjiBall",
-    "desc": "<p><span data-sheets-root=\"1\">A AjiBall é uma isca desenvolvida especialmente para a pesca ultra finesse, voltada para a modalidade Ajing, que exige máxima sensibilidade e naturalidade. Produzida em material floating, super resistente, atóxico e de alta durabilidade, com 4,5 cm, ela está disponível em diversas cores que se adaptam às mais variadas condições de pesca. <br><br>Seu nome vem das duas esferas localizadas na cauda, que geram um movimento extremamente provocante durante o trabalho, causando grande deslocamento de água e mantendo a isca na posição vertical durante a descida, graças à sua flutuabilidade. <br>Ideal para pescarias de alta produtividade, mas que também surpreende com a entrada de troféus inesperados. <br><br><br>#Ajing #UltraLightFishing #UltraFinesse #MicroIscaSoft #IscaFloating #FishingLife #PescaAjing #ChumbadaOficial #PescaFinesse #IscaSoft #AjingBrasil #PescaUltralight #AjingLovers #FinesseFishing #IscaAjiBall</span></p>",
-    "specs": {},
-    "price": "32.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/capa-aji-balls.jpg?v=1776697583"
-  },
-  {
-    "name": "Isca Artificial AjiBeast",
-    "desc": "<p><span data-sheets-root=\"1\">Lançamento Chumbada Oficial – AjiBeast</span></p>\n<p><strong><span data-sheets-root=\"1\">Pacote com 4 unidades</span></strong></p>\n<p><span data-sheets-root=\"1\">A AjiBeast é uma isca desenvolvida para a pesca finesse, com um corpo um pouco mais generoso e formato pensado para atrair predadores mesmo nas condições mais difíceis.<br><br>Seu grande diferencial são as asas inspiradas em insetos que possam ter caído na água. Essas asas foram projetadas estrategicamente para retardar o deslocamento da isca, mantendo-a por mais tempo na mesma posição. Isso permite um trabalho mais preciso, movimentando bastante água e irritando o peixe até o ataque.<br><br>Tamanho: 50 mm<br>Cores: Variadas<br>Tipo: Finesse / Aji­ng<br><br>Com a AjiBeast, cada arremesso se transforma em uma oportunidade de provocar e capturar o peixe no momento certo.<br><br>#AjiBeast #AjiNg #PescaFinesse #PescaJaponesa #PescaUltralight #PescaEsportiva #FishingLife #FishingLures #IscaArtificial #ChumbadaOficial #PescaDeRobalo #PescaDePraia #SoftBait #FishingAddict #JapanFishing #PescaBrasileira #PescadorEsportivo #Lures #PescaEmbarcada #PescaNoMar #FishingGear #IscasSoft #FishermanLife #PescaComEstilo #Pesca</span></p>",
-    "specs": {},
-    "price": "36.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/ajibeast-cha.png?v=1777055119"
-  },
-  {
-    "name": "Jig Head AJI",
-    "desc": "<p>JigHead AJI – Precisão na modalidade Ajing</p>\n<p>O JigHead modelo AJI foi desenvolvido especialmente para a modalidade Ajing, garantindo máxima eficiência na pescaria ultrafinesse.</p>\n<p>Atualmente disponível no #4 e nos pesos de 1g, 1.5g, 1.75g, 2g e 3 gramas, ele se destaca por seu anzol exclusivo, projetado para proporcionar fisgadas mais precisas e seguras:<br> • 🔹 Ultra afiado e super resistente – ideal para peixes que exigem sensibilidade e firmeza.<br> • 🔹 Olhal invertido – ao contrário dos anzóis comuns, libera mais espaço para o gap de fisgada, aumentando a eficiência.<br> • 🔹 Ponta aberta – desenvolvida para fisgar o peixe no exato momento em que ele tenta cuspir a isca, muitas vezes prendendo no céu da boca.</p>\n<p>Mesmo sendo pequeno, o JigHead AJI tem um poder de fisgada surpreendente, tornando-se indispensável para quem busca produtividade e resultados consistentes na pescaria leve.</p>\n<p>#Ajing #JigHeadAJI #UltraFinesse #PescaLeve #ChumbadaOficial #SoftBaits #IscasSoft #PescariaProdutiva #FishingLife #PescaEsportiva</p>",
-    "specs": {},
-    "price": "7.94",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/jig-aji.jpg?v=1773839912"
-  },
-  {
-    "name": "Isca Artificial AjiMizu",
-    "desc": "<p><span data-sheets-root=\"1\">AjiMizu é uma isca ultraversátil desenvolvida para pescarias finesse e ultralight, com 5,5 cm de comprimento, mas que pode ser facilmente ajustada. Suas “bolinhas” ao longo do corpo permitem que você corte o excesso e reduza o tamanho da isca até 3 cm, mantendo três bolinhas, onde será fixado o anzol.<br><br>Essas bolinhas têm função estratégica: além de guiarem o corte, elas geram microvibrações na água, chamando a atenção dos peixes mesmo em recolhimentos lentos. Sua cauda dupla proporciona um nado extremamente realista, simulando pequenos invertebrados ou presas naturais.<br><br>A AjiMizu pode ser utilizada com anzol AJI #4 nas montagens entre 3 e 5 cm, garantindo uma apresentação discreta e natural. Quando mantida em seu tamanho máximo (5,5 cm), ela também aceita anzóis maiores.<br><br>Essa versatilidade faz da AjiMizu uma excelente escolha para quem busca produtividade em qualquer situação de pesca, seja em água salgada ou doce.<br><br>#AjiMizu #SoftBait #IscaSoft #PescaUltralight #PescaFinesse #Ajing #LightGame #PescaEsportiva #PescaDePraia #PescaDeRobalo #PescaDeTilapia #PescaEmRio #PescaEmLago #MicroIsca #FishingLife #FishingLure #SoftLure #FishingBrazil #PescaBrasil #LureFishing #UltralightFishing #PescaArtificial #Pescaria #PesqueESolte #CatchAndRelease #ChumbadaOficial #FishingVibes #FishingIsLife #PescaComEstilo #PescaUltralightBrasil #AjiFishing #FishingAddict</span></p>",
-    "specs": {},
-    "price": "32.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/AjiMizu-cha.png?v=1777055775"
-  },
-  {
-    "name": "Isca Artificial AjiRing",
-    "desc": "<p><span data-sheets-root=\"1\">AjiRing – Delicadeza e Hidrodinâmica em 4,5 cm<br><br>A AjiRing é uma isca ultrafinesse pensada para pescadores que buscam sutileza e produtividade. Com 4,5 cm de comprimento, ela foi projetada para uso com micro Jigheads, oferecendo uma apresentação extremamente natural.<br><br>O corpo da AjiRing possui um furo vazado que cria um efeito hidrodinâmico diferenciado, potencializando o movimento da sua cauda em formato de folha. Esse conjunto faz com que a isca trabalhe de forma suave e provocante, mesmo em recolhimentos lentos, atraindo os peixes mais manhosos.<br><br>Perfeita para pescaria finesse e ultralight, a AjiRing é ideal para situações onde é preciso provocar o ataque de peixes desconfiados. Está disponível em diversas cores, permitindo ao pescador ajustar a apresentação conforme a situação da água, profundidade ou claridade.<br><br>#ajiring #ajing #ajingbrasil #ajinglife #ajingstyle #ultralightfishing #pescaultralight #pescaesportiva #pescanalinha #microiscas #softbaits #robalo #pescarobalo #pesqueesolte #fishinglife #fishingbrasil #peixeesportivo #pescaemdeagua #chumbadaoficial #pescafinesse #pescadoresdobrasil</span></p>",
-    "specs": {},
-    "price": "30.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/AjuRing-roxo-estrelar.png?v=1777056477"
-  },
-  {
-    "name": "Isca Artificial AjiSho",
-    "desc": "<p><span data-sheets-root=\"1\">AjiSho – A Isca que Plana na Água e Provoca Ataques<br><br>A AjiSho foi desenvolvida para pescadores que buscam uma experiência diferenciada na pesca finesse e no Ajing. Seu corpo mais volumoso garante maior deslocamento de água e chama a atenção dos peixes mesmo em situações de baixa atividade.<br><br>O nome AjiSho remete ao seu trabalho característico: um movimento lento, contínuo e bem provocante, que faz a isca planar na água de forma natural, criando um efeito irresistível para robalos, xereletes e outras espécies de boca pequena.<br><br>Com 5 cm de comprimento, ela foi projetada para oferecer versatilidade: pode ser trabalhada no fundo, na meia-água ou até mesmo na sub-superfície, graças ao seu formato que favorece o planeio e ao material floating super resistente, que permite várias capturas sem perder a eficiência.<br><br>Pode ser usada com JigHead AJI #4, micro jigs ou anzóis de haste longa, possibilitando montagens diversas para diferentes situações de pesca, inclusive em locais de água parada ou corrente fraca.<br><br>Seja em recolhimento lento ou contínuo, a AjiSho entrega produtividade e emoção em cada pescaria, provocando ataques certeiros e aumentando suas chances de sucesso.<br><br><br>#AjiSho #ChumbadaOficial #Ajing #PescaUltralight #PescaFinesse #MicroIsca #IscaFlutuante #Robalo #Xerelete #PescaEsportiva #FishingLife #IscaSoft #JigHead #Pescaria</span></p>",
-    "specs": {},
-    "price": "28.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/AjiSho-Cha.png?v=1777056865"
-  },
-  {
-    "name": "Kit Isca Artificial AjiKaze",
-    "desc": "<p><span data-sheets-root=\"1\">AjiKaze é uma isca desenvolvida para pescarias ultrafinesse na modalidade Ajing. Seu design é inspirado em pequenos vermes, muito comuns como alimento natural dos peixes em rios e estuários. Por ser extremamente leve, quando combinada com micro jigheads, a AjiKaze se torna uma isca de fácil sucção até mesmo para peixes de pequeno porte, garantindo alta produtividade na pescaria.<br><br>Seu corpo possui pequenas saliências em formato de segmentos levemente saltados (como “lombos”), que geram vibrações sutis na água, atraindo predadores de forma natural e eficiente. O nome Kaze vem do japonês e significa “vento”, representando a leveza e a sutileza do trabalho dessa isca. Já o prefixo Aji faz referência ao Ajing, a técnica japonesa de pesca ultralight.<br><br>Disponível em diversas cores, a AjiKaze é perfeita para quem busca precisão, sutileza e eficiência na pescaria finesse.<br><br>#ajikaze #ajing #ajingbrasil #pescaultralight #pescaultrafinesse #pescafinesse #microisca #chumbadaoficial #pescariadeajing #pescanorio #pescadecostao #pescanaestrada #softbait #pescanapraia #pescacomjighead #pescaderobalo #pescadepeixespequenos #fishinglife #fishinggear #luremaking #iscaartificial #pescaesportiva #pescaria</span></p>",
-    "specs": {},
-    "price": "24.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/AjiKaze-cha.png?v=1777058392"
-  },
-  {
-    "name": "Kit Isca Artificial AjiFukura",
-    "desc": "<p><span data-sheets-root=\"1\">AjiFukura</span></p>\n<p><span data-sheets-root=\"1\"><strong>Pacote com 6 unidades</strong><br><br>A AjiFukura é uma isca desenvolvida para pescaria ultrafinesse, perfeita para quem pratica a modalidade Ajing e busca produtividade aliada à emoção de capturar peixes esportivos.<br><br>Com 4,5 cm de comprimento, ela simula um girino com barriga volumosa e um rabo realístico, que produz um movimento extremamente atrativo mesmo em recolhimentos lentos. Seu design foi pensado para trabalhar de forma natural na água, chamando a atenção de espécies mais desconfiadas, como o robalo, que é o alvo principal desta isca.<br><br>Por ser feita em material macio e resistente, garante grande durabilidade e excelente ação, mesmo após diversas capturas. É ideal para uso com JigHeads leves, micro anzóis e montagens ultralight, tornando-se uma excelente opção para pescarias em estuários, costeiras ou rios de água salgada e doce.<br><br>O nome AjiFukura tem origem no japonês:<br><br>Aji — referência direta à modalidade Ajing<br><br>Fukura — vem do verbo japonês fukureru (膨れる), que significa inchar, inflar, ficar volumoso, remetendo ao design da isca com barriga bem destacada, ideal para chamar a atenção dos predadores.<br><br><br>#AjiFukura #Ajing #Ultrafinesse #IscasUltrafinesse #PescaDeRobalo #Robalo #FishingLure #LureFishing #SoftBait #IscaDeGirino #FishingBrazil #BrFishing #PescaEsportiva #FishingLife #InchaVolumosa #BarrigaFukura</span></p>",
-    "specs": {},
-    "price": "28.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/AjiFukura_3154a5a9-f17c-4588-8859-ea030829e975.jpg?v=1773694111"
-  },
-  {
-    "name": "Kit Isca Artificial AjiNagare",
-    "desc": "<p><span data-sheets-root=\"1\">AjiNagare – A Isca do Movimento Perfeito</span></p>\n<p><span data-sheets-root=\"1\">Pacote com 6 unidades</span></p>\n<p><span data-sheets-root=\"1\"><br>A AjiNagare é uma isca desenvolvida para pescarias ultrafinesse e inspirada no conceito japonês de Nagare (流れ), que significa fluxo ou correnteza. O nome foi escolhido justamente porque ela foi projetada para reproduzir um movimento de nado fluido e natural, acompanhando o fluxo da água e atraindo até os peixes mais desconfiados.<br><br>Seu corpo possui cortes laterais estrategicamente posicionados, que fazem a isca trabalhar de forma viva mesmo com toques sutis da ponta da vara. Ela pode ser usada de duas formas:<br><br>Com os cortes na horizontal: ideal para um trabalho mais provocativo, mantendo a isca mais tempo no mesmo ponto, realizando deslocamentos curtos e chamativos, perfeito para estimular ataques de peixes parados ou desconfiados.<br><br>Com os cortes na vertical: proporciona um trabalho mais direcionado ao recolhimento, criando movimentos laterais contínuos e realistas, ideal para cobrir mais área e procurar os peixes ativos.<br><br>Disponível em diversas cores, a AjiNagare é a escolha perfeita para quem busca uma isca versátil, capaz de trabalhar tanto em situações de peixes manhosos como em momentos de ataque mais agressivo.<br><br>#Ajing #AjiNagare #PescaUltralight #PescaFinesse #MicroIscas #SoftBait #FishingLife #Robalo #Peixes #PescariaProdutiva #IscasSoft #JigHead #ChumbadaOficial #Pescaria #Litoral #PescaEsportiva #Ultrafinesse #VaraLeve #Multifilamento #PescadorEsportivo</span></p>",
-    "specs": {},
-    "price": "28.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/AjiNagare_1aa97123-147e-40b9-a1c4-5747caab0878.jpg?v=1773694108"
-  },
-  {
-    "name": "Isca Artificial AjiHane",
-    "desc": "<p>Aji Hane – Movimento leve, ação precisa</p>\n<p>A Aji Hane é uma isca desenvolvida para o pescador que busca sensibilidade e naturalidade extrema na modalidade Ajing. Seu braço frontal cria uma resistência controlada, permitindo que a isca oscile e flutue suavemente mesmo em correntes leves, reproduzindo com realismo o comportamento de pequenos organismos em suspensão — alvo ideal de peixes predadores que atacam presas flutuantes.</p>\n<p>Graças à resistência gerada pelo braço, a Aji Hane mantém sua ação característica mesmo com jig heads mais pesados, ampliando o alcance dos arremessos sem comprometer a descida suave. Essa resistência faz com que, mesmo com peso maior, a isca afunde lentamente, preservando o movimento natural que provoca o ataque.</p>\n<p>Produzida em material de alta resistência, com flutuabilidade, flexibilidade e durabilidade superiores, a Aji Hane combina um corpo extremamente fino e movimento sutil e realista. Ela é muito semelhante à Light Hane, porém com corpo mais delgado e braços de vibração mais sensível, ideais para montagens ultrafinesse e para situações em que os peixes estão mais desconfiados.</p>\n<p>Disponível em 20 cores e dois tamanhos:</p>\n<p>5,5 cm, com embalagem contendo 4 unidades.</p>\n<p>7,5 cm, com embalagem contendo 6 unidades.</p>\n<p>Ambas as versões mantêm o mesmo corpo, mudando apenas o comprimento da cauda, o que preserva a ação original e o equilíbrio da isca em diferentes tamanhos.</p>\n<p>Ideal para: Ajing e pescarias finesse em água salgada ou doce.<br>Diferenciais: Resistência equilibrada, descida lenta, ação suspensa, alta durabilidade e realismo natural.</p>\n<p><br>#AjiHane #ChumbadaOficial #AjingBrasil #IscaSoft #PescaFinesse #LightGame #IscasSoft #AjingLife #PescaUltraleve #FishingLure #AjingStyle</p>",
-    "specs": {},
-    "price": "32.00",
-    "category": "Outros",
-    "section": "Outros",
-    "colors": [],
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0801/2886/8576/files/photo_2025-10-22_13-11-12.jpg?v=1773694070"
   },
   {
     "name": "Camiseta de Pesca Masculina",
@@ -4707,76 +4049,6 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa.png?v=1784562308",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/camisa-capa.png?v=1725024037",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/camisa-nova.jpg?v=1725024039"
-    ]
-  },
-  {
-    "name": "Apoio Anzol Cano",
-    "desc": "Apoio Anzol Cano – esse apoio pode ser adquirido individualmente, o mesmo possui 50 canais iguais onde os anzóis serão apoiados, caso prefira temos a opção dele já montado no <a href=\"https://chumbadas.com.br/collections/cano/products/porta-pernada-cano\">Porta Pernada Cano</a>.",
-    "specs": {},
-    "price": "2.69",
-    "category": "Suportes",
-    "section": "Suportes",
-    "colors": [],
-    "colorImages": {},
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio.png?v=1725024070",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio.png?v=1725024070",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/suporte-3_49d86944-6027-4fee-a41f-89707bb55c86.png?v=1725024074"
-    ]
-  },
-  {
-    "name": "Kit Parte Superior do Varal para Chicotes - Com Tubo de Alumínio Incluído - Chumbada Oficial",
-    "desc": "<p>Este kit foi desenvolvido para pescadores que já possuem um adaptador para o varal e não precisam da parte inferior (cantoneira). Ideal para quem deseja completar ou personalizar seu equipamento sem adquirir o conjunto completo.</p>\n<p>O que está incluído no kit?</p>\n<p>✔️ Pente para varal – Composto por 10 pentes de borracha (5 de cada lado), proporcionando organização eficiente dos chicotes, evitando embaraços e facilitando a troca rápida durante a pescaria.<br>✔️ Articulador exclusivo – Projetado para permitir a dobra das barras em U, otimizando espaço no transporte e armazenamento do varal.<br>✔️ Duas barras em U (60 cm cada) – Estrutura resistente para suporte dos pentes do varal, garantindo firmeza e durabilidade na organização dos chicotes.<br>✔️ Tubo de alumínio incluído – 1,20 m de comprimento e 12,70 mm (1/2”) de diâmetro externo, compatível com o articulador, garantindo encaixe preciso e estabilidade na montagem do varal.</p>\n<p>Benefícios do kit:</p>\n<p>✅ Organização eficiente dos chicotes com pentes de borracha<br>✅ Estrutura dobrável para facilitar transporte e armazenamento<br>✅ Compatível com alguns adaptadores para varal já existentes – Por favor, verifique a compatibilidade do adaptador que você já possui para garantir que o nosso tubo de 1/2” (12,70 mm) encaixe corretamente.<br>✅ Componentes de alta qualidade e resistência<br>✅ Ideal para reposição ou personalização do seu varal</p>\n<p>🔹 Observação: Este kit não acompanha a cantoneira, que está disponível apenas no anúncio do varal completo.</p>\n<p>⚠️ Importante: Antes de adquirir este kit, verifique se o adaptador que você já possui é compatível com o nosso tubo de 1/2” (12,70 mm de diâmetro externo) para garantir o encaixe correto.</p>\n<p>Se você já tem um adaptador para o varal e não precisa da cantoneira, este kit é a escolha perfeita!</p>\n<p>👉 Garanta o seu agora e torne sua pescaria mais prática e organizada!</p>",
-    "specs": {},
-    "price": "128.92",
-    "category": "Montagem",
-    "section": "Montagem",
-    "colors": [],
-    "colorImages": {},
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/varal-01_2.png?v=1739457551",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/varal-01_2.png?v=1739457551"
-    ]
-  },
-  {
-    "name": "Linha de Pesca",
-    "desc": "<p>Linha de Multifilamento 4X – 300 metros | Chumbada Oficial</p>\n<p>Chegou a linha que fala a verdade.<br>A Verax 4X 300 m da Chumbada Oficial não é só mais uma multifilamento — é um novo padrão no mercado.</p>\n<p>Desenvolvida com alta tecnologia e testada por mais de 1 ano em condições reais de pesca, essa linha entrega o que promete: resistência de verdade e especificações honestas.</p>\n<p>O grande diferencial está no nome Verax — do latim, verdade, sinceridade.<br>Enquanto muitas marcas “maquiam” diâmetro e resistência, a Chumbada Oficial fez o caminho mais difícil: mostrar a realidade.</p>\n<p>👉 Espessura real<br>👉 Capacidade de tração real<br>👉 Sem exagero, sem enganação</p>\n<p>Compare com qualquer outra linha do mercado.<br>Meça. Teste. Coloque lado a lado.<br>Você vai perceber: a Verax entrega exatamente o que está na embalagem.</p>\n<p>Além da transparência, você leva uma linha:<br>✔ 4 fios de alta resistência<br>✔ Excelente sensibilidade<br>✔ Ótima performance de arremesso<br>✔ Baixa memória<br>✔ Alta durabilidade</p>\n<p>Se você busca performance, pode até encontrar várias opções.<br>Mas se você busca performance com verdade, a escolha é uma só.</p>\n<p>Chumbada Oficial – aqui a pesca é levada a sério. 🎣</p>\n<p>#ChumbadaOficial #LinhaVerax #Multifilamento #PescaEsportiva #Ajing #Ultralight #PescaDePraia #PescaBrasil #FishingLife #GearDePesca #PesqueESolte</p>",
-    "specs": {},
-    "price": "89.91",
-    "category": "Montagem",
-    "section": "Montagem",
-    "colors": [],
-    "colorImages": {},
-    "sizes": [],
-    "rating": 5.0,
-    "reviews": 0,
-    "image": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-12.jpg?v=1783014046",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-12.jpg?v=1783014046",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-11.jpg?v=1783014082",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-59.jpg?v=1783014506",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/pesca-62.jpg?v=1783014548",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1_7e7f6ca2-e9fa-4fd2-a353-bd87ca20f9f0.jpg?v=1777461545",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1_2.jpg?v=1777461545",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/1_5.jpg?v=1777461545",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/2_b6ee5156-7837-4a57-81f6-6099366220f0.jpg?v=1777461545",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/3.jpg?v=1777461545",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/3_5.jpg?v=1777461545",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/4_5.jpg?v=1777461545",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/5.jpg?v=1777461545",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/6_745b4c8c-ff0f-4ba3-9ce3-1fd17fdc3882.jpg?v=1777461545",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/8.jpg?v=1777461545",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/9.jpg?v=1777461545",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/10.jpg?v=1777461545",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/12.jpg?v=1777461545",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/linhaajing.jpg?v=1777636605",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/costas_b4940be1-8a74-414c-9903-c3be25aa3daf.jpg?v=1777461545"
     ]
   },
   {
@@ -5090,7 +4362,9 @@ window.PRODUCTS = [
       "assets/img/shopify/somente-cano-100cm_a52c9c44-de3c-40a3-990c-bda2fabe13dd.png",
       "assets/img/shopify/20cm-azul.png",
       "assets/img/shopify/marrom.png",
-      "assets/img/shopify/branco.png"
+      "assets/img/shopify/branco.png",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio.png?v=1725024070",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/suporte-3_49d86944-6027-4fee-a41f-89707bb55c86.png?v=1725024074"
     ],
     "video": "https://youtu.be/tcXANAsZPk8",
     "specs": {
@@ -5131,6 +4405,10 @@ window.PRODUCTS = [
       [
         "100cm",
         "R$ 44,00"
+      ],
+      [
+        "Apoio de Anzol (Reposição)",
+        "R$ 2,69"
       ]
     ],
     "varImages": {
@@ -5140,7 +4418,8 @@ window.PRODUCTS = [
       "60cm": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
       "70cm": "assets/img/shopify/somente-cano-70cm_bcfbc84d-03ad-489d-87fa-50f969953709.png",
       "80cm": "assets/img/shopify/somente-cano-80cm_78f92977-f490-467b-92c2-d9fa9b1067dd.png",
-      "100cm": "assets/img/shopify/somente-cano-100cm_a52c9c44-de3c-40a3-990c-bda2fabe13dd.png"
+      "100cm": "assets/img/shopify/somente-cano-100cm_a52c9c44-de3c-40a3-990c-bda2fabe13dd.png",
+      "Apoio de Anzol (Reposição)": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/apoio.png?v=1725024070"
     }
   },
   {
