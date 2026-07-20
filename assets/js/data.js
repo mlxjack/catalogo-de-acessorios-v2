@@ -108,42 +108,22 @@ window.PRODUCTS = [
     }
   },
   {
-    "id": 2,
-    "slug": "camiseta-de-pesca-masculina",
-    "section": "Vestuário",
-    "category": "Vestuário",
-    "name": "Camiseta de Pesca Masculina",
-    "price": "R$ 95,00",
-    "img": "assets/img/shopify/camisa-capa.png",
-    "link": "https://chumbadas.com.br/products/camiseta-de-pesca-masculina?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "G",
-        ""
-      ],
-      [
-        "XG",
-        ""
-      ],
-      [
-        "XXG",
-        ""
-      ],
-      [
-        "EXG",
-        ""
-      ]
-    ],
-    "description": "<p>Camisa 100% poliester, com fator de proteção solar 35. Estampa em impressão digital.</p>\n<div class=\"table-responsive\" style=\"overflow-x:auto; margin-top: 15px;\">\n    <table class=\"specs-table\">\n        <thead>\n            <tr>\n                <th>MEDIDA (CM)</th>\n                <th>P</th>\n                <th>M</th>\n                <th>G</th>\n                <th>GG</th>\n                <th>XG</th>\n                <th>XXG</th>\n                <th>EXG</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td><strong>TÓRAX</strong></td>\n                <td>52</td>\n                <td>55</td>\n                <td>58</td>\n                <td>60</td>\n                <td>64</td>\n                <td>67</td>\n                <td>70</td>\n            </tr>\n            <tr>\n                <td><strong>COMPRIMENTO</strong></td>\n                <td>70</td>\n                <td>72</td>\n                <td>74</td>\n                <td>78</td>\n                <td>80</td>\n                <td>81</td>\n                <td>82</td>\n            </tr>\n            <tr>\n                <td><strong>MANGAS</strong></td>\n                <td>82</td>\n                <td>84</td>\n                <td>86</td>\n                <td>88</td>\n                <td>90</td>\n                <td>93</td>\n                <td>95</td>\n            </tr>\n        </tbody>\n    </table>\n</div>\n",
+    "id": 64,
+    "slug": "clip-vara-com-fita-dupla-face",
+    "category": "Suportes",
+    "name": "Clip Vara (com fita dupla face)",
+    "price": "R$ 4,45",
+    "img": "assets/img/shopify/clip_vara.jpg",
+    "link": "#",
+    "description": "<p><span data-sheets-root=\"1\">O Clip Vara é um acessório de borracha versátil, compacto e muito prático, desenvolvido para apoiar varas de pesca com mais segurança e sem risco de danos.<br><br>Possui fita dupla face de alta resistência na parte traseira, permitindo a fixação em paredes, embarcações, bancadas ou outros locais estratégicos.<br><br>Por ser fabricado em borracha, o Clip Vara protege melhor o equipamento, evitando riscos e oferecendo um apoio firme para uma ou mais varas.<br><br>Existem diversas formas de utilização: pode ser usado individualmente para manter a vara apoiada no chão, ou em pares, fixados lateralmente, para deixar a vara na posição horizontal. Também é uma excelente opção para embarcações, auxiliando no apoio da vara durante a navegação.<br><br>Clip Vara Chumbada Oficial: praticidade, proteção e organização para suas varas de pesca.<br></span></p>",
     "images": [
-      "assets/img/shopify/camisa-capa.png",
-      "assets/img/shopify/camisa-nova.jpg"
+      "assets/img/shopify/clip_vara.jpg"
     ],
-    "video": "",
+    "video": "assets/video/shopify/65504d14f2124362b073af64022aad77.mov",
     "specs": {
-      "Material": "Poliéster de alta performance",
-      "Proteção Solar": "FPS 35"
-    }
+      "Material": "Borracha premium"
+    },
+    "section": "Lançamentos"
   },
   {
     "id": 3,
@@ -487,63 +467,6 @@ window.PRODUCTS = [
     }
   },
   {
-    "id": 9,
-    "slug": "avental-chumbada",
-    "category": "Vestuário",
-    "name": "Avental Chumbada",
-    "price": "R$ 31,27",
-    "img": "assets/img/shopify/avental-capa.png",
-    "link": "https://chumbadas.com.br/products/avental-chumbada-bolso-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Apresentamos o Avental Pescador: Com um tecido de fácil limpeza, este avental foi pensado para os apaixonados por pesca! Com dois bolsos estrategicamente posicionados, você pode guardar seu saca anzol, iscador e outros acessórios, tornando tudo mais prático. Ganhe tempo e agilidade nas etapas da pesca!</p>",
-    "images": [
-      "assets/img/shopify/avental-capa.png",
-      "assets/img/shopify/avental-01.png",
-      "assets/img/shopify/modelo-1.png",
-      "assets/img/shopify/modelo-2.png",
-      "assets/img/shopify/modelo-4.png",
-      "assets/img/shopify/modelo-6.png",
-      "assets/img/shopify/modelo-8.png",
-      "assets/img/shopify/avental-02.png",
-      "assets/img/shopify/avental-03.png"
-    ],
-    "video": "",
-    "specs": {}
-  },
-  {
-    "id": 10,
-    "slug": "bone-chumbada",
-    "category": "Vestuário",
-    "name": "Boné Chumbada",
-    "price": "R$ 36,00",
-    "img": "assets/img/shopify/bone-chumbada.png",
-    "link": "https://chumbadas.com.br/products/bone-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "swatches": [
-      [
-        "Branco",
-        "#ffffff"
-      ],
-      [
-        "Preto",
-        "#111827"
-      ],
-      [
-        "Azul Claro",
-        "#38bdf8"
-      ],
-      [
-        "Azul Marinho",
-        "#0f172a"
-      ]
-    ],
-    "description": "Proporciona máxima proteção contra os raios solares com estilo esportivo e moderno. Feito com materiais respiráveis de alta durabilidade e ajuste confortável, ideal para longas jornadas de exposição ao sol.",
-    "images": [
-      "assets/img/shopify/bone-chumbada.png",
-      "assets/images/bones-09-947dc590.png"
-    ],
-    "video": "",
-    "specs": {}
-  },
-  {
     "id": 11,
     "slug": "bastao-luminoso",
     "category": "Acessórios",
@@ -637,25 +560,6 @@ window.PRODUCTS = [
       "Comprimento/Medida": "5CM",
       "Capacidade": "Até 5 Chicotes",
       "Indicação": "Pesqueiro, lago e montagens diversas"
-    }
-  },
-  {
-    "id": 13,
-    "slug": "chapeu-de-palha-chumbada",
-    "category": "Vestuário",
-    "name": "Chapéu de Palha Chumbada",
-    "price": "R$ 43,00",
-    "img": "assets/img/shopify/chapeu-capa.png",
-    "link": "https://chumbadas.com.br/products/chapel-de-palha-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Chapéu de Palha da Chumbada Oficial</p>\n<p>Descubra o Chapéu de Palha da Chumbada Oficial, um acessório essencial para qualquer aventureiro ao ar livre! Projetado para oferecer proteção máxima contra os raios solares, este chapéu combina estilo rústico e funcionalidade.</p>\n<p>O Chapéu de Palha da Chumbada Oficial é leve e durável, garantindo conforto durante longas jornadas sob o sol. Sua aba larga proporciona uma sombra refrescante, mantendo o rosto e o pescoço protegidos dos raios UV nocivos.</p>\n<p>Com uma fita ajustável para um encaixe seguro e personalizado, este chapéu é ideal para pescadores, caminhantes e todos que apreciam a vida ao ar livre. Além disso, seu design clássico e elegante faz com que ele seja perfeito para qualquer ocasião, seja uma pescaria em um lago tranquilo ou um passeio casual no campo.</p>\n<p>Características:</p>\n<p>- Material: Palha de alta qualidade<br>- Aba larga para proteção solar<br>- Fita ajustável para um encaixe confortável<br>- Leve e durável<br>- Design clássico e elegante</p>\n<p>O Chapéu de Palha da Chumbada Oficial não é apenas um item de proteção, mas também um símbolo de estilo e respeito à natureza. Adquira o seu e esteja preparado para qualquer aventura ao ar livre!</p>\n<!---->",
-    "images": [
-      "assets/img/shopify/chapeu-capa.png",
-      "assets/img/shopify/chapeu_94827940-2a70-4825-baab-4666a1aaaeb8.png",
-      "assets/img/shopify/chapeu-2.png"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Palha natural"
     }
   },
   {
@@ -2779,23 +2683,6 @@ window.PRODUCTS = [
     }
   },
   {
-    "id": 64,
-    "slug": "clip-vara-com-fita-dupla-face",
-    "category": "Suportes",
-    "name": "Clip Vara (com fita dupla face)",
-    "price": "R$ 4,45",
-    "img": "assets/img/shopify/clip_vara.jpg",
-    "link": "#",
-    "description": "<p><span data-sheets-root=\"1\">O Clip Vara é um acessório de borracha versátil, compacto e muito prático, desenvolvido para apoiar varas de pesca com mais segurança e sem risco de danos.<br><br>Possui fita dupla face de alta resistência na parte traseira, permitindo a fixação em paredes, embarcações, bancadas ou outros locais estratégicos.<br><br>Por ser fabricado em borracha, o Clip Vara protege melhor o equipamento, evitando riscos e oferecendo um apoio firme para uma ou mais varas.<br><br>Existem diversas formas de utilização: pode ser usado individualmente para manter a vara apoiada no chão, ou em pares, fixados lateralmente, para deixar a vara na posição horizontal. Também é uma excelente opção para embarcações, auxiliando no apoio da vara durante a navegação.<br><br>Clip Vara Chumbada Oficial: praticidade, proteção e organização para suas varas de pesca.<br></span></p>",
-    "images": [
-      "assets/img/shopify/clip_vara.jpg"
-    ],
-    "video": "assets/video/shopify/65504d14f2124362b073af64022aad77.mov",
-    "specs": {
-      "Material": "Borracha premium"
-    }
-  },
-  {
     "id": 65,
     "slug": "trava-linha",
     "category": "Peças",
@@ -2978,7 +2865,7 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Conteúdo": "1 Unidade"
+      "Conteúdo": "Um pacote"
     }
   },
   {
@@ -3011,7 +2898,7 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Conteúdo": "1 Unidade"
+      "Conteúdo": "Um pacote"
     }
   },
   {
@@ -3205,6 +3092,153 @@ window.PRODUCTS = [
     "specs": {}
   },
   {
+    "id": 85,
+    "slug": "dedeira-chumbada",
+    "category": "Acessórios",
+    "name": "Dedeira",
+    "price": "Sob Consulta",
+    "img": "assets/img/shopify/dedeira.png",
+    "link": "https://chumbadas.com.br",
+    "vars": [
+      [
+        "Soft",
+        "Sob Consulta"
+      ],
+      [
+        "Hard",
+        "Sob Consulta"
+      ],
+      [
+        "Ultrasoft",
+        "Sob Consulta"
+      ]
+    ],
+    "description": "<p>A Dedeira da Chumbada Oficial é o acessório ideal para proteger os dedos durante os arremessos. Disponível nas variações Soft, Hard e Ultrasoft para se adequar a sua pescaria.</p>",
+    "images": [
+      "assets/img/shopify/dedeira.png"
+    ],
+    "video": "",
+    "specs": {}
+  },
+  {
+    "id": 2,
+    "slug": "camiseta-de-pesca-masculina",
+    "section": "Vestuário",
+    "category": "Vestuário",
+    "name": "Camisa de Pesca",
+    "price": "R$ 95,00",
+    "img": "assets/img/shopify/camisa.png",
+    "link": "https://chumbadas.com.br/products/camiseta-de-pesca-masculina?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "G",
+        ""
+      ],
+      [
+        "XG",
+        ""
+      ],
+      [
+        "XXG",
+        ""
+      ],
+      [
+        "EXG",
+        ""
+      ]
+    ],
+    "description": "<p>Camisa 100% poliester, com fator de proteção solar 35. Estampa em impressão digital.</p>\n<div class=\"table-responsive\" style=\"overflow-x:auto; margin-top: 15px;\">\n    <table class=\"specs-table\">\n        <thead>\n            <tr>\n                <th>MEDIDA (CM)</th>\n                <th>P</th>\n                <th>M</th>\n                <th>G</th>\n                <th>GG</th>\n                <th>XG</th>\n                <th>XXG</th>\n                <th>EXG</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td><strong>TÓRAX</strong></td>\n                <td>52</td>\n                <td>55</td>\n                <td>58</td>\n                <td>60</td>\n                <td>64</td>\n                <td>67</td>\n                <td>70</td>\n            </tr>\n            <tr>\n                <td><strong>COMPRIMENTO</strong></td>\n                <td>70</td>\n                <td>72</td>\n                <td>74</td>\n                <td>78</td>\n                <td>80</td>\n                <td>81</td>\n                <td>82</td>\n            </tr>\n            <tr>\n                <td><strong>MANGAS</strong></td>\n                <td>82</td>\n                <td>84</td>\n                <td>86</td>\n                <td>88</td>\n                <td>90</td>\n                <td>93</td>\n                <td>95</td>\n            </tr>\n        </tbody>\n    </table>\n</div>\n",
+    "images": [
+      "assets/img/shopify/camisa.png",
+      "assets/img/shopify/camisa-capa.png",
+      "assets/img/shopify/camisa-nova.jpg"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Poliéster de alta performance",
+      "Proteção Solar": "FPS 35"
+    }
+  },
+  {
+    "id": 9,
+    "slug": "avental-chumbada",
+    "category": "Vestuário",
+    "name": "Avental Chumbada",
+    "price": "R$ 31,27",
+    "img": "assets/img/shopify/avental-capa.png",
+    "link": "https://chumbadas.com.br/products/avental-chumbada-bolso-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>Apresentamos o Avental Pescador: Com um tecido de fácil limpeza, este avental foi pensado para os apaixonados por pesca! Com dois bolsos estrategicamente posicionados, você pode guardar seu saca anzol, iscador e outros acessórios, tornando tudo mais prático. Ganhe tempo e agilidade nas etapas da pesca!</p>",
+    "images": [
+      "assets/img/shopify/avental-capa.png",
+      "assets/img/shopify/avental-01.png",
+      "assets/img/shopify/modelo-1.png",
+      "assets/img/shopify/modelo-2.png",
+      "assets/img/shopify/modelo-4.png",
+      "assets/img/shopify/modelo-6.png",
+      "assets/img/shopify/modelo-8.png",
+      "assets/img/shopify/avental-02.png",
+      "assets/img/shopify/avental-03.png"
+    ],
+    "video": "",
+    "specs": {},
+    "section": "Vestuário"
+  },
+  {
+    "id": 10,
+    "slug": "bone-chumbada",
+    "category": "Vestuário",
+    "name": "Boné Chumbada",
+    "price": "R$ 36,00",
+    "img": "assets/img/shopify/bone-chumbada.png",
+    "link": "https://chumbadas.com.br/products/bone-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "swatches": [
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Preto",
+        "#111827"
+      ],
+      [
+        "Azul Claro",
+        "#38bdf8"
+      ],
+      [
+        "Azul Marinho",
+        "#0f172a"
+      ]
+    ],
+    "description": "Proporciona máxima proteção contra os raios solares com estilo esportivo e moderno. Feito com materiais respiráveis de alta durabilidade e ajuste confortável, ideal para longas jornadas de exposição ao sol.",
+    "images": [
+      "assets/img/shopify/bone-chumbada.png",
+      "assets/images/bones-09-947dc590.png"
+    ],
+    "video": "",
+    "specs": {},
+    "section": "Vestuário"
+  },
+  {
+    "id": 13,
+    "slug": "chapeu-de-palha-chumbada",
+    "category": "Vestuário",
+    "name": "Chapéu de Palha Chumbada",
+    "price": "R$ 43,00",
+    "img": "assets/img/shopify/chapeu-capa.png",
+    "link": "https://chumbadas.com.br/products/chapel-de-palha-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>Chapéu de Palha da Chumbada Oficial</p>\n<p>Descubra o Chapéu de Palha da Chumbada Oficial, um acessório essencial para qualquer aventureiro ao ar livre! Projetado para oferecer proteção máxima contra os raios solares, este chapéu combina estilo rústico e funcionalidade.</p>\n<p>O Chapéu de Palha da Chumbada Oficial é leve e durável, garantindo conforto durante longas jornadas sob o sol. Sua aba larga proporciona uma sombra refrescante, mantendo o rosto e o pescoço protegidos dos raios UV nocivos.</p>\n<p>Com uma fita ajustável para um encaixe seguro e personalizado, este chapéu é ideal para pescadores, caminhantes e todos que apreciam a vida ao ar livre. Além disso, seu design clássico e elegante faz com que ele seja perfeito para qualquer ocasião, seja uma pescaria em um lago tranquilo ou um passeio casual no campo.</p>\n<p>Características:</p>\n<p>- Material: Palha de alta qualidade<br>- Aba larga para proteção solar<br>- Fita ajustável para um encaixe confortável<br>- Leve e durável<br>- Design clássico e elegante</p>\n<p>O Chapéu de Palha da Chumbada Oficial não é apenas um item de proteção, mas também um símbolo de estilo e respeito à natureza. Adquira o seu e esteja preparado para qualquer aventura ao ar livre!</p>\n<!---->",
+    "images": [
+      "assets/img/shopify/chapeu-capa.png",
+      "assets/img/shopify/chapeu_94827940-2a70-4825-baab-4666a1aaaeb8.png",
+      "assets/img/shopify/chapeu-2.png"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Palha natural"
+    },
+    "section": "Vestuário"
+  },
+  {
     "id": 77,
     "slug": "toalha-de-mao",
     "category": "Vestuário",
@@ -3232,7 +3266,8 @@ window.PRODUCTS = [
     "specs": {
       "Comprimento/Medida": "40 CM",
       "Dimensões": "60X35CM"
-    }
+    },
+    "section": "Vestuário"
   },
   {
     "id": 78,
@@ -3250,7 +3285,8 @@ window.PRODUCTS = [
     "video": "",
     "specs": {
       "Proteção Solar": "FPS 50+"
-    }
+    },
+    "section": "Vestuário"
   },
   {
     "id": 79,
@@ -3267,12 +3303,13 @@ window.PRODUCTS = [
       "assets/img/shopify/Tube-Neck-Premium-azul.png"
     ],
     "video": "",
-    "specs": {}
+    "specs": {},
+    "section": "Vestuário"
   },
   {
     "id": 80,
     "slug": "calca-corta-vento-esporte",
-    "section": "Vestuário técnico",
+    "section": "Vestuário",
     "category": "Vestuário",
     "name": "Calça Corta Vento Esporte",
     "price": "R$ 99,90",
@@ -3370,7 +3407,8 @@ window.PRODUCTS = [
       "assets/images/calca-elastica-comfort-verde-d9d9f7c1.png"
     ],
     "video": "assets/video/shopify/afcba22e8161455985558453fe7ca258.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Vestuário"
   },
   {
     "id": 82,
@@ -3425,7 +3463,8 @@ window.PRODUCTS = [
       "assets/img/shopify/Corta-vento-confort-preta-2XG.jpg"
     ],
     "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Vestuário"
   },
   {
     "id": 83,
@@ -3495,7 +3534,8 @@ window.PRODUCTS = [
       "assets/img/shopify/2XG_2.jpg"
     ],
     "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
-    "specs": {}
+    "specs": {},
+    "section": "Vestuário"
   },
   {
     "id": 84,
@@ -3534,35 +3574,7 @@ window.PRODUCTS = [
       "assets/img/shopify/photo_2024-05-17_10-18-31_e8372812-e178-46e9-9421-0f3604b60daf.jpg"
     ],
     "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
-    "specs": {}
-  },
-  {
-    "id": 85,
-    "slug": "dedeira-chumbada",
-    "category": "Acessórios",
-    "name": "Dedeira",
-    "price": "Sob Consulta",
-    "img": "assets/img/shopify/dedeira.png",
-    "link": "https://chumbadas.com.br",
-    "vars": [
-      [
-        "Soft",
-        "Sob Consulta"
-      ],
-      [
-        "Hard",
-        "Sob Consulta"
-      ],
-      [
-        "Ultrasoft",
-        "Sob Consulta"
-      ]
-    ],
-    "description": "<p>A Dedeira da Chumbada Oficial é o acessório ideal para proteger os dedos durante os arremessos. Disponível nas variações Soft, Hard e Ultrasoft para se adequar a sua pescaria.</p>",
-    "images": [
-      "assets/img/shopify/dedeira.png"
-    ],
-    "video": "",
-    "specs": {}
+    "specs": {},
+    "section": "Vestuário"
   }
 ];

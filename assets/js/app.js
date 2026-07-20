@@ -292,13 +292,6 @@ function renderGrid() {
 
     // Configurar spans e classes de layout
     let spanClass = '';
-    if (p.span) {
-      spanClass = `span-${p.span}`;
-    } else if (p.vars && p.vars.length >= 10) {
-      spanClass = 'span-3';
-    } else if (p.vars && p.vars.length >= 5) {
-      spanClass = 'span-2';
-    }
 
     // Previews de Cores
     const swatchesHtml = p.swatches ? `
@@ -367,7 +360,7 @@ function renderProductDetail(p) {
 
   // Inicializar estado do produto
   if (state.selectedColor[p.id] === undefined) {
-    state.selectedColor[p.id] = p.swatches ? p.swatches[0][0] : '';
+    state.selectedColor[p.id] = p.swatches && p.swatches.length > 0 ? p.swatches[0][0] : '';
   }
   if (state.selectedVariation[p.id] === undefined) {
     state.selectedVariation[p.id] = 0; // Primeira variação por padrão
