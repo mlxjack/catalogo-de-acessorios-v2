@@ -742,7 +742,26 @@ function initDetailSelectors(p) {
   // Função para tentar trocar a imagem da galeria com base no texto
   function trySwitchImage(text) {
     if (!text || !p.images || !galleryThumbs) return;
-    // Remover espaços e transformar tudo em minúsculas sem acentos para comparar
+
+    // 1. Tentar correspondência exata por URL mapeada em colorImages ou varImages
+    let targetSrc = '';
+    if (p.colorImages && p.colorImages[text]) {
+      targetSrc = p.colorImages[text];
+    } else if (p.varImages && p.varImages[text]) {
+      targetSrc = p.varImages[text];
+    }
+
+    if (targetSrc) {
+      const thumbBtns = galleryThumbs.querySelectorAll('.thumb-btn[data-type="image"]');
+      const matchIndex = Array.from(thumbBtns).findIndex(btn => btn.dataset.src === targetSrc);
+      if (matchIndex !== -1) {
+        thumbBtns[matchIndex].click();
+        thumbBtns[matchIndex].scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+        return;
+      }
+    }
+
+    // 2. Fallback para correspondência por texto no nome do arquivo
     const normalizedText = normalizeText(text).replace(/\s+/g, '-');
     const normalizedTextNoSpace = normalizeText(text).replace(/\s+/g, '');
     
