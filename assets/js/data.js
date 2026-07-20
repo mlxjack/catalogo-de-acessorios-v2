@@ -121,7 +121,10 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/65504d14f2124362b073af64022aad77.mov",
     "specs": {
-      "Material": "Borracha premium"
+      "Material": "Borracha flexível de alta qualidade",
+      "Conteúdo": "1 Clip Vara e Fita Dupla Face 3M de alta aderência",
+      "Fixação": "Adesiva (Paredes, barcos, caiaques, bancadas)",
+      "Indicação": "Organização e apoio seguro para varas de pesca (evita riscos)"
     },
     "section": "Lançamentos"
   },
@@ -294,7 +297,12 @@ window.PRODUCTS = [
       "assets/img/shopify/medida_atrativo.jpg"
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "EVA Floating macio e flexível",
+      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
+      "Função": "Flutuabilidade da isca, atração visual por cor/movimento e exposição do anzol",
+      "Indicação": "Montagem de chicotes para pesca de praia (surfcasting) e costão"
+    },
     "section": "Atrativos"
   },
   {
@@ -404,7 +412,12 @@ window.PRODUCTS = [
       "assets/img/shopify/holografico-véu-da-noite.jpg"
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "EVA Floating macio e flexível com brilho holográfico",
+      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
+      "Função": "Flutuabilidade da isca, atração visual por cor/movimento e exposição do anzol",
+      "Indicação": "Montagem de chicotes para pesca de praia (surfcasting) e costão"
+    },
     "section": "Atrativos"
   },
   {
@@ -484,7 +497,12 @@ window.PRODUCTS = [
       "assets/images/mini-atrativo-comum-amarelo-e99da884.jpg"
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "EVA Floating macio e flexível",
+      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
+      "Função": "Flutuabilidade da isca, atração visual por cor/movimento e exposição do anzol",
+      "Indicação": "Montagem de chicotes para pesca de praia (surfcasting) e costão"
+    },
     "section": "Atrativos"
   },
   {
@@ -594,7 +612,12 @@ window.PRODUCTS = [
       "assets/img/shopify/holografico-véu-da-noite.jpg"
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "EVA Floating macio e flexível com brilho holográfico",
+      "Conteúdo": "5 filetes com 10 unidades cada (Total de 50 atrativos por pacote)",
+      "Função": "Flutuabilidade da isca, atração visual por cor/movimento e exposição do anzol",
+      "Indicação": "Montagem de chicotes para pesca de praia (surfcasting) e costão"
+    },
     "section": "Atrativos"
   },
   {
@@ -614,7 +637,10 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Conteúdo": "8 Unidades"
+      "Material": "Aço carbono e latão niquelado",
+      "Conteúdo": "8 unidades por embalagem",
+      "Tamanhos": "P (Chicotes até 0,40mm / Pernadas 0,20 a 0,28mm) | G (Chicotes até 0,62mm / Pernadas 0,28 a 0,42mm)",
+      "Função": "Troca rápida de pernadas sem nós e rotação anti-torção"
     },
     "section": "Montagem"
   },
@@ -713,7 +739,11 @@ window.PRODUCTS = [
       "assets/img/shopify/snap-mais-cobre-no-verde.png"
     ],
     "video": "",
-    "specs": {},
+    "specs": {
+      "Material": "Snap em aço inox e protetor Cobrenó em borracha termoplástica",
+      "Indicação": "Conexão rápida entre chumbada e chicote de pesca",
+      "Função": "Facilitar a troca de chumbadas e proteger o nó contra enroscos e sujeira"
+    },
     "section": "Montagem"
   },
   {
@@ -733,7 +763,9 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/ef8ebb2364fb477a9b7803972081da0f.mp4",
     "specs": {
-      "Material": "Borracha premium"
+      "Material": "Borracha macia de alta qualidade (Alta aderência)",
+      "Função": "Limitador/Stopper móvel ajustável, regulagem de pernadas/boias e fusível de impacto na linha",
+      "Indicação": "Chicotes de pesca de praia, costão e montagens Down Shot"
     },
     "section": "Montagem"
   },
@@ -757,7 +789,10 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/ef8ebb2364fb477a9b7803972081da0f.mp4",
     "specs": {
-      "Conteúdo": "1 Unidade"
+      "Material": "Borracha de alta aderência com cabo de aço de transferência",
+      "Conteúdo": "Kit com 2 fardos contendo 10 unidades cada (Total 20 stoppers)",
+      "Diferencial": "Fixação ultra firme com pega anatômica e cabo de aço colado",
+      "Indicação": "Travas seguras em linhas de chicote para pesca pesada ou praia"
     },
     "section": "Montagem"
   },
@@ -949,7 +984,9 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Comprimento/Medida": "0,26 M"
+      "Material": "Aço inox de alta tração",
+      "Tamanhos": "Micro (Pernada 0,13 a 0,18mm) | P (0,20 a 0,26mm) | M (0,26 a 0,31mm) | G (0,31 a 0,45mm)",
+      "Função": "Engate ultra rápido e livre rotação para pernadas de chicotes de pesca"
     },
     "section": "Montagem"
   },
@@ -992,7 +1029,10 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/f24631a07cd749d8ab917d74fb026519.mp4",
     "specs": {
-      "Material": "Aço Inox"
+      "Material": "Aço Inoxidável de alta resistência",
+      "Capacidades": "7mm (4Kg) | 11mm (19Kg) | 15mm (35Kg) | 25mm (75Kg)",
+      "Função": "Evitar a torção da linha de pesca, garantindo melhor sensibilidade e durabilidade",
+      "Indicação": "Montagem de chicotes, líderes e pescaria de praia, rio e mar"
     }
   },
   {
@@ -1043,7 +1083,11 @@ window.PRODUCTS = [
       "assets/img/shopify/destorcedor-triplo-33mm_2c02312c-5551-4f54-a261-576b699bf92d.png"
     ],
     "video": "assets/video/shopify/f24631a07cd749d8ab917d74fb026519.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "Aço Inoxidável reforçado",
+      "Função": "Evitar a torção de linhas em montagens do tipo Down Shot ou esperas",
+      "Indicação": "Pescarias de espera de peixes ariscos (como piapara e piauçu) e pesca de praia"
+    },
     "section": "Montagem"
   },
   {
@@ -1076,7 +1120,10 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Conteúdo": "Um pacote"
+      "Material": "Aço inoxidável de alta resistência",
+      "Conteúdo": "Um pacote",
+      "Função": "Troca rápida e prática de chicotes, líderes ou chumbadas",
+      "Diferencial": "Design compacto e reforçado de abertura única"
     },
     "section": "Montagem"
   },
@@ -1110,7 +1157,10 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Conteúdo": "Um pacote"
+      "Material": "Aço inoxidável de alta resistência",
+      "Conteúdo": "Um pacote",
+      "Função": "Troca rápida e prática de acessórios sem a necessidade de cortar a linha",
+      "Diferencial": "Formato único com duas aberturas independentes"
     },
     "section": "Montagem"
   },
@@ -1133,7 +1183,12 @@ window.PRODUCTS = [
       "assets/img/shopify/snap-gota.png"
     ],
     "video": "",
-    "specs": {},
+    "specs": {
+      "Material": "Aço inoxidável de alta resistência",
+      "Conteúdo": "Um pacote",
+      "Função": "Conexão de chumbadas no chicote com livre articulação",
+      "Diferencial": "Ponta arredondada em gota que facilita o movimento"
+    },
     "swatches": [],
     "section": "Montagem"
   },
@@ -1194,7 +1249,12 @@ window.PRODUCTS = [
       "assets/img/shopify/Snap-Frances-10mm-frente.jpg"
     ],
     "video": "",
-    "specs": {},
+    "specs": {
+      "Material": "Aço inoxidável de alta resistência",
+      "Conteúdo": "Um pacote",
+      "Função": "Troca ultra rápida de chicotes, líderes e montagens",
+      "Indicação": "Pescarias dinâmicas de praia ou costão (potencializado em conjunto com o Cobrenó)"
+    },
     "section": "Montagem"
   },
   {
@@ -1271,7 +1331,9 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Comprimento/Medida": "15CM"
+      "Material": "Cantoneira plástica especial resistente e adesivo de alta aderência",
+      "Dimensões": "15cm de largura (Medidas extremamente precisas e aferidas individualmente)",
+      "Diferenciais": "Cantos arredondados, raio antiqueda para transporte e cola à prova d'água"
     },
     "section": "Medição"
   },
@@ -1342,7 +1404,9 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Material": "Borracha premium de alta densidade"
+      "Material": "Borracha de alta qualidade (Não gruda e não trinca)",
+      "Compatibilidade": "Canos de esgoto de 2 polegadas (50 milímetros)",
+      "Funções": "Apoio seguro sem riscar, suportes para saca anzol, iscador, tesoura, pano e chicotes"
     }
   },
   {
@@ -1651,7 +1715,9 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Material": "Borracha premium"
+      "Material": "Borracha macia soft flexível (Proteção contra trincas/arranhões)",
+      "Encaixe": "Cantoneira para cantos de 90 graus (Dispensa furos, parafusos ou cola)",
+      "Indicação": "Transporte seguro de varas de pesca em barcos de alumínio"
     },
     "section": "Suportes"
   },
@@ -1722,7 +1788,11 @@ window.PRODUCTS = [
       "assets/img/shopify/suporte-para-carretilha-individual-solapa-vermelho.jpg"
     ],
     "video": "",
-    "specs": {},
+    "specs": {
+      "Material": "Plástico de engenharia de alta densidade",
+      "Conteúdo": "Kit com 4 peças (Acompanha 4 parafusos e 4 buchas)",
+      "Instalação": "Vertical (Perfeito para economizar espaço em paredes e garagens)"
+    },
     "section": "Suportes"
   },
   {
@@ -1739,7 +1809,9 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/f048e0960ef04c0da3f8fd8af9ab1fe5.mp4",
     "specs": {
-      "Material": "Borracha premium"
+      "Material": "Alumínio de alta resistência e borracha especial UV (Não degrada no sol/chuva)",
+      "Diferencial": "Apoio traseiro para iscagem ou troca de chicotes com as mãos livres",
+      "Regulagem": "Altura sob pressão sem necessidade de parafusos ou travas"
     },
     "section": "Suportes"
   },
@@ -1786,7 +1858,11 @@ window.PRODUCTS = [
       "assets/img/shopify/copo_preto.jpg"
     ],
     "video": "",
-    "specs": {},
+    "specs": {
+      "Material": "Plástico rígido de alta durabilidade",
+      "Conteúdo": "Kit com tamanhos P, M e G",
+      "Indicação": "Organizar stoppers, chumbadas, dedeiras (P/M) e carretéis de chicotes (G)"
+    },
     "section": "Organização"
   },
   {
@@ -1852,7 +1928,9 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/a8fd4c77c94e42d5a9254dda44a98f4a.mp4",
     "specs": {
-      "Capacidade": "5 Carretéis (Até 25 Chicotes)"
+      "Material": "Plástico rígido de alta durabilidade com tampa segura",
+      "Capacidade": "Comporta 5 carretéis de chicotes (Até 25 chicotes guardados)",
+      "Indicação": "Proteção e organização rápida de chicotes e pernadas de pesca de praia"
     },
     "section": "Organização"
   },
@@ -1917,7 +1995,9 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/832fce9668cf4ebc8742747ac8f5b028.mp4",
     "specs": {
-      "Material": "Látex elástico"
+      "Material": "Polietileno leve e resistente (Não incomoda no pescoço)",
+      "Diferencial": "Ausência de furos (Sem necessidade de soprar a linha ou usar agulhas)",
+      "Uso": "Fácil manuseio com as mãos, ideal para pescarias noturnas"
     },
     "section": "Organização"
   },
@@ -1949,7 +2029,9 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/27352f06c76d4c6d8196c5a1c6b71cac.mp4",
     "specs": {
-      "Material": "Plástico de engenharia de alta densidade"
+      "Material": "Plástico de engenharia com tampa de rosca de alta segurança",
+      "Funções": "Organizar chumbadas na caixa de pesca ou armazenar iscas naturais na beira da água",
+      "Diferenciais": "Alça de engate rápido e tampa com furos de ventilação para iscas"
     },
     "section": "Organização"
   },
@@ -2294,7 +2376,11 @@ window.PRODUCTS = [
       "assets/img/shopify/Porta-pernada-compacto-preto_2.jpg"
     ],
     "video": "assets/video/shopify/8c1dce1ee39c4882b74c80088adc3b80.mp4",
-    "specs": {},
+    "specs": {
+      "Capacidade": "Armazena até 68 anzóis em 34 divisórias (Design de baixa espessura)",
+      "Compatibilidade de Linhas": "Trava pernadas com linhas de 0,10mm a 0,60mm",
+      "Indicação": "Organização segura e compacta de pernadas e chicotes de pesca"
+    },
     "section": "Organização"
   },
   {
@@ -2331,7 +2417,11 @@ window.PRODUCTS = [
       "assets/img/shopify/suporte-para-molinetes-branco_00804a4b-e0e1-4aa4-a119-6046485dd0f3.png"
     ],
     "video": "",
-    "specs": {}
+    "specs": {
+      "Material": "Estrutura plástica robusta e durável",
+      "Capacidade": "Acomoda até 3 molinetes grandes ou 4 molinetes pequenos",
+      "Conteúdo": "Acompanha 2 buchas e 2 parafusos para fixação na parede"
+    }
   },
   {
     "id": 75,
@@ -2386,7 +2476,11 @@ window.PRODUCTS = [
       "assets/img/shopify/protetor_de_bobina_modelo_6.jpg"
     ],
     "video": "",
-    "specs": {},
+    "specs": {
+      "Material": "Elástico de alta densidade com costura reforçada",
+      "Funções": "Proteger a linha contra sol, chuva e atritos, e fixar o snap do arranque sem usar a unha do carretel",
+      "Indicação": "Bobinas de molinetes de diversos tamanhos"
+    },
     "section": "Proteção"
   },
   {
@@ -2416,7 +2510,11 @@ window.PRODUCTS = [
       "assets/img/shopify/dedeira.png"
     ],
     "video": "",
-    "specs": {},
+    "specs": {
+      "Material": "Neoprene soft / Couro sintético reforçado",
+      "Variações": "Soft (Sensibilidade) | Hard (Proteção em arremesso pesado) | Ultrasoft (Conforto)",
+      "Função": "Proteger o dedo indicador durante arremessos de alta potência"
+    },
     "section": "Proteção"
   },
   {
@@ -2433,7 +2531,9 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Material": "Borracha premium de alta densidade"
+      "Material": "Borracha premium de alta densidade",
+      "Compatibilidade": "Peça sobressalente de reposição para o suporte de vara Slim",
+      "Função": "Apoio seguro anti-risco para a vara"
     },
     "section": "Peças"
   },
@@ -2462,7 +2562,9 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Material": "Borracha premium de alta densidade"
+      "Material": "Borracha premium de alta densidade",
+      "Compatibilidade": "Peça sobressalente de reposição para o suporte de vara Slim",
+      "Função": "Apoio inferior de encaixe do pé da vara"
     },
     "section": "Peças"
   },
@@ -2525,7 +2627,9 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Material": "Plástico de engenharia de alta densidade"
+      "Material": "Plástico rígido de engenharia leve e resistente",
+      "Função": "Retirar anzóis profundos de forma rápida e segura sem machucar o peixe",
+      "Tamanhos": "Disponível em P, M, G ou no Kit Completo com os 3 tamanhos"
     },
     "section": "Peças"
   },
@@ -2546,7 +2650,9 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/353a472db03342399ac28508784a2ccd.mp4",
     "specs": {
-      "Conteúdo": "1 Unidade"
+      "Material": "Polímero rígido resistente",
+      "Conteúdo": "Kit com 4 unidades (Permite organizar até 3 carretilhas no Suporte de Molinetes)",
+      "Função": "Adaptação de apoio de manivelas para armazenamento vertical no suporte padrão"
     },
     "section": "Acessórios"
   },
@@ -2566,7 +2672,9 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Conteúdo": "1 Unidade"
+      "Conteúdo": "1 unidade por embalagem química",
+      "Indicação": "Pescaria noturna em conjunto com o Star Light Sinker (Chumbada Luminosa)",
+      "Duração": "Alta visibilidade por várias horas consecutivas"
     },
     "section": "Acessórios"
   },
@@ -2752,7 +2860,11 @@ window.PRODUCTS = [
       "assets/img/shopify/CobreNoPretoG.jpg"
     ],
     "video": "",
-    "specs": {},
+    "specs": {
+      "Material": "Borracha termoplástica flexível",
+      "Função": "Proteger o nó da montagem contra enroscos de anzol, acúmulo de sujeira e permitir ponta de nó maior",
+      "Indicação": "Conexões de snaps, destorcedores e líderes"
+    },
     "section": "Acessórios"
   },
   {
@@ -2771,7 +2883,9 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/a16a04dcae884b1aa6ce969b1d6a2f52.mp4",
     "specs": {
-      "Material": "Látex elástico"
+      "Material": "Elastômero elástico ultra fino de alta elasticidade",
+      "Metragem": "150 metros",
+      "Função": "Fixar e amarrar iscas moles (corrupto, camarão, lula) sem a necessidade de nós finais"
     },
     "section": "Acessórios"
   },
@@ -2791,7 +2905,9 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/a16a04dcae884b1aa6ce969b1d6a2f52.mp4",
     "specs": {
-      "Material": "Látex elástico"
+      "Material": "Elastômero elástico ultra fino de alta elasticidade",
+      "Metragem": "100 metros",
+      "Função": "Fixar e amarrar iscas moles (corrupto, camarão, lula) sem a necessidade de nós finais"
     },
     "section": "Acessórios"
   },
@@ -2820,7 +2936,11 @@ window.PRODUCTS = [
       "assets/img/shopify/iscador-transparente.png"
     ],
     "video": "assets/video/shopify/df63e0ebdb784b49b1dd9898641b2663.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "Inox rígido de alta durabilidade e cabo anatômico",
+      "Aplicação": "Iscagem prática e profissional de corrupto e camarão",
+      "Indicação": "Pesca de praia e costão"
+    },
     "section": "Acessórios"
   },
   {
@@ -2837,7 +2957,9 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/df63e0ebdb784b49b1dd9898641b2663.mp4",
     "specs": {
-      "Material": "Aço Inox"
+      "Material": "Inox rígido de alta rigidez (não entorta) e cabo termoplástico de engenharia",
+      "Uso": "Iscagem de sardinhas inteiras, em pedaços, ou lulas",
+      "Diferenciais": "Ponta altamente penetrante para iscas congeladas, agulha fixa de alta durabilidade"
     },
     "section": "Acessórios"
   },
@@ -2856,7 +2978,11 @@ window.PRODUCTS = [
       "assets/img/shopify/iscador-duplo-foto-transparente.png"
     ],
     "video": "assets/video/shopify/0800a917dc464f3cad93e5d756271c2c.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "Inox rígido duplo e cabo anatômico",
+      "Aplicação": "Iscagem prática e profissional de corrupto e camarão",
+      "Diferencial": "Hastes duplas que auxiliam na sustentação da isca mole"
+    },
     "section": "Acessórios"
   },
   {
@@ -2966,7 +3092,11 @@ window.PRODUCTS = [
       "assets/img/shopify/snap-mais-cobre-no-verde.png"
     ],
     "video": "assets/video/shopify/618e4f454f004aa5b055dc9ab0df67cf.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "Aço inoxidável de alta resistência e protetor Cobrenó termoplástico",
+      "Indicação": "Conexão rápida de chumbadas leves com proteção de nó",
+      "Função": "Troca de chumbada rápida e proteção contra algas e sujeiras"
+    },
     "section": "Acessórios"
   },
   {
@@ -2983,7 +3113,11 @@ window.PRODUCTS = [
       "assets/img/shopify/Pipa-2unidades_6594cf33-b024-4508-a790-f39667ed2a69.jpg"
     ],
     "video": "",
-    "specs": {},
+    "specs": {
+      "Material": "Plástico leve de alta flutuabilidade e asas aerodinâmicas",
+      "Função": "Fazer a chumbada flutuar acima do fundo durante o recolhimento rápido, evitando enroscos",
+      "Conteúdo": "Kit com 2 pipas de flutuação"
+    },
     "section": "Acessórios"
   },
   {
@@ -3085,7 +3219,9 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/c833d8cb432a4adf91c3016d36320c34.mp4",
     "specs": {
-      "Material": "Aço Inox"
+      "Material": "Plástico rígido de engenharia leve e resistente",
+      "Tamanhos": "Disponível em P, M, G ou no Kit Completo com os 3 tamanhos",
+      "Função": "Retirar anzóis profundos de forma rápida e segura sem machucar o peixe ou perder a linha"
     },
     "section": "Acessórios"
   },
@@ -3126,7 +3262,11 @@ window.PRODUCTS = [
       "assets/img/shopify/20cm.png"
     ],
     "video": "",
-    "specs": {},
+    "specs": {
+      "Material": "Plástico especial flexível de alta resistência",
+      "Diferencial": "Desenho que segura o nylon firmemente sem escorregar em movimentos bruscos",
+      "Indicação": "Confecção e reparos artesanais de tarrafas e redes de pesca"
+    },
     "section": "Acessórios"
   },
   {
@@ -3174,7 +3314,11 @@ window.PRODUCTS = [
       "assets/img/shopify/alicate_glow.jpg"
     ],
     "video": "assets/video/shopify/39b1ccbd5af54293baa9aa65e95b4ef3.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "Liga metálica de alta resistência revestida e pegada plástica",
+      "Cor": "Laranja vibrante (Fácil localização à beira d'água)",
+      "Função": "Remoção segura de garateias e anzóis de iscas artificiais ou naturais, protegendo as mãos"
+    },
     "section": "Acessórios"
   },
   {
@@ -3193,7 +3337,9 @@ window.PRODUCTS = [
     ],
     "video": "assets/video/shopify/642cf361fcbd4a02b6534dabee598d73.mp4",
     "specs": {
-      "Material": "Borracha premium"
+      "Material": "Borracha macia protetora contra riscos na lataria e 2 superímãs de neodímio",
+      "Função": "Fixação magnética instantânea na lataria do veículo para apoiar varas de pesca inclinadas",
+      "Diferencial": "Protege a pintura do veículo e evita quedas ou danos nas varas"
     },
     "section": "Acessórios"
   },
@@ -3285,7 +3431,9 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Aplicação": "Pesca esportiva e de competição"
+      "Material": "Polietileno de alta resistência contra raios UV e impactos",
+      "Funções": "Bandeja de apoio compacta para tesoura, saca-anzol, iscas e preparo rápido de montagens na praia",
+      "Compatibilidade": "Encaixe em suportes de vara Slim, Premium ou canos de 2 polegadas"
     },
     "section": "Acessórios"
   },
@@ -3328,7 +3476,11 @@ window.PRODUCTS = [
       "assets/images/tela-vermelha-a2d4f4df.jpg"
     ],
     "video": "assets/video/shopify/9a7fd88adf6f474e92746620abdf847c.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "Tela plástica de alta densidade e resistência",
+      "Função": "Escoamento de líquidos e prensagem rápida de iscas moídas",
+      "Indicação": "Preparo de iscas e engodos para competições ou pesca de praia"
+    },
     "section": "Acessórios"
   },
   {
@@ -3391,7 +3543,11 @@ window.PRODUCTS = [
       "assets/img/shopify/avental-03.png"
     ],
     "video": "",
-    "specs": {},
+    "specs": {
+      "Material": "Tecido impermeável de fácil limpeza",
+      "Diferenciais": "2 bolsos frontais estratégicos para acessórios rápidos (saca-anzol, tesoura, iscador)",
+      "Função": "Proteção corporal e agilidade durante o manuseio de peixes e iscas"
+    },
     "section": "Vestuário"
   },
   {
@@ -3426,7 +3582,11 @@ window.PRODUCTS = [
       "assets/images/bones-09-947dc590.png"
     ],
     "video": "",
-    "specs": {},
+    "specs": {
+      "Material": "Algodão e Poliéster respirável",
+      "Proteção": "Aba curva para máxima proteção solar UV contra raios solares",
+      "Ajuste": "Fivela traseira regulável confortável"
+    },
     "section": "Vestuário"
   },
   {
@@ -3445,7 +3605,9 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Material": "Palha natural"
+      "Material": "Palha natural de alta qualidade",
+      "Aba": "Aba larga para excelente sombra de rosto e pescoço",
+      "Ajuste": "Fita regulável sob o queixo para encaixe seguro"
     },
     "section": "Vestuário"
   },
@@ -3495,7 +3657,9 @@ window.PRODUCTS = [
     ],
     "video": "",
     "specs": {
-      "Proteção Solar": "FPS 50+"
+      "Material": "Microfibra técnica respirável de altíssima qualidade",
+      "Proteção Solar": "FPS 50+ contra raios UV",
+      "Diferenciais": "Formato anatômico, secagem ultra rápida e regulação térmica"
     },
     "section": "Vestuário"
   },
@@ -3514,7 +3678,11 @@ window.PRODUCTS = [
       "assets/img/shopify/Tube-Neck-Premium-azul.png"
     ],
     "video": "",
-    "specs": {},
+    "specs": {
+      "Material": "Microfibra técnica respirável de altíssima qualidade",
+      "Proteção Solar": "FPS 50+ contra raios UV",
+      "Diferenciais": "Furos feitos a laser na posição da boca para evitar embaçar óculos, secagem ultra rápida, formato anatômico"
+    },
     "section": "Vestuário"
   },
   {
@@ -3567,7 +3735,11 @@ window.PRODUCTS = [
       "assets/images/calca-corta-vento-esporte-preta-545adbbf.png"
     ],
     "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
-    "specs": {}
+    "specs": {
+      "Material": "Tecido técnico inteligente (bloqueia vento e respingos)",
+      "Diferenciais": "Design esportivo, caimento ergonômico, ótima respirabilidade e secagem rápida",
+      "Indicação": "Treinos e pescarias em condições de ventania ou chuva leve"
+    }
   },
   {
     "id": 81,
@@ -3618,7 +3790,11 @@ window.PRODUCTS = [
       "assets/images/calca-elastica-comfort-verde-d9d9f7c1.png"
     ],
     "video": "assets/video/shopify/afcba22e8161455985558453fe7ca258.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "Tecido técnico elástico de alta performance",
+      "Diferenciais": "Flexibilidade total de movimentos, respirabilidade e resistência a rasgos",
+      "Indicação": "Vestuário esportivo para pescadores e atletas exigentes"
+    },
     "section": "Vestuário"
   },
   {
@@ -3674,7 +3850,11 @@ window.PRODUCTS = [
       "assets/img/shopify/Corta-vento-confort-preta-2XG.jpg"
     ],
     "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "Tecido técnico leve corta-vento (Semi-impermeável)",
+      "Diferenciais": "Design ultraleve e compacto (não ocupa espaço na mochila), estilo versátil para uso diário",
+      "Proteção": "Bloqueio eficiente contra vento frio e respingos d'água"
+    },
     "section": "Vestuário"
   },
   {
@@ -3745,7 +3925,11 @@ window.PRODUCTS = [
       "assets/img/shopify/2XG_2.jpg"
     ],
     "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "Tecido técnico leve corta-vento (Semi-impermeável)",
+      "Diferenciais": "Design ultraleve e compacto, ótimo caimento para prática esportiva dinâmica",
+      "Proteção": "Bloqueio eficiente contra vento frio e respingos d'água"
+    },
     "section": "Vestuário"
   },
   {
@@ -3785,7 +3969,11 @@ window.PRODUCTS = [
       "assets/img/shopify/photo_2024-05-17_10-18-31_e8372812-e178-46e9-9421-0f3604b60daf.jpg"
     ],
     "video": "assets/video/shopify/5f3bacff2ae44ac0897a7bcb676d9ebf.mp4",
-    "specs": {},
+    "specs": {
+      "Material": "Tecido técnico leve corta-vento (Semi-impermeável) especial Presa Viva",
+      "Diferenciais": "Design ultraleve, alta durabilidade e costuras elásticas reforçadas",
+      "Proteção": "Bloqueio de vento e conforto térmico excepcional na beira da água"
+    },
     "section": "Vestuário"
   }
 ];
