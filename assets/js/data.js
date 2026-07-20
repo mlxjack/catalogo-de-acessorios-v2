@@ -126,6 +126,52 @@ window.PRODUCTS = [
     "section": "Lançamentos"
   },
   {
+    "id": 7,
+    "slug": "kit-atrativo-conico-85mm-5-filetes-com-10-unidades",
+    "category": "Atrativos",
+    "name": "Kit Atrativo Cônico 85mm - 5 Filetes com 10 Unidades",
+    "price": "R$ 13,50",
+    "img": "assets/img/shopify/atrativoconicolaranja.png",
+    "link": "https://chumbadas.com.br/products/kit-atrativo-conico-85mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "swatches": [
+      [
+        "Amarelo Neon",
+        "url(assets/images/cores/amarelo-neon.jpg)"
+      ],
+      [
+        "Branco Pérola",
+        "url(assets/images/cores/Branco-perola.jpg)"
+      ],
+      [
+        "Laranja Neon",
+        "url(assets/images/cores/laranja-Neon.png)"
+      ],
+      [
+        "Vermelho Holográfico",
+        "url(assets/images/cores/Vermelho-Holográfico.jpg)"
+      ],
+      [
+        "Verde Neon",
+        "url(assets/images/cores/Verde-neon.jpg)"
+      ]
+    ],
+    "description": "<p><span>Atrativo Cônico Chumbada Oficial<br><br>Chegou mais uma novidade para turbinar suas pescarias! O Atrativo Cônico Chumbada Oficial foi desenvolvido com um material de altíssima flutuabilidade (floating), sendo ideal para utilização próximo ao anzol, junto à isca natural.<br><br>Sua principal função é manter a isca mais suspensa e com um movimento muito mais natural, aproveitando a ação das ondas, correnteza e maré. Além disso, ajuda a evitar que o anzol fique escondido sob a areia, aumentando sua exposição e melhorando as chances de fisgada.<br><br>Disponível em diversas cores, o Atrativo Cônico permite inúmeras combinações para o pescador personalizar sua montagem. Você pode utilizar uma única peça, combinar duas ou mais cores, montar em sentidos opostos ou criar configurações exclusivas conforme a necessidade da pescaria.<br><br>Cada embalagem acompanha 5 filetes com 10 unidades cada, totalizando 50 atrativos por pacote, garantindo excelente rendimento e diversas possibilidades de montagem.<br><br>✔ Material extremamente floating<br>✔ Mantém a isca mais visível e atrativa<br>✔ Ajuda a evitar que o anzol fique encoberto pela areia<br>✔ Diversas cores disponíveis<br>✔ Inúmeras formas de montagem e utilização<br>✔ Embalagem com 50 unidades<br>Mais movimento, mais visibilidade e mais eficiência para suas montagens de praia, costão e pesca com iscas naturais! </span></p>",
+    "images": [
+      "assets/img/shopify/atrativoconicolaranja.png",
+      "assets/img/shopify/amarelo-Neon_ed6c1a88-8fb0-4b98-aea3-3fde11cb9225.jpg",
+      "assets/img/shopify/Branco-perola_123a60b5-d082-46f6-ae92-0abeb20d91a1.jpg",
+      "assets/img/shopify/Vermelho-Holografico_bc47a346-be98-4a37-aed4-75f08e544e16.jpg",
+      "assets/img/shopify/Verde-Neon_00efb8a7-72eb-4696-9c8e-85fd48bd0e04.jpg",
+      "assets/img/shopify/preto-brilhante.png",
+      "assets/img/shopify/medida_atrativo_conico.jpg"
+    ],
+    "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
+    "specs": {
+      "Conteúdo": "1 Unidade"
+    },
+    "section": "Lançamentos"
+  },
+  {
     "id": 3,
     "slug": "atrativo-comum",
     "category": "Atrativos",
@@ -226,30 +272,158 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/kit-atrativo-holografico-5mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "Kit Atrativo Holográfico 5mm - 5 Filetes com 10 Unidades",
-        ""
+        "Amarelo Neon",
+        "R$ 5,80"
+      ],
+      [
+        "Beijo Da Sombra",
+        "R$ 5,80"
+      ],
+      [
+        "Branco Perola",
+        "R$ 5,80"
+      ],
+      [
+        "Capim Rubi",
+        "R$ 5,80"
+      ],
+      [
+        "Chá   Pastel",
+        "R$ 5,80"
+      ],
+      [
+        "Chá Verde",
+        "R$ 5,80"
+      ],
+      [
+        "Chá",
+        "R$ 5,80"
+      ],
+      [
+        "Glow",
+        "R$ 5,80"
+      ],
+      [
+        "Laranja Neon",
+        "R$ 5,80"
+      ],
+      [
+        "Luz Laranja",
+        "R$ 5,80"
+      ],
+      [
+        "Preto Brilhante",
+        "R$ 5,80"
+      ],
+      [
+        "Rapadura",
+        "R$ 5,80"
+      ],
+      [
+        "Roxo Estrelnar",
+        "R$ 5,80"
+      ],
+      [
+        "Rubi Dourado",
+        "R$ 5,80"
+      ],
+      [
+        "Salmão Radiante",
+        "R$ 5,80"
+      ],
+      [
+        "Verde Neon",
+        "R$ 5,80"
+      ],
+      [
+        "Verde Cósmico",
+        "R$ 5,80"
+      ],
+      [
+        "Vermelho Holográfico",
+        "R$ 5,80"
+      ],
+      [
+        "Véu Da Noite",
+        "R$ 5,80"
       ]
     ],
     "swatches": [
       [
+        "Amarelo Neon",
+        "url(assets/img/shopify/holografico-amarelo-neon.jpg) center/cover"
+      ],
+      [
+        "Beijo Da Sombra",
+        "url(assets/img/shopify/holografico-beijo-da-sombra.jpg) center/cover"
+      ],
+      [
+        "Branco Perola",
+        "url(assets/img/shopify/holografico-branco-perola.jpg) center/cover"
+      ],
+      [
         "Capim Rubi",
-        "url(assets/images/cores/Capim-Rubi.jpg)"
+        "url(assets/img/shopify/holografico-capim-rubi.jpg) center/cover"
+      ],
+      [
+        "Chá   Pastel",
+        "url(assets/img/shopify/holografico-chá---pastel.jpg) center/cover"
+      ],
+      [
+        "Chá Verde",
+        "url(assets/img/shopify/holografico-chá-verde.jpg) center/cover"
+      ],
+      [
+        "Chá",
+        "url(assets/img/shopify/holografico-chá.jpg) center/cover"
+      ],
+      [
+        "Glow",
+        "url(assets/img/shopify/holografico-glow.jpg) center/cover"
+      ],
+      [
+        "Laranja Neon",
+        "url(assets/img/shopify/holografico-laranja-neon.png) center/cover"
+      ],
+      [
+        "Luz Laranja",
+        "url(assets/img/shopify/holografico-luz-laranja.jpg) center/cover"
+      ],
+      [
+        "Preto Brilhante",
+        "url(assets/img/shopify/holografico-preto-brilhante.png) center/cover"
       ],
       [
         "Rapadura",
-        "url(assets/images/cores/Rapadura.jpg)"
+        "url(assets/img/shopify/holografico-rapadura.jpg) center/cover"
       ],
       [
-        "Roxo Estelar",
-        "url(assets/images/cores/Roxo-Estrelnar.jpg)"
+        "Roxo Estrelnar",
+        "url(assets/img/shopify/holografico-roxo-estrelnar.jpg) center/cover"
+      ],
+      [
+        "Rubi Dourado",
+        "url(assets/img/shopify/holografico-rubi-dourado.jpg) center/cover"
+      ],
+      [
+        "Salmão Radiante",
+        "url(assets/img/shopify/holografico-salmão-radiante.jpg) center/cover"
+      ],
+      [
+        "Verde Neon",
+        "url(assets/img/shopify/holografico-verde-neon.jpg) center/cover"
+      ],
+      [
+        "Verde Cósmico",
+        "url(assets/img/shopify/holografico-verde-cósmico.jpg) center/cover"
       ],
       [
         "Vermelho Holográfico",
-        "url(assets/images/cores/Vermelho-Holográfico.jpg)"
+        "url(assets/img/shopify/holografico-vermelho-holográfico.jpg) center/cover"
       ],
       [
-        "Véu da Noite",
-        "url(assets/images/cores/Véu-da-Noite.jpg)"
+        "Véu Da Noite",
+        "url(assets/img/shopify/holografico-véu-da-noite.jpg) center/cover"
       ]
     ],
     "description": "Atrativo para Pesca 5 mm<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">O Atrativo para pesca é o acessório essencial para os pescadores que buscam maximizar sua captura e tornar a pesca ainda mais emocionante. Cada saquinho contém 5 filetes de atrativos, e o melhor de tudo é que cada filete pode ser facilmente cortado em até 10 pequenos atrativos individuais, garantindo uma longa duração e economia, totalizando 50 pequenas bolinhas de atrativo. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">A principal função do Atrativo para Pesca é deixar a isca extremamente atrativa para os peixes tanto pela cor como pelo movimento. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Além disso, o Atrativo para pesca tem uma característica inovadora. Dependendo do tamanho do anzol e da quantidade de atrativos usados simultaneamente, ele pode proporcionar flutuabilidade à isca. Isso significa que você pode ajustar a quantidade de atrativos conforme sua preferência e o tipo de peixe que deseja atrair. Experimente diferentes combinações para alcançar resultados surpreendentes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Outra vantagem incrível do Atrativo para pesca é sua capacidade de manter a isca na posição ideal. Muitas vezes, iscas afundam e acabam escondidas na areia, o que reduz a visibilidade para os peixes e diminui suas chances de sucesso na pesca. Com o Atrativo para pesca, você não precisa se preocupar com isso, pois ele ajuda a manter a isca flutuando sempre à vista dos peixes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Destacar os atrativos é simples e prático, podendo ser facilmente feito à mão. Dessa forma, você pode ajustar o tamanho do atrativo de acordo com suas preferências e necessidades específicas para cada pescaria.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Principais recursos do Atrativo para pesca:<br data-mce-fragment=\"1\">- Atrativo altamente eficaz para diversas espécies de peixes;<br data-mce-fragment=\"1\">- Possibilidade de cortar até 10 atrativos por filete;<br data-mce-fragment=\"1\">- Ajuda a isca a flutuar, dependendo do tamanho do anzol e da quantidade de atrativos usados;<br data-mce-fragment=\"1\">- Evita que a isca afunde e fique escondida na areia;<br data-mce-fragment=\"1\">- Fácil de destacar e ajustar o tamanho dos atrativos.",
@@ -266,7 +440,26 @@ window.PRODUCTS = [
       "assets/img/shopify/vel-da-noite.png",
       "assets/img/shopify/atrativo-rapadura.png",
       "assets/img/shopify/Pastel.jpg",
-      "assets/img/shopify/medida_atrativo.jpg"
+      "assets/img/shopify/medida_atrativo.jpg",
+      "assets/img/shopify/holografico-amarelo-neon.jpg",
+      "assets/img/shopify/holografico-beijo-da-sombra.jpg",
+      "assets/img/shopify/holografico-branco-perola.jpg",
+      "assets/img/shopify/holografico-capim-rubi.jpg",
+      "assets/img/shopify/holografico-chá---pastel.jpg",
+      "assets/img/shopify/holografico-chá-verde.jpg",
+      "assets/img/shopify/holografico-chá.jpg",
+      "assets/img/shopify/holografico-glow.jpg",
+      "assets/img/shopify/holografico-laranja-neon.png",
+      "assets/img/shopify/holografico-luz-laranja.jpg",
+      "assets/img/shopify/holografico-preto-brilhante.png",
+      "assets/img/shopify/holografico-rapadura.jpg",
+      "assets/img/shopify/holografico-roxo-estrelnar.jpg",
+      "assets/img/shopify/holografico-rubi-dourado.jpg",
+      "assets/img/shopify/holografico-salmão-radiante.jpg",
+      "assets/img/shopify/holografico-verde-neon.jpg",
+      "assets/img/shopify/holografico-verde-cósmico.jpg",
+      "assets/img/shopify/holografico-vermelho-holográfico.jpg",
+      "assets/img/shopify/holografico-véu-da-noite.jpg"
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
     "specs": {}
@@ -360,26 +553,158 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/kit-mini-atrativo-holografico?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "Kit Mini Atrativo Holográfico 3mm - 5 Filetes com 10 Unidades",
-        ""
+        "Amarelo Neon",
+        "R$ 4,90"
+      ],
+      [
+        "Beijo Da Sombra",
+        "R$ 4,90"
+      ],
+      [
+        "Branco Perola",
+        "R$ 4,90"
+      ],
+      [
+        "Capim Rubi",
+        "R$ 4,90"
+      ],
+      [
+        "Chá   Pastel",
+        "R$ 4,90"
+      ],
+      [
+        "Chá Verde",
+        "R$ 4,90"
+      ],
+      [
+        "Chá",
+        "R$ 4,90"
+      ],
+      [
+        "Glow",
+        "R$ 4,90"
+      ],
+      [
+        "Laranja Neon",
+        "R$ 4,90"
+      ],
+      [
+        "Luz Laranja",
+        "R$ 4,90"
+      ],
+      [
+        "Preto Brilhante",
+        "R$ 4,90"
+      ],
+      [
+        "Rapadura",
+        "R$ 4,90"
+      ],
+      [
+        "Roxo Estrelnar",
+        "R$ 4,90"
+      ],
+      [
+        "Rubi Dourado",
+        "R$ 4,90"
+      ],
+      [
+        "Salmão Radiante",
+        "R$ 4,90"
+      ],
+      [
+        "Verde Neon",
+        "R$ 4,90"
+      ],
+      [
+        "Verde Cósmico",
+        "R$ 4,90"
+      ],
+      [
+        "Vermelho Holográfico",
+        "R$ 4,90"
+      ],
+      [
+        "Véu Da Noite",
+        "R$ 4,90"
       ]
     ],
     "swatches": [
       [
-        "Capim Rubi",
-        "url(assets/images/cores/Capim-Rubi.jpg)"
+        "Amarelo Neon",
+        "url(assets/img/shopify/holografico-amarelo-neon.jpg) center/cover"
       ],
       [
-        "Roxo Estelar",
-        "url(assets/images/cores/Roxo-Estrelnar.jpg)"
+        "Beijo Da Sombra",
+        "url(assets/img/shopify/holografico-beijo-da-sombra.jpg) center/cover"
+      ],
+      [
+        "Branco Perola",
+        "url(assets/img/shopify/holografico-branco-perola.jpg) center/cover"
+      ],
+      [
+        "Capim Rubi",
+        "url(assets/img/shopify/holografico-capim-rubi.jpg) center/cover"
+      ],
+      [
+        "Chá   Pastel",
+        "url(assets/img/shopify/holografico-chá---pastel.jpg) center/cover"
+      ],
+      [
+        "Chá Verde",
+        "url(assets/img/shopify/holografico-chá-verde.jpg) center/cover"
+      ],
+      [
+        "Chá",
+        "url(assets/img/shopify/holografico-chá.jpg) center/cover"
+      ],
+      [
+        "Glow",
+        "url(assets/img/shopify/holografico-glow.jpg) center/cover"
+      ],
+      [
+        "Laranja Neon",
+        "url(assets/img/shopify/holografico-laranja-neon.png) center/cover"
+      ],
+      [
+        "Luz Laranja",
+        "url(assets/img/shopify/holografico-luz-laranja.jpg) center/cover"
+      ],
+      [
+        "Preto Brilhante",
+        "url(assets/img/shopify/holografico-preto-brilhante.png) center/cover"
+      ],
+      [
+        "Rapadura",
+        "url(assets/img/shopify/holografico-rapadura.jpg) center/cover"
+      ],
+      [
+        "Roxo Estrelnar",
+        "url(assets/img/shopify/holografico-roxo-estrelnar.jpg) center/cover"
+      ],
+      [
+        "Rubi Dourado",
+        "url(assets/img/shopify/holografico-rubi-dourado.jpg) center/cover"
+      ],
+      [
+        "Salmão Radiante",
+        "url(assets/img/shopify/holografico-salmão-radiante.jpg) center/cover"
+      ],
+      [
+        "Verde Neon",
+        "url(assets/img/shopify/holografico-verde-neon.jpg) center/cover"
+      ],
+      [
+        "Verde Cósmico",
+        "url(assets/img/shopify/holografico-verde-cósmico.jpg) center/cover"
       ],
       [
         "Vermelho Holográfico",
-        "url(assets/images/cores/Vermelho-Holográfico.jpg)"
+        "url(assets/img/shopify/holografico-vermelho-holográfico.jpg) center/cover"
       ],
       [
-        "Véu da Noite",
-        "url(assets/images/cores/Véu-da-Noite.jpg)"
+        "Véu Da Noite",
+        "url(assets/img/shopify/holografico-véu-da-noite.jpg) center/cover"
       ]
     ],
     "description": "Atrativo para Pesca 5 mm<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">O Atrativo para pesca é o acessório essencial para os pescadores que buscam maximizar sua captura e tornar a pesca ainda mais emocionante. Cada saquinho contém 5 filetes de atrativos, e o melhor de tudo é que cada filete pode ser facilmente cortado em até 10 pequenos atrativos individuais, garantindo uma longa duração e economia, totalizando 50 pequenas bolinhas de atrativo. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">A principal função do Atrativo para Pesca é deixar a isca extremamente atrativa para os peixes tanto pela cor como pelo movimento. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Além disso, o Atrativo para pesca tem uma característica inovadora. Dependendo do tamanho do anzol e da quantidade de atrativos usados simultaneamente, ele pode proporcionar flutuabilidade à isca. Isso significa que você pode ajustar a quantidade de atrativos conforme sua preferência e o tipo de peixe que deseja atrair. Experimente diferentes combinações para alcançar resultados surpreendentes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Outra vantagem incrível do Atrativo para pesca é sua capacidade de manter a isca na posição ideal. Muitas vezes, iscas afundam e acabam escondidas na areia, o que reduz a visibilidade para os peixes e diminui suas chances de sucesso na pesca. Com o Atrativo para pesca, você não precisa se preocupar com isso, pois ele ajuda a manter a isca flutuando sempre à vista dos peixes.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Destacar os atrativos é simples e prático, podendo ser facilmente feito à mão. Dessa forma, você pode ajustar o tamanho do atrativo de acordo com suas preferências e necessidades específicas para cada pescaria.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Principais recursos do Atrativo para pesca:<br data-mce-fragment=\"1\">- Atrativo altamente eficaz para diversas espécies de peixes;<br data-mce-fragment=\"1\">- Possibilidade de cortar até 10 atrativos por filete;<br data-mce-fragment=\"1\">- Ajuda a isca a flutuar, dependendo do tamanho do anzol e da quantidade de atrativos usados;<br data-mce-fragment=\"1\">- Evita que a isca afunde e fique escondida na areia;<br data-mce-fragment=\"1\">- Fácil de destacar e ajustar o tamanho dos atrativos.",
@@ -396,55 +721,29 @@ window.PRODUCTS = [
       "assets/img/shopify/vel-da-noite.png",
       "assets/img/shopify/atrativo-rapadura.png",
       "assets/img/shopify/Pastel.jpg",
-      "assets/img/shopify/medida_atrativo.jpg"
+      "assets/img/shopify/medida_atrativo.jpg",
+      "assets/img/shopify/holografico-amarelo-neon.jpg",
+      "assets/img/shopify/holografico-beijo-da-sombra.jpg",
+      "assets/img/shopify/holografico-branco-perola.jpg",
+      "assets/img/shopify/holografico-capim-rubi.jpg",
+      "assets/img/shopify/holografico-chá---pastel.jpg",
+      "assets/img/shopify/holografico-chá-verde.jpg",
+      "assets/img/shopify/holografico-chá.jpg",
+      "assets/img/shopify/holografico-glow.jpg",
+      "assets/img/shopify/holografico-laranja-neon.png",
+      "assets/img/shopify/holografico-luz-laranja.jpg",
+      "assets/img/shopify/holografico-preto-brilhante.png",
+      "assets/img/shopify/holografico-rapadura.jpg",
+      "assets/img/shopify/holografico-roxo-estrelnar.jpg",
+      "assets/img/shopify/holografico-rubi-dourado.jpg",
+      "assets/img/shopify/holografico-salmão-radiante.jpg",
+      "assets/img/shopify/holografico-verde-neon.jpg",
+      "assets/img/shopify/holografico-verde-cósmico.jpg",
+      "assets/img/shopify/holografico-vermelho-holográfico.jpg",
+      "assets/img/shopify/holografico-véu-da-noite.jpg"
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
     "specs": {}
-  },
-  {
-    "id": 7,
-    "slug": "kit-atrativo-conico-85mm-5-filetes-com-10-unidades",
-    "category": "Atrativos",
-    "name": "Kit Atrativo Cônico 85mm - 5 Filetes com 10 Unidades",
-    "price": "R$ 13,50",
-    "img": "assets/img/shopify/atrativoconicolaranja.png",
-    "link": "https://chumbadas.com.br/products/kit-atrativo-conico-85mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "swatches": [
-      [
-        "Amarelo Neon",
-        "url(assets/images/cores/amarelo-neon.jpg)"
-      ],
-      [
-        "Branco Pérola",
-        "url(assets/images/cores/Branco-perola.jpg)"
-      ],
-      [
-        "Laranja Neon",
-        "url(assets/images/cores/laranja-Neon.png)"
-      ],
-      [
-        "Vermelho Holográfico",
-        "url(assets/images/cores/Vermelho-Holográfico.jpg)"
-      ],
-      [
-        "Verde Neon",
-        "url(assets/images/cores/Verde-neon.jpg)"
-      ]
-    ],
-    "description": "<p><span>Atrativo Cônico Chumbada Oficial<br><br>Chegou mais uma novidade para turbinar suas pescarias! O Atrativo Cônico Chumbada Oficial foi desenvolvido com um material de altíssima flutuabilidade (floating), sendo ideal para utilização próximo ao anzol, junto à isca natural.<br><br>Sua principal função é manter a isca mais suspensa e com um movimento muito mais natural, aproveitando a ação das ondas, correnteza e maré. Além disso, ajuda a evitar que o anzol fique escondido sob a areia, aumentando sua exposição e melhorando as chances de fisgada.<br><br>Disponível em diversas cores, o Atrativo Cônico permite inúmeras combinações para o pescador personalizar sua montagem. Você pode utilizar uma única peça, combinar duas ou mais cores, montar em sentidos opostos ou criar configurações exclusivas conforme a necessidade da pescaria.<br><br>Cada embalagem acompanha 5 filetes com 10 unidades cada, totalizando 50 atrativos por pacote, garantindo excelente rendimento e diversas possibilidades de montagem.<br><br>✔ Material extremamente floating<br>✔ Mantém a isca mais visível e atrativa<br>✔ Ajuda a evitar que o anzol fique encoberto pela areia<br>✔ Diversas cores disponíveis<br>✔ Inúmeras formas de montagem e utilização<br>✔ Embalagem com 50 unidades<br>Mais movimento, mais visibilidade e mais eficiência para suas montagens de praia, costão e pesca com iscas naturais! </span></p>",
-    "images": [
-      "assets/img/shopify/atrativoconicolaranja.png",
-      "assets/img/shopify/amarelo-Neon_ed6c1a88-8fb0-4b98-aea3-3fde11cb9225.jpg",
-      "assets/img/shopify/Branco-perola_123a60b5-d082-46f6-ae92-0abeb20d91a1.jpg",
-      "assets/img/shopify/Vermelho-Holografico_bc47a346-be98-4a37-aed4-75f08e544e16.jpg",
-      "assets/img/shopify/Verde-Neon_00efb8a7-72eb-4696-9c8e-85fd48bd0e04.jpg",
-      "assets/img/shopify/preto-brilhante.png",
-      "assets/img/shopify/medida_atrativo_conico.jpg"
-    ],
-    "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
-    "specs": {
-      "Conteúdo": "1 Unidade"
-    }
   },
   {
     "id": 8,
@@ -1368,7 +1667,7 @@ window.PRODUCTS = [
   {
     "id": 36,
     "slug": "rotor-de-engate-rapido-cabeca-de-cobra",
-    "category": "LINHA TERMINAL E KITS",
+    "category": "Linha Terminal e Kits",
     "name": "Rotor de Engate Rápido Cabeça de Cobra",
     "price": "R$ 8,10",
     "img": "assets/img/shopify/Rotor-Cabeca-de-Cobra-capa.png",
