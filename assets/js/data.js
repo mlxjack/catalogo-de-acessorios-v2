@@ -2657,10 +2657,6 @@ window.PRODUCTS = [
         "#7c3aed"
       ],
       [
-        "Vermelho",
-        "#dc2626"
-      ],
-      [
         "Verde",
         "#22c55e"
       ]
@@ -2708,10 +2704,6 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/roxo-40.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/roxo-60.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/roxo-85.jpg?v=1768317605",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/vermelho-40.jpg?v=1768317605",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/vermelho-60.jpg?v=1768317605",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/vermelho-85.jpg?v=1768317605",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/vermelho-85.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/roxo-85.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rosa-85.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/laranja-85.jpg?v=1768317605",
