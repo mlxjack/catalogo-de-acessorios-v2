@@ -2633,10 +2633,6 @@ window.PRODUCTS = [
         "#facc15"
       ],
       [
-        "Azul",
-        "#2563eb"
-      ],
-      [
         "Branco",
         "#ffffff"
       ],
@@ -2673,12 +2669,6 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/amarelo-40.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/amarelo-60.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/amarelo-85.jpg?v=1768317605",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/azul-40.jpg?v=1768317605",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/azul-60.jpg?v=1768317605",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/azul-85.jpg?v=1768317605",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/azul-escuro-grande.png?v=1768317605",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/azul-escuro-medio.png?v=1768317605",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Azul-escuro-pequeno.png?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/branco-45.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/branco-60.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/branco-85.jpg?v=1768317605",
@@ -2709,7 +2699,6 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/laranja-85.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/cinza-85.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/branco-85.jpg?v=1768317605",
-      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/azul-85.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/amarelo-85.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/preto-85.jpg?v=1768317605",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/verde-40.png?v=1768317605",
