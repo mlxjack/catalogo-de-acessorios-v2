@@ -9,6 +9,34 @@ window.CONFIG = {
 
 window.PRODUCTS = [
   {
+    "id": 731,
+    "slug": "secretaria-paredao",
+    "category": "Acessórios",
+    "name": "Secretária Paredão",
+    "price": "R$ 14,90",
+    "img": "assets/img/shopify/secretaria_paredao_4.png",
+    "link": "https://chumbadas.com.br/products/secretaria-paredao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "swatches": [
+      [
+        "Preto Eco",
+        "#1f2937"
+      ]
+    ],
+    "description": "<p><b>Secretária Paredão Chumbada Oficial</b><br><br>A Secretária Paredão foi desenvolvida para organizar e apoiar seus acessórios durante a pescaria de paredão, deixando tudo à mão no momento da montagem.<br><br>Prática e funcional, serve como bandeja de apoio para itens como tesoura, saca-anzol, iscas e demais acessórios essenciais, com espaço próprio para preparar a isca.<br><br>Disponível na cor <b>Preto Eco</b>.</p>",
+    "images": [
+      "assets/img/shopify/secretaria_paredao_4.png",
+      "assets/img/shopify/secretaria_paredao_1.png",
+      "assets/img/shopify/secretaria_paredao_2.png",
+      "assets/img/shopify/secretaria_paredao_3.png"
+    ],
+    "video": "",
+    "specs": {
+      "Cor": "Preto Eco"
+    },
+    "section": "Lançamentos",
+    "featured": true
+  },
+  {
     "id": 1,
     "slug": "linha-multi-verax-4x-300m",
     "section": "Lançamentos",
@@ -1188,7 +1216,7 @@ window.PRODUCTS = [
       "assets/img/shopify/cantoneira_preta.jpg",
       "assets/img/shopify/cantoneira_azul.jpg"
     ],
-    "video": "",
+    "video": "assets/video/shopify/regua-cantoneira-vinicius-braum.mp4",
     "specs": {
       "Material": "Cantoneira plástica especial resistente e adesivo de alta aderência",
       "Dimensões": "15cm de largura (Medidas extremamente precisas e aferidas individualmente)",
