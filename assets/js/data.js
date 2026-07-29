@@ -454,7 +454,7 @@ window.PRODUCTS = [
     "id": 14,
     "slug": "cobreno-p-m-e-g",
     "category": "Acessórios",
-    "name": "Cobrenó P, M e G",
+    "name": "Cobre nó P, M e G",
     "price": "R$ 4,62",
     "img": "assets/img/shopify/pesca-4.jpg",
     "link": "https://chumbadas.com.br/products/cobre-no-pacote-com-40?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
