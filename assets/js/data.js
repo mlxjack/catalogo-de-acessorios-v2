@@ -14,7 +14,7 @@ window.PRODUCTS = [
     "category": "Acessórios",
     "name": "Secretária Paredão",
     "price": "R$ 14,90",
-    "img": "assets/img/shopify/secretaria_paredao_4.png",
+    "img": "assets/img/shopify/suporte-paredao-uso-01.png",
     "link": "https://chumbadas.com.br/products/secretaria-paredao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
       [
@@ -24,12 +24,16 @@ window.PRODUCTS = [
     ],
     "description": "<p>A nova Secretária Paredão foi desenvolvida para quem pesca em qualquer lugar. Muito mais do que uma secretária tradicional, ela pode ser utilizada em plataformas, decks, paredões, muretas e outros locais onde o apoio é feito pelo calão ou cantoneira de alumínio.</p><p>É compatível com o <a href=\"#/produto/suporte-de-vara-slim\">Suporte de Vara Slim</a> e o <a href=\"#/produto/suporte-de-vara-premium-completo\">Suporte de Vara Premium</a>, podendo ser fixada diretamente neles.</p><p>Seu grande diferencial está na alta resistência e no sistema de fixação inteligente, com dois canais para passagem de cordas ou elásticos e ganchos laterais que facilitam a amarração, proporcionando firmeza e segurança durante a pescaria.</p><p>Compacta, leve e fácil de transportar, conta com furos traseiros para diferentes formas de fixação, compartimentos para organizar iscas, faca, iscador, saca-anzol e outros acessórios, deixando tudo sempre ao alcance das mãos.</p><p>Além disso, possui um furo central, que permite sua utilização diretamente no Varal da Chumbada Oficial, ampliando ainda mais sua versatilidade e possibilitando diferentes configurações para a sua pescaria.</p><p>Mais praticidade, organização e eficiência para você focar no que realmente importa: pescar mais e melhor.</p><p>#ChumbadaOficial #MarcoChumbada #SecretariaParedao #PescaEsportiva #Fishing</p>",
     "images": [
+      "assets/img/shopify/suporte-paredao-uso-01.png",
+      "assets/img/shopify/suporte-paredao-uso-02.png",
+      "assets/img/shopify/suporte-paredao-uso-03.png",
+      "assets/img/shopify/suporte-paredao-uso-04.png",
       "assets/img/shopify/secretaria_paredao_4.png",
       "assets/img/shopify/secretaria_paredao_1.png",
       "assets/img/shopify/secretaria_paredao_2.png",
       "assets/img/shopify/secretaria_paredao_3.png"
     ],
-    "video": "",
+    "video": "assets/video/shopify/secretaria-paredao-uso.mov",
     "specs": {
       "Cor": "Preto Eco"
     },
