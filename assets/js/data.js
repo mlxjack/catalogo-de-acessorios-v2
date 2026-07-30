@@ -2603,52 +2603,24 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/suporte-de-vara-slim?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "Plástico 40cm",
+        "40cm",
         "R$ 16,10"
       ],
       [
-        "Plástico 60cm",
+        "60cm",
         "R$ 19,55"
       ],
       [
-        "Plástico 85cm",
+        "85cm",
         "R$ 26,45"
       ],
       [
-        "Plástico 1m",
+        "1m",
         "R$ 28,75"
       ],
       [
-        "Plástico 1,2m",
+        "1,2m",
         "R$ 33,35"
-      ],
-      [
-        "Borracha 40cm",
-        "R$ 18,88"
-      ],
-      [
-        "Borracha 60cm",
-        "R$ 22,42"
-      ],
-      [
-        "Borracha 85cm",
-        "R$ 29,50"
-      ],
-      [
-        "Borracha 100cm",
-        "R$ 31,68"
-      ],
-      [
-        "Borracha 120cm",
-        "R$ 36,58"
-      ],
-      [
-        "Apoio de Borracha (Reposição)",
-        "R$ 4,00"
-      ],
-      [
-        "Copo de Borracha (Reposição)",
-        "R$ 5,00"
       ]
     ],
     "swatches": [
@@ -2659,6 +2631,10 @@ window.PRODUCTS = [
       [
         "Amarelo",
         "#facc15"
+      ],
+      [
+        "Azul",
+        "#3b82f6"
       ],
       [
         "Branco",
@@ -2681,11 +2657,15 @@ window.PRODUCTS = [
         "#7c3aed"
       ],
       [
+        "Vermelho",
+        "#ef4444"
+      ],
+      [
         "Verde",
         "#22c55e"
       ]
     ],
-    "description": "<p>O Suporte de Vara Slim da Chumbada Oficial é um produto inovador e prático, projetado especificamente para os entusiastas da pesca.</p>\n<p>Este novo modelo foi cuidadosamente desenvolvido com o objetivo de otimizar custos, oferecendo uma solução de alta qualidade a um preço acessível.</p>\n<p>Fabricado materiais de alta qualidade, o Suporte de Vara Slim da Chumbada Oficial é durável, resistente e muito leve sendo fácil de transporta-lo.</p>\n<p>O copo inferior do suporte não possui regulagem, mantendo-se em uma altura padrão que oferece estabilidade para a vara de pesca.</p>\n<p>Essa característica simplifica o uso e a montagem do suporte, proporcionando maior praticidade aos pescadores.</p>\n\n<p>O conjunto completo inclui todas as partes necessárias para o uso adequado do suporte, garantindo sua funcionalidade e desempenho ideais.</p>\n<p>Em resumo, o Suporte de Vara Slim da Chumbada Oficial é um produto de ótimo custo benefício prático, leve e com um belo design. Disponíveis nos tamanhos 40cm / 60cm / 85cm / 1m / 1,20m em várias cores.<br></p><br><p>💡 <strong>Dica Chumbada:</strong> As peças de borracha deste suporte (como o <strong>Apoio de Borracha</strong> e o <strong>Copo de Borracha</strong>) podem ser compradas separadamente em nosso site caso você precise de reposição!</p>",
+    "description": "<p>O Suporte de Vara Slim da Chumbada Oficial é um produto inovador e prático, projetado especificamente para os entusiastas da pesca.</p>\n<p>Este novo modelo foi cuidadosamente desenvolvido com o objetivo de otimizar custos, oferecendo uma solução de alta qualidade a um preço acessível.</p>\n<p>Fabricado materiais de alta qualidade, o Suporte de Vara Slim da Chumbada Oficial é durável, resistente e muito leve sendo fácil de transporta-lo.</p>\n<p>O copo inferior do suporte não possui regulagem, mantendo-se em uma altura padrão que oferece estabilidade para a vara de pesca.</p>\n<p>Essa característica simplifica o uso e a montagem do suporte, proporcionando maior praticidade aos pescadores.</p>\n<p>É importante ressaltar que o Suporte de Vara Slim da Chumbada Oficial é vendido apenas como conjunto completo e não em peças separadas.</p>\n<p>O conjunto completo inclui todas as partes necessárias para o uso adequado do suporte, garantindo sua funcionalidade e desempenho ideais.</p>\n<p>Em resumo, o Suporte de Vara Slim da Chumbada Oficial é um produto de ótimo custo benefício prático, leve e com um belo design. Disponíveis nos tamanhos 40cm / 60cm / 85cm / 1m / 1,20m em várias cores.</p>",
     "images": [
       "assets/img/shopify/suporte-de-vara-slim-capa.png",
       "assets/img/shopify/photo_1_2026-01-13_11-58-58.jpg",
@@ -2722,37 +2702,73 @@ window.PRODUCTS = [
       "assets/img/shopify/roxo-40.jpg",
       "assets/img/shopify/roxo-60.jpg",
       "assets/img/shopify/roxo-85.jpg",
-      "assets/img/shopify/roxo-85.jpg",
-      "assets/img/shopify/rosa-85.jpg",
-      "assets/img/shopify/laranja-85.jpg",
-      "assets/img/shopify/cinza-85.jpg",
-      "assets/img/shopify/branco-85.jpg",
-      "assets/img/shopify/amarelo-85.jpg",
-      "assets/img/shopify/preto-85.jpg",
       "assets/img/shopify/verde-40.png",
       "assets/img/shopify/verde-60.png",
       "assets/img/shopify/verde-85.png",
       "assets/img/shopify/verde-1m.png",
-      "assets/img/shopify/verde-1_20.png",
+      "assets/img/shopify/verde-1_20.png"
+    ],
+    "video": "assets/video/shopify/47f1a9c1b54d4381a82a3436e200e3c2.mp4",
+    "specs": {
+      "Material": "Estrutura em alumínio com peças em plástico premium",
+      "Tamanhos Disponíveis": "40cm, 60cm, 85cm, 1m, 1,20m",
+      "Cores Disponíveis": "Preto, Amarelo, Azul, Branco, Cinza, Laranja, Rosa, Roxo, Vermelho, Verde"
+    },
+    "section": "Suportes"
+  },
+  {
+    "id": 732,
+    "slug": "suporte-de-vara-slim-em-borracha",
+    "category": "Suportes",
+    "name": "Suporte de Vara Slim em Borracha",
+    "price": "a partir de R$ 18,88",
+    "img": "assets/img/shopify/suporte-vara-slim-borracha-40cm.jpg",
+    "link": "https://chumbadas.com.br/products/suporte-de-vara-slim-em-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "40cm",
+        "R$ 18,88"
+      ],
+      [
+        "60cm",
+        "R$ 22,42"
+      ],
+      [
+        "85cm",
+        "R$ 29,50"
+      ],
+      [
+        "100cm",
+        "R$ 31,68"
+      ],
+      [
+        "120cm",
+        "R$ 36,58"
+      ],
+      [
+        "Apoio de Borracha (Reposição)",
+        "R$ 4,00"
+      ],
+      [
+        "Copo de Borracha (Reposição)",
+        "R$ 5,00"
+      ]
+    ],
+    "description": "<p><b>Suporte de Vara Slim em Borracha</b> — Chumbada Oficial</p>\n<p>Cantoneira em alumínio com apoio e copo em borracha, desenvolvida para oferecer mais proteção e amortecimento para a vara de pesca durante o uso.</p>\n<p>As peças em borracha (Apoio e Copo) ajudam a reduzir o atrito e o desgaste, proporcionando maior durabilidade tanto para o suporte quanto para o equipamento apoiado.</p>\n<p>Disponível nos tamanhos 40cm / 60cm / 85cm / 100cm / 120cm.</p>\n<p>💡 <strong>Dica Chumbada:</strong> As peças de borracha (<strong>Apoio de Borracha</strong> e <strong>Copo de Borracha</strong>) também podem ser compradas separadamente em nosso site caso você precise de reposição!</p>",
+    "images": [
+      "assets/img/shopify/suporte-vara-slim-borracha-40cm.jpg",
+      "assets/img/shopify/suporte-vara-slim-borracha-60cm.jpg",
       "assets/img/shopify/apoio_borracha.jpg",
       "assets/img/shopify/Copo_borracha.jpg",
       "assets/img/shopify/Copo_borracha1.png"
     ],
     "video": "assets/video/shopify/47f1a9c1b54d4381a82a3436e200e3c2.mp4",
     "specs": {
-      "Material": "Estrutura em alumínio com peças em borracha e plástico premium",
-      "Tamanhos Disponíveis": "40cm, 60cm, 85cm, 1m, 1,20m",
-      "Itens Avulsos (Reposição)": "Apoio de Borracha, Copo de Borracha, e Cano (podem ser adquiridos separadamente)"
+      "Material": "Cantoneira em alumínio com apoio e copo em borracha",
+      "Tamanhos Disponíveis": "40cm, 60cm, 85cm, 100cm, 120cm",
+      "Itens Avulsos (Reposição)": "Apoio de Borracha e Copo de Borracha disponíveis para compra individual"
     },
     "section": "Suportes",
-    "image": "assets/img/shopify/suporte-de-vara-slim-capa.png",
-    "sizes": [
-      "40 cm",
-      "60 cm",
-      "85 cm",
-      "1.00 m",
-      "1.20 m"
-    ],
     "varImages": {
       "Apoio de Borracha (Reposição)": "assets/img/shopify/apoio_borracha.jpg",
       "Copo de Borracha (Reposição)": "assets/img/shopify/Copo_borracha.jpg"
