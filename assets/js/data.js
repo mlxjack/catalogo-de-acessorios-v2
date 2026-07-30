@@ -33,7 +33,7 @@ window.PRODUCTS = [
       "assets/img/shopify/secretaria_paredao_2.png",
       "assets/img/shopify/secretaria_paredao_3.png"
     ],
-    "video": "assets/video/shopify/secretaria-paredao-uso.mov",
+    "video": "assets/video/shopify/secretaria-paredao-uso.mp4",
     "specs": {
       "Cor": "Preto Eco"
     },
