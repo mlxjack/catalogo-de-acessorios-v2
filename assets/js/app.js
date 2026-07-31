@@ -99,6 +99,55 @@ function normalizeText(str) {
     .replace(/[\u0300-\u036f]/g, '');
 }
 
+// Verifica se o nome do arquivo de uma imagem "casa" com um texto de varia\u00e7\u00e3o/cor
+function imageMatchesText(imgSrc, text) {
+  if (!text || !imgSrc) return false;
+  const parts = imgSrc.split('/');
+  const filename = parts[parts.length - 1];
+  const normFile = normalizeText(filename);
+  const normalizedText = normalizeText(text).replace(/\s+/g, '-');
+  const normalizedTextNoSpace = normalizeText(text).replace(/\s+/g, '');
+  return normFile.includes(normalizedText) || normFile.includes(normalizedTextNoSpace) || normalizedTextNoSpace.includes(normFile.replace(/\.[\w]+$/, '').replace(/-/g, ''));
+}
+
+// Em produtos com muitas varia\u00e7\u00f5es/cores, mostra s\u00f3 as fotos gen\u00e9ricas + as da op\u00e7\u00e3o
+// selecionada, escondendo o restante at\u00e9 o cliente clicar na varia\u00e7\u00e3o correspondente.
+// O v\u00eddeo do produto (se houver) nunca \u00e9 afetado por esse filtro.
+function getVisibleGalleryImages(p, colorName, varName) {
+  if (!p.images) return [];
+  const varLabels = p.vars ? p.vars.map(v => v[0]) : [];
+  const colorLabels = p.swatches ? p.swatches.map(s => s[0]) : [];
+  if (varLabels.length + colorLabels.length <= 1) return p.images.slice();
+
+  const allLabels = [...varLabels, ...colorLabels];
+  const isVariantSpecific = img => allLabels.some(label => imageMatchesText(img, label));
+  const matchesActive = img => imageMatchesText(img, colorName) || imageMatchesText(img, varName);
+
+  const filtered = p.images.filter(img => !isVariantSpecific(img) || matchesActive(img));
+  return filtered.length > 0 ? filtered : p.images.slice();
+}
+
+// Monta o HTML das miniaturas da galeria (imagens filtradas + bot\u00e3o de v\u00eddeo, sempre vis\u00edvel)
+function buildGalleryThumbsHTML(p, images) {
+  return `
+    ${images.map((img, i) => `
+      <button class="thumb-btn ${i === 0 ? 'active' : ''}" data-type="image" data-src="${img}" type="button" aria-label="Ver imagem ${i + 1}">
+        <img src="${img}" alt="" onerror="this.src='assets/images/chumbada-oficial-27c01352.png'">
+      </button>
+    `).join('')}
+    ${p.video ? `
+      <button class="thumb-btn thumb-video-btn" data-type="video" data-video-src="${p.video}" type="button" aria-label="Ver v\u00eddeo do produto">
+        <div class="play-icon-overlay">
+          <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+            <path d="M8 5v14l11-7z"/>
+          </svg>
+        </div>
+        <img src="${p.img}" alt="Previa do v\u00eddeo">
+      </button>
+    ` : ''}
+  `;
+}
+
 // ==========================================
 // 1. RENDERIZAÇÃO DA PÁGINA DE CATÁLOGO (HOME)
 // ==========================================
@@ -418,6 +467,12 @@ function renderProductDetail(p) {
     }
   }
 
+  // Galeria: em produtos com muitas variações/cores, mostra inicialmente só as fotos
+  // genéricas + as da opção já selecionada por padrão (o restante aparece ao trocar a opção)
+  const initialVarText = p.vars && p.vars[currentVarIndex] ? p.vars[currentVarIndex][0] : '';
+  const initialColorText = state.selectedColor[p.id] || '';
+  const visibleGalleryImages = getVisibleGalleryImages(p, initialColorText, initialVarText);
+
   // Montagem da Tabela de Especificações Técnicas (Misturando estáticas e dinâmicas do produto)
   let specsRows = `
     <tr>
@@ -476,24 +531,9 @@ function renderProductDetail(p) {
               <div id="main-product-video" class="gallery-video-wrapper" style="display: none;"></div>
             </div>
             
-            ${(p.images && p.images.length > 1) || p.video ? `
+            ${(visibleGalleryImages.length > 1) || p.video ? `
               <div class="gallery-thumbs" id="gallery-thumbs">
-                ${p.images.map((img, i) => `
-                  <button class="thumb-btn ${i === 0 ? 'active' : ''}" data-type="image" data-src="${img}" type="button" aria-label="Ver imagem ${i+1}">
-                    <img src="${img}" alt="" onerror="this.src='assets/images/chumbada-oficial-27c01352.png'">
-                  </button>
-                `).join('')}
-                
-                ${p.video ? `
-                  <button class="thumb-btn thumb-video-btn" data-type="video" data-video-src="${p.video}" type="button" aria-label="Ver vídeo do produto">
-                    <div class="play-icon-overlay">
-                      <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
-                        <path d="M8 5v14l11-7z"/>
-                      </svg>
-                    </div>
-                    <img src="${p.img}" alt="Previa do vídeo">
-                  </button>
-                ` : ''}
+                ${buildGalleryThumbsHTML(p, visibleGalleryImages)}
               </div>
             ` : ''}
           </section>
@@ -700,8 +740,8 @@ function initDetailSelectors(p) {
       // Atualizar texto do label de cor
       if (colorLabel) colorLabel.textContent = colorName;
 
-      // Tentar trocar a foto da galeria
-      trySwitchImage(colorName);
+      // Atualizar galeria (revela as fotos da cor selecionada e troca a foto principal)
+      refreshGallery(colorName);
 
       updateWhatsappLink();
     });
@@ -730,57 +770,52 @@ function initDetailSelectors(p) {
         priceDisplay.classList.toggle('empty', varPrice === 'Sob Consulta');
       }
 
-      // Tentar trocar a foto da galeria com base no nome da variação
+      // Atualizar galeria (revela as fotos da variação selecionada e troca a foto principal)
       if (p.vars && p.vars[varIndex]) {
-        trySwitchImage(p.vars[varIndex][0]);
+        refreshGallery(p.vars[varIndex][0]);
       }
 
       updateWhatsappLink();
     });
   }
 
-  // Função para tentar trocar a imagem da galeria com base no texto
-  function trySwitchImage(text) {
-    if (!text || !p.images || !galleryThumbs) return;
+  // Reconstrói as miniaturas da galeria mostrando as fotos genéricas + as da opção ativa
+  // (cor e variação), e troca a foto principal para a que combina com o texto recém-selecionado.
+  // O vídeo (se houver) permanece sempre visível, nunca é escondido pelo filtro.
+  function refreshGallery(activeText) {
+    if (!p.images || !galleryThumbs) return;
+
+    const colorName = state.selectedColor[p.id] || '';
+    const varIndex = state.selectedVariation[p.id];
+    const varName = p.vars && p.vars[varIndex] ? p.vars[varIndex][0] : '';
+
+    const visibleImages = getVisibleGalleryImages(p, colorName, varName);
+    galleryThumbs.innerHTML = buildGalleryThumbsHTML(p, visibleImages);
 
     // 1. Tentar correspondência exata por URL mapeada em colorImages ou varImages
     let targetSrc = '';
-    if (p.colorImages && p.colorImages[text]) {
-      targetSrc = p.colorImages[text];
-    } else if (p.varImages && p.varImages[text]) {
-      targetSrc = p.varImages[text];
+    if (p.colorImages && p.colorImages[activeText] && visibleImages.includes(p.colorImages[activeText])) {
+      targetSrc = p.colorImages[activeText];
+    } else if (p.varImages && p.varImages[activeText] && visibleImages.includes(p.varImages[activeText])) {
+      targetSrc = p.varImages[activeText];
+    }
+
+    // 2. Fallback: correspondência por nome de arquivo dentro das imagens visíveis
+    if (!targetSrc) {
+      const matchIndex = visibleImages.findIndex(img => imageMatchesText(img, activeText));
+      targetSrc = matchIndex !== -1 ? visibleImages[matchIndex] : visibleImages[0];
     }
 
     if (targetSrc) {
-      const thumbBtns = galleryThumbs.querySelectorAll('.thumb-btn[data-type="image"]');
-      const matchIndex = Array.from(thumbBtns).findIndex(btn => btn.dataset.src === targetSrc);
-      if (matchIndex !== -1) {
-        thumbBtns[matchIndex].click();
-        thumbBtns[matchIndex].scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
-        return;
-      }
-    }
+      mainVideoContainer.style.display = 'none';
+      mainVideoContainer.innerHTML = '';
+      mainImg.style.display = 'block';
+      mainImg.src = targetSrc;
 
-    // 2. Fallback para correspondência por texto no nome do arquivo
-    const normalizedText = normalizeText(text).replace(/\s+/g, '-');
-    const normalizedTextNoSpace = normalizeText(text).replace(/\s+/g, '');
-    
-    // Procura uma imagem cujo nome de arquivo contenha o texto da variação
-    const matchIndex = p.images.findIndex(imgSrc => {
-      const parts = imgSrc.split('/');
-      const filename = parts[parts.length - 1];
-      const normFile = normalizeText(filename);
-      return normFile.includes(normalizedText) || normFile.includes(normalizedTextNoSpace) || normalizedTextNoSpace.includes(normFile.replace(/\.[\w]+$/, '').replace(/-/g, ''));
-    });
-    
-    if (matchIndex !== -1) {
       const thumbBtns = galleryThumbs.querySelectorAll('.thumb-btn[data-type="image"]');
-      if (thumbBtns[matchIndex]) {
-        thumbBtns[matchIndex].click();
-        
-        // Fazer scroll suave das thumbs para mostrar o botão ativo, caso esteja fora de vista
-        thumbBtns[matchIndex].scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
-      }
+      thumbBtns.forEach(b => b.classList.toggle('active', b.dataset.src === targetSrc));
+      const activeBtn = Array.from(thumbBtns).find(b => b.dataset.src === targetSrc);
+      if (activeBtn) activeBtn.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
     }
   }
 
