@@ -3592,11 +3592,6 @@ window.PRODUCTS = [
       "Comprimento/Medida": "30CM"
     },
     "section": "Organização",
-    "colorImages": {
-      "Azul": "assets/img/shopify/SomenteCanoAzul_9e637403-fc0c-41ff-ad30-463aac2483d6.jpg",
-      "Branco": "assets/img/shopify/SomenteCanoBranco_edf334b2-400f-4657-b93d-32b34b7b5256.jpg",
-      "Marrom": "assets/img/shopify/30cm-marrom_4aa55bbc-ab4f-44e0-9c37-d56b04cf00f8.png"
-    },
     "vars": [
       [
         "30cm",
@@ -3635,16 +3630,29 @@ window.PRODUCTS = [
         "R$ 4,20"
       ]
     ],
-    "varImages": {
-      "30cm": "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
-      "40cm": "assets/img/shopify/somente-cano-40cm_e6bca2ec-d0b2-4b79-b6cf-30cf21387706.png",
-      "50cm": "assets/img/shopify/somente-cano-50cm_6e62cfdb-4e63-492e-8e19-f6db40bd566a.png",
-      "60cm": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
-      "70cm": "assets/img/shopify/somente-cano-70cm_bcfbc84d-03ad-489d-87fa-50f969953709.png",
-      "80cm": "assets/img/shopify/somente-cano-80cm_78f92977-f490-467b-92c2-d9fa9b1067dd.png",
-      "100cm": "assets/img/shopify/somente-cano-100cm_a52c9c44-de3c-40a3-990c-bda2fabe13dd.png",
-      "Apoio de Anzol (Reposição)": "assets/img/shopify/apoio.png",
-      "Trava Linha (Reposição)": "assets/img/shopify/pesca-12.jpg"
+    "variantImageMap": {
+      "30cm::Branco": "assets/img/shopify/SomenteCanoBranco_6babf043-cb84-4d3c-a509-a71f1d22dc2d.jpg",
+      "30cm::Azul": "assets/img/shopify/SomenteCanoAzul_9e637403-fc0c-41ff-ad30-463aac2483d6.jpg",
+      "30cm::Marrom": "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
+      "40cm::Branco": "assets/img/shopify/SomenteCanoBranco_3484c864-4b72-4a56-9f2a-753a47a8b43f.jpg",
+      "40cm::Azul": "assets/img/shopify/SomenteCanoAzul_56796aae-3372-4234-9302-ac86f289b659.jpg",
+      "40cm::Marrom": "assets/img/shopify/somente-cano-40cm_e6bca2ec-d0b2-4b79-b6cf-30cf21387706.png",
+      "50cm::Branco": "assets/img/shopify/SomenteCanoBranco_96f76d3f-3fe9-435b-98f7-2337b3bf0bb5.jpg",
+      "50cm::Azul": "assets/img/shopify/SomenteCanoAzul_81c8cb18-1f3e-4158-a0d8-3e648fa9a18e.jpg",
+      "50cm::Marrom": "assets/img/shopify/somente-cano-50cm_6e62cfdb-4e63-492e-8e19-f6db40bd566a.png",
+      "60cm::Branco": "assets/img/shopify/SomenteCanoBranco_33cce13b-6a8a-43eb-a42e-c25925f0b4af.jpg",
+      "60cm::Azul": "assets/img/shopify/SomenteCanoAzul_199cd214-c813-467e-ab16-febbc0324bf1.jpg",
+      "60cm::Marrom": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
+      "70cm::Branco": "assets/img/shopify/SomenteCanoBranco_a9bf3d69-5ee0-47cd-bf79-35b6ca4913ee.jpg",
+      "70cm::Azul": "assets/img/shopify/SomenteCanoAzul_5d4b0b05-fe5e-4b96-9832-942683d50475.jpg",
+      "70cm::Marrom": "assets/img/shopify/somente-cano-70cm_bcfbc84d-03ad-489d-87fa-50f969953709.png",
+      "80cm::Branco": "assets/img/shopify/SomenteCanoBranco_bcf0533f-1e0a-4270-8026-c49a3ac524e4.jpg",
+      "80cm::Azul": "assets/img/shopify/SomenteCanoAzul_307f4a48-a16e-4dd7-9b86-82a35db89632.jpg",
+      "80cm::Marrom": "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
+      "100cm::Branco": "assets/img/shopify/SomenteCanoBranco_84638a37-5753-4183-a71c-301af262fb5d.jpg",
+      "100cm::Azul": "assets/img/shopify/SomenteCanoAzul_60d195b3-66f6-4bad-a6fd-b1fc477a1be5.jpg",
+      "100cm::Marrom": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
+      "Apoio de Anzol (Reposição)": "assets/img/shopify/apoio.png"
     }
   },
   {

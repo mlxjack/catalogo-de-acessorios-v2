@@ -113,8 +113,21 @@ function imageMatchesText(imgSrc, text) {
 // Em produtos com muitas varia\u00e7\u00f5es/cores, mostra s\u00f3 as fotos gen\u00e9ricas + as da op\u00e7\u00e3o
 // selecionada, escondendo o restante at\u00e9 o cliente clicar na varia\u00e7\u00e3o correspondente.
 // O v\u00eddeo do produto (se houver) nunca \u00e9 afetado por esse filtro.
+function getComboImage(p, colorName, varName) {
+  if (!p.variantImageMap) return null;
+  return p.variantImageMap[`${varName}::${colorName}`] || p.variantImageMap[varName] || null;
+}
+
 function getVisibleGalleryImages(p, colorName, varName) {
   if (!p.images) return [];
+
+  // Modo estrito: produto com mapa exato foto -> variação (não mantém fotos genéricas
+  // sempre visíveis; só mostra a foto da combinação de cor/variação ativa no momento)
+  if (p.variantImageMap) {
+    const comboImg = getComboImage(p, colorName, varName);
+    return comboImg ? [comboImg] : (p.img ? [p.img] : p.images.slice(0, 1));
+  }
+
   const varLabels = p.vars ? p.vars.map(v => v[0]) : [];
   const colorLabels = p.swatches ? p.swatches.map(s => s[0]) : [];
   if (varLabels.length + colorLabels.length <= 1) return p.images.slice();
@@ -527,7 +540,7 @@ function renderProductDetail(p) {
           <!-- Coluna da Esquerda: Galeria Interativa com fotos e vídeo -->
           <section class="detail-gallery" aria-label="Imagens do Produto">
             <div class="gallery-main" id="gallery-main-container">
-              <img id="main-product-img" src="${p.img}" alt="${escapeHTML(p.name)}" onerror="this.src='assets/images/chumbada-oficial-27c01352.png'">
+              <img id="main-product-img" src="${visibleGalleryImages[0] || p.img}" alt="${escapeHTML(p.name)}" onerror="this.src='assets/images/chumbada-oficial-27c01352.png'">
               <div id="main-product-video" class="gallery-video-wrapper" style="display: none;"></div>
             </div>
             
