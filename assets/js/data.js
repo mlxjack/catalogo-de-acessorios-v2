@@ -9,6 +9,47 @@ window.CONFIG = {
 
 window.PRODUCTS = [
   {
+    "id": 733,
+    "slug": "estilingue",
+    "category": "Acessórios",
+    "name": "Estilingue",
+    "price": "R$ 190,00",
+    "img": "assets/img/shopify/estilingue.png",
+    "link": "https://chumbadas.com.br/products/estilingue?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "Pacote com 10 Unidades",
+        "R$ 190,00"
+      ]
+    ],
+    "swatches": [
+      [
+        "Azul",
+        "#2563eb"
+      ],
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Preto",
+        "#1f2937"
+      ]
+    ],
+    "description": "<p>O Estilingue Cevador é um acessório prático e muito eficiente, desenvolvido para facilitar a ceva durante a pescaria. Ideal para o uso com boia torpedo e outros sistemas finesse, ele elimina a necessidade de utilizar boia cevadeira.</p><p>Basta colocar a ração no estilingue, apontar para o local onde a boia e o anzol estão posicionados e arremessar. Assim, você consegue cevar o ponto aos poucos, com maior precisão, sem precisar recolher ou retirar a boia do lugar.</p><p>Mais praticidade, controle e eficiência para sua pescaria!</p><p>Disponível em três cores: Preto Eco, Azul Eco e Branco Eco.</p>",
+    "images": [
+      "assets/img/shopify/estilingue.png"
+    ],
+    "video": "",
+    "specs": {
+      "Conteúdo": "Pacote com 10 Unidades",
+      "Cores Disponíveis": "Preto Eco, Azul Eco, Branco Eco",
+      "Uso Recomendado": "Ceva com boia torpedo e sistemas finesse"
+    },
+    "section": "Lançamentos",
+    "featured": true
+  },
+  {
     "id": 731,
     "slug": "secretaria-paredao",
     "category": "Acessórios",
