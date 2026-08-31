@@ -3810,19 +3810,11 @@ window.PRODUCTS = [
     "category": "Vestuário",
     "name": "Avental Chumbada",
     "price": "R$ 31,27",
-    "img": "assets/img/shopify/avental-capa.png",
+    "img": "assets/img/shopify/modelo-6.png",
     "link": "https://chumbadas.com.br/products/avental-chumbada-bolso-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Apresentamos o Avental Pescador: Com um tecido de fácil limpeza, este avental foi pensado para os apaixonados por pesca! Com dois bolsos estrategicamente posicionados, você pode guardar seu saca anzol, iscador e outros acessórios, tornando tudo mais prático. Ganhe tempo e agilidade nas etapas da pesca!</p>",
     "images": [
-      "assets/img/shopify/avental-capa.png",
-      "assets/img/shopify/avental-01.png",
-      "assets/img/shopify/modelo-1.png",
-      "assets/img/shopify/modelo-2.png",
-      "assets/img/shopify/modelo-4.png",
-      "assets/img/shopify/modelo-6.png",
-      "assets/img/shopify/modelo-8.png",
-      "assets/img/shopify/avental-02.png",
-      "assets/img/shopify/avental-03.png"
+      "assets/img/shopify/modelo-6.png"
     ],
     "video": "",
     "specs": {
