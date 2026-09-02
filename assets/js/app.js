@@ -3,6 +3,7 @@
 
 const PRODUCTS = window.PRODUCTS;
 const CONFIG = window.CONFIG;
+const PRODUCT_INDICATORS = window.PRODUCT_INDICATORS || {};
 
 // Estado global simples para persistir filtros ao voltar de um produto
 const state = {
@@ -110,6 +111,111 @@ function imageMatchesText(imgSrc, text) {
   return normFile.includes(normalizedText) || normFile.includes(normalizedTextNoSpace) || normalizedTextNoSpace.includes(normFile.replace(/\.[\w]+$/, '').replace(/-/g, ''));
 }
 
+// ==========================================
+// Indicadores visuais por foto (badge no canto inferior esquerdo)
+// Usa window.PRODUCT_INDICATORS (definido em data.js) para saber, produto a
+// produto e imagem a imagem, o que desenhar. Produtos sem entrada no mapa
+// n\u00e3o s\u00e3o afetados \u2014 a fun\u00e7\u00e3o simplesmente retorna null e nada \u00e9 renderizado.
+// ==========================================
+
+const CHICOTE_TYPE_STYLE = {
+  'Finesse':   { color: '#777D84', dots: 1 },
+  'Beira':     { color: '#1478E6', dots: 2 },
+  'Meia \u00c1gua': { color: '#F2B705', dots: 3 },
+  'Fundo':     { color: '#E31B2B', dots: 4 },
+};
+
+// Duas escalas: miniatura (thumb) e foto principal (main). Mesma l\u00f3gica de
+// desenho para as duas, s\u00f3 muda o preset de tamanhos/posi\u00e7\u00f5es.
+const INDICATOR_PRESETS = {
+  thumb: {
+    w: 60, h: 26, dotR: 2, dotGap: 4, dotStartX: 4, dotY: 7,
+    lineX1: 20, lineX2: 50, lineY: 7, strokeW: 1.8,
+    endRX: 2.2, endRY: 1.4, diagLen: 3.4,
+    vSize: 2.4, beadR: 2.2,
+    textY: 21, fontSize: 9,
+  },
+  main: {
+    w: 150, h: 44, dotR: 4.5, dotGap: 9, dotStartX: 8, dotY: 13,
+    lineX1: 42, lineX2: 108, lineY: 13, strokeW: 3.2,
+    endRX: 4.5, endRY: 3, diagLen: 7,
+    vSize: 4.6, beadR: 4,
+    textY: 36, fontSize: 14,
+  },
+};
+
+// Busca a ficha do indicador (tipo/medida/linha/pontas/componente) para uma
+// imagem espec\u00edfica de um produto. Associa\u00e7\u00e3o \u00e9 pelo NOME do arquivo, nunca
+// pela posi\u00e7\u00e3o na galeria \u2014 se o produto ou a imagem n\u00e3o tiverem entrada no
+// mapa, retorna null (nenhum indicador \u00e9 desenhado).
+function getIndicatorMeta(p, imgSrc) {
+  if (!imgSrc) return null;
+  const map = PRODUCT_INDICATORS[p.slug];
+  if (!map) return null;
+  const basename = imgSrc.split('/').pop();
+  return map[basename] || null;
+}
+
+// Desenha o badge SVG (bolinhas de tipo, linha, acabamento das pontas,
+// componente central e texto da medida) para uma ficha de indicador.
+function buildIndicatorSVG(meta, variant) {
+  const P = INDICATOR_PRESETS[variant];
+  const typeStyle = CHICOTE_TYPE_STYLE[meta.tipo];
+  if (!P || !typeStyle) return '';
+
+  let dots = '';
+  for (let i = 0; i < typeStyle.dots; i++) {
+    dots += `<circle cx="${P.dotStartX + i * P.dotGap}" cy="${P.dotY}" r="${P.dotR}" fill="${typeStyle.color}"/>`;
+  }
+
+  const lineColor = meta.linha === 'vermelha' ? '#E31B2B' : '#C9CED4';
+  const line = `<line x1="${P.lineX1}" y1="${P.lineY}" x2="${P.lineX2}" y2="${P.lineY}" stroke="${lineColor}" stroke-width="${P.strokeW}" stroke-linecap="round"/>`;
+
+  // Acabamento das pontas: stopper (bolinha oval preta) ou n\u00f3 de correr
+  // (risco diagonal vermelho) \u2014 nunca os dois juntos.
+  let ends;
+  if (meta.pontas === 'stopper') {
+    ends = `<ellipse cx="${P.lineX1}" cy="${P.lineY}" rx="${P.endRX}" ry="${P.endRY}" fill="#111111"/>` +
+           `<ellipse cx="${P.lineX2}" cy="${P.lineY}" rx="${P.endRX}" ry="${P.endRY}" fill="#111111"/>`;
+  } else {
+    const d = P.diagLen;
+    ends = `<line x1="${P.lineX1 - d / 2}" y1="${P.lineY - d / 2}" x2="${P.lineX1 + d / 2}" y2="${P.lineY + d / 2}" stroke="#E31B2B" stroke-width="${P.strokeW * 0.75}" stroke-linecap="round"/>` +
+           `<line x1="${P.lineX2 - d / 2}" y1="${P.lineY - d / 2}" x2="${P.lineX2 + d / 2}" y2="${P.lineY + d / 2}" stroke="#E31B2B" stroke-width="${P.strokeW * 0.75}" stroke-linecap="round"/>`;
+  }
+
+  // Componente central: rotor de engate r\u00e1pido ("V" duplo preto) ou mi\u00e7anga
+  // rotor (2 c\u00edrculos furados: centro branco, contorno preto).
+  const midX = (P.lineX1 + P.lineX2) / 2;
+  const gap = (P.lineX2 - P.lineX1) * 0.22;
+  let center = '';
+  if (meta.componente === 'engate') {
+    const vs = P.vSize;
+    [midX - gap, midX + gap].forEach(cx => {
+      center += `<path d="M ${cx - vs} ${P.lineY - vs} L ${cx} ${P.lineY + vs * 0.5} L ${cx + vs} ${P.lineY - vs}" fill="none" stroke="#111111" stroke-width="${P.strokeW * 0.6}" stroke-linecap="round" stroke-linejoin="round"/>`;
+    });
+  } else {
+    [midX - gap, midX + gap].forEach(cx => {
+      center += `<circle cx="${cx}" cy="${P.lineY}" r="${P.beadR}" fill="#ffffff" stroke="#111111" stroke-width="1"/>`;
+    });
+  }
+
+  const text = `<text x="${P.w / 2}" y="${P.textY}" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="${P.fontSize}" font-weight="700" fill="#111111">${escapeHTML(meta.medida)}</text>`;
+
+  return `<svg class="prod-indicator prod-indicator--${variant}" viewBox="0 0 ${P.w} ${P.h}" width="${P.w}" height="${P.h}" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" style="display:block;pointer-events:none;">
+    <rect x="0.5" y="0.5" width="${P.w - 1}" height="${P.h - 1}" rx="4" fill="rgba(255,255,255,0.85)" stroke="rgba(17,17,17,0.08)"/>
+    ${dots}${line}${ends}${center}${text}
+  </svg>`;
+}
+
+// Monta o HTML do slot posicionado (canto inferior esquerdo, pointer-events:none)
+// que envolve o SVG do indicador \u2014 usado tanto nas miniaturas quanto na foto principal.
+function buildIndicatorSlotHTML(meta, variant, extraStyle) {
+  if (!meta) return '';
+  const svg = buildIndicatorSVG(meta, variant);
+  if (!svg) return '';
+  return `<span class="prod-indicator-slot" style="position:absolute;left:3px;bottom:3px;pointer-events:none;line-height:0;z-index:3;${extraStyle || ''}">${svg}</span>`;
+}
+
 // Em produtos com muitas varia\u00e7\u00f5es/cores, mostra s\u00f3 as fotos gen\u00e9ricas + as da op\u00e7\u00e3o
 // selecionada, escondendo o restante at\u00e9 o cliente clicar na varia\u00e7\u00e3o correspondente.
 // O v\u00eddeo do produto (se houver) nunca \u00e9 afetado por esse filtro.
@@ -146,6 +252,7 @@ function buildGalleryThumbsHTML(p, images) {
     ${images.map((img, i) => `
       <button class="thumb-btn ${i === 0 ? 'active' : ''}" data-type="image" data-src="${img}" type="button" aria-label="Ver imagem ${i + 1}">
         <img src="${img}" alt="" onerror="this.src='assets/images/chumbada-oficial-27c01352.png'">
+        ${buildIndicatorSlotHTML(getIndicatorMeta(p, img), 'thumb')}
       </button>
     `).join('')}
     ${p.video ? `
@@ -542,6 +649,7 @@ function renderProductDetail(p) {
             <div class="gallery-main" id="gallery-main-container">
               <img id="main-product-img" src="${visibleGalleryImages[0] || p.img}" alt="${escapeHTML(p.name)}" onerror="this.src='assets/images/chumbada-oficial-27c01352.png'">
               <div id="main-product-video" class="gallery-video-wrapper" style="display: none;"></div>
+              <div id="main-product-indicator">${buildIndicatorSlotHTML(getIndicatorMeta(p, visibleGalleryImages[0] || p.img), 'main')}</div>
             </div>
             
             ${(visibleGalleryImages.length > 1) || p.video ? `
@@ -674,6 +782,7 @@ function initDetailSelectors(p) {
   const galleryThumbs = document.getElementById('gallery-thumbs');
   const mainImg = document.getElementById('main-product-img');
   const mainVideoContainer = document.getElementById('main-product-video');
+  const mainIndicator = document.getElementById('main-product-indicator');
 
   // Controle da Galeria de Imagens e Vídeo
   if (galleryThumbs && mainImg && mainVideoContainer) {
@@ -691,10 +800,12 @@ function initDetailSelectors(p) {
         mainVideoContainer.innerHTML = '';
         mainImg.style.display = 'block';
         mainImg.src = btn.dataset.src;
+        if (mainIndicator) mainIndicator.innerHTML = buildIndicatorSlotHTML(getIndicatorMeta(p, btn.dataset.src), 'main');
       } else if (type === 'video') {
         mainImg.style.display = 'none';
         mainVideoContainer.style.display = 'flex';
-        
+        if (mainIndicator) mainIndicator.innerHTML = '';
+
         const videoSrc = btn.dataset.videoSrc;
         if (videoSrc.includes('youtube.com') || videoSrc.includes('youtu.be') || videoSrc.includes('embed')) {
           let embedUrl = videoSrc;
@@ -824,6 +935,7 @@ function initDetailSelectors(p) {
       mainVideoContainer.innerHTML = '';
       mainImg.style.display = 'block';
       mainImg.src = targetSrc;
+      if (mainIndicator) mainIndicator.innerHTML = buildIndicatorSlotHTML(getIndicatorMeta(p, targetSrc), 'main');
 
       const thumbBtns = galleryThumbs.querySelectorAll('.thumb-btn[data-type="image"]');
       thumbBtns.forEach(b => b.classList.toggle('active', b.dataset.src === targetSrc));

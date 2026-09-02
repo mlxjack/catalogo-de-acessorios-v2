@@ -7,6 +7,42 @@ window.CONFIG = {
   whatsappMessageTemplate: "Olá! Tenho interesse no produto: {productName}\nCategoria: {category}\nTamanho/Variação: {variation}\nCor: {color}\nCatalogo: V2"
 };
 
+// Mapeamento de indicadores visuais por foto (canto inferior esquerdo da imagem).
+// Chave externa = slug do produto; chave interna = nome do arquivo da imagem (sem caminho).
+// Ver assets/js/app.js (buildIndicatorSVG) para o desenho dos símbolos.
+// Obs.: os nomes de arquivo aqui têm sufixos aleatórios diferentes do catálogo
+// COM preços (mídia foi re-hospedada localmente em momento separado). Mapeado
+// 1 a 1 contra o array `images` real do produto neste repo — ver conferência
+// em [[manutencao-indice-busca-hubs]]-style: sempre validar contra o array real.
+window.PRODUCT_INDICATORS = {
+  "chicotes-montados-3-unidades": {
+    "fundo-capa.webp":           { tipo: "Fundo",     medida: "1,30m", linha: "vermelha", pontas: "stopper", componente: "engate" },
+    "capa-beira_p.jpg":          { tipo: "Beira",     medida: "1m",    linha: "incolor",  pontas: "stopper", componente: "engate" },
+    "meia-agua-capa_1_76b66870-2364-4e10-b85c-486a4c29f38f.webp": { tipo: "Meia Água", medida: "1,15m", linha: "vermelha", pontas: "stopper", componente: "engate" },
+    "fundo_capa.webp":           { tipo: "Fundo",     medida: "1,80m", linha: "vermelha", pontas: "stopper", componente: "engate" },
+    "chicote-finesse-capa.webp": { tipo: "Finesse",   medida: "0,85m", linha: "incolor",  pontas: "nó",       componente: "engate" },
+    "modelo-13_9199f71d-b95c-4d72-b1b0-16fb351fcf0c.png": { tipo: "Beira",     medida: "1m",    linha: "vermelha", pontas: "stopper", componente: "engate" },
+    "modelo-14_d5202550-ffd9-43cf-95ae-3c796c3b4b63.png": { tipo: "Beira",     medida: "1m",    linha: "incolor",  pontas: "stopper", componente: "engate" },
+    "modelo-09_4abfa100-cd27-470b-85a7-eb51806ef1f3.png": { tipo: "Meia Água", medida: "1,15m", linha: "vermelha", pontas: "stopper", componente: "engate" },
+    "modelo-10_698c8c9b-51b5-4cae-aaeb-45cdeb2baa40.png": { tipo: "Meia Água", medida: "1,15m", linha: "incolor",  pontas: "stopper", componente: "engate" },
+    "modelo-11_2746424b-ff6c-48ad-9fe2-57969ea201c4.png": { tipo: "Meia Água", medida: "1,15m", linha: "vermelha", pontas: "stopper", componente: "engate" },
+    "modelo-12_6b0c46f0-c752-46a6-b59b-68879349053a.png": { tipo: "Meia Água", medida: "1,15m", linha: "incolor",  pontas: "stopper", componente: "engate" },
+    "modelo-01_0687d65a-ff2c-4c55-bbac-f497a0217c6b.png": { tipo: "Fundo", medida: "1,30m", linha: "vermelha", pontas: "stopper", componente: "engate" },
+    "modelo-02_f11db813-2538-41a9-ae54-140dcf0e107f.png": { tipo: "Fundo", medida: "1,30m", linha: "incolor",  pontas: "stopper", componente: "engate" },
+    "modelo-03_5b05a6b5-da11-4f4e-89cc-68d94747e16b.png": { tipo: "Fundo", medida: "1,30m", linha: "vermelha", pontas: "stopper", componente: "engate" },
+    "modelo-04_5eac5caa-0e32-40ed-993c-bc826855adb9.png": { tipo: "Fundo", medida: "1,30m", linha: "incolor",  pontas: "stopper", componente: "engate" },
+    "modelo-17_42f1ff77-58eb-4f62-8111-c3521ea8566e.png": { tipo: "Fundo", medida: "1,30m", linha: "incolor",  pontas: "nó", componente: "miçanga" },
+    "modelo-18_60bd0fae-18fc-4833-8608-e9e7aaebccb1.png": { tipo: "Fundo", medida: "1,30m", linha: "incolor",  pontas: "nó", componente: "miçanga" },
+    "modelo-05_2a35b456-ea1f-4c96-a08e-7f1fc759c71d.png": { tipo: "Fundo", medida: "1,80m", linha: "vermelha", pontas: "stopper", componente: "engate" },
+    "modelo-06_eb775414-8375-477e-8a2c-294a0f142218.png": { tipo: "Fundo", medida: "1,80m", linha: "incolor",  pontas: "stopper", componente: "engate" },
+    "modelo-07_db0d0216-b8ce-44ba-8762-4cdabc72bff3.png": { tipo: "Fundo", medida: "1,80m", linha: "vermelha", pontas: "stopper", componente: "engate" },
+    "modelo-08_41a4da33-8559-469e-9ffa-6ce1cadaf1fa.png": { tipo: "Fundo", medida: "1,80m", linha: "incolor",  pontas: "stopper", componente: "engate" },
+    "modelo-153_f237610c-46e0-4309-984d-51f34858faf3.png": { tipo: "Fundo", medida: "1,80m", linha: "incolor",  pontas: "nó", componente: "miçanga" },
+    "modelo-16_ded8a465-57af-4eec-8e09-425e61590955.png": { tipo: "Fundo", medida: "1,80m", linha: "incolor",  pontas: "nó", componente: "miçanga" },
+    "chicote-finesse.png": { tipo: "Finesse", medida: "0,85m", linha: "incolor", pontas: "nó", componente: "engate" }
+  }
+};
+
 window.PRODUCTS = [
   {
     "id": 733,
