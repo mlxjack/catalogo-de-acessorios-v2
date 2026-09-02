@@ -118,34 +118,36 @@ function imageMatchesText(imgSrc, text) {
 // n\u00e3o s\u00e3o afetados \u2014 a fun\u00e7\u00e3o simplesmente retorna null e nada \u00e9 renderizado.
 // ==========================================
 
-// Bolinhas de tipo funcionam como um "medidor de capacidade de carga": a cor
-// vai do cinza (Finesse, mais leve) ao vermelho (Fundo, mais pesado), ent\u00e3o
-// quanto mais bolinhas (e mais vermelhas), maior a capacidade \u2014 em vez de
-// 4 cores arbitr\u00e1rias sem rela\u00e7\u00e3o entre si.
+// Barra de "capacidade de carga": funciona como um medidor de bateria/sinal \u2014
+// quanto mais cheia (e mais vermelha), maior a capacidade. Cinza (Finesse,
+// mais leve) at\u00e9 vermelho (Fundo, mais pesado), em vez de 4 cores arbitr\u00e1rias
+// sem rela\u00e7\u00e3o entre si.
 const CHICOTE_TYPE_STYLE = {
-  'Finesse':   { color: '#777D84', dots: 1 },
-  'Beira':     { color: '#9B5C66', dots: 2 },
-  'Meia \u00c1gua': { color: '#BF3C49', dots: 3 },
-  'Fundo':     { color: '#E31B2B', dots: 4 },
+  'Finesse':   { color: '#777D84', tier: 1 },
+  'Beira':     { color: '#9B5C66', tier: 2 },
+  'Meia \u00c1gua': { color: '#BF3C49', tier: 3 },
+  'Fundo':     { color: '#E31B2B', tier: 4 },
 };
 
 // Duas escalas: miniatura (thumb) e foto principal (main). Mesma l\u00f3gica de
 // desenho para as duas, s\u00f3 muda o preset de tamanhos/posi\u00e7\u00f5es. Layout em 3
-// linhas: bolinhas (centralizadas, acima) \u2192 linha+pontas+componente \u2192 medida.
+// linhas: barra de capacidade (acima) \u2192 linha+pontas+componente \u2192 medida.
 const INDICATOR_PRESETS = {
   thumb: {
-    w: 60, h: 26, dotR: 1.7, dotGap: 4.5, dotY: 5,
-    lineX1: 20, lineX2: 50, lineY: 14, strokeW: 1.7,
-    endRX: 2, endRY: 1.3, diagLen: 3.2,
-    vSize: 2, beadR: 1.8,
-    textY: 24, fontSize: 8,
+    w: 60, h: 26,
+    barX1: 20, barX2: 50, barY: 4, barH: 4, barRadius: 2,
+    lineX1: 20, lineX2: 50, lineY: 15, strokeW: 1.6,
+    endRX: 1.9, endRY: 1.2, diagLen: 3,
+    vSize: 1.9, beadR: 1.7,
+    textY: 24, fontSize: 7.5,
   },
   main: {
-    w: 150, h: 44, dotR: 4, dotGap: 11, dotY: 9,
-    lineX1: 42, lineX2: 108, lineY: 25, strokeW: 3.2,
-    endRX: 4.5, endRY: 3, diagLen: 7,
-    vSize: 4.6, beadR: 4,
-    textY: 40, fontSize: 13,
+    w: 150, h: 44,
+    barX1: 42, barX2: 108, barY: 8, barH: 8, barRadius: 4,
+    lineX1: 42, lineX2: 108, lineY: 27, strokeW: 3,
+    endRX: 4.2, endRY: 2.8, diagLen: 6.5,
+    vSize: 4.3, beadR: 3.7,
+    textY: 40, fontSize: 12,
   },
 };
 
@@ -168,13 +170,12 @@ function buildIndicatorSVG(meta, variant) {
   const typeStyle = CHICOTE_TYPE_STYLE[meta.tipo];
   if (!P || !typeStyle) return '';
 
-  // Bolinhas de tipo: centralizadas acima da linha, em fileira
-  const lineMidX = (P.lineX1 + P.lineX2) / 2;
-  const dotsStartX = lineMidX - ((typeStyle.dots - 1) / 2) * P.dotGap;
-  let dots = '';
-  for (let i = 0; i < typeStyle.dots; i++) {
-    dots += `<circle cx="${dotsStartX + i * P.dotGap}" cy="${P.dotY}" r="${P.dotR}" fill="${typeStyle.color}"/>`;
-  }
+  // Barra de capacidade de carga: trilho cinza-claro + preenchimento
+  // proporcional ao "tier" do tipo (1/4 a 4/4), na cor daquele tier.
+  const barW = P.barX2 - P.barX1;
+  const barFillW = barW * (typeStyle.tier / 4);
+  const bar = `<rect x="${P.barX1}" y="${P.barY}" width="${barW}" height="${P.barH}" rx="${P.barRadius}" fill="#EDEDED" stroke="#D8D8D8" stroke-width="0.75"/>` +
+    `<rect x="${P.barX1}" y="${P.barY}" width="${barFillW}" height="${P.barH}" rx="${P.barRadius}" fill="${typeStyle.color}"/>`;
 
   const lineColor = meta.linha === 'vermelha' ? '#E31B2B' : '#C9CED4';
   const line = `<line x1="${P.lineX1}" y1="${P.lineY}" x2="${P.lineX2}" y2="${P.lineY}" stroke="${lineColor}" stroke-width="${P.strokeW}" stroke-linecap="round"/>`;
@@ -211,7 +212,7 @@ function buildIndicatorSVG(meta, variant) {
 
   return `<svg class="prod-indicator prod-indicator--${variant}" viewBox="0 0 ${P.w} ${P.h}" width="${P.w}" height="${P.h}" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" style="display:block;pointer-events:none;">
     <rect x="0.5" y="0.5" width="${P.w - 1}" height="${P.h - 1}" rx="4" fill="rgba(255,255,255,0.85)" stroke="rgba(17,17,17,0.08)"/>
-    ${dots}${line}${ends}${center}${text}
+    ${bar}${line}${ends}${center}${text}
   </svg>`;
 }
 
