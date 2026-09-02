@@ -1229,6 +1229,18 @@ a {
   .vars-selector {
     grid-template-columns: 1fr;
   }
+  /* Grade fixa de 4 miniaturas por linha (usada só no produto Chicotes
+     Montados, via classe adicionada condicionalmente pelo app.js) */
+  .gallery-thumbs--grid4 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+  }
+  .gallery-thumbs--grid4 .thumb-btn {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+  }
 }
 
 

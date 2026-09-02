@@ -118,29 +118,34 @@ function imageMatchesText(imgSrc, text) {
 // n\u00e3o s\u00e3o afetados \u2014 a fun\u00e7\u00e3o simplesmente retorna null e nada \u00e9 renderizado.
 // ==========================================
 
+// Bolinhas de tipo funcionam como um "medidor de capacidade de carga": a cor
+// vai do cinza (Finesse, mais leve) ao vermelho (Fundo, mais pesado), ent\u00e3o
+// quanto mais bolinhas (e mais vermelhas), maior a capacidade \u2014 em vez de
+// 4 cores arbitr\u00e1rias sem rela\u00e7\u00e3o entre si.
 const CHICOTE_TYPE_STYLE = {
   'Finesse':   { color: '#777D84', dots: 1 },
-  'Beira':     { color: '#1478E6', dots: 2 },
-  'Meia \u00c1gua': { color: '#F2B705', dots: 3 },
+  'Beira':     { color: '#9B5C66', dots: 2 },
+  'Meia \u00c1gua': { color: '#BF3C49', dots: 3 },
   'Fundo':     { color: '#E31B2B', dots: 4 },
 };
 
 // Duas escalas: miniatura (thumb) e foto principal (main). Mesma l\u00f3gica de
-// desenho para as duas, s\u00f3 muda o preset de tamanhos/posi\u00e7\u00f5es.
+// desenho para as duas, s\u00f3 muda o preset de tamanhos/posi\u00e7\u00f5es. Layout em 3
+// linhas: bolinhas (centralizadas, acima) \u2192 linha+pontas+componente \u2192 medida.
 const INDICATOR_PRESETS = {
   thumb: {
-    w: 60, h: 26, dotR: 2, dotGap: 4, dotStartX: 4, dotY: 7,
-    lineX1: 20, lineX2: 50, lineY: 7, strokeW: 1.8,
-    endRX: 2.2, endRY: 1.4, diagLen: 3.4,
-    vSize: 2.4, beadR: 2.2,
-    textY: 21, fontSize: 9,
+    w: 60, h: 26, dotR: 1.7, dotGap: 4.5, dotY: 5,
+    lineX1: 20, lineX2: 50, lineY: 14, strokeW: 1.7,
+    endRX: 2, endRY: 1.3, diagLen: 3.2,
+    vSize: 2, beadR: 1.8,
+    textY: 24, fontSize: 8,
   },
   main: {
-    w: 150, h: 44, dotR: 4.5, dotGap: 9, dotStartX: 8, dotY: 13,
-    lineX1: 42, lineX2: 108, lineY: 13, strokeW: 3.2,
+    w: 150, h: 44, dotR: 4, dotGap: 11, dotY: 9,
+    lineX1: 42, lineX2: 108, lineY: 25, strokeW: 3.2,
     endRX: 4.5, endRY: 3, diagLen: 7,
     vSize: 4.6, beadR: 4,
-    textY: 36, fontSize: 14,
+    textY: 40, fontSize: 13,
   },
 };
 
@@ -163,9 +168,12 @@ function buildIndicatorSVG(meta, variant) {
   const typeStyle = CHICOTE_TYPE_STYLE[meta.tipo];
   if (!P || !typeStyle) return '';
 
+  // Bolinhas de tipo: centralizadas acima da linha, em fileira
+  const lineMidX = (P.lineX1 + P.lineX2) / 2;
+  const dotsStartX = lineMidX - ((typeStyle.dots - 1) / 2) * P.dotGap;
   let dots = '';
   for (let i = 0; i < typeStyle.dots; i++) {
-    dots += `<circle cx="${P.dotStartX + i * P.dotGap}" cy="${P.dotY}" r="${P.dotR}" fill="${typeStyle.color}"/>`;
+    dots += `<circle cx="${dotsStartX + i * P.dotGap}" cy="${P.dotY}" r="${P.dotR}" fill="${typeStyle.color}"/>`;
   }
 
   const lineColor = meta.linha === 'vermelha' ? '#E31B2B' : '#C9CED4';
@@ -653,7 +661,7 @@ function renderProductDetail(p) {
             </div>
             
             ${(visibleGalleryImages.length > 1) || p.video ? `
-              <div class="gallery-thumbs" id="gallery-thumbs">
+              <div class="gallery-thumbs${p.slug === 'chicotes-montados-3-unidades' ? ' gallery-thumbs--grid4' : ''}" id="gallery-thumbs">
                 ${buildGalleryThumbsHTML(p, visibleGalleryImages)}
               </div>
             ` : ''}
