@@ -1716,10 +1716,6 @@ window.PRODUCTS = [
       [
         "35kg 33mm (6unid)",
         "R$ 12,45"
-      ],
-      [
-        "60kg 36mm (6unid)",
-        "R$ 12,45"
       ]
     ],
     "description": "O Girador Triplo é um equipamento de pesca especialmente projetado para a captura eficaz de peixes como piapara e piauçu. Sua engenhosa concepção permite uma abordagem versátil e altamente sensível para pescarias de espera, atendendo às necessidades tanto dos pescadores experientes como dos iniciantes.<br><br>Este produto apresenta uma configuração inteligente que amplia as chances de sucesso na pesca. O Girador Triplo é utilizado amarrando-se a pernada com anzol no mesmo sentido da linha da carretilha, enquanto a argola perpendicular às linhas é conectada a uma chumbada bola com olhal ou outra qualquer. Isso resulta em um sistema altamente sensível, no qual a sensação de peso da chumbada é minimizada, uma vez que a linha irá ficar desencostada do fundo do local de pesca impedindo que o peixe perceba qualquer resistência indesejada. Essa característica se revela fundamental para evitar que o peixe sinta o peso da chumbada e seja afastado antes de consumir a isca.<br><br>Além disso, o Girador Triplo oferece múltiplas possibilidades de aplicação. Ele pode ser empregado tanto em pescarias de espera, como nas margens de rios e lagos, quanto em pescarias de praia, proporcionando uma excelente experiência de pesca. A capacidade de adaptar o Girador Triplo ao sistema down shot com iscas artificiais amplia ainda mais sua utilidade, demonstrando sua versatilidade em diferentes cenários de pesca.<br><br>Em resumo, o Girador Triplo é um acessório muito bom que aprimora a abordagem de pesca, permitindo uma configuração sensível e discreta para a captura de peixes. Com sua capacidade de minimizar a sensação de peso da chumbada e sua adaptabilidade a diversas técnicas de pesca, esse produto se torna um aliado indispensável para pescadores que buscam maximizar seu sucesso nas aventuras de pesca.",
@@ -1738,7 +1734,7 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/f24631a07cd749d8ab917d74fb026519.mp4",
     "specs": {
       "Material": "Aço Inoxidável reforçado",
-      "Capacidades (testadas)": "15mm (14kg) | 19mm (16kg) | 23mm (37kg) | 28mm (27kg) | 31mm (48kg) | 33mm (35kg) | 36mm (60kg)",
+      "Capacidades (testadas)": "15mm (14kg) | 19mm (16kg) | 23mm (37kg) | 28mm (27kg) | 31mm (48kg) | 33mm (35kg)",
       "Função": "Evitar a torção de linhas em montagens do tipo Down Shot ou esperas",
       "Indicação": "Pescarias de espera de peixes ariscos (como piapara e piauçu) e pesca de praia. O modelo 23mm também é usado em boia pino e boia cevadeira."
     },
@@ -1762,7 +1758,7 @@ window.PRODUCTS = [
         "R$ 2,88"
       ],
       [
-        "19mm - 35kg - 8 unidades",
+        "19mm - 16kg - 8 unidades",
         "R$ 2,88"
       ]
     ],
@@ -1799,7 +1795,7 @@ window.PRODUCTS = [
         "R$ 4,00"
       ],
       [
-        "24mm - 45kg - 8 unidades",
+        "23mm - 37kg - 8 unidades",
         "R$ 4,07"
       ]
     ],
