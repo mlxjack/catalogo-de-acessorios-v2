@@ -1698,23 +1698,27 @@ window.PRODUCTS = [
         "R$ 5,48"
       ],
       [
-        "20kg 19mm (10unid)",
+        "16kg 19mm (10unid)",
         "R$ 6,87"
       ],
       [
-        "30kg 23mm (8unid)",
+        "37kg 23mm (8unid)",
         "R$ 7,30"
       ],
       [
-        "48kg 28mm (6unid)",
+        "27kg 28mm (6unid)",
         "R$ 9,87"
       ],
       [
-        "50kg 31mm (6unid)",
+        "48kg 31mm (6unid)",
         "R$ 11,00"
       ],
       [
-        "55kg 33mm (6unid)",
+        "35kg 33mm (6unid)",
+        "R$ 12,45"
+      ],
+      [
+        "60kg 36mm (6unid)",
         "R$ 12,45"
       ]
     ],
@@ -1734,8 +1738,9 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/f24631a07cd749d8ab917d74fb026519.mp4",
     "specs": {
       "Material": "Aço Inoxidável reforçado",
+      "Capacidades (testadas)": "15mm (14kg) | 19mm (16kg) | 23mm (37kg) | 28mm (27kg) | 31mm (48kg) | 33mm (35kg) | 36mm (60kg)",
       "Função": "Evitar a torção de linhas em montagens do tipo Down Shot ou esperas",
-      "Indicação": "Pescarias de espera de peixes ariscos (como piapara e piauçu) e pesca de praia"
+      "Indicação": "Pescarias de espera de peixes ariscos (como piapara e piauçu) e pesca de praia. O modelo 23mm também é usado em boia pino e boia cevadeira."
     },
     "section": "Montagem"
   },
