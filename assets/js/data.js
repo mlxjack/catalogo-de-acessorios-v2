@@ -782,7 +782,7 @@ window.PRODUCTS = [
     "category": "Acessórios",
     "name": "Carretel Retangular",
     "price": "a partir de R$ 0,49",
-    "img": "assets/img/shopify/carretel_retangular_1.jpg",
+    "img": "assets/img/shopify/carretel_retangular_preto.jpg",
     "link": "https://chumbadas.com.br/products/carretel-retangular?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
@@ -798,6 +798,11 @@ window.PRODUCTS = [
         "R$ 0,65"
       ]
     ],
+    "variantImageMap": {
+      "Preto Eco": "assets/img/shopify/carretel_retangular_preto.jpg",
+      "Preto": "assets/img/shopify/carretel_retangular_preto.jpg",
+      "Azul": "assets/img/shopify/carretel_retangular_1.jpg"
+    },
     "description": "<p><span data-sheets-root=\"1\">Carretel Retangular<br><br>O Carretel Retangular é um organizador simples, prático e indispensável para o pescador que gosta de ter tudo pronto para a hora da pescaria. Ideal para chicotes de pesqueiro, lago e outras montagens, ele permite enrolar e armazenar o chicote já no tamanho ideal, deixando tudo muito mais organizado e fácil de usar.<br><br>Com ele, o pescador pode deixar a montagem completa preparada, com boia, anzol e até chumbada, quando necessário, facilitando muito na hora de trocar o conjunto e voltar rapidamente para a água. É a solução perfeita para quem busca agilidade, organização e praticidade na pescaria.<br><br>Compacto e eficiente, o Carretel Retangular ajuda a evitar embolos, protege a montagem e mantém seus chicotes sempre prontos para uso. Um acessório simples, mas que faz toda a diferença no dia a dia do pescador.<br><br>Também contamos com a versão em material Eco, produzida a partir do reaproveitamento de peças que apresentaram falhas no processo produtivo. Esse reaproveitamento não compromete a qualidade do produto, ajuda a reduzir desperdícios dentro da empresa e ainda proporciona um preço mais acessível, unindo economia, eficiência e aproveitamento inteligente de material.<br></span></p>",
     "images": [
       "assets/img/shopify/carretel_retangular_1.jpg",
