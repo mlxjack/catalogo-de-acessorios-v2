@@ -315,6 +315,7 @@ function renderCatalog() {
             <div class="hero-actions">
               <a href="#catalogo-secao" class="btn btn-primary">Ver Catálogo</a>
               <a href="https://chumbadas.com.br" target="_blank" rel="noopener" class="btn btn-secondary">Visitar Loja</a>
+              <a href="#/linha-eco" class="btn btn-eco">Linha ECO</a>
             </div>
           </div>
           

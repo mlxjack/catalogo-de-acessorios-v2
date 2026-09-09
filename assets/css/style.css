@@ -1281,6 +1281,14 @@ a {
 .nav-item-eco:hover, .nav-item-eco.active {
   color: var(--color-success-hover);
 }
+.btn-eco {
+  background-color: var(--color-success);
+  color: #ffffff;
+}
+.btn-eco:hover {
+  background-color: var(--color-success-hover);
+  transform: translateY(-2px);
+}
 .hero-eco .hero-container {
   grid-template-columns: 1fr;
 }
