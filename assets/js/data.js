@@ -43,6 +43,21 @@ window.PRODUCT_INDICATORS = {
   }
 };
 
+// Linha ECO: produtos com opção em plástico reaproveitado. Página dedicada em
+// #/linha-eco. ecoVariant = nome exato do var/swatch a destacar no card do
+// produto (null = todas as cores/variações desse produto já são Eco).
+// ecoImg = foto específica da cor Eco pra usar no card (null = usa a capa
+// padrão do produto, quando ela já é apropriada).
+window.ECO_LINE = {
+  intro: "Feita com plástico reaproveitado, sem abrir mão da qualidade Chumbada Oficial. Cada peça da Linha ECO nasce do aproveitamento de material que sairia como descarte na produção — menos desperdício, mais consciência, no mesmo padrão de resistência de sempre.",
+  products: [
+    { slug: "carretel-retangular", ecoVariant: "Preto Eco", ecoImg: "assets/img/shopify/carretel_retangular_preto.jpg" },
+    { slug: "mini-secretaria", ecoVariant: "Preto Eco", ecoImg: "assets/img/shopify/mini_secretaria_preto_eco_2.png" },
+    { slug: "secretaria-paredao", ecoVariant: null, ecoImg: null },
+    { slug: "estilingue", ecoVariant: null, ecoImg: null }
+  ]
+};
+
 window.PRODUCTS = [
   {
     "id": 733,
@@ -226,7 +241,7 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/mini-secretaria?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "PretoEco",
+        "Preto Eco",
         "R$ 3,90"
       ],
       [
@@ -771,18 +786,23 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/carretel-retangular?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "Preto",
+        "Preto Eco",
         "R$ 0,49"
       ],
       [
         "Azul",
+        "R$ 0,65"
+      ],
+      [
+        "Preto",
         "R$ 0,65"
       ]
     ],
     "description": "<p><span data-sheets-root=\"1\">Carretel Retangular<br><br>O Carretel Retangular é um organizador simples, prático e indispensável para o pescador que gosta de ter tudo pronto para a hora da pescaria. Ideal para chicotes de pesqueiro, lago e outras montagens, ele permite enrolar e armazenar o chicote já no tamanho ideal, deixando tudo muito mais organizado e fácil de usar.<br><br>Com ele, o pescador pode deixar a montagem completa preparada, com boia, anzol e até chumbada, quando necessário, facilitando muito na hora de trocar o conjunto e voltar rapidamente para a água. É a solução perfeita para quem busca agilidade, organização e praticidade na pescaria.<br><br>Compacto e eficiente, o Carretel Retangular ajuda a evitar embolos, protege a montagem e mantém seus chicotes sempre prontos para uso. Um acessório simples, mas que faz toda a diferença no dia a dia do pescador.<br><br>Também contamos com a versão em material Eco, produzida a partir do reaproveitamento de peças que apresentaram falhas no processo produtivo. Esse reaproveitamento não compromete a qualidade do produto, ajuda a reduzir desperdícios dentro da empresa e ainda proporciona um preço mais acessível, unindo economia, eficiência e aproveitamento inteligente de material.<br></span></p>",
     "images": [
       "assets/img/shopify/carretel_retangular_1.jpg",
-      "assets/img/shopify/carretel_retangular.jpg"
+      "assets/img/shopify/carretel_retangular.jpg",
+      "assets/img/shopify/carretel_retangular_preto.jpg"
     ],
     "video": "assets/video/shopify/392e00e1e2d94279b68674b6aa8e6ce6.mp4",
     "specs": {

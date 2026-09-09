@@ -54,7 +54,7 @@ function router() {
 
   // Rota do Produto: #/produto/slug-do-produto
   const productMatch = hash.match(/^#\/produto\/([\w-]+)$/);
-  
+
   if (productMatch) {
     const slug = productMatch[1];
     const product = PRODUCTS.find(p => p.slug === slug);
@@ -65,6 +65,13 @@ function router() {
       // Produto não encontrado -> volta para catálogo
       window.location.hash = '#/';
     }
+  } else if (hash === '#/linha-eco') {
+    // Rota da Linha ECO: página em destaque com os produtos em material reaproveitado
+    renderEcoLine();
+    updateSEOMeta(
+      "Linha ECO | Chumbada Oficial",
+      "Conheça a Linha ECO da Chumbada Oficial: acessórios feitos com plástico reaproveitado, mesma qualidade de sempre com menos desperdício."
+    );
   } else {
     // Rota padrão (Catálogo / Home)
     renderCatalog();
@@ -73,6 +80,15 @@ function router() {
       "Explore o catálogo completo de acessórios premium da Chumbada Oficial. Linhas, vestuário técnico, suportes e montagens de alta performance esportiva."
     );
   }
+}
+
+// Marca o item ativo do menu principal (Produtos / Linha ECO), limpando os
+// outros. Chamada por renderCatalog, renderEcoLine e renderProductDetail.
+function setActiveNav(id) {
+  const navHome = document.getElementById('nav-home');
+  const navEco = document.getElementById('nav-eco');
+  if (navHome) navHome.classList.toggle('active', id === 'nav-home');
+  if (navEco) navEco.classList.toggle('active', id === 'nav-eco');
 }
 
 // Atualizar títulos e metadados SEO dinamicamente
@@ -279,8 +295,7 @@ function buildGalleryThumbsHTML(p, images) {
 
 function renderCatalog() {
   // Destacar menu
-  const navHome = document.getElementById('nav-home');
-  if (navHome) navHome.classList.add('active');
+  setActiveNav('nav-home');
 
   // Encontrar o produto em destaque (featured: true) ou o primeiro produto
   const featuredProduct = PRODUCTS.find(p => p.featured) || PRODUCTS[0];
@@ -565,13 +580,95 @@ function renderGrid() {
 
 
 // ==========================================
+// 1b. PÁGINA DA LINHA ECO
+// ==========================================
+
+function renderEcoLine() {
+  setActiveNav('nav-eco');
+
+  const eco = window.ECO_LINE || { intro: '', products: [] };
+
+  // Resolve cada entrada da Linha ECO no produto real do catálogo, já
+  // calculando o preço e a foto certos para a variação/cor Eco daquele item.
+  const items = eco.products
+    .map(entry => {
+      const product = PRODUCTS.find(p => p.slug === entry.slug);
+      if (!product) return null;
+
+      let priceText = product.price;
+      if (entry.ecoVariant && product.vars) {
+        const match = product.vars.find(v => v[0] === entry.ecoVariant);
+        if (match && match[1]) priceText = match[1];
+      }
+
+      return { product, ecoVariant: entry.ecoVariant, img: entry.ecoImg || product.img, priceText };
+    })
+    .filter(Boolean);
+
+  appContainer.innerHTML = `
+    <div class="view-fade">
+      <section class="hero hero-eco" aria-label="Apresentação da Linha ECO">
+        <div class="hero-container">
+          <div class="hero-content">
+            <span class="badge-tag badge-eco">Linha ECO</span>
+            <h1 class="hero-title">Menos <span>desperdício</span>, mesma performance</h1>
+            <p class="hero-desc">${escapeHTML(eco.intro)}</p>
+          </div>
+        </div>
+      </section>
+
+      <main class="main-wrap">
+        <div class="summary-bar">
+          <div class="summary-title">
+            <h2>Produtos da Linha ECO</h2>
+            <p>Feitos com plástico reaproveitado, no mesmo padrão de qualidade Chumbada Oficial.</p>
+          </div>
+          <div class="summary-count">${items.length} produto${items.length === 1 ? '' : 's'}</div>
+        </div>
+
+        <div class="products-grid" aria-live="polite">
+          ${items.map(({ product: p, ecoVariant, img, priceText }) => {
+            const showPrice = CONFIG.showPrices && priceText;
+            const priceHtml = showPrice ? `<span class="product-card-price">${escapeHTML(priceText)}</span>` : '';
+            const btnStyle = showPrice ? '' : 'width: 100%; text-align: center; justify-content: center;';
+            const ecoTagLabel = ecoVariant || '100% Eco';
+
+            return `
+              <article class="product-card">
+                <div class="product-card-media">
+                  <span class="eco-card-badge">Eco</span>
+                  <img loading="lazy" src="${img}" alt="${escapeHTML(p.name)}" onerror="this.src='assets/images/chumbada-oficial-27c01352.png'">
+                </div>
+                <div class="product-card-content">
+                  <span class="product-card-cat">${escapeHTML(p.category)}</span>
+                  <h3 class="product-card-title">${escapeHTML(p.name)}</h3>
+
+                  <div class="product-card-previews">
+                    <span class="eco-color-tag">${escapeHTML(ecoTagLabel)}</span>
+                  </div>
+
+                  <div class="product-card-footer">
+                    ${priceHtml}
+                    <a href="#/produto/${p.slug}" class="product-card-action" style="${btnStyle}">Ver Detalhes</a>
+                  </div>
+                </div>
+              </article>
+            `;
+          }).join('')}
+        </div>
+      </main>
+    </div>
+  `;
+}
+
+
+// ==========================================
 // 2. RENDERIZAÇÃO DA PÁGINA DE DETALHES DO PRODUTO
 // ==========================================
 
 function renderProductDetail(p) {
   // Desmarcar menu ativo para focar no produto
-  const navHome = document.getElementById('nav-home');
-  if (navHome) navHome.classList.remove('active');
+  setActiveNav(null);
 
   // Inicializar estado do produto
   if (state.selectedColor[p.id] === undefined) {
