@@ -762,11 +762,26 @@ window.PRODUCTS = [
     "price": "R$ 14,70",
     "img": "assets/img/shopify/iscador-duplo-capa.png",
     "link": "https://chumbadas.com.br/products/iscador-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "swatches": [
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Cristal",
+        "rgba(255,255,255,0.4)"
+      ],
+      [
+        "Preto",
+        "#111827"
+      ]
+    ],
     "description": "<span data-mce-fragment=\"1\">Esse Iscador Duplo produzido e desenhado pela Chumbada, pode ser utilizado tanto para iscar corrupto, quanto para iscar camarão, de forma prática e profissional. </span>",
     "images": [
       "assets/img/shopify/iscador-duplo-capa.png",
       "assets/img/shopify/iscador-duplo.png",
-      "assets/img/shopify/iscador-duplo-foto-transparente.png"
+      "assets/img/shopify/iscador-duplo-foto-transparente.png",
+      "assets/img/shopify/iscador-preto.png"
     ],
     "video": "assets/video/shopify/0800a917dc464f3cad93e5d756271c2c.mp4",
     "specs": {
