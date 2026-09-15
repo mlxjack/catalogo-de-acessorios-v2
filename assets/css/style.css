@@ -1274,6 +1274,17 @@ a {
   background-color: #f8fafc;
 }
 
+/* Banner promocional (Dia do Cliente etc.) */
+.promo-banner {
+  width: 100%;
+  line-height: 0;
+}
+.promo-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* Linha ECO */
 .nav-item-eco {
   color: var(--color-success);

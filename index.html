@@ -41,6 +41,20 @@
     </div>
   </header>
 
+  <!-- Banner Dia do Cliente (some sozinho depois de 15/09 às 23:59) -->
+  <div id="promo-banner" class="promo-banner">
+    <img src="assets/images/dia-do-cliente.png" alt="Dia do Cliente - Frete grátis somente 15/09 até 23h59, válido para pedidos que atingirem o valor mínimo">
+  </div>
+  <script>
+    (function () {
+      var cutoff = new Date('2026-09-15T23:59:59-03:00');
+      if (new Date() > cutoff) {
+        var el = document.getElementById('promo-banner');
+        if (el) el.remove();
+      }
+    })();
+  </script>
+
   <!-- Container Principal para Renderização SPA -->
   <div id="app" class="app-container">
     <!-- O conteúdo dinâmico será injetado aqui pelo app.js -->
