@@ -755,7 +755,7 @@ function renderProductDetail(p) {
               <div id="main-product-indicator">${buildIndicatorSlotHTML(getIndicatorMeta(p, visibleGalleryImages[0] || p.img), 'main')}</div>
             </div>
             
-            ${(visibleGalleryImages.length > 1) || p.video ? `
+            ${(p.images && p.images.length > 1) || p.video ? `
               <div class="gallery-thumbs${p.slug === 'chicotes-montados-3-unidades' ? ' gallery-thumbs--grid4' : ''}" id="gallery-thumbs">
                 ${buildGalleryThumbsHTML(p, visibleGalleryImages)}
               </div>

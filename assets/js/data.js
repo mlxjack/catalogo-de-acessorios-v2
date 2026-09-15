@@ -1685,28 +1685,53 @@ window.PRODUCTS = [
     "section": "Montagem",
     "category": "Montagem",
     "name": "Destorcedores",
-    "price": "a partir de R$ 3,94",
+    "price": "a partir de R$ 8,66",
     "img": "assets/img/shopify/Destorcedor-capa.png",
     "link": "https://chumbadas.com.br/products/destorcedor?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "4kg / 7mm / 14 un",
-        "R$ 4,91"
+        "6kg / 7mm / 14 un",
+        "R$ 10,71"
       ],
       [
-        "19kg / 11mm / 12 un",
-        "R$ 3,94"
+        "24kg / 9mm / 10 un",
+        "R$ 9,26"
       ],
       [
-        "35kg / 15mm / 10 un",
-        "R$ 4,75"
+        "35kg / 12mm / 10 un",
+        "R$ 10,39"
       ],
       [
-        "75kg / 25mm / 5 un",
-        "R$ 6,33"
+        "55kg / 14mm / 10 un",
+        "R$ 10,51"
+      ],
+      [
+        "30kg / 15mm / 10 un",
+        "R$ 12,63"
+      ],
+      [
+        "40kg / 18mm / 10 un",
+        "R$ 13,76"
+      ],
+      [
+        "88kg / 20mm / 10 un",
+        "R$ 14,89"
+      ],
+      [
+        "80kg / 24mm / 5 un",
+        "R$ 8,66"
       ]
     ],
-    "description": "<span>O Destorcedor para Pesca é um equipamento que foi desenvolvido para facilitar a prática de pesca. Ele é composto por um corpo principal feito de material resistente, como aço inoxidável, e por duas extremidades que se conectam a uma linha de pesca.</span><br><br><span>Sua principal função é evitar que a linha de pesca fique torcida, o que pode dificultar a captura de peixes e até mesmo causar danos à linha. Com o Destorcedor, a linha de pesca é mantida reta e livre de torções, o que aumenta a eficiência da pescaria.</span><br><br><span>O Destorcedor pode ser utilizado em diversas modalidades de pesca, como a pesca de água doce ou salgada, em rios, lagos ou no mar. Ele é de fácil utilização, bastando apenas conectá-lo à linha de pesca e deixar que ele faça o seu trabalho.</span><br><br><span>Além disso, o Destorcedor é um equipamento durável e resistente, capaz de suportar as condições mais adversas de pesca. Seu design compacto e leve permite que ele seja facilmente transportado na caixa de pesca, tornando-se um acessório indispensável para todo pescador.</span><br><br><span>Temos 4 tamanhos disponíveis que irão atender a diversas modalidades de pesca:</span><br><span>Destorcedor 7mm = 4Kg de capacidade</span><br><span>Destorcedor 11mm = 19Kg de capacidade</span><br><span>Destorcedor 15mm = 35Kg de capacidade</span><br><span>Destorcedor 25mm = 75Kg de capacidade</span>",
+    "variantImageMap": {
+      "6kg / 7mm / 14 un": "assets/img/shopify/Embalagem-Destorcedor-7mm-frente_7d725e2c-c338-441b-a3bf-6d24d3ef9efd.jpg",
+      "24kg / 9mm / 10 un": "assets/img/shopify/Destorcedor_54f6d99b-982a-4d68-b6ef-981613cc955b.jpg",
+      "35kg / 12mm / 10 un": "assets/img/shopify/Embalagem-Destorcedor-11mm-frente_7a63ff66-1128-43fb-b0ed-218881a7b7a0.jpg",
+      "55kg / 14mm / 10 un": "assets/img/shopify/Embalagem-Destorcedor-7mm-costas_851d4736-5ede-44da-a0e7-71992bb16625.jpg",
+      "30kg / 15mm / 10 un": "assets/img/shopify/Embalagem-Destorcedor-11mm-frente_7a63ff66-1128-43fb-b0ed-218881a7b7a0.jpg",
+      "40kg / 18mm / 10 un": "assets/img/shopify/Embalagem-Destorcedor-15mm-frente_cdef0adb-af66-48d7-9cba-d566d20e1d64.jpg",
+      "88kg / 20mm / 10 un": "assets/img/shopify/Embalagem-Destorcedor-25mm-frente_d004420e-131f-4f4c-a953-bb0e8385bdaa.jpg"
+    },
+    "description": "<span>O Destorcedor para Pesca é um equipamento que foi desenvolvido para facilitar a prática de pesca. Ele é composto por um corpo principal feito de material resistente, como aço inoxidável, e por duas extremidades que se conectam a uma linha de pesca.</span><br><br><span>Sua principal função é evitar que a linha de pesca fique torcida, o que pode dificultar a captura de peixes e até mesmo causar danos à linha. Com o Destorcedor, a linha de pesca é mantida reta e livre de torções, o que aumenta a eficiência da pescaria.</span><br><br><span>O Destorcedor pode ser utilizado em diversas modalidades de pesca, como a pesca de água doce ou salgada, em rios, lagos ou no mar. Ele é de fácil utilização, bastando apenas conectá-lo à linha de pesca e deixar que ele faça o seu trabalho.</span><br><br><span>Além disso, o Destorcedor é um equipamento durável e resistente, capaz de suportar as condições mais adversas de pesca. Seu design compacto e leve permite que ele seja facilmente transportado na caixa de pesca, tornando-se um acessório indispensável para todo pescador.</span><br><br><span>Temos 8 tamanhos disponíveis que irão atender a diversas modalidades de pesca:</span><br><span>Destorcedor 7mm = 6Kg de capacidade</span><br><span>Destorcedor 9mm = 24Kg de capacidade</span><br><span>Destorcedor 12mm = 35Kg de capacidade</span><br><span>Destorcedor 14mm = 55Kg de capacidade</span><br><span>Destorcedor 15mm = 30Kg de capacidade</span><br><span>Destorcedor 18mm = 40Kg de capacidade</span><br><span>Destorcedor 20mm = 88Kg de capacidade</span><br><span>Destorcedor 24mm = 80Kg de capacidade</span>",
     "images": [
       "assets/img/shopify/Destorcedor-capa.png",
       "assets/img/shopify/Destorcedor_54f6d99b-982a-4d68-b6ef-981613cc955b.jpg",
@@ -1719,7 +1744,7 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/f24631a07cd749d8ab917d74fb026519.mp4",
     "specs": {
       "Material": "Aço Inoxidável de alta resistência",
-      "Capacidades": "7mm (4Kg) | 11mm (19Kg) | 15mm (35Kg) | 25mm (75Kg)",
+      "Capacidades": "7mm (6Kg) | 9mm (24Kg) | 12mm (35Kg) | 14mm (55Kg) | 15mm (30Kg) | 18mm (40Kg) | 20mm (88Kg) | 24mm (80Kg)",
       "Função": "Evitar a torção da linha de pesca, garantindo melhor sensibilidade e durabilidade",
       "Indicação": "Montagem de chicotes, líderes e pescaria de praia, rio e mar"
     }
@@ -1729,35 +1754,43 @@ window.PRODUCTS = [
     "slug": "destorcedor-triplo",
     "category": "Montagem",
     "name": "Destorcedor Triplo",
-    "price": "a partir de R$ 5,48",
+    "price": "a partir de R$ 17,18",
     "img": "assets/img/shopify/destorcedor-triplo-capa.png",
     "link": "https://chumbadas.com.br/products/kit-destorcedor-triplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "14kg 15mm (10unid)",
-        "R$ 5,48"
-      ],
-      [
         "16kg 19mm (10unid)",
-        "R$ 6,87"
+        "R$ 17,18"
       ],
       [
         "37kg 23mm (8unid)",
-        "R$ 7,30"
+        "R$ 17,73"
       ],
       [
         "27kg 28mm (6unid)",
-        "R$ 9,87"
+        "R$ 35,33"
       ],
       [
         "48kg 31mm (6unid)",
-        "R$ 11,00"
+        "R$ 26,79"
       ],
       [
         "35kg 33mm (6unid)",
-        "R$ 12,45"
+        "R$ 30,07"
+      ],
+      [
+        "60kg 36mm (6unid)",
+        "R$ 34,99"
       ]
     ],
+    "variantImageMap": {
+      "16kg 19mm (10unid)": "assets/img/shopify/destorcedor-triplo-19mm_9443e4fb-981e-4eb6-95d3-19d73f22d3e9.png",
+      "37kg 23mm (8unid)": "assets/img/shopify/destorcedor-triplo-23mm_077c725c-c087-44f0-9a03-95a9d69b8340.png",
+      "27kg 28mm (6unid)": "assets/img/shopify/destorcedor-triplo-28mm_79eab599-5db1-4d34-9966-3cb67d55f179.png",
+      "48kg 31mm (6unid)": "assets/img/shopify/destorcedor-triplo-15mm_e9fd3333-5e84-4c73-886f-0e17e084bdab.png",
+      "35kg 33mm (6unid)": "assets/img/shopify/destorcedor-triplo-33mm_2c02312c-5551-4f54-a261-576b699bf92d.png",
+      "60kg 36mm (6unid)": "assets/img/shopify/destorcedor-triplo-19mm-costas.png"
+    },
     "description": "O Girador Triplo é um equipamento de pesca especialmente projetado para a captura eficaz de peixes como piapara e piauçu. Sua engenhosa concepção permite uma abordagem versátil e altamente sensível para pescarias de espera, atendendo às necessidades tanto dos pescadores experientes como dos iniciantes.<br><br>Este produto apresenta uma configuração inteligente que amplia as chances de sucesso na pesca. O Girador Triplo é utilizado amarrando-se a pernada com anzol no mesmo sentido da linha da carretilha, enquanto a argola perpendicular às linhas é conectada a uma chumbada bola com olhal ou outra qualquer. Isso resulta em um sistema altamente sensível, no qual a sensação de peso da chumbada é minimizada, uma vez que a linha irá ficar desencostada do fundo do local de pesca impedindo que o peixe perceba qualquer resistência indesejada. Essa característica se revela fundamental para evitar que o peixe sinta o peso da chumbada e seja afastado antes de consumir a isca.<br><br>Além disso, o Girador Triplo oferece múltiplas possibilidades de aplicação. Ele pode ser empregado tanto em pescarias de espera, como nas margens de rios e lagos, quanto em pescarias de praia, proporcionando uma excelente experiência de pesca. A capacidade de adaptar o Girador Triplo ao sistema down shot com iscas artificiais amplia ainda mais sua utilidade, demonstrando sua versatilidade em diferentes cenários de pesca.<br><br>Em resumo, o Girador Triplo é um acessório muito bom que aprimora a abordagem de pesca, permitindo uma configuração sensível e discreta para a captura de peixes. Com sua capacidade de minimizar a sensação de peso da chumbada e sua adaptabilidade a diversas técnicas de pesca, esse produto se torna um aliado indispensável para pescadores que buscam maximizar seu sucesso nas aventuras de pesca.",
     "images": [
       "assets/img/shopify/destorcedor-triplo-capa.png",
@@ -1774,7 +1807,7 @@ window.PRODUCTS = [
     "video": "assets/video/shopify/f24631a07cd749d8ab917d74fb026519.mp4",
     "specs": {
       "Material": "Aço Inoxidável reforçado",
-      "Capacidades (testadas)": "15mm (14kg) | 19mm (16kg) | 23mm (37kg) | 28mm (27kg) | 31mm (48kg) | 33mm (35kg)",
+      "Capacidades (testadas)": "19mm (16kg) | 23mm (37kg) | 28mm (27kg) | 31mm (48kg) | 33mm (35kg) | 36mm (60kg)",
       "Função": "Evitar a torção de linhas em montagens do tipo Down Shot ou esperas",
       "Indicação": "Pescarias de espera de peixes ariscos (como piapara e piauçu) e pesca de praia. O modelo 23mm também é usado em boia pino e boia cevadeira."
     },
@@ -1785,23 +1818,44 @@ window.PRODUCTS = [
     "slug": "snap-single",
     "category": "Montagem",
     "name": "Snap Single",
-    "price": "R$ 2,88",
+    "price": "a partir de R$ 5,95",
     "img": "assets/img/shopify/Snap-Single-19mm-35kg_a69e9534-c0b1-46b7-bc72-b1fb2af9b7f7.png",
     "link": "https://chumbadas.com.br/collections/terminais",
     "vars": [
       [
-        "8mm - 4kg - 8 unidades",
-        "R$ 2,88"
+        "8mm - 10kg - 8 unidades",
+        "R$ 5,95"
       ],
       [
-        "13mm - 11kg - 8 unidades",
-        "R$ 2,88"
+        "13mm - 34kg - 8 unidades",
+        "R$ 6,85"
       ],
       [
-        "19mm - 16kg - 8 unidades",
-        "R$ 2,88"
+        "18mm - 50kg - 8 unidades",
+        "R$ 7,75"
+      ],
+      [
+        "20mm - 75kg - 8 unidades",
+        "R$ 8,20"
+      ],
+      [
+        "22mm - 100kg - 8 unidades",
+        "R$ 8,65"
+      ],
+      [
+        "29mm - 60kg - 8 unidades",
+        "R$ 10,45"
+      ],
+      [
+        "34mm - 80kg - 8 unidades",
+        "R$ 12,29"
       ]
     ],
+    "variantImageMap": {
+      "8mm - 10kg - 8 unidades": "assets/img/shopify/Snap-Single-8mm-4kg-un_07f8d7fb-b8fb-436c-8db3-787cb7a1020f.png",
+      "13mm - 34kg - 8 unidades": "assets/img/shopify/Snap-Single-13mm-un_463d89cf-d68e-4935-8c19-8b3f9fb6df81.png",
+      "18mm - 50kg - 8 unidades": "assets/img/shopify/Snap-Single-19mm-35kg_a69e9534-c0b1-46b7-bc72-b1fb2af9b7f7.png"
+    },
     "description": "<p>Snap Single - Snap reforçado e compacto, troque os acessórios de sua pesca de forma rápida e prática com o novo Snap Single.</p>\n<p>Contém: 8 unidades</p>",
     "images": [
       "assets/img/shopify/Snap-Single-19mm-35kg_a69e9534-c0b1-46b7-bc72-b1fb2af9b7f7.png",
@@ -1822,23 +1876,45 @@ window.PRODUCTS = [
     "slug": "snap-double",
     "category": "Montagem",
     "name": "Snap Double",
-    "price": "a partir de R$ 3,35",
+    "price": "a partir de R$ 5,95",
     "img": "assets/img/shopify/Snap-Double-24mm-1-un_fbe828d6-89b4-4a42-ad78-6f5f022f47e9.png",
     "link": "https://chumbadas.com.br/collections/terminais",
     "vars": [
       [
-        "12mm - 8kg - 8 unidades",
-        "R$ 3,35"
+        "12mm - 13kg - 8 unidades",
+        "R$ 5,95"
       ],
       [
-        "17mm - 22kg - 8 unidades",
-        "R$ 4,00"
+        "18mm - 28kg - 8 unidades",
+        "R$ 7,75"
       ],
       [
-        "23mm - 37kg - 8 unidades",
-        "R$ 4,07"
+        "21mm - 43kg - 8 unidades",
+        "R$ 8,65"
+      ],
+      [
+        "24mm - 56kg - 8 unidades",
+        "R$ 9,55"
+      ],
+      [
+        "25mm - 65kg - 8 unidades",
+        "R$ 9,55"
+      ],
+      [
+        "29mm - 68kg - 8 unidades",
+        "R$ 9,55"
+      ],
+      [
+        "35mm - 110kg - 8 unidades",
+        "R$ 11,35"
       ]
     ],
+    "variantImageMap": {
+      "12mm - 13kg - 8 unidades": "assets/img/shopify/Snap-Double-12mm-1-un_73d8bebd-5016-4f1e-b2ce-d3faa34313b2.png",
+      "18mm - 28kg - 8 unidades": "assets/img/shopify/Snap-Double-17mm-1-un_0bd78efc-05f3-4294-86f2-7249fde20eeb.png",
+      "21mm - 43kg - 8 unidades": "assets/img/shopify/Snap-Double-12mm-1-un_73d8bebd-5016-4f1e-b2ce-d3faa34313b2.png",
+      "24mm - 56kg - 8 unidades": "assets/img/shopify/Snap-Double-24mm-1-un_fbe828d6-89b4-4a42-ad78-6f5f022f47e9.png"
+    },
     "description": "<p>Snap Double - Snap extremamente versátil, troque os acessórios de sua pesca de forma rápida e prática, seu formato único contém duas aberturas evitando a necessidade de corte de linha.</p>\n<p>Contém: 8 unidades</p>",
     "images": [
       "assets/img/shopify/Snap-Double-24mm-1-un_fbe828d6-89b4-4a42-ad78-6f5f022f47e9.png",
@@ -1859,18 +1935,52 @@ window.PRODUCTS = [
     "slug": "snap-gota",
     "category": "Montagem",
     "name": "Snap Gota",
-    "price": "R$ 2,15",
-    "img": "assets/img/shopify/snap-gota.png",
+    "price": "a partir de R$ 9,27",
+    "img": "assets/img/shopify/gota-capa_1.png",
     "link": "https://chumbadas.com.br/collections/terminais",
     "vars": [
       [
-        "9mm - 15kg - 10 unidades",
-        "R$ 2,15"
+        "7mm - 8kg - 10 unidades",
+        "R$ 9,27"
+      ],
+      [
+        "7,5mm - 10kg - 10 unidades",
+        "R$ 9,27"
+      ],
+      [
+        "9mm - 19kg - 10 unidades",
+        "R$ 10,27"
+      ],
+      [
+        "12mm - 35kg - 10 unidades",
+        "R$ 10,27"
+      ],
+      [
+        "14mm - 30kg - 10 unidades",
+        "R$ 10,27"
+      ],
+      [
+        "17mm - 50kg - 10 unidades",
+        "R$ 10,27"
+      ],
+      [
+        "20mm - 65kg - 10 unidades",
+        "R$ 11,27"
       ]
     ],
+    "variantImageMap": {
+      "7mm - 8kg - 10 unidades": "assets/img/shopify/gota-capa_1.png",
+      "7,5mm - 10kg - 10 unidades": "assets/img/shopify/Snap-Gota-14mm-40kg.png",
+      "9mm - 19kg - 10 unidades": "assets/img/shopify/Snap-gota-caneta-14mm.png",
+      "12mm - 35kg - 10 unidades": "assets/img/shopify/Snap-gota-caneta-9mm.png"
+    },
     "description": "<p>Snap Chumbada e Cobre Nó a união perfeita entre praticidade e segurança, o Snap Chumbada possui uma ponta arredondada facilitando o movimento entre a Chumbada e o chicote de pesca.</p>",
     "images": [
-      "assets/img/shopify/snap-gota.png"
+      "assets/img/shopify/snap-gota.png",
+      "assets/img/shopify/gota-capa_1.png",
+      "assets/img/shopify/Snap-Gota-14mm-40kg.png",
+      "assets/img/shopify/Snap-gota-caneta-14mm.png",
+      "assets/img/shopify/Snap-gota-caneta-9mm.png"
     ],
     "video": "",
     "specs": {
@@ -1887,47 +1997,48 @@ window.PRODUCTS = [
     "slug": "snap-frances",
     "category": "Montagem",
     "name": "Snap Francês",
-    "price": "a partir de R$ 3,38",
+    "price": "a partir de R$ 7,75",
     "img": "assets/img/shopify/Snap-Frances-35mm-frente.jpg",
     "link": "https://chumbadas.com.br/collections/terminais",
     "vars": [
       [
         "10mm - 5kg - 10 unidades",
-        "R$ 3,38"
+        "R$ 7,75"
       ],
       [
-        "14mm - 9kg - 10 unidades",
-        "R$ 4,69"
+        "14mm - 10kg - 10 unidades",
+        "R$ 9,26"
       ],
       [
-        "15mm - 10kg - 10 unidades",
-        "R$ 4,75"
+        "17mm - 12kg - 10 unidades",
+        "R$ 10,39"
       ],
       [
-        "17mm - 13kg - 10 unidades",
-        "R$ 4,88"
+        "21mm - 14kg - 10 unidades",
+        "R$ 9,32"
       ],
       [
-        "20mm - 18kg - 10 unidades",
-        "R$ 5,68"
+        "24mm - 20kg - 8 unidades",
+        "R$ 10,27"
       ],
       [
-        "22mm - 19kg - 10 unidades",
-        "R$ 5,26"
+        "30mm - 30kg - 8 unidades",
+        "R$ 9,82"
       ],
       [
-        "25mm - 20kg - 8 unidades",
-        "R$ 5,46"
-      ],
-      [
-        "30mm - 25kg - 8 unidades",
-        "R$ 6,93"
-      ],
-      [
-        "35mm - 35kg - 8 unidades",
-        "R$ 8,31"
+        "34mm - 39kg - 8 unidades",
+        "R$ 11,09"
       ]
     ],
+    "variantImageMap": {
+      "10mm - 5kg - 10 unidades": "assets/img/shopify/Snap-Frances-10mm-frente.jpg",
+      "14mm - 10kg - 10 unidades": "assets/img/shopify/Snap-Frances-15mm-frente.jpg",
+      "17mm - 12kg - 10 unidades": "assets/img/shopify/Snap-Frances-18mm-frente.jpg",
+      "21mm - 14kg - 10 unidades": "assets/img/shopify/Snap-Frances-20mm-frente.jpg",
+      "24mm - 20kg - 8 unidades": "assets/img/shopify/Snap-Frances-25mm-frente.jpg",
+      "30mm - 30kg - 8 unidades": "assets/img/shopify/Snap-Frances-30mm-frente.jpg",
+      "34mm - 39kg - 8 unidades": "assets/img/shopify/Snap-Frances-35mm-frente.jpg"
+    },
     "description": "Snap Frances<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Apresentamos o novo Snap Frances da Chumbada Oficial, desenvolvido atendendo a pedidos específicos de pescadores experientes. Este snap resistente e prático foi projetado para facilitar a troca rápida e eficiente de chicotes, líderes, arranques e qualquer outro sistema de pesca.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Com uma grande variedade de tamanhos disponíveis, o Snap Frances pode ser adaptado às necessidades individuais de cada pescador. Além disso, oferecemos diferentes capacidades de tração, garantindo que você possa confiar na resistência do snap durante suas pescarias.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">É importante destacar que a eficiência do Snap Frances aumenta ainda mais quando combinado com o Cobrenó da Chumbada Oficial. O Cobrenó é um acessório complementar que proporciona uma conexão ainda mais segura entre o snap e o sistema de pesca, evitando falhas e garantindo a estabilidade durante a captura.",
     "images": [
       "assets/img/shopify/Snap-Frances-35mm-frente.jpg",
