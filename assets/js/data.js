@@ -58,7 +58,7 @@ window.ECO_LINE = {
     { slug: "porta-isca-e-chumbada", ecoVariant: "Preto Eco", ecoImg: "assets/img/shopify/photo_2024-12-03_06-46-18.jpg" },
     { slug: "suporte-para-molinetes", ecoVariant: "Preto Eco", ecoImg: "assets/img/shopify/suporte-para-molinetes-branco_ac7ae35b-75cc-423a-9bd6-e4f777e6529f.png" },
     { slug: "suporte-de-vara-de-parede", ecoVariant: "Branco Eco", ecoImg: "assets/img/shopify/suporte-de-vara-de-parede.png" },
-    { slug: "adaptador-de-carretilha-kit-com-4", ecoVariant: "Branco Eco - 4un", ecoImg: "assets/img/shopify/suporte-para-carretilhas-02_045bc35a-4013-430e-9ec8-ea46e12db27b.png" }
+    { slug: "adaptador-de-carretilha-kit-com-4", ecoVariant: "Branco Eco", ecoImg: "assets/img/shopify/suporte-para-carretilhas-02_045bc35a-4013-430e-9ec8-ea46e12db27b.png" }
   ]
 };
 
@@ -448,7 +448,37 @@ window.PRODUCTS = [
       "Conteúdo": "Kit com 4 unidades (Permite organizar até 3 carretilhas no Suporte de Molinetes)",
       "Função": "Adaptação de apoio de manivelas para armazenamento vertical no suporte padrão"
     },
-    "section": "Acessórios"
+    "section": "Acessórios",
+    "swatches": [
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Preto",
+        "#111827"
+      ],
+      [
+        "Branco Eco",
+        "#e5e7eb"
+      ],
+      [
+        "Preto Eco",
+        "#1f2937"
+      ]
+    ],
+    "variantImageMap": {
+      "::Branco": "assets/img/shopify/suporte-para-carretilhas-capa.png",
+      "::Preto": "assets/img/shopify/suporte-para-carretilhas-01_8e0b4e41-c163-4be7-8c3d-d6720723e443.png",
+      "::Branco Eco": "assets/img/shopify/suporte-para-carretilhas-02_045bc35a-4013-430e-9ec8-ea46e12db27b.png",
+      "::Preto Eco": "assets/img/shopify/suporte-para-carretilhas-02_8eda4c7c-15c1-4ef1-9d93-2799f5843e64.png"
+    },
+    "colorImages": {
+      "Branco": "assets/img/shopify/suporte-para-carretilhas-capa.png",
+      "Preto": "assets/img/shopify/suporte-para-carretilhas-01_8e0b4e41-c163-4be7-8c3d-d6720723e443.png",
+      "Branco Eco": "assets/img/shopify/suporte-para-carretilhas-02_045bc35a-4013-430e-9ec8-ea46e12db27b.png",
+      "Preto Eco": "assets/img/shopify/suporte-para-carretilhas-02_8eda4c7c-15c1-4ef1-9d93-2799f5843e64.png"
+    }
   },
   {
     "id": 11,
@@ -3446,8 +3476,17 @@ window.PRODUCTS = [
       [
         "Branco",
         "#ffffff"
+      ],
+      [
+        "Preto Eco",
+        "#1f2937"
       ]
     ],
+    "variantImageMap": {
+      "::Preto": "assets/img/shopify/photo_2024-12-03_06-46-17.jpg",
+      "::Branco": "assets/img/shopify/porta-isca-capa.png",
+      "::Preto Eco": "assets/img/shopify/photo_2024-12-03_06-46-18.jpg"
+    },
     "description": "<p>O Porta Isca e Chumbada é fabricado em plástico altamente resistente com rosca entre corpo e tampa assegurando que a mesma irá permanecer fechada, o mesmo possui alça de encaixe e desencaixe pois assim o pescador pode pendurar no carrinho de pesca, na cadeira ou na secretária de pesca.</p>\n<p>O Suporte pode ser usado para chumbadas organizando assim a caixa de pesca e facilitando o manuseio das mesmas, os orifícios da tampa servem para deixar algumas chumbadas em espera.</p>\n<p>O Suporte pode ser usado para colocar iscas, os orifícios da tampa permitem uma ventilação aumentando assim a qualidade das iscas.</p>",
     "images": [
       "assets/img/shopify/porta-isca-capa.png",
@@ -3476,7 +3515,8 @@ window.PRODUCTS = [
     ],
     "colorImages": {
       "Preto": "assets/img/shopify/photo_2024-12-03_06-46-17.jpg",
-      "Branco": "assets/img/shopify/porta-isca-capa.png"
+      "Branco": "assets/img/shopify/porta-isca-capa.png",
+      "Preto Eco": "assets/img/shopify/photo_2024-12-03_06-46-18.jpg"
     }
   },
   {
@@ -3603,8 +3643,18 @@ window.PRODUCTS = [
       [
         "Branco",
         "#ffffff"
+      ],
+      [
+        "Preto Eco",
+        "#1f2937"
       ]
     ],
+    "variantImageMap": {
+      "::Preto": "assets/img/shopify/suporte-para-molinetes.png",
+      "::Azul": "assets/img/shopify/suporte-para-molinete-azul-escuro.jpg",
+      "::Branco": "assets/img/shopify/suporte-para-molinetes-branco_00804a4b-e0e1-4aa4-a119-6046485dd0f3.png",
+      "::Preto Eco": "assets/img/shopify/suporte-para-molinetes-branco_ac7ae35b-75cc-423a-9bd6-e4f777e6529f.png"
+    },
     "description": "O suporte de molinetes é um acessório prático e funcional, projetado para organizar e exibir seus molinetes de maneira elegante. Com capacidade para acomodar até 3 molinetes grandes ou 4 molinetes pequenos, esse suporte é perfeito para os amantes da pesca que desejam manter seus equipamentos de forma segura e acessível.<br><br>O suporte é acompanhado por duas buchas e dois parafusos, que permitem a instalação fácil e segura na parede. Com uma estrutura robusta e durável, esse suporte garante a estabilidade necessária para suportar o peso dos molinetes.<br><br>Além de sua funcionalidade prática, o suporte também possui um design atraente que adiciona um toque decorativo à parede da sala ou do quarto. Seu estilo elegante e minimalista complementa diversos ambientes, proporcionando um visual agradável enquanto mantém seus molinetes organizados e prontos para uso.<br><br>Se você é um pescador apaixonado e deseja manter seus molinetes de maneira organizada e visualmente atraente, o suporte de molinetes é a solução perfeita para você.",
     "images": [
       "assets/img/shopify/suporte-para-molinetre-capa.png",
@@ -3638,7 +3688,8 @@ window.PRODUCTS = [
     "colorImages": {
       "Preto": "assets/img/shopify/suporte-para-molinetes.png",
       "Azul": "assets/img/shopify/suporte-para-molinete-azul-escuro.jpg",
-      "Branco": "assets/img/shopify/suporte-para-molinetes-branco_00804a4b-e0e1-4aa4-a119-6046485dd0f3.png"
+      "Branco": "assets/img/shopify/suporte-para-molinetes-branco_00804a4b-e0e1-4aa4-a119-6046485dd0f3.png",
+      "Preto Eco": "assets/img/shopify/suporte-para-molinetes-branco_ac7ae35b-75cc-423a-9bd6-e4f777e6529f.png"
     }
   },
   {
@@ -3666,6 +3717,20 @@ window.PRODUCTS = [
     },
     "section": "Organização",
     "image": "assets/img/shopify/capa_2b51a3fb-c17b-4fe6-8a76-6656ccece2b2.png",
+    "swatches": [
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Branco Eco",
+        "#e5e7eb"
+      ]
+    ],
+    "variantImageMap": {
+      "::Branco": "assets/img/shopify/04.png",
+      "::Branco Eco": "assets/img/shopify/suporte-de-vara-de-parede.png"
+    },
     "colors": [
       [
         "Branco",
@@ -3673,7 +3738,8 @@ window.PRODUCTS = [
       ]
     ],
     "colorImages": {
-      "Branco": "assets/img/shopify/04.png"
+      "Branco": "assets/img/shopify/04.png",
+      "Branco Eco": "assets/img/shopify/suporte-de-vara-de-parede.png"
     }
   },
   {
