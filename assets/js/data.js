@@ -53,8 +53,12 @@ window.ECO_LINE = {
   products: [
     { slug: "carretel-retangular", ecoVariant: "Preto Eco", ecoImg: "assets/img/shopify/carretel_retangular_preto.jpg" },
     { slug: "mini-secretaria", ecoVariant: "Preto Eco", ecoImg: "assets/img/shopify/mini_secretaria_preto_eco_2.png" },
-    { slug: "secretaria-paredao", ecoVariant: null, ecoImg: null },
-    { slug: "estilingue", ecoVariant: null, ecoImg: null }
+    { slug: "secretaria-paredao", ecoVariant: "Preto Eco", ecoImg: "assets/img/shopify/secretaria_paredao_2.png" },
+    { slug: "estilingue", ecoVariant: null, ecoImg: null },
+    { slug: "porta-isca-e-chumbada", ecoVariant: "Preto Eco", ecoImg: "assets/img/shopify/photo_2024-12-03_06-46-18.jpg" },
+    { slug: "suporte-para-molinetes", ecoVariant: "Preto Eco", ecoImg: "assets/img/shopify/suporte-para-molinetes-branco_ac7ae35b-75cc-423a-9bd6-e4f777e6529f.png" },
+    { slug: "suporte-de-vara-de-parede", ecoVariant: "Branco Eco", ecoImg: "assets/img/shopify/suporte-de-vara-de-parede.png" },
+    { slug: "adaptador-de-carretilha-kit-com-4", ecoVariant: "Branco Eco - 4un", ecoImg: "assets/img/shopify/suporte-para-carretilhas-02_045bc35a-4013-430e-9ec8-ea46e12db27b.png" }
   ]
 };
 
