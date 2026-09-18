@@ -127,9 +127,16 @@ function resolveSku(p, colorName, varLabel) {
     return wanted.every((w) => optsN.includes(w));
   });
   if (!candidates.length) {
+    // Substring fallback só vale para textos com 3+ caracteres — opções
+    // curtas como "P" ou "6" (tamanho/modelo) podem aparecer por acaso
+    // dentro de qualquer frase genérica (ex: "6 modelos disponíveis"
+    // contém "6"), o que causaria uma correspondência falsa.
     candidates = p.skuVariants.filter((v) => {
       const optsN = (v.opts || []).map(norm);
-      return wanted.every((w) => optsN.some((o) => o.includes(w) || w.includes(o)));
+      return wanted.every((w) => optsN.some((o) => {
+        if (o === w) return true;
+        return Math.min(o.length, w.length) >= 3 && (o.includes(w) || w.includes(o));
+      }));
     });
   }
   const skus = Array.from(new Set(candidates.map((c) => c.sku).filter(Boolean)));
