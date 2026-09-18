@@ -108,6 +108,35 @@ function escapeHTML(str) {
   }[c]));
 }
 
+// Acha o SKU real do Shopify (produto.skuVariants, importado do CSV) que bate
+// com a cor + variação que o cliente selecionou agora. Só retorna um SKU
+// quando existe exatamente UMA correspondência — quando a combinação é
+// ambígua (ex: o site só mostra tamanho, mas o Shopify tem tamanho+cor com
+// SKUs diferentes) ou não existe skuVariants pro produto, retorna null em vez
+// de arriscar mandar o código errado pro vendedor.
+function resolveSku(p, colorName, varLabel) {
+  if (!p.skuVariants || !p.skuVariants.length) return null;
+  const norm = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').trim();
+  const wanted = [colorName, varLabel].filter(Boolean).map(norm);
+  if (!wanted.length) return null;
+
+  // Exact match first — a substring check alone would wrongly match "G"
+  // against a variant option of "GG" (since "GG".includes("g")).
+  let candidates = p.skuVariants.filter((v) => {
+    const optsN = (v.opts || []).map(norm);
+    return wanted.every((w) => optsN.includes(w));
+  });
+  if (!candidates.length) {
+    candidates = p.skuVariants.filter((v) => {
+      const optsN = (v.opts || []).map(norm);
+      return wanted.every((w) => optsN.some((o) => o.includes(w) || w.includes(o)));
+    });
+  }
+  const skus = Array.from(new Set(candidates.map((c) => c.sku).filter(Boolean)));
+  if (skus.length !== 1) return null;
+  return skus[0].replace(/^'/, '');
+}
+
 // Função auxiliar para normalizar textos para pesquisa (remover acentos)
 function normalizeText(str) {
   return String(str)
@@ -1093,7 +1122,7 @@ function initDetailSelectors(p) {
         catalog: 'acessorios',
         productId: String(p.id),
         name: p.name,
-        sku: null,
+        sku: resolveSku(p, colorName, varLabel),
         variant: variantParts.join(', '),
         qty: selecaoQty,
       });
