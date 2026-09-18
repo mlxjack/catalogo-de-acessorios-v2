@@ -141,6 +141,7 @@ window.PRODUCTS = [
   {
     "id": 1,
     "slug": "linha-multi-verax-4x-300m",
+    "skuVariants": [{"opts": ["12# (0,620mm) - 16kg"], "sku": "8001120620300"}, {"opts": ["10# (0,540mm) - 13kg"], "sku": "8001100540300"}, {"opts": ["9# (0,520mm) - 11kg"], "sku": "8001090520300"}, {"opts": ["8# (0,483mm) - 9kg"], "sku": "8001080483300"}, {"opts": ["6# (0,418mm) - 8kg"], "sku": "8001060418300"}, {"opts": ["5# (0,382mm) - 7,5kg"], "sku": "8001050382300"}, {"opts": ["4.5# (0,358mm) - 6kg"], "sku": "8001045358300"}, {"opts": ["3.5# (0,316mm) - 5,5kg"], "sku": "8001035316300"}, {"opts": ["3# (0,296mm) - 4,5kg"], "sku": "8001030296300"}, {"opts": ["2# (0,242mm) - 4kg"], "sku": "8001020242300"}, {"opts": ["1.5# (0,209mm) - 3,5kg"], "sku": "8001015209300"}, {"opts": ["1.2# (0,191mm) - 2,8kg"], "sku": "8001012191300"}, {"opts": ["1# (0,171mm) - 2,3kg"], "sku": "8001010171300"}, {"opts": ["0.5# (0,121mm) - 2kg"], "sku": "8001005121300"}],
     "section": "Lançamentos",
     "category": "Acessórios",
     "name": "Linha Multi Verax 4X 300m",
@@ -511,6 +512,7 @@ window.PRODUCTS = [
   {
     "id": 12,
     "slug": "carretel-para-chicotes",
+    "skuVariants": [{"opts": ["Laranja"], "sku": "PA10235"}, {"opts": ["Preto"], "sku": "PA10239"}, {"opts": ["Amarelo"], "sku": "PA10234"}, {"opts": ["Azul"], "sku": "PA10224"}, {"opts": ["Branco"], "sku": "PA10237"}, {"opts": ["Cinza"], "sku": "PA10240"}, {"opts": ["Rosa"], "sku": "PA10238"}, {"opts": ["Roxo"], "sku": "WPA0236"}, {"opts": ["Vermelho"], "sku": "PA10381"}, {"opts": ["Cristal"], "sku": "PA11297"}, {"opts": ["Verde"], "sku": "PA11653"}],
     "category": "Acessórios",
     "name": "Carretel para Chicotes",
     "price": "R$ 1,50",
@@ -3861,7 +3863,7 @@ window.PRODUCTS = [
   {
     "id": 32,
     "slug": "porta-pernada-cano",
-    "skuVariants": [{"opts": ["Porta Pernada Completo", "20cm", "Branco"], "sku": "PA11290"}, {"opts": ["Porta Pernada Completo", "20cm", "Azul"], "sku": "PA11291"}, {"opts": ["Porta Pernada Completo", "20cm", "Marrom Claro"], "sku": "PA11292"}, {"opts": ["Porta Pernada Completo", "30cm", "Branco"], "sku": "PA0143"}, {"opts": ["Porta Pernada Completo", "30cm", "Azul"], "sku": "PA0159"}, {"opts": ["Porta Pernada Completo", "30cm", "Marrom Claro"], "sku": "PA0151"}, {"opts": ["Porta Pernada Completo", "30cm+30cm (60)", "Branco"], "sku": "PA0144"}, {"opts": ["Porta Pernada Completo", "30cm+30cm (60)", "Azul"], "sku": "PA0160"}, {"opts": ["Porta Pernada Completo", "30cm+30cm (60)", "Marrom Claro"], "sku": "PA0152"}, {"opts": ["Porta Pernada Completo", "40cm", "Branco"], "sku": "PA0145"}, {"opts": ["Porta Pernada Completo", "40cm", "Azul"], "sku": "PA0161"}, {"opts": ["Porta Pernada Completo", "40cm", "Marrom Claro"], "sku": "PA0153"}, {"opts": ["Porta Pernada Completo", "50cm", "Branco"], "sku": "PA0146"}, {"opts": ["Porta Pernada Completo", "50cm", "Azul"], "sku": "PA0162"}, {"opts": ["Porta Pernada Completo", "50cm", "Marrom Claro"], "sku": "PA0154"}, {"opts": ["Porta Pernada Completo", "60cm", "Branco"], "sku": "PA0147"}, {"opts": ["Porta Pernada Completo", "60cm", "Azul"], "sku": "PA0163"}, {"opts": ["Porta Pernada Completo", "60cm", "Marrom Claro"], "sku": "PA0155"}, {"opts": ["Porta Pernada Completo", "70cm", "Branco"], "sku": "PA0148"}, {"opts": ["Porta Pernada Completo", "70cm", "Azul"], "sku": "PA0164"}, {"opts": ["Porta Pernada Completo", "70cm", "Marrom Claro"], "sku": "PA0156"}, {"opts": ["Porta Pernada Completo", "80cm", "Branco"], "sku": "PA0149"}, {"opts": ["Porta Pernada Completo", "80cm", "Azul"], "sku": "PA0165"}, {"opts": ["Porta Pernada Completo", "80cm", "Marrom Claro"], "sku": "PA0157"}, {"opts": ["Porta Pernada Completo", "100cm", "Branco"], "sku": "PA0150"}, {"opts": ["Porta Pernada Completo", "100cm", "Azul"], "sku": "PA0166"}, {"opts": ["Porta Pernada Completo", "100cm", "Marrom Claro"], "sku": "PA0158"}, {"opts": ["Somente Cano", "20cm", "Branco"], "sku": "PA11293"}, {"opts": ["Somente Cano", "20cm", "Azul"], "sku": "PA11294"}, {"opts": ["Somente Cano", "20cm", "Marrom Claro"], "sku": "PA11295"}, {"opts": ["Somente Cano", "30cm", "Branco"], "sku": "PA0170"}, {"opts": ["Somente Cano", "30cm", "Azul"], "sku": "PA0184"}, {"opts": ["Somente Cano", "30cm", "Marrom Claro"], "sku": "PA10182"}, {"opts": ["Somente Cano", "40cm", "Branco"], "sku": "PA0171"}, {"opts": ["Somente Cano", "40cm", "Azul"], "sku": "PA0185"}, {"opts": ["Somente Cano", "40cm", "Marrom Claro"], "sku": "PA10183"}, {"opts": ["Somente Cano", "50cm", "Branco"], "sku": "PA0172"}, {"opts": ["Somente Cano", "50cm", "Azul"], "sku": "PA0186"}, {"opts": ["Somente Cano", "50cm", "Marrom Claro"], "sku": "PA10184"}, {"opts": ["Somente Cano", "60cm", "Branco"], "sku": "PA0173"}, {"opts": ["Somente Cano", "60cm", "Azul"], "sku": "PA0187"}, {"opts": ["Somente Cano", "60cm", "Marrom Claro"], "sku": "PA10185"}, {"opts": ["Somente Cano", "70cm", "Branco"], "sku": "PA0174"}, {"opts": ["Somente Cano", "70cm", "Azul"], "sku": "PA0188"}, {"opts": ["Somente Cano", "70cm", "Marrom Claro"], "sku": "PA10186"}, {"opts": ["Somente Cano", "80cm", "Branco"], "sku": "PA0175"}, {"opts": ["Somente Cano", "80cm", "Azul"], "sku": "PA0189"}, {"opts": ["Somente Cano", "80cm", "Marrom Claro"], "sku": "PA10187"}, {"opts": ["Somente Cano", "100cm", "Branco"], "sku": "PA0176"}, {"opts": ["Somente Cano", "100cm", "Azul"], "sku": "PA0190"}, {"opts": ["Somente Cano", "100cm", "Marrom Claro"], "sku": "PA10188"}],
+    "skuVariants": [{"opts": ["Porta Pernada Completo", "20cm", "Branco"], "sku": "PA11290"}, {"opts": ["Porta Pernada Completo", "20cm", "Azul"], "sku": "PA11291"}, {"opts": ["Porta Pernada Completo", "20cm", "Marrom Claro"], "sku": "PA11292"}, {"opts": ["Porta Pernada Completo", "30cm", "Branco"], "sku": "PA0143"}, {"opts": ["Porta Pernada Completo", "30cm", "Azul"], "sku": "PA0159"}, {"opts": ["Porta Pernada Completo", "30cm", "Marrom Claro"], "sku": "PA0151"}, {"opts": ["Porta Pernada Completo", "30cm+30cm (60)", "Branco"], "sku": "PA0144"}, {"opts": ["Porta Pernada Completo", "30cm+30cm (60)", "Azul"], "sku": "PA0160"}, {"opts": ["Porta Pernada Completo", "30cm+30cm (60)", "Marrom Claro"], "sku": "PA0152"}, {"opts": ["Porta Pernada Completo", "40cm", "Branco"], "sku": "PA0145"}, {"opts": ["Porta Pernada Completo", "40cm", "Azul"], "sku": "PA0161"}, {"opts": ["Porta Pernada Completo", "40cm", "Marrom Claro"], "sku": "PA0153"}, {"opts": ["Porta Pernada Completo", "50cm", "Branco"], "sku": "PA0146"}, {"opts": ["Porta Pernada Completo", "50cm", "Azul"], "sku": "PA0162"}, {"opts": ["Porta Pernada Completo", "50cm", "Marrom Claro"], "sku": "PA0154"}, {"opts": ["Porta Pernada Completo", "60cm", "Branco"], "sku": "PA0147"}, {"opts": ["Porta Pernada Completo", "60cm", "Azul"], "sku": "PA0163"}, {"opts": ["Porta Pernada Completo", "60cm", "Marrom Claro"], "sku": "PA0155"}, {"opts": ["Porta Pernada Completo", "70cm", "Branco"], "sku": "PA0148"}, {"opts": ["Porta Pernada Completo", "70cm", "Azul"], "sku": "PA0164"}, {"opts": ["Porta Pernada Completo", "70cm", "Marrom Claro"], "sku": "PA0156"}, {"opts": ["Porta Pernada Completo", "80cm", "Branco"], "sku": "PA0149"}, {"opts": ["Porta Pernada Completo", "80cm", "Azul"], "sku": "PA0165"}, {"opts": ["Porta Pernada Completo", "80cm", "Marrom Claro"], "sku": "PA0157"}, {"opts": ["Porta Pernada Completo", "100cm", "Branco"], "sku": "PA0150"}, {"opts": ["Porta Pernada Completo", "100cm", "Azul"], "sku": "PA0166"}, {"opts": ["Porta Pernada Completo", "100cm", "Marrom Claro"], "sku": "PA0158"}, {"opts": ["Somente Cano", "20cm", "Branco"], "sku": "PA11293"}, {"opts": ["Somente Cano", "20cm", "Azul"], "sku": "PA11294"}, {"opts": ["Somente Cano", "20cm", "Marrom Claro"], "sku": "PA11295"}, {"opts": ["Somente Cano", "30cm", "Branco"], "sku": "PA0170"}, {"opts": ["Somente Cano", "30cm", "Azul"], "sku": "PA0184"}, {"opts": ["Somente Cano", "30cm", "Marrom Claro"], "sku": "PA10182"}, {"opts": ["Somente Cano", "40cm", "Branco"], "sku": "PA0171"}, {"opts": ["Somente Cano", "40cm", "Azul"], "sku": "PA0185"}, {"opts": ["Somente Cano", "40cm", "Marrom Claro"], "sku": "PA10183"}, {"opts": ["Somente Cano", "50cm", "Branco"], "sku": "PA0172"}, {"opts": ["Somente Cano", "50cm", "Azul"], "sku": "PA0186"}, {"opts": ["Somente Cano", "50cm", "Marrom Claro"], "sku": "PA10184"}, {"opts": ["Somente Cano", "60cm", "Branco"], "sku": "PA0173"}, {"opts": ["Somente Cano", "60cm", "Azul"], "sku": "PA0187"}, {"opts": ["Somente Cano", "60cm", "Marrom Claro"], "sku": "PA10185"}, {"opts": ["Somente Cano", "70cm", "Branco"], "sku": "PA0174"}, {"opts": ["Somente Cano", "70cm", "Azul"], "sku": "PA0188"}, {"opts": ["Somente Cano", "70cm", "Marrom Claro"], "sku": "PA10186"}, {"opts": ["Somente Cano", "80cm", "Branco"], "sku": "PA0175"}, {"opts": ["Somente Cano", "80cm", "Azul"], "sku": "PA0189"}, {"opts": ["Somente Cano", "80cm", "Marrom Claro"], "sku": "PA10187"}, {"opts": ["Somente Cano", "100cm", "Branco"], "sku": "PA0176"}, {"opts": ["Somente Cano", "100cm", "Azul"], "sku": "PA0190"}, {"opts": ["Somente Cano", "100cm", "Marrom Claro"], "sku": "PA10188"}, {"opts": ["Trava Linha Cano (Borracha)"], "sku": "PA0167"}, {"opts": ["Apoio Anzol Cano"], "sku": "PA0168"}],
     "category": "Organização",
     "name": "Porta Pernada Cano",
     "price": "R$ 30,00",
@@ -4748,5 +4750,89 @@ window.PRODUCTS = [
       "assets/img/shopify/lateral-02.jpg",
       "assets/img/shopify/lateral-01.jpg"
     ]
+  },
+  {
+    "id": 43,
+    "slug": "micanga-de-vidro",
+    "skuVariants": [{"opts": ["Amarela"], "sku": "PA10071"}, {"opts": ["Areia"], "sku": "PA10075"}, {"opts": ["Azul Clara"], "sku": "PA10076"}, {"opts": ["Azul Escura"], "sku": "PA10077"}, {"opts": ["Camaleão"], "sku": "PA10078"}, {"opts": ["Cristal"], "sku": "PA10079"}, {"opts": ["Laranja"], "sku": "PA10080"}, {"opts": ["Marrom"], "sku": "PA10081"}, {"opts": ["Rosa"], "sku": "PA10082"}, {"opts": ["Verde"], "sku": "PA10083"}, {"opts": ["Vermelha"], "sku": "PA10084"}],
+    "category": "Montagem",
+    "name": "Miçanga de Vidro",
+    "price": "R$ 6,20",
+    "img": "assets/img/shopify/micanga-de-vidro-capa.png",
+    "link": "https://chumbadas.com.br/products/micangas-de-vidro-pacote-com-500?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "Pacote com 500",
+        "R$ 6,20"
+      ]
+    ],
+    "swatches": [
+      [
+        "Amarela",
+        "#facc15"
+      ],
+      [
+        "Areia",
+        "#ece0ca"
+      ],
+      [
+        "Azul Clara",
+        "#38bdf8"
+      ],
+      [
+        "Azul Escura",
+        "#1e3a8a"
+      ],
+      [
+        "Camaleão",
+        "linear-gradient(45deg, #3b82f6, #10b981, #f59e0b)"
+      ],
+      [
+        "Cristal",
+        "rgba(255,255,255,0.4)"
+      ],
+      [
+        "Laranja",
+        "#f97316"
+      ],
+      [
+        "Marrom",
+        "#78350f"
+      ],
+      [
+        "Rosa",
+        "#ec4899"
+      ],
+      [
+        "Verde",
+        "#22c55e"
+      ],
+      [
+        "Vermelha",
+        "#dc2626"
+      ]
+    ],
+    "description": "<p>Para usos diversos</p>\n<p>Diâmetro Externo 2,5mm</p>\n<p>Ideal para linhas de até 0,8mm</p>\n<p>Contém 500 unidades</p>",
+    "images": [
+      "assets/img/shopify/micanga-de-vidro-capa.png",
+      "assets/img/shopify/micanga-de-vidro-amarela.png",
+      "assets/img/shopify/micanga-de-vidro-areia.png",
+      "assets/img/shopify/micanga-de-vidro-azul-claro.png",
+      "assets/img/shopify/micanga-de-vidro-azul-escuro.png",
+      "assets/img/shopify/micanga-de-vidro-camaleao.png",
+      "assets/img/shopify/micanga-de-vidro-cristal.png",
+      "assets/img/shopify/micanga-de-vidro-laranja.png",
+      "assets/img/shopify/micanga-de-vidro-marrom.png",
+      "assets/img/shopify/micanga-de-vidro-verde.png",
+      "assets/img/shopify/micanga-de-vidro-vermelha.png",
+      "assets/img/shopify/micanga-rosa.png"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Vidro lapidado",
+      "Conteúdo": "1 Unidade",
+      "Diâmetro": "2,5mm"
+    },
+    "section": "Montagem"
   }
 ];
