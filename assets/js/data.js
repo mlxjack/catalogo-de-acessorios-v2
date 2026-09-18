@@ -2131,6 +2131,7 @@ window.PRODUCTS = [
   {
     "id": 730,
     "slug": "chicotes-montados-3-unidades",
+    "skuVariants": [{"opts": ["Beira - 1,00m"], "sku": "PA10264"}, {"opts": ["Beira - 1,00m"], "sku": "PA10265"}, {"opts": ["Meia Água - 1,15m"], "sku": "PA10260"}, {"opts": ["Meia Água - 1,15m"], "sku": "PA10261"}, {"opts": ["Meia Água - 1,15m"], "sku": "PA10262"}, {"opts": ["Meia Água - 1,15m"], "sku": "PA10263"}, {"opts": ["Fundo - 1,30m"], "sku": "PA10227"}, {"opts": ["Fundo - 1,30m"], "sku": "PA10253"}, {"opts": ["Fundo - 1,30m"], "sku": "PA10254"}, {"opts": ["Fundo - 1,30m"], "sku": "PA10255"}, {"opts": ["Fundo - 1,30m"], "sku": "PA10268"}, {"opts": ["Fundo - 1,30m"], "sku": "PA10269"}, {"opts": ["Fundo - 1,80m"], "sku": "PA10256"}, {"opts": ["Fundo - 1,80m"], "sku": "PA10257"}, {"opts": ["Fundo - 1,80m"], "sku": "PA10258"}, {"opts": ["Fundo - 1,80m"], "sku": "PA10259"}, {"opts": ["Fundo - 1,80m"], "sku": "PA10266"}, {"opts": ["Fundo - 1,80m"], "sku": "PA10267"}, {"opts": ["Finesse - 85cm"], "sku": "PA11431"}],
     "category": "Montagem",
     "name": "Chicotes Montados (3 unidades)",
     "price": "a partir de R$ 28,60",
