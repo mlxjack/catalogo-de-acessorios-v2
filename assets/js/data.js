@@ -413,6 +413,7 @@ window.PRODUCTS = [
   {
     "id": 64,
     "slug": "clip-vara-com-fita-dupla-face",
+    "skuVariants": [{"opts": ["Default Title"], "sku": "WPA2786"}],
     "category": "Suportes",
     "name": "Clip Vara (com fita dupla face)",
     "price": "R$ 4,45",
@@ -434,6 +435,7 @@ window.PRODUCTS = [
   {
     "id": 8,
     "slug": "adaptador-de-carretilha-kit-com-4",
+    "skuVariants": [{"opts": ["Branco - 4un"], "sku": "IPA10197"}, {"opts": ["Preto - 4un"], "sku": "PA12001"}, {"opts": ["Branco Eco - 4un"], "sku": "ADP42004"}, {"opts": ["Preto Eco - 4un"], "sku": "ADP14004"}],
     "category": "Acessórios",
     "name": "Adaptador de Carretilha Kit com 4",
     "price": "R$ 19,00",
@@ -587,6 +589,7 @@ window.PRODUCTS = [
   {
     "id": 14,
     "slug": "cobreno-p-m-e-g",
+    "skuVariants": [{"opts": ["P", "Amarelo"], "sku": "PA10092"}, {"opts": ["M", "Amarelo"], "sku": "PA10093"}, {"opts": ["G", "Amarelo"], "sku": "PA10094"}, {"opts": ["P", "Azul Bic"], "sku": "PA10098"}, {"opts": ["M", "Azul Bic"], "sku": "PA10099"}, {"opts": ["G", "Azul Bic"], "sku": "PA10100"}, {"opts": ["P", "Azul Claro"], "sku": "PA10095"}, {"opts": ["M", "Azul Claro"], "sku": "PA10096"}, {"opts": ["G", "Azul Claro"], "sku": "PA10097"}, {"opts": ["P", "Cinza"], "sku": "PA10104"}, {"opts": ["M", "Cinza"], "sku": "PA10105"}, {"opts": ["G", "Cinza"], "sku": "PA10106"}, {"opts": ["P", "Laranja"], "sku": "PA10107"}, {"opts": ["M", "Laranja"], "sku": "PA10108"}, {"opts": ["G", "Laranja"], "sku": "PA10109"}, {"opts": ["P", "Marrom"], "sku": "PA10089"}, {"opts": ["M", "Marrom"], "sku": "PA10090"}, {"opts": ["G", "Marrom"], "sku": "PA10091"}, {"opts": ["P", "Preto"], "sku": "PA10110"}, {"opts": ["M", "Preto"], "sku": "PA10111"}, {"opts": ["G", "Preto"], "sku": "PA10112"}, {"opts": ["P", "Rosa"], "sku": "PA10113"}, {"opts": ["M", "Rosa"], "sku": "PA10114"}, {"opts": ["G", "Rosa"], "sku": "PA10115"}, {"opts": ["P", "Translúcido"], "sku": "PA10101"}, {"opts": ["M", "Translúcido"], "sku": "PA10102"}, {"opts": ["G", "Translúcido"], "sku": "PA10103"}, {"opts": ["P", "Verde"], "sku": "PA10119"}, {"opts": ["M", "Verde"], "sku": "PA10120"}, {"opts": ["G", "Verde"], "sku": "PA10121"}, {"opts": ["P", "Vermelho"], "sku": "PA10122"}, {"opts": ["M", "Vermelho"], "sku": "PA10123"}, {"opts": ["G", "Vermelho"], "sku": "PA10124"}],
     "category": "Acessórios",
     "name": "Cobre nó P, M e G",
     "price": "R$ 4,62",
@@ -742,6 +745,7 @@ window.PRODUCTS = [
   {
     "id": 22,
     "slug": "iscador-preto-ou-cristal",
+    "skuVariants": [{"opts": ["Preto"], "sku": "PA10066"}, {"opts": ["Cristal"], "sku": "PA11459"}],
     "category": "Acessórios",
     "name": "Iscador Preto ou Cristal",
     "price": "a partir de R$ 12,80",
@@ -796,6 +800,7 @@ window.PRODUCTS = [
   {
     "id": 24,
     "slug": "iscador-duplo-branco-ou-cristal",
+    "skuVariants": [{"opts": ["Branco"], "sku": "PA10385"}, {"opts": ["Cristal"], "sku": "PA11460"}, {"opts": ["Preto"], "sku": "WPA2679"}],
     "category": "Acessórios",
     "name": "Iscador Duplo Branco ou Cristal",
     "price": "R$ 14,70",
@@ -884,6 +889,7 @@ window.PRODUCTS = [
   {
     "id": 26,
     "slug": "micro-snap-cobre-no-m",
+    "skuVariants": [{"opts": ["Preto"], "sku": "PA10284"}, {"opts": ["Amarelo"], "sku": "PA10278"}, {"opts": ["Azul Bic"], "sku": "PA10279"}, {"opts": ["Azul Claro"], "sku": "PA10280"}, {"opts": ["Cinza"], "sku": "PA10281"}, {"opts": ["Laranja"], "sku": "PA10282"}, {"opts": ["Marrom"], "sku": "PA10283"}, {"opts": ["Rosa"], "sku": "PA10285"}, {"opts": ["Translúcido"], "sku": "PA10286"}, {"opts": ["Verde"], "sku": "PA10288"}, {"opts": ["Vermelho"], "sku": "PA10289"}],
     "category": "Acessórios",
     "name": "Micro Snap + Cobre Nó M",
     "price": "R$ 4,36",
@@ -968,6 +974,7 @@ window.PRODUCTS = [
   {
     "id": 29,
     "slug": "pipa-kit-com-2",
+    "skuVariants": [{"opts": ["Default Title"], "sku": "PA10065"}],
     "category": "Acessórios",
     "name": "Pipa Kit com 2",
     "price": "R$ 6,00",
@@ -1012,6 +1019,7 @@ window.PRODUCTS = [
   {
     "id": 37,
     "slug": "saca-anzol-de-competicao-inox",
+    "skuVariants": [{"opts": ["Médio"], "sku": "PA10074"}, {"opts": ["Pequeno"], "sku": "PA10073"}, {"opts": ["Micro"], "sku": "PA10072"}, {"opts": ["Nano"], "sku": "PA11296"}],
     "category": "Acessórios",
     "name": "Saca Anzol de Competição Inox",
     "price": "R$ 24,00",
@@ -1150,6 +1158,7 @@ window.PRODUCTS = [
   {
     "id": 50,
     "slug": "alicate-de-pesca",
+    "skuVariants": [{"opts": ["Amarelo Neon"], "sku": "'70020706"}, {"opts": ["Glow"], "sku": "'70020815"}, {"opts": ["Laranja"], "sku": "PA10430"}, {"opts": ["Preto"], "sku": "PA10436"}],
     "category": "Acessórios",
     "name": "Alicate de Pesca",
     "price": "a partir de R$ 6,90",
@@ -1312,6 +1321,7 @@ window.PRODUCTS = [
   {
     "id": 76,
     "slug": "tela-de-espremer-iscas",
+    "skuVariants": [{"opts": ["Preta"], "sku": "PA11866"}, {"opts": ["Laranja"], "sku": "PA11865"}, {"opts": ["Azul"], "sku": "PA11864"}, {"opts": ["Amarela"], "sku": "PA11863"}, {"opts": ["Verde"], "sku": "PA11862"}, {"opts": ["Vermelha"], "sku": "PA11854"}],
     "category": "Acessórios",
     "name": "Tela de Espremer Iscas",
     "price": "R$ 4,50",
@@ -1438,6 +1448,7 @@ window.PRODUCTS = [
   {
     "id": 28,
     "slug": "no-de-correr-kit-com-4-pecas",
+    "skuVariants": [{"opts": ["Default Title"], "sku": "PA10418"}],
     "category": "Montagem",
     "name": "Nó de Correr Kit com 4 peças",
     "price": "R$ 8,14",
@@ -1462,6 +1473,7 @@ window.PRODUCTS = [
   {
     "id": 39,
     "slug": "snap-universal-cobreno-g",
+    "skuVariants": [{"opts": ["Amarelo"], "sku": "PA10127"}, {"opts": ["Azul Bic"], "sku": "PA10128"}, {"opts": ["Azul Claro"], "sku": "PA10129"}, {"opts": ["Cinza"], "sku": "PA10130"}, {"opts": ["Laranja"], "sku": "PA10131"}, {"opts": ["Marrom"], "sku": "PA10132"}, {"opts": ["Preto"], "sku": "PA10133"}, {"opts": ["Rosa"], "sku": "PA10134"}, {"opts": ["Translúcido"], "sku": "PA10135"}, {"opts": ["Verde"], "sku": "PA10137"}, {"opts": ["Vermelho"], "sku": "PA10138"}],
     "category": "Montagem",
     "name": "Snap Universal + Cobrenó G",
     "price": "R$ 4,39",
@@ -1540,6 +1552,7 @@ window.PRODUCTS = [
   {
     "id": 40,
     "slug": "stopper-oliva-p-m-g",
+    "skuVariants": [{"opts": ["P"], "sku": "PA10067"}, {"opts": ["M"], "sku": "PA10068"}, {"opts": ["G"], "sku": "PA10069"}],
     "category": "Montagem",
     "name": "Stopper Oliva P, M, G",
     "price": "R$ 8,13",
@@ -1563,6 +1576,7 @@ window.PRODUCTS = [
   {
     "id": 41,
     "slug": "stopper-cilindrico-p-m-g",
+    "skuVariants": [{"opts": ["P"], "sku": "PA10393"}, {"opts": ["M"], "sku": "PA10392"}, {"opts": ["G"], "sku": "PA10391"}],
     "category": "Montagem",
     "name": "Stopper Cilíndrico P, M, G",
     "price": "R$ 8,13",
@@ -1732,6 +1746,7 @@ window.PRODUCTS = [
   {
     "id": 67,
     "slug": "destorcedores",
+    "skuVariants": [{"opts": ["7mm 6kg (14unid)"], "sku": "PA10305"}, {"opts": ["9mm 24kg (10unid)"], "sku": "D1409024014"}, {"opts": ["12mm 35kg (10unid)"], "sku": "PA10306"}, {"opts": ["14mm 55kg (10unid)"], "sku": "PA12956"}, {"opts": ["15mm 30kg (10unid)"], "sku": "PA10307"}, {"opts": ["18mm 40kg (10unid)"], "sku": "D1418040010"}, {"opts": ["20mm 88kg (10unid)"], "sku": "D1420088010"}, {"opts": ["24mm 80kg (5unid)"], "sku": "PA10308"}],
     "section": "Montagem",
     "category": "Montagem",
     "name": "Destorcedores",
@@ -1802,6 +1817,7 @@ window.PRODUCTS = [
   {
     "id": 68,
     "slug": "destorcedor-triplo",
+    "skuVariants": [{"opts": ["19mm 16kg (10unid)"], "sku": "PA10432"}, {"opts": ["23mm 37kg (8unid)"], "sku": "PA10433"}, {"opts": ["28mm 27kg (6unid)"], "sku": "PA10434"}, {"opts": ["31mm 48kg (6unid)"], "sku": "IPA10078"}, {"opts": ["33mm 35kg (6unid)"], "sku": "PA10435"}, {"opts": ["36mm 60kg (6unid)"], "sku": "D1536060006"}],
     "category": "Montagem",
     "name": "Destorcedor Triplo",
     "price": "a partir de R$ 17,18",
@@ -2048,6 +2064,7 @@ window.PRODUCTS = [
   {
     "id": 72,
     "slug": "snap-frances",
+    "skuVariants": [{"opts": ["34mm 39kg - 8 Unidades"], "sku": "PA10400"}, {"opts": ["30mm 30kg - 8 Unidades"], "sku": "PA10399"}, {"opts": ["24mm 20kg - 8 Unidades"], "sku": "PA10398"}, {"opts": ["21mm 14kg - 10 Unidades"], "sku": "PA11956"}, {"opts": ["17mm 12kg - 10 Unidades"], "sku": "PA11955"}, {"opts": ["14mm 10kg - 10 Unidades"], "sku": "PA11954"}, {"opts": ["10mm 5kg - 10 Unidades"], "sku": "PA10394"}],
     "category": "Montagem",
     "name": "Snap Francês",
     "price": "a partir de R$ 7,75",
@@ -2256,6 +2273,7 @@ window.PRODUCTS = [
   {
     "id": 3,
     "slug": "atrativo-comum",
+    "skuVariants": [{"opts": ["Amarelo"], "sku": "PA10412"}, {"opts": ["Amarelo Limão"], "sku": "PA10524"}, {"opts": ["Azul Claro"], "sku": "PA10423"}, {"opts": ["Azul Escuro"], "sku": "PA10422"}, {"opts": ["Branco"], "sku": "PA10414"}, {"opts": ["Laranja Neon"], "sku": "PA10413"}, {"opts": ["Marrom Claro"], "sku": "PA10426"}, {"opts": ["Marrom Escuro"], "sku": "PA10427"}, {"opts": ["Preto"], "sku": "PA10429"}, {"opts": ["Rosa Fluorescente"], "sku": "PA10420"}, {"opts": ["Translúcido"], "sku": "PA10411"}, {"opts": ["Uva"], "sku": "PA10421"}, {"opts": ["Verde Musgo"], "sku": "PA10428"}, {"opts": ["Vermelho"], "sku": "PA10419"}],
     "category": "Atrativos",
     "name": "Atrativo Comum",
     "price": "R$ 5,80",
@@ -2354,6 +2372,7 @@ window.PRODUCTS = [
   {
     "id": 4,
     "slug": "atrativo-holografico",
+    "skuVariants": [{"opts": ["Beijo da Sombra"], "sku": "PA10523"}, {"opts": ["Capim Rubi"], "sku": "PA10517"}, {"opts": ["Chá"], "sku": "PA10515"}, {"opts": ["Luz Laranja"], "sku": "PA10522"}, {"opts": ["Pastel"], "sku": "AT0435005010"}, {"opts": ["Rubi Dourado"], "sku": "PA10516"}, {"opts": ["Rapadura"], "sku": "PA10731"}, {"opts": ["Roxo Estelar"], "sku": "PA10520"}, {"opts": ["Salmão Radiante"], "sku": "PA10519"}, {"opts": ["Verde Cósmico"], "sku": "PA10518"}, {"opts": ["Vermelho Holográfico"], "sku": "PA10521"}, {"opts": ["Véu da Noite"], "sku": "PA10514"}],
     "category": "Atrativos",
     "name": "Atrativo Holográfico",
     "price": "R$ 5,80",
@@ -2469,6 +2488,7 @@ window.PRODUCTS = [
   {
     "id": 5,
     "slug": "mini-atrativo-comum",
+    "skuVariants": [{"opts": ["Amarelo"], "sku": "PA11847"}, {"opts": ["Amarelo Limão"], "sku": "PA11827"}, {"opts": ["Azul Claro"], "sku": "PA11840"}, {"opts": ["Branco"], "sku": "PA11845"}, {"opts": ["Azul Escuro"], "sku": "PA11841"}, {"opts": ["Laranja Neon"], "sku": "PA11846"}, {"opts": ["Marrom Claro"], "sku": "PA11839"}, {"opts": ["Marrom Escuro"], "sku": "PA11838"}, {"opts": ["Preto"], "sku": "PA11836"}, {"opts": ["Rosa Fluorescente"], "sku": "PA11843"}, {"opts": ["Translúcido"], "sku": "PA11848"}, {"opts": ["Uva"], "sku": "PA11842"}, {"opts": ["Verde Musgo"], "sku": "PA11837"}, {"opts": ["Vermelho"], "sku": "PA11844"}],
     "category": "Atrativos",
     "name": "Mini Atrativo Comum",
     "price": "R$ 4,90",
@@ -2554,6 +2574,7 @@ window.PRODUCTS = [
   {
     "id": 6,
     "slug": "mini-atrativo-holografico",
+    "skuVariants": [{"opts": ["Beijo da Sombra"], "sku": "PA11828"}, {"opts": ["Capim Rubi"], "sku": "PA11832"}, {"opts": ["Chá"], "sku": "PA11834"}, {"opts": ["Luz Laranja"], "sku": "PA11850"}, {"opts": ["Roxo Estelar"], "sku": "PA11829"}, {"opts": ["Rubi Dourado"], "sku": "PA11833"}, {"opts": ["Salmão Radiante"], "sku": "PA11830"}, {"opts": ["Verde Cósmico"], "sku": "PA11831"}, {"opts": ["Vermelho Holográfico"], "sku": "PA11856"}, {"opts": ["Véu da Noite"], "sku": "PA11835"}],
     "category": "Atrativos",
     "name": "Mini Atrativo Holográfico",
     "price": "R$ 4,90",
@@ -2669,6 +2690,7 @@ window.PRODUCTS = [
   {
     "id": 27,
     "slug": "nano-pipe-borracha",
+    "skuVariants": [{"opts": ["Verde"], "sku": "PA11654"}, {"opts": ["Preto"], "sku": "PA10064"}, {"opts": ["Vermelho"], "sku": "PA11439"}, {"opts": ["Roxo"], "sku": "PA11438"}, {"opts": ["Rosa"], "sku": "PA11437"}, {"opts": ["Laranja"], "sku": "PA11436"}, {"opts": ["Cinza"], "sku": "PA11435"}, {"opts": ["Branco"], "sku": "PA11434"}, {"opts": ["Azul"], "sku": "PA11433"}, {"opts": ["Amarelo"], "sku": "PA11432"}],
     "section": "Suportes",
     "category": "Suportes",
     "name": "Nano Pipe Borracha",
@@ -2796,6 +2818,7 @@ window.PRODUCTS = [
   {
     "id": 46,
     "slug": "suporte-de-vara-premium-completo",
+    "skuVariants": [{"opts": ["1.00 m", "Suporte de Vara Completo", "Preto"], "sku": "PA10190"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Preto"], "sku": "PA10194"}, {"opts": ["1.35 m", "Suporte de Vara Completo", "Preto"], "sku": "PA10195"}, {"opts": ["1.50 m", "Suporte de Vara Completo", "Preto"], "sku": "PA10196"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Branco"], "sku": "PA11687"}, {"opts": ["1.35 m", "Suporte de Vara Completo", "Branco"], "sku": "PA11697"}, {"opts": ["1.50 m", "Suporte de Vara Completo", "Branco"], "sku": "PA11707"}, {"opts": ["1.00 m", "Suporte de Vara Completo", "Branco"], "sku": "PA11677"}, {"opts": ["1.00 m", "Somente Barra", "Barra"], "sku": "PA10204"}, {"opts": ["1.20 m", "Somente Barra", "Barra"], "sku": "PA10203"}, {"opts": ["1.35 m", "Somente Barra", "Barra"], "sku": "PA10202"}, {"opts": ["1.50 m", "Somente Barra", "Barra"], "sku": "PA10201"}],
     "section": "Suportes",
     "category": "Suportes",
     "name": "Suporte de Vara Premium Completo",
@@ -3065,6 +3088,7 @@ window.PRODUCTS = [
   {
     "id": 51,
     "slug": "suporte-horizontal-completo",
+    "skuVariants": [{"opts": ["40cm", "Suporte Horizontal Completo"], "sku": "PA12746"}, {"opts": ["40cm", "Somente a barra"], "sku": "PA12748"}, {"opts": ["60cm", "Suporte Horizontal Completo"], "sku": "PA12745"}, {"opts": ["60cm", "Somente a barra"], "sku": "PA12749"}, {"opts": ["85cm", "Suporte Horizontal Completo"], "sku": "PA12744"}, {"opts": ["85cm", "Somente a barra"], "sku": "PA12750"}, {"opts": ["100cm", "Suporte Horizontal Completo"], "sku": "PA12743"}, {"opts": ["100cm", "Somente a barra"], "sku": "PA12751"}, {"opts": ["120cm", "Suporte Horizontal Completo"], "sku": "PA12742"}, {"opts": ["120cm", "Somente a barra"], "sku": "PA12752"}, {"opts": ["-", "Suporte Horizontal (Peça Individual)"], "sku": "PA12747"}],
     "section": "Suportes",
     "category": "Suportes",
     "name": "Suporte Horizontal Completo",
@@ -3115,6 +3139,7 @@ window.PRODUCTS = [
   {
     "id": 58,
     "slug": "apoio-para-barco-com-elastico",
+    "skuVariants": [{"opts": ["Default Title"], "sku": "PA12929"}],
     "category": "Suportes",
     "name": "Apoio para Barco com Elástico",
     "price": "R$ 19,90",
@@ -3136,6 +3161,7 @@ window.PRODUCTS = [
   {
     "id": 62,
     "slug": "kit-suporte-carretilha-e-molinete-individual",
+    "skuVariants": [{"opts": ["Azul"], "sku": "PA12564"}, {"opts": ["Amarelo"], "sku": "PA12565"}, {"opts": ["Branco"], "sku": "PA12567"}, {"opts": ["Cinza"], "sku": "PA12568"}, {"opts": ["Laranja"], "sku": "PA12569"}, {"opts": ["Preto"], "sku": "PA12566"}, {"opts": ["Rosa"], "sku": "PA12570"}, {"opts": ["Verde"], "sku": "PA12573"}, {"opts": ["Vermelho"], "sku": "PA12572"}],
     "category": "Suportes",
     "name": "Kit Suporte Carretilha e Molinete Individual",
     "price": "R$ 29,00",
@@ -3300,6 +3326,7 @@ window.PRODUCTS = [
   {
     "id": 16,
     "slug": "copo-para-carretel-g",
+    "skuVariants": [{"opts": ["Amarelo"], "sku": "PA10324"}, {"opts": ["Laranja"], "sku": "PA10323"}, {"opts": ["Roxo"], "sku": "PA10322"}, {"opts": ["Cinza"], "sku": "PA10319"}, {"opts": ["Rosa"], "sku": "PA10321"}],
     "category": "Organização",
     "name": "Copo para Carretel G",
     "price": "R$ 5,00",
@@ -3988,6 +4015,7 @@ window.PRODUCTS = [
   {
     "id": 33,
     "slug": "protetor-de-bobina-p-e-g",
+    "skuVariants": [{"opts": ["P", "1"], "sku": "MRev0097"}, {"opts": ["P", "2"], "sku": "MRev0098"}, {"opts": ["P", "3"], "sku": "MRev0099"}, {"opts": ["P", "4"], "sku": "MRev0100"}, {"opts": ["P", "5"], "sku": "MRev0101"}, {"opts": ["P", "6"], "sku": "MRev0102"}, {"opts": ["G", "1"], "sku": "MRev0074"}, {"opts": ["G", "2"], "sku": "MRev0091"}, {"opts": ["G", "3"], "sku": "MRev0092"}, {"opts": ["G", "4"], "sku": "MRev0093"}, {"opts": ["G", "5"], "sku": "MRev0094"}, {"opts": ["G", "6"], "sku": "MRev2341"}],
     "category": "Proteção",
     "name": "Protetor de Bobina P e G",
     "price": "R$ 6,49",
@@ -4023,6 +4051,7 @@ window.PRODUCTS = [
   {
     "id": 85,
     "slug": "dedeira-chumbada",
+    "skuVariants": [{"opts": ["Hard", "P"], "sku": "PA10020"}, {"opts": ["Hard", "M"], "sku": "PA10021"}, {"opts": ["Hard", "G"], "sku": "PA10022"}, {"opts": ["Soft", "P"], "sku": "PA11643"}, {"opts": ["Soft", "M"], "sku": "PA11642"}, {"opts": ["Soft", "G"], "sku": "PA11641"}, {"opts": ["Ultra Soft", "P"], "sku": "PA11646"}, {"opts": ["Ultra Soft", "M"], "sku": "PA11645"}, {"opts": ["Ultra Soft", "G"], "sku": "PA11644"}],
     "category": "Proteção",
     "name": "Dedeira",
     "price": "Sob Consulta",
@@ -4097,6 +4126,7 @@ window.PRODUCTS = [
   {
     "id": 9,
     "slug": "avental-chumbada",
+    "skuVariants": [{"opts": ["1"], "sku": "MRev0073"}, {"opts": ["2"], "sku": "MRev0079"}, {"opts": ["3"], "sku": "MRev0080"}, {"opts": ["4"], "sku": "MRev0081"}, {"opts": ["5"], "sku": "MRev0082"}, {"opts": ["6"], "sku": "MRev0083"}, {"opts": ["7"], "sku": "MRev0084"}, {"opts": ["8"], "sku": "MRev0085"}],
     "category": "Vestuário",
     "name": "Avental Chumbada",
     "price": "R$ 31,27",
@@ -4191,6 +4221,7 @@ window.PRODUCTS = [
   {
     "id": 13,
     "slug": "chapeu-de-palha-chumbada",
+    "skuVariants": [{"opts": ["Default Title"], "sku": "MRev0753"}],
     "category": "Vestuário",
     "name": "Chapéu de Palha Chumbada",
     "price": "R$ 43,00",
@@ -4214,6 +4245,7 @@ window.PRODUCTS = [
   {
     "id": 77,
     "slug": "toalha-de-mao",
+    "skuVariants": [{"opts": ["1"], "sku": "MRev0075"}, {"opts": ["2"], "sku": "MRev0086"}, {"opts": ["3"], "sku": "MRev0087"}, {"opts": ["4"], "sku": "MRev0088"}, {"opts": ["5"], "sku": "MRev0089"}, {"opts": ["6"], "sku": "MRev0090"}],
     "category": "Vestuário",
     "name": "Toalha de Mão",
     "price": "R$ 10,75",
@@ -4245,6 +4277,7 @@ window.PRODUCTS = [
   {
     "id": 78,
     "slug": "tubeneck-tradicional",
+    "skuVariants": [{"opts": ["Branco"], "sku": "MRev0801"}],
     "category": "Vestuário",
     "name": "Tubeneck Tradicional",
     "price": "R$ 41,00",
@@ -4273,6 +4306,7 @@ window.PRODUCTS = [
   {
     "id": 79,
     "slug": "tubeneck-premium",
+    "skuVariants": [{"opts": ["Branco"], "sku": "MRev0802"}, {"opts": ["Azul Escuro"], "sku": "MRev0877"}],
     "category": "Vestuário",
     "name": "Tubeneck Premium",
     "price": "R$ 59,00",
@@ -4539,6 +4573,7 @@ window.PRODUCTS = [
   {
     "id": 83,
     "slug": "blusa-corta-vento-esporte",
+    "skuVariants": [{"opts": ["Azul Claro", "P"], "sku": "MRev2064"}, {"opts": ["Azul Claro", "M"], "sku": "MRev2065"}, {"opts": ["Azul Claro", "G"], "sku": "MRev2066"}, {"opts": ["Azul Claro", "GG"], "sku": "MRev2067"}, {"opts": ["Azul Claro", "1XG"], "sku": "MRev2068"}, {"opts": ["Azul Claro", "2XG"], "sku": "MRev2069"}, {"opts": ["Azul Escuro", "P"], "sku": "MRev1974"}, {"opts": ["Azul Escuro", "M"], "sku": "MRev1975"}, {"opts": ["Azul Escuro", "G"], "sku": "MRev1976"}, {"opts": ["Azul Escuro", "GG"], "sku": "MRev1977"}, {"opts": ["Azul Escuro", "1XG"], "sku": "MRev1978"}, {"opts": ["Azul Escuro", "2XG"], "sku": "MRev1970"}, {"opts": ["Branco", "P"], "sku": "MRev2076"}, {"opts": ["Branco", "M"], "sku": "MRev2077"}, {"opts": ["Branco", "G"], "sku": "MRev2078"}, {"opts": ["Branco", "GG"], "sku": "MRev2079"}, {"opts": ["Branco", "1XG"], "sku": "MRev2080"}, {"opts": ["Branco", "2XG"], "sku": "MRev2081"}, {"opts": ["Laranja", "P"], "sku": "MRev2070"}, {"opts": ["Laranja", "M"], "sku": "MRev2071"}, {"opts": ["Laranja", "G"], "sku": "MRev2072"}, {"opts": ["Laranja", "GG"], "sku": "MRev2073"}, {"opts": ["Laranja", "1XG"], "sku": "MRev2074"}, {"opts": ["Laranja", "2XG"], "sku": "MRev2075"}],
     "category": "Vestuário",
     "name": "Blusa Corta Vento Esporte",
     "price": "R$ 119,00",
@@ -4639,6 +4674,7 @@ window.PRODUCTS = [
   {
     "id": 84,
     "slug": "blusa-corta-vento-presa-viva",
+    "skuVariants": [{"opts": ["P"], "sku": "MRev0796"}, {"opts": ["M"], "sku": "MRev0797"}, {"opts": ["G"], "sku": "MRev0798"}, {"opts": ["GG"], "sku": "MRev0799"}, {"opts": ["EXG"], "sku": "MRev0800"}],
     "category": "Vestuário",
     "name": "Blusa Corta Vento Presa Viva",
     "price": "R$ 260,00",
