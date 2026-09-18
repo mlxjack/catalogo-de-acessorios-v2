@@ -776,6 +776,17 @@ function renderProductDetail(p) {
               ` : ''}
             </div>
 
+            <div class="selecao-add-row">
+              <div class="selecao-qty-stepper">
+                <button type="button" id="selecao-qty-dec" aria-label="Diminuir quantidade">−</button>
+                <span id="selecao-qty-value">1</span>
+                <button type="button" id="selecao-qty-inc" aria-label="Aumentar quantidade">+</button>
+              </div>
+              <button type="button" class="btn btn-secondary" id="btn-add-selecao">
+                Adicionar à Minha Seleção
+              </button>
+            </div>
+
             <!-- Tabela de Especificações Técnicas -->
             <div class="info-section">
               <h2 class="info-section-title">Especificações Técnicas</h2>
@@ -839,17 +850,6 @@ function renderProductDetail(p) {
                 </svg>
                 Solicitar via WhatsApp
               </button>
-
-              <div class="selecao-add-row">
-                <div class="selecao-qty-stepper">
-                  <button type="button" id="selecao-qty-dec" aria-label="Diminuir quantidade">−</button>
-                  <span id="selecao-qty-value">1</span>
-                  <button type="button" id="selecao-qty-inc" aria-label="Aumentar quantidade">+</button>
-                </div>
-                <button type="button" class="btn btn-secondary" id="btn-add-selecao">
-                  Adicionar à Minha Seleção
-                </button>
-              </div>
 
               <div class="action-row">
                 <!-- Botão do Link Oficial (Shopify) se existir -->
