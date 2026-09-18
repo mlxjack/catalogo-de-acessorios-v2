@@ -830,12 +830,6 @@ function renderProductDetail(p) {
               </div>
             ` : ''}
 
-            <!-- Descrição Técnica Premium -->
-            <div class="info-section">
-              <h2 class="info-section-title">Descrição</h2>
-              <div class="info-desc">${p.description}</div>
-            </div>
-
             <!-- Ações Principais -->
             <div class="detail-actions">
               <!-- Botão do WhatsApp (Atendimento/Orçamento) -->
@@ -845,6 +839,17 @@ function renderProductDetail(p) {
                 </svg>
                 Solicitar via WhatsApp
               </button>
+
+              <div class="selecao-add-row">
+                <div class="selecao-qty-stepper">
+                  <button type="button" id="selecao-qty-dec" aria-label="Diminuir quantidade">−</button>
+                  <span id="selecao-qty-value">1</span>
+                  <button type="button" id="selecao-qty-inc" aria-label="Aumentar quantidade">+</button>
+                </div>
+                <button type="button" class="btn btn-secondary" id="btn-add-selecao">
+                  Adicionar à Minha Seleção
+                </button>
+              </div>
 
               <div class="action-row">
                 <!-- Botão do Link Oficial (Shopify) se existir -->
@@ -857,12 +862,18 @@ function renderProductDetail(p) {
                     Indisponível no Site
                   </button>
                 `}
-                
+
                 <!-- Botão Voltar -->
                 <a href="#/" class="btn btn-secondary">
                   Voltar ao Catálogo
                 </a>
               </div>
+            </div>
+
+            <!-- Descrição Técnica Premium -->
+            <div class="info-section">
+              <h2 class="info-section-title">Descrição</h2>
+              <div class="info-desc">${p.description}</div>
             </div>
           </section>
         </div>
@@ -1049,4 +1060,45 @@ function initDetailSelectors(p) {
 
   // Inicializar link pela primeira vez
   updateWhatsappLink();
+
+  // Botão "Adicionar à Minha Seleção"
+  const btnAddSelecao = document.getElementById('btn-add-selecao');
+  const qtyDec = document.getElementById('selecao-qty-dec');
+  const qtyInc = document.getElementById('selecao-qty-inc');
+  const qtyValue = document.getElementById('selecao-qty-value');
+  let selecaoQty = 1;
+
+  if (qtyDec) {
+    qtyDec.addEventListener('click', () => {
+      selecaoQty = Math.max(1, selecaoQty - 1);
+      qtyValue.textContent = selecaoQty;
+    });
+  }
+  if (qtyInc) {
+    qtyInc.addEventListener('click', () => {
+      selecaoQty += 1;
+      qtyValue.textContent = selecaoQty;
+    });
+  }
+  if (btnAddSelecao) {
+    btnAddSelecao.addEventListener('click', () => {
+      if (!window.MinhaSelecao) return;
+      const varIndex = state.selectedVariation[p.id];
+      const colorName = state.selectedColor[p.id];
+      const varLabel = p.vars && p.vars[varIndex] ? p.vars[varIndex][0] : '';
+      const variantParts = [];
+      if (colorName) variantParts.push('Cor: ' + colorName);
+      if (varLabel) variantParts.push(varLabel);
+      window.MinhaSelecao.addItem({
+        catalog: 'acessorios',
+        productId: String(p.id),
+        name: p.name,
+        sku: null,
+        variant: variantParts.join(', '),
+        qty: selecaoQty,
+      });
+      selecaoQty = 1;
+      qtyValue.textContent = '1';
+    });
+  }
 }
