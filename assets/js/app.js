@@ -812,6 +812,50 @@ function renderProductDetail(p) {
               ` : ''}
             </div>
 
+            <!-- Seletor de Cores -->
+            ${p.swatches ? `
+              <div class="info-section" id="section-colors">
+                <h2 class="info-section-title">
+                  Cor: <span class="info-section-value" id="selected-color-label">${escapeHTML(state.selectedColor[p.id])}</span>
+                </h2>
+                <div class="swatches-selector" role="radiogroup" aria-label="Seleção de Cor">
+                  ${p.swatches.map(s => `
+                    <button class="swatch-btn ${state.selectedColor[p.id] === s[0] ? 'active' : ''}"
+                            style="background: ${escapeHTML(s[1])}"
+                            data-color-name="${escapeHTML(s[0])}"
+                            data-title="${escapeHTML(s[0])}"
+                            type="button"
+                            role="radio"
+                            aria-checked="${state.selectedColor[p.id] === s[0] ? 'true' : 'false'}">
+                    </button>
+                  `).join('')}
+                </div>
+              </div>
+            ` : ''}
+
+            <!-- Seletor de Tamanhos / Variações -->
+            ${p.vars ? `
+              <div class="info-section" id="section-vars">
+                <h2 class="info-section-title">Opções / Variações</h2>
+                <div class="vars-selector" role="radiogroup" aria-label="Seleção de Variação">
+                  ${p.vars.map((v, index) => {
+                    const hasPrice = CONFIG.showPrices && v[1];
+                    const activeClass = currentVarIndex === index ? 'active' : '';
+                    return `
+                      <button class="var-btn ${activeClass}"
+                              data-var-index="${index}"
+                              type="button"
+                              role="radio"
+                              aria-checked="${currentVarIndex === index ? 'true' : 'false'}">
+                        <span class="var-name">${escapeHTML(v[0])}</span>
+                        ${hasPrice ? `<span class="var-price">${escapeHTML(v[1])}</span>` : ''}
+                      </button>
+                    `;
+                  }).join('')}
+                </div>
+              </div>
+            ` : ''}
+
             <div class="selecao-add-row">
               <div class="selecao-qty-stepper">
                 <button type="button" id="selecao-qty-dec" aria-label="Diminuir quantidade">−</button>
@@ -832,50 +876,6 @@ function renderProductDetail(p) {
                 </tbody>
               </table>
             </div>
-
-            <!-- Seletor de Cores -->
-            ${p.swatches ? `
-              <div class="info-section" id="section-colors">
-                <h2 class="info-section-title">
-                  Cor: <span class="info-section-value" id="selected-color-label">${escapeHTML(state.selectedColor[p.id])}</span>
-                </h2>
-                <div class="swatches-selector" role="radiogroup" aria-label="Seleção de Cor">
-                  ${p.swatches.map(s => `
-                    <button class="swatch-btn ${state.selectedColor[p.id] === s[0] ? 'active' : ''}" 
-                            style="background: ${escapeHTML(s[1])}" 
-                            data-color-name="${escapeHTML(s[0])}" 
-                            data-title="${escapeHTML(s[0])}" 
-                            type="button"
-                            role="radio"
-                            aria-checked="${state.selectedColor[p.id] === s[0] ? 'true' : 'false'}">
-                    </button>
-                  `).join('')}
-                </div>
-              </div>
-            ` : ''}
-
-            <!-- Seletor de Tamanhos / Variações -->
-            ${p.vars ? `
-              <div class="info-section" id="section-vars">
-                <h2 class="info-section-title">Opções / Variações</h2>
-                <div class="vars-selector" role="radiogroup" aria-label="Seleção de Variação">
-                  ${p.vars.map((v, index) => {
-                    const hasPrice = CONFIG.showPrices && v[1];
-                    const activeClass = currentVarIndex === index ? 'active' : '';
-                    return `
-                      <button class="var-btn ${activeClass}" 
-                              data-var-index="${index}" 
-                              type="button"
-                              role="radio"
-                              aria-checked="${currentVarIndex === index ? 'true' : 'false'}">
-                        <span class="var-name">${escapeHTML(v[0])}</span>
-                        ${hasPrice ? `<span class="var-price">${escapeHTML(v[1])}</span>` : ''}
-                      </button>
-                    `;
-                  }).join('')}
-                </div>
-              </div>
-            ` : ''}
 
             <!-- Ações Principais -->
             <div class="detail-actions">
