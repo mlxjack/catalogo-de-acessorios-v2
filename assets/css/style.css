@@ -1075,6 +1075,18 @@ a {
   text-align: center;
   font-weight: 600;
 }
+#btn-add-selecao {
+  background-color: var(--color-brand);
+  border-color: var(--color-brand);
+  color: #ffffff;
+}
+#btn-add-selecao:hover:not(:disabled) {
+  background-color: var(--color-brand-hover);
+}
+#btn-add-selecao:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
 
 /* Specs Accordion/Grid */
 .specs-table {
