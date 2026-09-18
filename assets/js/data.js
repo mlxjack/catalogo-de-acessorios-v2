@@ -703,11 +703,16 @@ window.PRODUCTS = [
   {
     "id": 17,
     "slug": "elastricot-150m",
+    "skuVariants": [{"opts": ["Fino"], "sku": "PA0018"}, {"opts": ["Extra Fino"], "sku": "PA0019"}],
     "category": "Acessórios",
     "name": "Elastricot 150m",
     "price": "R$ 2,30",
     "img": "assets/img/shopify/elastricot-capa.png",
     "link": "https://chumbadas.com.br/products/elastricot?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      ["Fino", "R$ 2,30"],
+      ["Extra Fino", "R$ 2,30"]
+    ],
     "description": "<p>O elastricot é uma linha elástica muito fina utilizada nas pescarias para fixar melhor a isca possibilitando melhores arremessos sem a perda das mesmas, a medida que o pescador enrola a linha elástica em torno da isca a mesma vai ficando amarrada sem a necessidade de um nó para finalizar.</p>",
     "images": [
       "assets/img/shopify/elastricot-capa.png",
@@ -718,28 +723,6 @@ window.PRODUCTS = [
     "specs": {
       "Material": "Elastômero elástico ultra fino de alta elasticidade",
       "Metragem": "150 metros",
-      "Função": "Fixar e amarrar iscas moles (corrupto, camarão, lula) sem a necessidade de nós finais"
-    },
-    "section": "Acessórios"
-  },
-  {
-    "id": 18,
-    "slug": "elastricot-100m",
-    "category": "Acessórios",
-    "name": "Elastricot 100m",
-    "price": "R$ 1,99",
-    "img": "assets/img/shopify/elastricot-capa.png",
-    "link": "https://chumbadas.com.br/products/elastricot?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>O elastricot é uma linha elástica muito fina utilizada nas pescarias para fixar melhor a isca possibilitando melhores arremessos sem a perda das mesmas, a medida que o pescador enrola a linha elástica em torno da isca a mesma vai ficando amarrada sem a necessidade de um nó para finalizar.</p>",
-    "images": [
-      "assets/img/shopify/elastricot-capa.png",
-      "assets/img/shopify/elastricotextrafino.jpg",
-      "assets/img/shopify/elastricotfino.jpg"
-    ],
-    "video": "assets/video/shopify/a16a04dcae884b1aa6ce969b1d6a2f52.mp4",
-    "specs": {
-      "Material": "Elastômero elástico ultra fino de alta elasticidade",
-      "Metragem": "100 metros",
       "Função": "Fixar e amarrar iscas moles (corrupto, camarão, lula) sem a necessidade de nós finais"
     },
     "section": "Acessórios"
