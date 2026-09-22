@@ -777,7 +777,8 @@ a {
   position: relative;
   transition: all var(--transition-fast);
 }
-.thumb-btn img {
+.thumb-btn img,
+.thumb-btn video {
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;

@@ -320,7 +320,7 @@ function buildGalleryThumbsHTML(p, images) {
             <path d="M8 5v14l11-7z"/>
           </svg>
         </div>
-        <img src="${p.img}" alt="Previa do v\u00eddeo">
+        <video src="${v}" muted autoplay loop playsinline disablepictureinpicture></video>
       </button>
     `).join('')}
   `;
