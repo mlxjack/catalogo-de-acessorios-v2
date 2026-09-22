@@ -303,8 +303,9 @@ function getVisibleGalleryImages(p, colorName, varName) {
   return filtered.length > 0 ? filtered : p.images.slice();
 }
 
-// Monta o HTML das miniaturas da galeria (imagens filtradas + bot\u00e3o de v\u00eddeo, sempre vis\u00edvel)
+// Monta o HTML das miniaturas da galeria (imagens filtradas + bot\u00e3o(\u00f5es) de v\u00eddeo, sempre vis\u00edveis)
 function buildGalleryThumbsHTML(p, images) {
+  const videos = p.videos || (p.video ? [p.video] : []);
   return `
     ${images.map((img, i) => `
       <button class="thumb-btn ${i === 0 ? 'active' : ''}" data-type="image" data-src="${img}" type="button" aria-label="Ver imagem ${i + 1}">
@@ -312,8 +313,8 @@ function buildGalleryThumbsHTML(p, images) {
         ${buildIndicatorSlotHTML(getIndicatorMeta(p, img), 'thumb')}
       </button>
     `).join('')}
-    ${p.video ? `
-      <button class="thumb-btn thumb-video-btn" data-type="video" data-video-src="${p.video}" type="button" aria-label="Ver v\u00eddeo do produto">
+    ${videos.map((v, i) => `
+      <button class="thumb-btn thumb-video-btn" data-type="video" data-video-src="${v}" type="button" aria-label="Ver v\u00eddeo${videos.length > 1 ? ' ' + (i + 1) : ''} do produto">
         <div class="play-icon-overlay">
           <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
             <path d="M8 5v14l11-7z"/>
@@ -321,7 +322,7 @@ function buildGalleryThumbsHTML(p, images) {
         </div>
         <img src="${p.img}" alt="Previa do v\u00eddeo">
       </button>
-    ` : ''}
+    `).join('')}
   `;
 }
 
@@ -588,7 +589,7 @@ function renderGrid() {
       ${sectionBreak}
       <article class="product-card ${spanClass}">
         <div class="product-card-media">
-          ${p.video ? `<span class="video-badge">
+          ${p.video || (p.videos && p.videos.length) ? `<span class="video-badge">
             <svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14" style="margin-right: 4px; vertical-align: middle;">
               <path d="M8 5v14l11-7z"/>
             </svg>
@@ -791,7 +792,7 @@ function renderProductDetail(p) {
               <div id="main-product-indicator">${buildIndicatorSlotHTML(getIndicatorMeta(p, visibleGalleryImages[0] || p.img), 'main')}</div>
             </div>
             
-            ${(p.images && p.images.length > 1) || p.video ? `
+            ${(p.images && p.images.length > 1) || p.video || (p.videos && p.videos.length) ? `
               <div class="gallery-thumbs${p.slug === 'chicotes-montados-3-unidades' ? ' gallery-thumbs--grid4' : ''}" id="gallery-thumbs">
                 ${buildGalleryThumbsHTML(p, visibleGalleryImages)}
               </div>
