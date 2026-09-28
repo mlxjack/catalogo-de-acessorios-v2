@@ -379,46 +379,83 @@ window.PRODUCTS = [
   {
     "id": 7,
     "slug": "kit-atrativo-conico-85mm-5-filetes-com-10-unidades",
-    "skuVariants": [{"opts": ["Amarelo Neon"], "sku": "AC01010510"}, {"opts": ["Branco Pérola"], "sku": "AC01310510"}, {"opts": ["Laranja Neon"], "sku": "AC01210510"}, {"opts": ["Preto Brilhante"], "sku": "AC01370510"}, {"opts": ["Vermelho Holográfico"], "sku": "AC01160510"}, {"opts": ["Verde Neon"], "sku": "AC01150510"}],
+    "skuVariants": [
+      {
+        "opts": [
+          "Amarelo Neon"
+        ],
+        "sku": "AC01010510"
+      },
+      {
+        "opts": [
+          "Branco Pérola"
+        ],
+        "sku": "AC01310510"
+      },
+      {
+        "opts": [
+          "Laranja Neon"
+        ],
+        "sku": "AC01210510"
+      },
+      {
+        "opts": [
+          "Preto Brilhante"
+        ],
+        "sku": "AC01370510"
+      },
+      {
+        "opts": [
+          "Vermelho Holográfico"
+        ],
+        "sku": "AC01160510"
+      },
+      {
+        "opts": [
+          "Verde Neon"
+        ],
+        "sku": "AC01150510"
+      }
+    ],
     "category": "Atrativos",
     "name": "Kit Atrativo Cônico 85mm - 5 Filetes com 10 Unidades",
     "price": "R$ 13,50",
-    "img": "assets/img/shopify/atrativoconicolaranja.png",
+    "img": "assets/img/atrativo-conico/amarelo-neon.png",
     "link": "https://chumbadas.com.br/products/kit-atrativo-conico-85mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
       [
         "Amarelo Neon",
-        "url(assets/img/shopify/conico-amarelo-neon.jpg) center/cover"
+        "url(assets/img/atrativo-conico/amarelo-neon.png) center/cover"
       ],
       [
         "Branco Pérola",
-        "url(assets/img/shopify/conico-branco-perola.jpg) center/cover"
+        "url(assets/img/atrativo-conico/branco-perola.png) center/cover"
       ],
       [
         "Laranja Neon",
-        "url(assets/img/shopify/conico-laranja-neon.png) center/cover"
+        "url(assets/img/atrativo-conico/laranja-neon.png) center/cover"
       ],
       [
         "Preto Brilhante",
-        "url(assets/img/shopify/conico-preto-brilhante.png) center/cover"
-      ],
-      [
-        "Vermelho Holográfico",
-        "url(assets/img/shopify/conico-vermelho-holográfico.jpg) center/cover"
+        "url(assets/img/atrativo-conico/preto-brilhante.png) center/cover"
       ],
       [
         "Verde Neon",
-        "url(assets/img/shopify/conico-verde-neon.jpg) center/cover"
+        "url(assets/img/atrativo-conico/verde-neon.png) center/cover"
+      ],
+      [
+        "Vermelho Holográfico",
+        "url(assets/img/atrativo-conico/vermelho-holografico.png) center/cover"
       ]
     ],
     "description": "<p><span>Atrativo Cônico Chumbada Oficial<br><br>Chegou mais uma novidade para turbinar suas pescarias! O Atrativo Cônico Chumbada Oficial foi desenvolvido com um material de altíssima flutuabilidade (floating), sendo ideal para utilização próximo ao anzol, junto à isca natural.<br><br>Sua principal função é manter a isca mais suspensa e com um movimento muito mais natural, aproveitando a ação das ondas, correnteza e maré. Além disso, ajuda a evitar que o anzol fique escondido sob a areia, aumentando sua exposição e melhorando as chances de fisgada.<br><br>Disponível em diversas cores, o Atrativo Cônico permite inúmeras combinações para o pescador personalizar sua montagem. Você pode utilizar uma única peça, combinar duas ou mais cores, montar em sentidos opostos ou criar configurações exclusivas conforme a necessidade da pescaria.<br><br>Cada embalagem acompanha 5 filetes com 10 unidades cada, totalizando 50 atrativos por pacote, garantindo excelente rendimento e diversas possibilidades de montagem.<br><br>✔ Material extremamente floating<br>✔ Mantém a isca mais visível e atrativa<br>✔ Ajuda a evitar que o anzol fique encoberto pela areia<br>✔ Diversas cores disponíveis<br>✔ Inúmeras formas de montagem e utilização<br>✔ Embalagem com 50 unidades<br>Mais movimento, mais visibilidade e mais eficiência para suas montagens de praia, costão e pesca com iscas naturais! </span></p>",
     "images": [
-      "assets/img/shopify/atrativoconicolaranja.png",
-      "assets/img/shopify/Branco-perola_123a60b5-d082-46f6-ae92-0abeb20d91a1.jpg",
-      "assets/img/shopify/Vermelho-Holografico_bc47a346-be98-4a37-aed4-75f08e544e16.jpg",
-      "assets/img/shopify/Verde-Neon_00efb8a7-72eb-4696-9c8e-85fd48bd0e04.jpg",
-      "assets/img/shopify/preto-brilhante.png",
-      "assets/img/shopify/medida_atrativo_conico.jpg"
+      "assets/img/atrativo-conico/amarelo-neon.png",
+      "assets/img/atrativo-conico/branco-perola.png",
+      "assets/img/atrativo-conico/laranja-neon.png",
+      "assets/img/atrativo-conico/preto-brilhante.png",
+      "assets/img/atrativo-conico/verde-neon.png",
+      "assets/img/atrativo-conico/vermelho-holografico.png"
     ],
     "video": "assets/video/shopify/82fd8fd632894355bfdecab483748277.mp4",
     "specs": {
@@ -428,32 +465,6 @@ window.PRODUCTS = [
       "Função": "Elevar a isca da areia, aumentar o movimento natural e expor melhor o anzol"
     },
     "section": "Lançamentos",
-    "vars": [
-      [
-        "Amarelo Neon",
-        "R$ 13,50"
-      ],
-      [
-        "Branco Pérola",
-        "R$ 13,50"
-      ],
-      [
-        "Laranja Neon",
-        "R$ 13,50"
-      ],
-      [
-        "Preto Brilhante",
-        "R$ 13,50"
-      ],
-      [
-        "Vermelho Holográfico",
-        "R$ 13,50"
-      ],
-      [
-        "Verde Neon",
-        "R$ 13,50"
-      ]
-    ],
     "image": "assets/img/shopify/atrativoconicolaranja.png",
     "colors": [
       [
@@ -487,6 +498,14 @@ window.PRODUCTS = [
       "Preto Brilhante": "assets/img/shopify/preto-brilhante.png",
       "Vermelho Holográfico": "assets/img/shopify/Vermelho-Holografico_bc47a346-be98-4a37-aed4-75f08e544e16.jpg",
       "Verde Neon": "assets/img/shopify/Verde-Neon_00efb8a7-72eb-4696-9c8e-85fd48bd0e04.jpg"
+    },
+    "variantImageMap": {
+      "::Amarelo Neon": "assets/img/atrativo-conico/amarelo-neon.png",
+      "::Branco Pérola": "assets/img/atrativo-conico/branco-perola.png",
+      "::Laranja Neon": "assets/img/atrativo-conico/laranja-neon.png",
+      "::Preto Brilhante": "assets/img/atrativo-conico/preto-brilhante.png",
+      "::Verde Neon": "assets/img/atrativo-conico/verde-neon.png",
+      "::Vermelho Holográfico": "assets/img/atrativo-conico/vermelho-holografico.png"
     }
   },
   {
