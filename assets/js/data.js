@@ -244,7 +244,50 @@ window.PRODUCTS = [
   {
     "id": 61,
     "slug": "mini-secretaria",
-    "skuVariants": [{"opts": ["Azul"], "sku": "MSec030800"}, {"opts": ["Branco"], "sku": "MSec030909"}, {"opts": ["Preto"], "sku": "MSec0319"}, {"opts": ["Azul Eco"], "sku": "MSec0309"}, {"opts": ["Preto Eco"], "sku": "MSec0314"}],
+    "skuVariants": [
+      {
+        "opts": [
+          "Azul"
+        ],
+        "sku": "MSec030800",
+        "label": "Azul"
+      },
+      {
+        "opts": [
+          "Branco"
+        ],
+        "sku": "MSec030909",
+        "label": "Branco"
+      },
+      {
+        "opts": [
+          "Preto"
+        ],
+        "sku": "MSec0319",
+        "label": "Preto"
+      },
+      {
+        "opts": [
+          "Azul Eco"
+        ],
+        "sku": "MSec0309",
+        "label": "Azul Eco"
+      },
+      {
+        "opts": [
+          "Preto Eco"
+        ],
+        "sku": "MSec0314",
+        "label": "Preto Eco"
+      },
+      {
+        "opts": [
+          "Branco Eco"
+        ],
+        "sku": "MSec0342",
+        "label": "Branco Eco"
+      }
+    ],
     "category": "Acessórios",
     "name": "Mini Secretária",
     "price": "a partir de R$ 3,90",
@@ -252,27 +295,51 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/mini-secretaria?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
+        "Azul",
+        "R$ 6,90"
+      ],
+      [
+        "Branco",
+        "R$ 6,90"
+      ],
+      [
+        "Preto",
+        "R$ 6,90"
+      ],
+      [
+        "Azul Eco",
+        "R$ 3,90"
+      ],
+      [
         "Preto Eco",
         "R$ 3,90"
       ],
       [
-        "Colorido",
-        "R$ 6,90"
+        "Branco Eco",
+        "R$ 3,90"
       ]
     ],
-    "description": "<p><b>Mini Secretária Chumbada Oficial </b><br><br>A Mini Secretária foi desenvolvida para facilitar a vida do pescador na hora da pescaria.<br><br>Compacta, prática e muito funcional, ela pode ser utilizada como uma bandeja de apoio para organizar os acessórios e trabalhar a isca com mais conforto e agilidade.<br><br>Pode ser usada em diferentes opções de encaixe:<br><br>Na cantoneira dos suportes de vara, na cantoneira Premium e Slim ou até mesmo em cano comum de esgoto de 2”.<br><br>Nela, o pescador pode apoiar e organizar itens como tesoura, saca-anzol, porta elastricot, iscador, iscas e outros acessórios essenciais durante a pescaria.<br><br>Além disso, conta com espaço próprio para apoiar e preparar a isca, deixando tudo à mão e tornando o momento da montagem muito mais prático.<br><br>Disponível nas opções <b>Preto Eco</b>, <b>Preta</b>, <b>Branca</b> e <b>Azul</b>.<br><br><b>Mini Secretária Chumbada Oficial: pequena no tamanho, gigante na praticidade.</b></p>",
+    "description": "<p><b>Mini Secretária Chumbada Oficial </b><br><br>A Mini Secretária foi desenvolvida para facilitar a vida do pescador na hora da pescaria.<br><br>Compacta, prática e muito funcional, ela pode ser utilizada como uma bandeja de apoio para organizar os acessórios e trabalhar a isca com mais conforto e agilidade.<br><br>Pode ser usada em diferentes opções de encaixe:<br><br>Na cantoneira dos suportes de vara, na cantoneira Premium e Slim ou até mesmo em cano comum de esgoto de 2”.<br><br>Nela, o pescador pode apoiar e organizar itens como tesoura, saca-anzol, porta elastricot, iscador, iscas e outros acessórios essenciais durante a pescaria.<br><br>Além disso, conta com espaço próprio para apoiar e preparar a isca, deixando tudo à mão e tornando o momento da montagem muito mais prático.<br><br>Disponível nas cores <b>Azul</b>, <b>Branco</b>, <b>Preto</b>, <b>Azul Eco</b>, <b>Preto Eco</b> e <b>Branco Eco</b>.</p>",
     "images": [
       "assets/img/shopify/mini_secretaria.jpg",
       "assets/img/shopify/mini_secretaria_preto_eco_2.png",
       "assets/img/shopify/Mini_Secretaria_Azul.jpg",
       "assets/img/shopify/mini-secretaria_branca.png",
-      "assets/img/shopify/mini-secretaria.png"
+      "assets/img/shopify/mini-secretaria.png",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini_secretaria.jpg?v=1781624501",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini_secretaria_preto_eco_2.png?v=1782219420",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Mini_Secretaria_Azul.jpg?v=1782215723",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini-secretaria_branca.png?v=1782150309",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini-secretaria.png?v=1782150309",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini_secretaria_azul_eco.jpg?v=1790191042",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini_secretaria_branco_eco_75e8bd18-fd25-457f-9ddc-86709f126190.jpg?v=1790191068"
     ],
     "video": "",
     "specs": {
       "Material": "Polietileno de alta resistência contra raios UV e impactos",
       "Funções": "Bandeja de apoio compacta para tesoura, saca-anzol, iscas e preparo rápido de montagens na praia",
-      "Compatibilidade": "Encaixe em suportes de vara Slim, Premium ou canos de 2 polegadas"
+      "Compatibilidade": "Encaixe em suportes de vara Slim, Premium ou canos de 2 polegadas",
+      "Cores": "Azul, Branco, Preto, Azul Eco, Preto Eco e Branco Eco"
     },
     "section": "Lançamentos",
     "image": "assets/img/shopify/mini_secretaria.jpg",
@@ -299,6 +366,14 @@ window.PRODUCTS = [
       "Azul": "assets/img/shopify/Mini_Secretaria_Azul.jpg",
       "Branco": "assets/img/shopify/mini-secretaria_branca.png",
       "Preto": "assets/img/shopify/mini-secretaria.png"
+    },
+    "variantImageMap": {
+      "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Mini_Secretaria_Azul.jpg?v=1782215723",
+      "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini-secretaria_branca.png?v=1782150309",
+      "Preto": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini-secretaria.png?v=1782150309",
+      "Azul Eco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini_secretaria_azul_eco.jpg?v=1790191042",
+      "Preto Eco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini_secretaria_preto_eco_2.png?v=1782219420",
+      "Branco Eco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini_secretaria_branco_eco_75e8bd18-fd25-457f-9ddc-86709f126190.jpg?v=1790191068"
     }
   },
   {
@@ -1407,7 +1482,24 @@ window.PRODUCTS = [
   {
     "id": 36,
     "slug": "rotor-de-engate-rapido-cabeca-de-cobra",
-    "skuVariants": [{"opts": ["P", "8"], "sku": "PA10298"}, {"opts": ["G", "8"], "sku": "PA10299"}],
+    "skuVariants": [
+      {
+        "opts": [
+          "P",
+          "8"
+        ],
+        "sku": "PA10298",
+        "label": "P — Pacote com 8 unidades"
+      },
+      {
+        "opts": [
+          "G",
+          "8"
+        ],
+        "sku": "PA10299",
+        "label": "G — Pacote com 8 unidades"
+      }
+    ],
     "category": "Montagem",
     "name": "Rotor de Engate Rápido Cabeça de Cobra",
     "price": "R$ 8,10",
@@ -1418,7 +1510,11 @@ window.PRODUCTS = [
       "assets/img/shopify/Rotor-Cabeca-de-Cobra-capa.png",
       "assets/img/shopify/Rotor-Cabeca-de-Cobra-dedo_798be5e7-17cc-4cea-aa37-0c4e04b334d4.png",
       "assets/img/shopify/Rotor-Cabeca-de-Cobra_8c7cb230-87a7-4298-9401-c5de59872242.png",
-      "assets/img/shopify/Rotor-Cabeca-de-Cobra-2_acf4c8ce-cb38-45f2-98c2-dd3a10be944f.png"
+      "assets/img/shopify/Rotor-Cabeca-de-Cobra-2_acf4c8ce-cb38-45f2-98c2-dd3a10be944f.png",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/Rotor-Cabeca-de-Cobra-capa.png?v=1725025650",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Rotor-Cabeca-de-Cobra-dedo_798be5e7-17cc-4cea-aa37-0c4e04b334d4.png?v=1725025653",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Rotor-Cabeca-de-Cobra_8c7cb230-87a7-4298-9401-c5de59872242.png?v=1725025653",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Rotor-Cabeca-de-Cobra-2_acf4c8ce-cb38-45f2-98c2-dd3a10be944f.png?v=1725025653"
     ],
     "video": "",
     "specs": {
@@ -1431,7 +1527,21 @@ window.PRODUCTS = [
     "image": "assets/img/shopify/Rotor-Cabeca-de-Cobra-capa.png",
     "sizes": [
       "P"
-    ]
+    ],
+    "vars": [
+      [
+        "P — Pacote com 8 unidades",
+        "R$ 8,10"
+      ],
+      [
+        "G — Pacote com 8 unidades",
+        "R$ 8,10"
+      ]
+    ],
+    "variantImageMap": {
+      "P — Pacote com 8 unidades": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/Rotor-Cabeca-de-Cobra-2_acf4c8ce-cb38-45f2-98c2-dd3a10be944f.png?v=1725025653",
+      "G — Pacote com 8 unidades": "assets/img/shopify/Rotor-Cabeca-de-Cobra-capa.png"
+    }
   },
   {
     "id": 28,
@@ -1614,38 +1724,39 @@ window.PRODUCTS = [
   {
     "id": 45,
     "slug": "kit-enrolador",
-    "skuVariants": [{"opts": ["Natural"], "sku": "'13410101"}, {"opts": ["Roxo Metálico"], "sku": "'134110102"}, {"opts": ["Laranja Metálico"], "sku": "'13410104"}],
+    "skuVariants": [
+      {
+        "opts": [
+          "Natural"
+        ],
+        "sku": "'13410101"
+      },
+      {
+        "opts": [
+          "Roxo Metálico"
+        ],
+        "sku": "'134110102"
+      }
+    ],
     "category": "Montagem",
     "name": "Kit Enrolador",
     "price": "a partir de R$ 135,00",
-    "img": "assets/img/shopify/kit-enrolador-laranja-capa.png",
+    "img": "assets/img/shopify/kit-enrolador-natural.png",
     "link": "https://chumbadas.com.br/products/kit-enrolador?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "Colorido",
-        "R$ 150,00"
-      ]
-    ],
-    "swatches": [
-      [
         "Natural",
-        "#e2e8f0"
+        "R$ 135,00"
       ],
       [
         "Roxo Metálico",
-        "linear-gradient(135deg, #7c3aed, #c084fc)"
-      ],
-      [
-        "Laranja Metálico",
-        "linear-gradient(135deg, #ea580c, #fb923c)"
+        "R$ 150,00"
       ]
     ],
     "description": "<p>o KIT ENROLADOR é composto por 6 peças em alumínio:</p>\n<p>-Adaptador de mandril eixo 9mm</p>\n<p>-Parafuso especial 150mm</p>\n<p>-Parafuso especial 100mm</p>\n<p>-Calço 35mm</p>\n<p>-Calço Cônico 15mm</p>\n<p>-Trava para carretel 35mm</p>\n<p>O KIT ENROLADOR facilita a troca de linhas, a limpeza de linhas quando existe necessidade e o próprio preenchimento inicial do carretel. O mesmo foi desenvolvido para conseguir trabalhar com a maioria dos carretéis existentes no mercado, foi analisado os carretéis menores e os maiores padrões conforme Norma NBR 5314 ABNT. As distâncias que o KIT permite trabalhar entre as flanges são: distância mínima 10mm e distância máxima 125mm.</p>\n<p>O KIT ENROLADOR deve ser usado com cautela, existe o <a href=\"https://www.youtube.com/watch?v=JDEGXTCaCWc&amp;t=455s\" target=\"_blank\" title=\"Kit Enrolador\" rel=\"noopener noreferrer\">vídeo</a> explicativo mostrando os principais cuidados a serem tomados: O uso do KIT depende de uma parafusadeira, a mesma deve ter freio instantâneo pois assim qualquer problema o usuário solta o dedo e o sistema para de enrolar, controle de torque possibilitando o uso no menos torque possível e regulagem de velocidade instantânea no gatilho.</p>",
     "images": [
-      "assets/img/shopify/kit-enrolador-laranja-capa.png",
       "assets/img/shopify/kit_enrolador.jpg",
-      "assets/img/shopify/kit-enrolador-natural.png",
-      "assets/img/shopify/kit-enrolador-laranja.png"
+      "assets/img/shopify/kit-enrolador-natural.png"
     ],
     "video": "https://www.youtube.com/watch?v=JDEGXTCaCWc&t=455s",
     "specs": {
@@ -1677,7 +1788,72 @@ window.PRODUCTS = [
   {
     "id": 57,
     "slug": "rotor-de-engate-rapido-v",
-    "skuVariants": [{"opts": ["micro", "Pacote com 8"], "sku": "PA10600"}, {"opts": ["micro", "Pacote com 30"], "sku": "PA10599"}, {"opts": ["Pequeno", "Pacote com 8"], "sku": "PA10210"}, {"opts": ["Pequeno", "Pacote com 30"], "sku": "PA10085"}, {"opts": ["Médio", "Pacote com 8"], "sku": "PA10211"}, {"opts": ["Médio", "Pacote com 30"], "sku": "PA10086"}, {"opts": ["Grande", "Pacote com 8"], "sku": "PA10212"}, {"opts": ["Grande", "Pacote com 30"], "sku": "PA10087"}],
+    "skuVariants": [
+      {
+        "opts": [
+          "micro",
+          "Pacote com 8"
+        ],
+        "sku": "PA10600",
+        "label": "Micro — Pacote com 8 unidades"
+      },
+      {
+        "opts": [
+          "micro",
+          "Pacote com 30"
+        ],
+        "sku": "PA10599",
+        "label": "Micro — Pacote com 30 unidades"
+      },
+      {
+        "opts": [
+          "Pequeno",
+          "Pacote com 8"
+        ],
+        "sku": "PA10210",
+        "label": "Pequeno — Pacote com 8 unidades"
+      },
+      {
+        "opts": [
+          "Pequeno",
+          "Pacote com 30"
+        ],
+        "sku": "PA10085",
+        "label": "Pequeno — Pacote com 30 unidades"
+      },
+      {
+        "opts": [
+          "Médio",
+          "Pacote com 8"
+        ],
+        "sku": "PA10211",
+        "label": "Médio — Pacote com 8 unidades"
+      },
+      {
+        "opts": [
+          "Médio",
+          "Pacote com 30"
+        ],
+        "sku": "PA10086",
+        "label": "Médio — Pacote com 30 unidades"
+      },
+      {
+        "opts": [
+          "Grande",
+          "Pacote com 8"
+        ],
+        "sku": "PA10212",
+        "label": "Grande — Pacote com 8 unidades"
+      },
+      {
+        "opts": [
+          "Grande",
+          "Pacote com 30"
+        ],
+        "sku": "PA10087",
+        "label": "Grande — Pacote com 30 unidades"
+      }
+    ],
     "category": "Montagem",
     "name": "Rotor de Engate Rápido V",
     "price": "a partir de R$ 10,50",
@@ -1685,20 +1861,36 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/rotor-de-engate-rapido-v?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "30 P/M/G",
-        "R$ 35,25"
-      ],
-      [
-        "30 Micro",
-        "R$ 61,20"
-      ],
-      [
-        "8 Micro",
+        "Micro — Pacote com 8 unidades",
         "R$ 17,74"
       ],
       [
-        "8 P/M/G",
+        "Micro — Pacote com 30 unidades",
+        "R$ 61,20"
+      ],
+      [
+        "Pequeno — Pacote com 8 unidades",
         "R$ 10,50"
+      ],
+      [
+        "Pequeno — Pacote com 30 unidades",
+        "R$ 35,25"
+      ],
+      [
+        "Médio — Pacote com 8 unidades",
+        "R$ 10,50"
+      ],
+      [
+        "Médio — Pacote com 30 unidades",
+        "R$ 35,25"
+      ],
+      [
+        "Grande — Pacote com 8 unidades",
+        "R$ 10,50"
+      ],
+      [
+        "Grande — Pacote com 30 unidades",
+        "R$ 35,25"
       ]
     ],
     "description": "<p>Rotor de Engate Rápido</p>\n<p>Micro - <span data-mce-fragment=\"1\">0,13 e 0,18</span></p>\n<p>P - Pernada 0,20 a 0,26</p>\n<p>M - Pernada 0,26 a 0,31</p>\n<p>G -Pernada 0,31 a 0,45</p>",
@@ -1714,13 +1906,26 @@ window.PRODUCTS = [
       "assets/img/shopify/dedo.png",
       "assets/img/shopify/emba-8.png",
       "assets/img/shopify/emba-30.png",
-      "assets/img/shopify/quadriculado.png"
+      "assets/img/shopify/quadriculado.png",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/rotor-micro-V-capa.png?v=1725025691",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-de-engate-rapido.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-de-engate-rapido-P.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-de-engate-rapido-M.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-de-engate-rapido-G.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-8-unidades-P_5eaa43bf-aadb-4cd5-abaf-6465824d93f4.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-8-unidades-M_ebf32d64-0161-413e-8330-bc93b28e86f0.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-8-unidades-G_8240a593-c0bc-4189-a7b5-033282bd5c76.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/dedo.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/emba-8.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/emba-30.png?v=1725025693",
+      "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/quadriculado.png?v=1725025693"
     ],
     "video": "",
     "specs": {
       "Material": "Aço inox de alta tração",
       "Tamanhos": "Micro (Pernada 0,13 a 0,18mm) | P (0,20 a 0,26mm) | M (0,26 a 0,31mm) | G (0,31 a 0,45mm)",
-      "Função": "Engate ultra rápido e livre rotação para pernadas de chicotes de pesca"
+      "Função": "Engate ultra rápido e livre rotação para pernadas de chicotes de pesca",
+      "Embalagens": "Pacotes com 8 ou 30 unidades em todos os tamanhos: Micro, Pequeno, Médio e Grande"
     },
     "section": "Montagem",
     "image": "assets/img/shopify/rotor-micro-V-capa.png",
@@ -1729,7 +1934,17 @@ window.PRODUCTS = [
       "Pequeno",
       "Médio",
       "Grande"
-    ]
+    ],
+    "variantImageMap": {
+      "Micro — Pacote com 8 unidades": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/emba-8.png?v=1725025693",
+      "Micro — Pacote com 30 unidades": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/emba-30.png?v=1725025693",
+      "Pequeno — Pacote com 8 unidades": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-8-unidades-P_5eaa43bf-aadb-4cd5-abaf-6465824d93f4.png?v=1725025693",
+      "Pequeno — Pacote com 30 unidades": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-de-engate-rapido-P.png?v=1725025693",
+      "Médio — Pacote com 8 unidades": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-8-unidades-M_ebf32d64-0161-413e-8330-bc93b28e86f0.png?v=1725025693",
+      "Médio — Pacote com 30 unidades": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-de-engate-rapido-M.png?v=1725025693",
+      "Grande — Pacote com 8 unidades": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-8-unidades-G_8240a593-c0bc-4189-a7b5-033282bd5c76.png?v=1725025693",
+      "Grande — Pacote com 30 unidades": "https://cdn.shopify.com/s/files/1/0454/5845/6736/products/rotor-de-engate-rapido-G.png?v=1725025693"
+    }
   },
   {
     "id": 67,

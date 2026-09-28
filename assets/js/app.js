@@ -120,6 +120,12 @@ function resolveSku(p, colorName, varLabel) {
   const wanted = [colorName, varLabel].filter(Boolean).map(norm);
   if (!wanted.length) return null;
 
+  // Combined size/pack labels explicitly identify a single imported SKU.
+  const labeled = p.skuVariants.filter(v => v.label && norm(v.label) === norm(varLabel)
+    && (!colorName || (v.opts || []).map(norm).includes(norm(colorName))));
+  if (labeled.length === 1) return labeled[0].sku.replace(/^'/, '');
+
+
   // Exact match first — a substring check alone would wrongly match "G"
   // against a variant option of "GG" (since "GG".includes("g")).
   let candidates = p.skuVariants.filter((v) => {
