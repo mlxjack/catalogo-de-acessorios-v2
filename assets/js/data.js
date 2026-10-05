@@ -609,21 +609,13 @@ window.PRODUCTS = [
   {
     "id": 12,
     "slug": "carretel-para-chicotes",
-    "skuVariants": [{"opts": ["Laranja"], "sku": "PA10235"}, {"opts": ["Preto"], "sku": "PA10239"}, {"opts": ["Amarelo"], "sku": "PA10234"}, {"opts": ["Azul"], "sku": "PA10224"}, {"opts": ["Branco"], "sku": "PA10237"}, {"opts": ["Cinza"], "sku": "PA10240"}, {"opts": ["Rosa"], "sku": "PA10238"}, {"opts": ["Roxo"], "sku": "WPA0236"}, {"opts": ["Vermelho"], "sku": "PA10381"}, {"opts": ["Cristal"], "sku": "PA11297"}, {"opts": ["Verde"], "sku": "PA11653"}],
+    "skuVariants": [{"opts": ["Amarelo"], "sku": "PA10234"}, {"opts": ["Azul"], "sku": "PA10224"}, {"opts": ["Laranja"], "sku": "PA10235"}, {"opts": ["Preto"], "sku": "PA10239"}],
     "category": "Acessórios",
     "name": "Carretel para Chicotes",
     "price": "R$ 1,50",
     "img": "assets/img/shopify/capa.png",
     "link": "https://chumbadas.com.br/products/carretel?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
-      [
-        "Laranja",
-        "#f97316"
-      ],
-      [
-        "Preto",
-        "#111827"
-      ],
       [
         "Amarelo",
         "#facc15"
@@ -633,49 +625,22 @@ window.PRODUCTS = [
         "#2563eb"
       ],
       [
-        "Branco",
-        "#ffffff"
+        "Laranja",
+        "#f97316"
       ],
       [
-        "Cinza",
-        "#94a3b8"
-      ],
-      [
-        "Rosa",
-        "#ec4899"
-      ],
-      [
-        "Roxo",
-        "#7c3aed"
-      ],
-      [
-        "Vermelho",
-        "#dc2626"
-      ],
-      [
-        "Cristal",
-        "rgba(255,255,255,0.4)"
-      ],
-      [
-        "Verde",
-        "#22c55e"
+        "Preto",
+        "#111827"
       ]
     ],
     "description": "<span>Carretel para Chicotes de pesca, diâmetro da passagem onde o chicote será enrolado 5cm. O Carretel da Chumbada facilita o armazenamento e organização dos chicotes de pesca, </span><span>além da possibilidade de</span><span> levar o chicote montado com a pernada, pois o mesmo conta com apoios para os mesmos.</span><br><br><p>💡 <strong>Dica Chumbada:</strong> Leve também o <strong>Copo Organizador G</strong> para guardar e transportar seus carretéis com muito mais segurança e organização!</p>",
     "images": [
       "assets/img/shopify/capa.png",
       "assets/img/shopify/frente-e-costas_f45626cb-89cf-4ede-bbfa-fd4ae0ce2838.jpg",
-      "assets/img/shopify/Carretel-preto-Frente_71df2736-149a-4fec-916d-263c57806e66.png",
       "assets/img/shopify/Carretel-amarelo-frente_8238485b-7928-46cd-83ee-91b9d298dfe8.png",
       "assets/img/shopify/Carretel-azul-frente_3356c20b-210c-4372-900d-ad9cae12258a.png",
-      "assets/img/shopify/Carretel-branco-frente_c85bca83-3a7e-412f-8a90-ce4a0626f402.png",
       "assets/img/shopify/Carretel-laranja-Frente_e3d550e4-a8e3-434d-90b6-5dfd12b33264.png",
-      "assets/img/shopify/Carretel-rosaFrente_21042522-dfd5-4fc1-9689-c9b701c7e778.png",
-      "assets/img/shopify/Carretel-Roxo-Frente_db0c429e-5679-43bf-86b8-589e09afadc9.png",
-      "assets/img/shopify/Carretel-cinza-frente_83dff986-b950-4f79-b865-e5489394f494.png",
-      "assets/img/shopify/Carretel-vermelho-costas_42cae8eb-f803-41d4-a2c9-9aaa3067f555.png",
-      "assets/img/shopify/carretel-transparente-frente.jpg",
-      "assets/img/shopify/Carretel-verde-frente.png"
+      "assets/img/shopify/Carretel-preto-Frente_71df2736-149a-4fec-916d-263c57806e66.png"
     ],
     "video": "assets/video/shopify/392e00e1e2d94279b68674b6aa8e6ce6.mp4",
     "specs": {
@@ -1407,7 +1372,7 @@ window.PRODUCTS = [
     "category": "Acessórios",
     "name": "Tela de Espremer Iscas",
     "price": "R$ 4,50",
-    "img": "assets/images/tela-vermelha-a2d4f4df.jpg",
+    "img": "assets/img/shopify/tela-preto.jpg",
     "link": "https://chumbadas.com.br/products/tela-de-espremer-isca-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
       [
@@ -1435,8 +1400,21 @@ window.PRODUCTS = [
         "#dc2626"
       ]
     ],
+    "variantImageMap": {
+      "::Preta": "assets/img/shopify/tela-preto.jpg",
+      "::Laranja": "assets/img/shopify/tela-laranja.jpg",
+      "::Azul": "assets/img/shopify/azul-claro-capa.jpg",
+      "::Amarela": "assets/img/shopify/tela-amarelo.jpg",
+      "::Verde": "assets/img/shopify/tela-verde.jpg",
+      "::Vermelha": "assets/images/tela-vermelha-a2d4f4df.jpg"
+    },
     "description": "O Tela de Espremer Iscas da Chumbada Oficial combina inovação tecnológica e engenharia aplicada ao esporte. Produzido com materiais de alto padrão, é o acessório indispensável para o pescador que não abre mão da confiabilidade, durabilidade e desempenho esportivo em suas jornadas.",
     "images": [
+      "assets/img/shopify/tela-preto.jpg",
+      "assets/img/shopify/tela-laranja.jpg",
+      "assets/img/shopify/azul-claro-capa.jpg",
+      "assets/img/shopify/tela-amarelo.jpg",
+      "assets/img/shopify/tela-verde.jpg",
       "assets/images/tela-vermelha-a2d4f4df.jpg"
     ],
     "video": "assets/video/shopify/9a7fd88adf6f474e92746620abdf847c.mp4",
