@@ -1113,7 +1113,7 @@ window.PRODUCTS = [
   {
     "id": 38,
     "slug": "saca-anzol-desembuchador",
-    "skuVariants": [{"opts": ["P", "Branco"], "sku": "PA10043"}, {"opts": ["M", "Branco"], "sku": "PA10044"}, {"opts": ["G", "Branco"], "sku": "PA10045"}, {"opts": ["Kit P/M/G", "Branco"], "sku": "PA10046"}],
+    "skuVariants": [{"opts": ["P"], "sku": "PA10043"}, {"opts": ["M"], "sku": "PA10044"}, {"opts": ["G"], "sku": "PA10045"}, {"opts": ["Kit P, M, G"], "sku": "PA10046"}],
     "category": "Acessórios",
     "name": "Saca Anzol / Desembuchador",
     "price": "a partir de R$ 8,40",
@@ -1121,7 +1121,15 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/saca-anzol-desembuchador?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "Unidade",
+        "P",
+        "R$ 8,40"
+      ],
+      [
+        "M",
+        "R$ 8,40"
+      ],
+      [
+        "G",
         "R$ 8,40"
       ],
       [
