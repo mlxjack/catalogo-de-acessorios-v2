@@ -3555,16 +3555,8 @@ window.PRODUCTS = [
     "link": "#",
     "swatches": [
       [
-        "Azul",
-        "#2563eb"
-      ],
-      [
         "Amarelo",
         "#facc15"
-      ],
-      [
-        "Branco",
-        "#ffffff"
       ],
       [
         "Laranja",
@@ -3579,16 +3571,8 @@ window.PRODUCTS = [
         "#ec4899"
       ],
       [
-        "Preto",
-        "#111827"
-      ],
-      [
         "Cinza",
         "#94a3b8"
-      ],
-      [
-        "Vermelho",
-        "#dc2626"
       ]
     ],
     "description": "<p>O Copo para guardar chicotes da Chumbada está disponível em várias cores, o que permite que você escolha a que mais combina com o seu estilo, personalidade e claro organizado por cor se for o caso. Além disso, é um acessório resistente e durável, que protege seus chicotes de possíveis danos e ajuda a prolongar sua vida útil.</p>\n<p>Este copo foi desenvolvido exatamente para comportar 5 Carretéis para Chicotes, em cada carretel 5 chicotes portanto em um copo desses é possível levar 25 chicotes, dividindo em Beira, Meia Água, Fundo ou de qualquer outra forma que preferir.</p>\n<p>Com esse produto, você pode organizar seus chicotes de forma prática e fácil, garantindo que eles estejam sempre prontos para serem utilizados. Não perca mais tempo procurando seus chicotes no fundo da bolsa ou caixa de pesca. Adquira agora o Copo para guardar chicotes da Chumbada e tenha um acessório de pesca de alta qualidade em suas mãos.</p>",
@@ -3596,15 +3580,11 @@ window.PRODUCTS = [
       "assets/img/shopify/pesca-13.jpg",
       "assets/img/shopify/pesca-14.jpg",
       "assets/img/shopify/copo-capa.png",
-      "assets/img/shopify/copo-branco-fechado_b0f4b520-9b71-4aef-af0d-bd6686b0c82c.png",
       "assets/img/shopify/copo-amarelo.png",
-      "assets/img/shopify/copo-azul.png",
       "assets/img/shopify/copo-cinza.png",
       "assets/img/shopify/copo-laranja.png",
-      "assets/img/shopify/copo-preto.png",
       "assets/img/shopify/copo-rosa.png",
-      "assets/img/shopify/copo-roxo.png",
-      "assets/img/shopify/copo-vermelho_2.png"
+      "assets/img/shopify/copo-roxo.png"
     ],
     "video": "assets/video/shopify/a8fd4c77c94e42d5a9254dda44a98f4a.mp4",
     "specs": {
@@ -4037,8 +4017,6 @@ window.PRODUCTS = [
     "images": [
       "assets/img/shopify/sedalha-areia-capa.png",
       "assets/img/shopify/sedalha-areia.png",
-      "assets/img/shopify/sedalha-azul.png",
-      "assets/img/shopify/sedalha-azul-claro.png",
       "assets/img/shopify/sedalha-rosa.png",
       "assets/img/shopify/porta_pernada_e_chicotes_branco.jpg",
       "assets/img/shopify/porta_pernada_e_chicotes_preto.jpg"
@@ -4052,10 +4030,6 @@ window.PRODUCTS = [
     },
     "section": "Organização",
     "swatches": [
-      [
-        "Azul",
-        "#2563eb"
-      ],
       [
         "Branco",
         "#ffffff"
