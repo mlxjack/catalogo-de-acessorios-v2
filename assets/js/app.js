@@ -166,6 +166,11 @@ function imageMatchesText(imgSrc, text) {
   const normFile = normalizeText(filename);
   const normalizedText = normalizeText(text).replace(/\s+/g, '-');
   const normalizedTextNoSpace = normalizeText(text).replace(/\s+/g, '');
+  // Rótulos curtos (P, M, G, GG...) só casam como palavra inteira do nome do
+  // arquivo; senão o "p" de ".jpg" ou o "m" de qualquer nome casaria com tudo.
+  if (normalizedTextNoSpace.length < 3) {
+    return normFile.replace(/\.[a-z0-9]+$/, '').split(/[^a-z0-9]+/).includes(normalizedTextNoSpace);
+  }
   return normFile.includes(normalizedText) || normFile.includes(normalizedTextNoSpace) || normalizedTextNoSpace.includes(normFile.replace(/\.[\w]+$/, '').replace(/-/g, ''));
 }
 
