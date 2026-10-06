@@ -4048,7 +4048,6 @@ window.PRODUCTS = [
       ]
     ],
     "colorImages": {
-      "Azul": "assets/img/shopify/sedalha-azul.png",
       "Branco": "assets/img/shopify/porta_pernada_e_chicotes_branco.jpg",
       "Rosa": "assets/img/shopify/sedalha-rosa.png",
       "Areia": "assets/img/shopify/sedalha-areia.png",
