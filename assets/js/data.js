@@ -511,7 +511,7 @@ window.PRODUCTS = [
   {
     "id": 64,
     "slug": "clip-vara-com-fita-dupla-face",
-    "skuVariants": [{"opts": ["Default Title"], "sku": "WPA2786"}],
+    "skuVariants": [{"opts": [], "sku": "WPA2786", "price": 4.45}],
     "category": "Suportes",
     "name": "Clip Vara (com fita dupla face)",
     "price": "R$ 4,45",
@@ -533,7 +533,7 @@ window.PRODUCTS = [
   {
     "id": 8,
     "slug": "adaptador-de-carretilha-kit-com-4",
-    "skuVariants": [{"opts": ["Branco - 4un"], "sku": "IPA10197"}, {"opts": ["Preto - 4un"], "sku": "PA12001"}, {"opts": ["Branco Eco - 4un"], "sku": "ADP42004"}, {"opts": ["Preto Eco - 4un"], "sku": "ADP14004"}],
+    "skuVariants": [{"opts": ["Branco"], "sku": "IPA10197", "price": 19}, {"opts": ["Preto"], "sku": "PA12001", "price": 19}, {"opts": ["Branco Eco"], "sku": "ADP42004", "price": 19}, {"opts": ["Preto Eco"], "sku": "ADP14004", "price": 19}],
     "category": "Acessórios",
     "name": "Adaptador de Carretilha Kit com 4",
     "price": "R$ 19,00",
@@ -587,6 +587,7 @@ window.PRODUCTS = [
   {
     "id": 11,
     "slug": "bastao-luminoso",
+    "skuVariants": [{"opts": [], "sku": "PA10002", "price": 1.5}],
     "category": "Acessórios",
     "name": "Bastão Luminoso",
     "price": "R$ 1,50",
@@ -653,7 +654,7 @@ window.PRODUCTS = [
   {
     "id": 14,
     "slug": "cobreno-p-m-e-g",
-    "skuVariants": [{"opts": ["P", "Amarelo"], "sku": "PA10092"}, {"opts": ["M", "Amarelo"], "sku": "PA10093"}, {"opts": ["G", "Amarelo"], "sku": "PA10094"}, {"opts": ["P", "Azul Bic"], "sku": "PA10098"}, {"opts": ["M", "Azul Bic"], "sku": "PA10099"}, {"opts": ["G", "Azul Bic"], "sku": "PA10100"}, {"opts": ["P", "Azul Claro"], "sku": "PA10095"}, {"opts": ["M", "Azul Claro"], "sku": "PA10096"}, {"opts": ["G", "Azul Claro"], "sku": "PA10097"}, {"opts": ["P", "Cinza"], "sku": "PA10104"}, {"opts": ["M", "Cinza"], "sku": "PA10105"}, {"opts": ["G", "Cinza"], "sku": "PA10106"}, {"opts": ["P", "Laranja"], "sku": "PA10107"}, {"opts": ["M", "Laranja"], "sku": "PA10108"}, {"opts": ["G", "Laranja"], "sku": "PA10109"}, {"opts": ["P", "Marrom"], "sku": "PA10089"}, {"opts": ["M", "Marrom"], "sku": "PA10090"}, {"opts": ["G", "Marrom"], "sku": "PA10091"}, {"opts": ["P", "Preto"], "sku": "PA10110"}, {"opts": ["M", "Preto"], "sku": "PA10111"}, {"opts": ["G", "Preto"], "sku": "PA10112"}, {"opts": ["P", "Rosa"], "sku": "PA10113"}, {"opts": ["M", "Rosa"], "sku": "PA10114"}, {"opts": ["G", "Rosa"], "sku": "PA10115"}, {"opts": ["P", "Translúcido"], "sku": "PA10101"}, {"opts": ["M", "Translúcido"], "sku": "PA10102"}, {"opts": ["G", "Translúcido"], "sku": "PA10103"}, {"opts": ["P", "Verde"], "sku": "PA10119"}, {"opts": ["M", "Verde"], "sku": "PA10120"}, {"opts": ["G", "Verde"], "sku": "PA10121"}, {"opts": ["P", "Vermelho"], "sku": "PA10122"}, {"opts": ["M", "Vermelho"], "sku": "PA10123"}, {"opts": ["G", "Vermelho"], "sku": "PA10124"}],
+    "skuVariants": [{"opts": ["P", "Amarelo"], "sku": "PA10092", "price": 4.62}, {"opts": ["M", "Amarelo"], "sku": "PA10093", "price": 4.62}, {"opts": ["G", "Amarelo"], "sku": "PA10094", "price": 4.62}, {"opts": ["P", "Azul Bic"], "sku": "PA10098", "price": 4.62}, {"opts": ["M", "Azul Bic"], "sku": "PA10099", "price": 4.62}, {"opts": ["G", "Azul Bic"], "sku": "PA10100", "price": 4.62}, {"opts": ["P", "Azul Claro"], "sku": "PA10095", "price": 4.62}, {"opts": ["M", "Azul Claro"], "sku": "PA10096", "price": 4.62}, {"opts": ["G", "Azul Claro"], "sku": "PA10097", "price": 4.62}, {"opts": ["P", "Cinza"], "sku": "PA10104", "price": 4.62}, {"opts": ["M", "Cinza"], "sku": "PA10105", "price": 4.62}, {"opts": ["G", "Cinza"], "sku": "PA10106", "price": 4.62}, {"opts": ["P", "Laranja"], "sku": "PA10107", "price": 4.62}, {"opts": ["M", "Laranja"], "sku": "PA10108", "price": 4.62}, {"opts": ["G", "Laranja"], "sku": "PA10109", "price": 4.62}, {"opts": ["P", "Marrom"], "sku": "PA10089", "price": 4.62}, {"opts": ["M", "Marrom"], "sku": "PA10090", "price": 4.62}, {"opts": ["G", "Marrom"], "sku": "PA10091", "price": 4.62}, {"opts": ["P", "Preto"], "sku": "PA10110", "price": 4.62}, {"opts": ["M", "Preto"], "sku": "PA10111", "price": 4.62}, {"opts": ["G", "Preto"], "sku": "PA10112", "price": 4.62}, {"opts": ["P", "Rosa"], "sku": "PA10113", "price": 4.62}, {"opts": ["M", "Rosa"], "sku": "PA10114", "price": 4.62}, {"opts": ["G", "Rosa"], "sku": "PA10115", "price": 4.62}, {"opts": ["P", "Translúcido"], "sku": "PA10101", "price": 4.62}, {"opts": ["M", "Translúcido"], "sku": "PA10102", "price": 4.62}, {"opts": ["G", "Translúcido"], "sku": "PA10103", "price": 4.62}, {"opts": ["P", "Verde"], "sku": "PA10119", "price": 4.62}, {"opts": ["M", "Verde"], "sku": "PA10120", "price": 4.62}, {"opts": ["G", "Verde"], "sku": "PA10121", "price": 4.62}, {"opts": ["P", "Vermelho"], "sku": "PA10122", "price": 4.62}, {"opts": ["M", "Vermelho"], "sku": "PA10123", "price": 4.62}, {"opts": ["G", "Vermelho"], "sku": "PA10124", "price": 4.62}],
     "category": "Acessórios",
     "name": "Cobre nó P, M e G",
     "price": "R$ 4,62",
@@ -661,8 +662,16 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/cobre-no-pacote-com-40?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "Pacote com 40",
-        ""
+        "P",
+        "R$ 4,62"
+      ],
+      [
+        "M",
+        "R$ 4,62"
+      ],
+      [
+        "G",
+        "R$ 4,62"
       ]
     ],
     "swatches": [
@@ -825,7 +834,7 @@ window.PRODUCTS = [
   {
     "id": 23,
     "slug": "iscador-agulhao",
-    "skuVariants": [{"opts": ["Default Title"], "sku": "PA10189"}],
+    "skuVariants": [{"opts": [], "sku": "PA10189", "price": 20}],
     "category": "Acessórios",
     "name": "Iscador Agulhão",
     "price": "R$ 20,00",
@@ -885,6 +894,7 @@ window.PRODUCTS = [
   {
     "id": 25,
     "slug": "carretel-retangular",
+    "skuVariants": [{"opts": ["Preto Eco"], "sku": "700601140140", "price": 0.49}, {"opts": ["Azul Eco"], "sku": "700601090140", "price": 0.49}, {"opts": ["Azul"], "sku": "70060108000140", "price": 0.65}, {"opts": ["Preto"], "sku": "70060109020140", "price": 0.65}],
     "category": "Acessórios",
     "name": "Carretel Retangular",
     "price": "a partir de R$ 0,49",
@@ -893,6 +903,10 @@ window.PRODUCTS = [
     "vars": [
       [
         "Preto Eco",
+        "R$ 0,49"
+      ],
+      [
+        "Azul Eco",
         "R$ 0,49"
       ],
       [
@@ -936,7 +950,7 @@ window.PRODUCTS = [
   {
     "id": 26,
     "slug": "micro-snap-cobre-no-m",
-    "skuVariants": [{"opts": ["Preto"], "sku": "PA10284"}, {"opts": ["Amarelo"], "sku": "PA10278"}, {"opts": ["Azul Bic"], "sku": "PA10279"}, {"opts": ["Azul Claro"], "sku": "PA10280"}, {"opts": ["Cinza"], "sku": "PA10281"}, {"opts": ["Laranja"], "sku": "PA10282"}, {"opts": ["Marrom"], "sku": "PA10283"}, {"opts": ["Rosa"], "sku": "PA10285"}, {"opts": ["Translúcido"], "sku": "PA10286"}, {"opts": ["Verde"], "sku": "PA10288"}, {"opts": ["Vermelho"], "sku": "PA10289"}],
+    "skuVariants": [{"opts": ["10 unidades de cada", "Preto"], "sku": "PA10284", "price": 4.36}, {"opts": ["10 unidades de cada", "Amarelo"], "sku": "PA10278", "price": 4.36}, {"opts": ["10 unidades de cada", "Azul Bic"], "sku": "PA10279", "price": 4.36}, {"opts": ["10 unidades de cada", "Azul Claro"], "sku": "PA10280", "price": 4.36}, {"opts": ["10 unidades de cada", "Cinza"], "sku": "PA10281", "price": 4.36}, {"opts": ["10 unidades de cada", "Laranja"], "sku": "PA10282", "price": 4.36}, {"opts": ["10 unidades de cada", "Marrom"], "sku": "PA10283", "price": 4.36}, {"opts": ["10 unidades de cada", "Rosa"], "sku": "PA10285", "price": 4.36}, {"opts": ["10 unidades de cada", "Translúcido"], "sku": "PA10286", "price": 4.36}, {"opts": ["10 unidades de cada", "Verde"], "sku": "PA10288", "price": 4.36}, {"opts": ["10 unidades de cada", "Vermelho"], "sku": "PA10289", "price": 4.36}],
     "category": "Acessórios",
     "name": "Micro Snap + Cobre Nó M",
     "price": "R$ 4,36",
@@ -1021,7 +1035,7 @@ window.PRODUCTS = [
   {
     "id": 29,
     "slug": "pipa-kit-com-2",
-    "skuVariants": [{"opts": ["Default Title"], "sku": "PA10065"}],
+    "skuVariants": [{"opts": [], "sku": "PA10065", "price": 6}],
     "category": "Acessórios",
     "name": "Pipa Kit com 2",
     "price": "R$ 6,00",
@@ -1043,7 +1057,7 @@ window.PRODUCTS = [
   {
     "id": 35,
     "slug": "resgata-isca",
-    "skuVariants": [{"opts": ["Default Title"], "sku": "PA10226"}],
+    "skuVariants": [{"opts": [], "sku": "PA10226", "price": 59}],
     "category": "Acessórios",
     "name": "Resgata Isca",
     "price": "R$ 59,00",
@@ -1066,7 +1080,7 @@ window.PRODUCTS = [
   {
     "id": 37,
     "slug": "saca-anzol-de-competicao-inox",
-    "skuVariants": [{"opts": ["Médio"], "sku": "PA10074"}, {"opts": ["Pequeno"], "sku": "PA10073"}, {"opts": ["Micro"], "sku": "PA10072"}, {"opts": ["Nano"], "sku": "PA11296"}],
+    "skuVariants": [{"opts": ["Nano"], "sku": "PA11296", "price": 24}, {"opts": ["Micro"], "sku": "PA10072", "price": 24}, {"opts": ["P"], "sku": "PA10073", "price": 24}, {"opts": ["M"], "sku": "PA10074", "price": 24}],
     "category": "Acessórios",
     "name": "Saca Anzol de Competição Inox",
     "price": "R$ 24,00",
@@ -1078,15 +1092,15 @@ window.PRODUCTS = [
         "R$ 24,00"
       ],
       [
+        "Micro",
+        "R$ 24,00"
+      ],
+      [
         "P",
         "R$ 24,00"
       ],
       [
         "M",
-        "R$ 24,00"
-      ],
-      [
-        "G",
         "R$ 24,00"
       ]
     ],
@@ -1113,7 +1127,7 @@ window.PRODUCTS = [
   {
     "id": 38,
     "slug": "saca-anzol-desembuchador",
-    "skuVariants": [{"opts": ["P"], "sku": "PA10043"}, {"opts": ["M"], "sku": "PA10044"}, {"opts": ["G"], "sku": "PA10045"}, {"opts": ["Kit P, M, G"], "sku": "PA10046"}],
+    "skuVariants": [{"opts": ["P"], "sku": "PA10043", "price": 8.4}, {"opts": ["M"], "sku": "PA10044", "price": 8.4}, {"opts": ["G"], "sku": "PA10045", "price": 8.4}, {"opts": ["Kit P, M, G"], "sku": "PA10046", "price": 20.16}],
     "category": "Acessórios",
     "name": "Saca Anzol / Desembuchador",
     "price": "a partir de R$ 8,40",
@@ -1167,7 +1181,7 @@ window.PRODUCTS = [
   {
     "id": 42,
     "slug": "agulha-de-tarrafa",
-    "skuVariants": [{"opts": ["15cm", "Azul"], "sku": "PA10438"}, {"opts": ["15cm", "Branca"], "sku": "PA10481"}, {"opts": ["20cm", "Azul"], "sku": "PA10437"}, {"opts": ["20cm", "Branca"], "sku": "PA10482"}],
+    "skuVariants": [{"opts": ["15cm", "Azul"], "sku": "PA10438", "price": 3.5}, {"opts": ["15cm", "Branco"], "sku": "PA10481", "price": 3.5}, {"opts": ["20cm", "Azul"], "sku": "PA10437", "price": 3.85}, {"opts": ["20cm", "Branco"], "sku": "PA10482", "price": 3.85}],
     "category": "Acessórios",
     "name": "Agulha de Tarrafa",
     "price": "a partir de R$ 3,50",
@@ -1213,7 +1227,7 @@ window.PRODUCTS = [
   {
     "id": 50,
     "slug": "alicate-de-pesca",
-    "skuVariants": [{"opts": ["Amarelo Neon"], "sku": "'70020706"}, {"opts": ["Glow"], "sku": "'70020815"}, {"opts": ["Laranja"], "sku": "PA10430"}, {"opts": ["Preto"], "sku": "PA10436"}],
+    "skuVariants": [{"opts": ["Amarelo Neon", "Amarelo Neon"], "sku": "70020706", "price": 6.9}, {"opts": ["Glow (brilha no escuro)", "Glow (brilha no escuro)"], "sku": "70020815", "price": 7.9}, {"opts": ["Laranja", "Laranja"], "sku": "PA10430", "price": 6.9}, {"opts": ["Preto", "Preto"], "sku": "PA10436", "price": 6.9}],
     "category": "Acessórios",
     "name": "Alicate de Pesca",
     "price": "a partir de R$ 6,90",
@@ -1221,12 +1235,20 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/alicate-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "Plástico Cores",
+        "Amarelo Neon",
         "R$ 6,90"
       ],
       [
-        "Plástico Glow",
+        "Glow (brilha no escuro)",
         "R$ 7,90"
+      ],
+      [
+        "Laranja",
+        "R$ 6,90"
+      ],
+      [
+        "Preto",
+        "R$ 6,90"
       ]
     ],
     "swatches": [
@@ -1266,7 +1288,7 @@ window.PRODUCTS = [
   {
     "id": 55,
     "slug": "ima-fix",
-    "skuVariants": [{"opts": ["Default Title"], "sku": "PA12140"}],
+    "skuVariants": [{"opts": [], "sku": "PA12140", "price": 41.4}],
     "category": "Acessórios",
     "name": "Imã Fix",
     "price": "R$ 41,40",
@@ -1290,7 +1312,7 @@ window.PRODUCTS = [
   {
     "id": 56,
     "slug": "amarra-vara-velcro",
-    "skuVariants": [{"opts": ["Default Title"], "sku": "PA12125"}],
+    "skuVariants": [{"opts": [], "sku": "PA12125", "price": 17.9}],
     "category": "Acessórios",
     "name": "Amarra Vara Velcro",
     "price": "R$ 17,90",
@@ -1436,7 +1458,7 @@ window.PRODUCTS = [
   {
     "id": 34,
     "slug": "regua-cantoneira",
-    "skuVariants": [{"opts": ["Completa - 50cm", "Preto"], "sku": "PA10031"}, {"opts": ["Completa - 100cm", "Azul"], "sku": "PA10032"}, {"opts": ["Somente a Cantoneira", "Azul"], "sku": "PSA0021"}, {"opts": ["Somente a Cantoneira", "Preto"], "sku": "PSA0022"}],
+    "skuVariants": [{"opts": ["Completa 50cm - Preto"], "sku": "PA10031", "price": 16.79}, {"opts": ["Completa 100cm - Azul"], "sku": "PA10032", "price": 24.75}, {"opts": ["Somente a Cantoneira - Azul"], "sku": "PSA0021", "price": 5.49}, {"opts": ["Somente a Cantoneira - Preto"], "sku": "PSA0022", "price": 5.49}],
     "category": "Acessórios",
     "name": "Régua Cantoneira",
     "price": "a partir de R$ 16,79",
@@ -1444,12 +1466,20 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/regua-cantoneira?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "50cm",
+        "Completa 50cm - Preto",
         "R$ 16,79"
       ],
       [
-        "100cm",
+        "Completa 100cm - Azul",
         "R$ 24,75"
+      ],
+      [
+        "Somente a Cantoneira - Azul",
+        "R$ 5,49"
+      ],
+      [
+        "Somente a Cantoneira - Preto",
+        "R$ 5,49"
       ]
     ],
     "description": "Régua a prova d'agua com 15cm de largura, as medidas são extremamente precisas e aferidas individualmente.<br data-mce-fragment=\"1\">Cantoneira desenvolvida especialmente para essa finalidade, resistente, cantos arredondados e espessuras com raio para não ter problema no transporte, cola especial, a mesma não desgruda nem em contato com a água.",
@@ -1487,24 +1517,7 @@ window.PRODUCTS = [
   {
     "id": 36,
     "slug": "rotor-de-engate-rapido-cabeca-de-cobra",
-    "skuVariants": [
-      {
-        "opts": [
-          "P",
-          "8"
-        ],
-        "sku": "PA10298",
-        "label": "P — Pacote com 8 unidades"
-      },
-      {
-        "opts": [
-          "G",
-          "8"
-        ],
-        "sku": "PA10299",
-        "label": "G — Pacote com 8 unidades"
-      }
-    ],
+    "skuVariants": [{"opts": ["P — Pacote com 8 unidades"], "sku": "PA10298", "price": 8.1}, {"opts": ["G — Pacote com 8 unidades"], "sku": "PA10299", "price": 8.1}],
     "category": "Montagem",
     "name": "Rotor de Engate Rápido Cabeça de Cobra",
     "price": "R$ 8,10",
@@ -1551,7 +1564,7 @@ window.PRODUCTS = [
   {
     "id": 28,
     "slug": "no-de-correr-kit-com-4-pecas",
-    "skuVariants": [{"opts": ["Default Title"], "sku": "PA10418"}],
+    "skuVariants": [{"opts": [], "sku": "PA10418", "price": 8.14}],
     "category": "Montagem",
     "name": "Nó de Correr Kit com 4 peças",
     "price": "R$ 8,14",
@@ -1655,12 +1668,26 @@ window.PRODUCTS = [
   {
     "id": 40,
     "slug": "stopper-oliva-p-m-g",
-    "skuVariants": [{"opts": ["P"], "sku": "PA10067"}, {"opts": ["M"], "sku": "PA10068"}, {"opts": ["G"], "sku": "PA10069"}],
+    "skuVariants": [{"opts": ["P"], "sku": "PA10067", "price": 8.13}, {"opts": ["M"], "sku": "PA10068", "price": 8.13}, {"opts": ["G"], "sku": "PA10069", "price": 8.13}],
     "category": "Montagem",
     "name": "Stopper Oliva P, M, G",
     "price": "R$ 8,13",
     "img": "assets/img/shopify/Stopper-oliva-grande-capa-2.png",
     "link": "https://chumbadas.com.br/products/stopper-modelo-oliva?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "P",
+        "R$ 8,13"
+      ],
+      [
+        "M",
+        "R$ 8,13"
+      ],
+      [
+        "G",
+        "R$ 8,13"
+      ]
+    ],
     "description": "<p>Stopper Modelo Oliva: Regulagem Precisa, Versatilidade e Segurança na captura do peixe.</p>\n<p>O Stopper modelo Oliva é muito mais do que um acessório para regulagem de linha; é uma solução inteligente que combina praticidade e segurança, especialmente em pescarias desafiadoras. Feito de borracha de alta qualidade, ele desliza com leve pressão na linha, permitindo ajustes precisos na altura da boia ou da pernada, atendendo diferentes situações como montagens de chicotes de pescas de praia ou Down Shot.</p>\n<p>Um detalhe importante, mas pouco observado, é sua função como um verdadeiro fusível na linha, oferecendo segurança durante a briga com o peixe. Quando o peixe oferece resistência e há risco de rasgar a boca ou estourar o anzol, o Stopper entra em ação. Ele desliza suavemente pela linha principal, sem deixar a linha afrouxar, mas aliviando a pressão sobre a membrana sensível da boca do peixe. Isso faz do Stopper modelo Oliva indispensável para pescarias onde os peixes têm bocas frágeis e delicadas.</p>\n<p>Na briga com o peixe, vários fatores trabalham em conjunto para absorver o impacto: a mola representada pela torção do caniço, a elasticidade da linha, o freio do molinete ou da carretilha, e, com o Stopper, você adiciona mais uma camada de proteção — o deslize controlado na linha. Esse sistema reduz significativamente os riscos de perder o peixe e aumenta suas chances de um combate bem-sucedido.</p>\n<p>Com um design discreto e hidrodinâmico, o modelo Oliva garante naturalidade ao conjunto e excelente performance em qualquer ambiente. Seja para ajustes precisos ou segurança em sua captura, o Stopper modelo Oliva é a ferramenta indispensável para pescadores exigentes.</p>",
     "images": [
       "assets/img/shopify/Stopper-oliva-grande-capa-2.png",
@@ -1679,12 +1706,26 @@ window.PRODUCTS = [
   {
     "id": 41,
     "slug": "stopper-cilindrico-p-m-g",
-    "skuVariants": [{"opts": ["P"], "sku": "PA10393"}, {"opts": ["M"], "sku": "PA10392"}, {"opts": ["G"], "sku": "PA10391"}],
+    "skuVariants": [{"opts": ["P"], "sku": "PA10393", "price": 8.13}, {"opts": ["M"], "sku": "PA10392", "price": 8.13}, {"opts": ["G"], "sku": "PA10391", "price": 8.13}],
     "category": "Montagem",
     "name": "Stopper Cilíndrico P, M, G",
     "price": "R$ 8,13",
     "img": "assets/img/shopify/Stopper-cilindrico-capa.png",
     "link": "https://chumbadas.com.br/products/stopper-modelo-cilindrico?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "P",
+        "R$ 8,13"
+      ],
+      [
+        "M",
+        "R$ 8,13"
+      ],
+      [
+        "G",
+        "R$ 8,13"
+      ]
+    ],
     "description": "<p><span>O Stopper Cilíndrico da Chumbada Oficial é uma segunda opção em relação ao modelo anterior, oferecendo as mesmas qualidades e características, porém com uma aderência aprimorada para situações que exigem uma trava mais firme. Assim como o modelo arredondado anterior, o Stopper Cilíndrico é vendido o kit com dois fardos contendo 10 unidades cada.</span></p>\n<p><span> Uma característica distintiva do Stopper Cilíndrico da Chumbada Oficial é a sua pega anatômica, projetada para facilitar a transferência do stopper para a linha do chicote de pesca. Essa pega ergonômica foi desenvolvida visando proporcionar conforto e precisão durante o manuseio, tornando a fixação na linha mais fácil e eficiente. </span></p>\n<p><span>Além disso, nossos stoppers são montados com cabos de aço colados, eliminando qualquer aborrecimento de escaparem durante a montagem. Essa construção confiável e durável garante que os stoppers permaneçam firmemente fixados à linha, mesmo em situações de alta pressão. </span></p>\n<p><span>O Stopper Cilíndrico da Chumbada Oficial é uma escolha confiável para pescadores que procuram uma opção adicional que ofereça uma trava sólida e segura. Sua aderência aprimorada proporciona maior segurança ao garantir que o stopper permaneça no lugar desejado, mesmo durante as situações mais desafiadoras de pesca. </span></p>",
     "images": [
       "assets/img/shopify/Stopper-cilindrico-capa.png",
@@ -1707,7 +1748,7 @@ window.PRODUCTS = [
   {
     "id": 44,
     "slug": "micangas-de-latao-pacote-com-30",
-    "skuVariants": [{"opts": ["Default Title"], "sku": "PA10070"}],
+    "skuVariants": [{"opts": [], "sku": "PA10070", "price": 8.5}],
     "category": "Montagem",
     "name": "Miçangas de Latão (Pacote com 30)",
     "price": "R$ 8,50",
@@ -1793,72 +1834,7 @@ window.PRODUCTS = [
   {
     "id": 57,
     "slug": "rotor-de-engate-rapido-v",
-    "skuVariants": [
-      {
-        "opts": [
-          "micro",
-          "Pacote com 8"
-        ],
-        "sku": "PA10600",
-        "label": "Micro — Pacote com 8 unidades"
-      },
-      {
-        "opts": [
-          "micro",
-          "Pacote com 30"
-        ],
-        "sku": "PA10599",
-        "label": "Micro — Pacote com 30 unidades"
-      },
-      {
-        "opts": [
-          "Pequeno",
-          "Pacote com 8"
-        ],
-        "sku": "PA10210",
-        "label": "Pequeno — Pacote com 8 unidades"
-      },
-      {
-        "opts": [
-          "Pequeno",
-          "Pacote com 30"
-        ],
-        "sku": "PA10085",
-        "label": "Pequeno — Pacote com 30 unidades"
-      },
-      {
-        "opts": [
-          "Médio",
-          "Pacote com 8"
-        ],
-        "sku": "PA10211",
-        "label": "Médio — Pacote com 8 unidades"
-      },
-      {
-        "opts": [
-          "Médio",
-          "Pacote com 30"
-        ],
-        "sku": "PA10086",
-        "label": "Médio — Pacote com 30 unidades"
-      },
-      {
-        "opts": [
-          "Grande",
-          "Pacote com 8"
-        ],
-        "sku": "PA10212",
-        "label": "Grande — Pacote com 8 unidades"
-      },
-      {
-        "opts": [
-          "Grande",
-          "Pacote com 30"
-        ],
-        "sku": "PA10087",
-        "label": "Grande — Pacote com 30 unidades"
-      }
-    ],
+    "skuVariants": [{"opts": ["Micro — Pacote com 8 unidades"], "sku": "PA10600", "price": 17.74}, {"opts": ["Micro — Pacote com 30 unidades"], "sku": "PA10599", "price": 61.2}, {"opts": ["Pequeno — Pacote com 8 unidades"], "sku": "PA10210", "price": 10.5}, {"opts": ["Pequeno — Pacote com 30 unidades"], "sku": "PA10085", "price": 35.25}, {"opts": ["Médio — Pacote com 8 unidades"], "sku": "PA10211", "price": 10.5}, {"opts": ["Médio — Pacote com 30 unidades"], "sku": "PA10086", "price": 35.25}, {"opts": ["Grande — Pacote com 8 unidades"], "sku": "PA10212", "price": 10.5}, {"opts": ["Grande — Pacote com 30 unidades"], "sku": "PA10087", "price": 35.25}],
     "category": "Montagem",
     "name": "Rotor de Engate Rápido V",
     "price": "a partir de R$ 10,50",
@@ -1954,7 +1930,7 @@ window.PRODUCTS = [
   {
     "id": 67,
     "slug": "destorcedores",
-    "skuVariants": [{"opts": ["7mm 6kg (14unid)"], "sku": "PA10305"}, {"opts": ["9mm 24kg (10unid)"], "sku": "D1409024014"}, {"opts": ["12mm 35kg (10unid)"], "sku": "PA10306"}, {"opts": ["14mm 55kg (10unid)"], "sku": "PA12956"}, {"opts": ["15mm 30kg (10unid)"], "sku": "PA10307"}, {"opts": ["18mm 40kg (10unid)"], "sku": "D1418040010"}, {"opts": ["20mm 88kg (10unid)"], "sku": "D1420088010"}, {"opts": ["24mm 80kg (5unid)"], "sku": "PA10308"}],
+    "skuVariants": [{"opts": ["6kg / 7mm / 14 un"], "sku": "PA10305", "price": 10.71}, {"opts": ["24kg / 9mm / 10 un"], "sku": "D1409024014", "price": 9.26}, {"opts": ["35kg / 12mm / 10 un"], "sku": "PA10306", "price": 10.39}, {"opts": ["55kg / 14mm / 10 un"], "sku": "PA12956", "price": 10.51}, {"opts": ["30kg / 15mm / 10 un"], "sku": "PA10307", "price": 12.63}, {"opts": ["40kg / 18mm / 10 un"], "sku": "D1418040010", "price": 13.76}, {"opts": ["88kg / 20mm / 10 un"], "sku": "D1420088010", "price": 14.89}, {"opts": ["80kg / 24mm / 5 un"], "sku": "PA10308", "price": 8.66}],
     "section": "Montagem",
     "category": "Montagem",
     "name": "Destorcedores",
@@ -2025,7 +2001,7 @@ window.PRODUCTS = [
   {
     "id": 68,
     "slug": "destorcedor-triplo",
-    "skuVariants": [{"opts": ["19mm 16kg (10unid)"], "sku": "PA10432"}, {"opts": ["23mm 37kg (8unid)"], "sku": "PA10433"}, {"opts": ["28mm 27kg (6unid)"], "sku": "PA10434"}, {"opts": ["31mm 48kg (6unid)"], "sku": "IPA10078"}, {"opts": ["33mm 35kg (6unid)"], "sku": "PA10435"}, {"opts": ["36mm 60kg (6unid)"], "sku": "D1536060006"}],
+    "skuVariants": [{"opts": ["16kg 19mm (10unid)"], "sku": "PA10432", "price": 17.18}, {"opts": ["37kg 23mm (8unid)"], "sku": "PA10433", "price": 17.73}, {"opts": ["27kg 28mm (6unid)"], "sku": "PA10434", "price": 35.33}, {"opts": ["48kg 31mm (6unid)"], "sku": "IPA10078", "price": 26.79}, {"opts": ["35kg 33mm (6unid)"], "sku": "PA10435", "price": 30.07}, {"opts": ["60kg 36mm (6unid)"], "sku": "D1536060006", "price": 34.99}],
     "category": "Montagem",
     "name": "Destorcedor Triplo",
     "price": "a partir de R$ 17,18",
@@ -2090,7 +2066,7 @@ window.PRODUCTS = [
   {
     "id": 69,
     "slug": "snap-single",
-    "skuVariants": [{"opts": ["8mm 10Kg - 8 Unidades"], "sku": "PA10295"}, {"opts": ["13mm 34Kg - 8 Unidades"], "sku": "PA10296"}, {"opts": ["18mm 50Kg - 8 Unidades"], "sku": "PA10297"}, {"opts": ["20mm 75Kg - 8 Unidades"], "sku": "'620720075008"}, {"opts": ["22mm 100Kg - 8 Unidades"], "sku": "'620722100008"}, {"opts": ["29mm 60Kg - 8 Unidades"], "sku": "'620729060008"}, {"opts": ["34mm 80Kg - 8 Unidades"], "sku": "'620734080008"}],
+    "skuVariants": [{"opts": ["8mm - 10kg - 8 unidades"], "sku": "PA10295", "price": 5.95}, {"opts": ["13mm - 34kg - 8 unidades"], "sku": "PA10296", "price": 6.85}, {"opts": ["18mm - 50kg - 8 unidades"], "sku": "PA10297", "price": 7.75}, {"opts": ["20mm - 75kg - 8 unidades"], "sku": "620720075008", "price": 8.2}, {"opts": ["22mm - 100kg - 8 unidades"], "sku": "620722100008", "price": 8.65}, {"opts": ["29mm - 60kg - 8 unidades"], "sku": "620729060008", "price": 10.45}, {"opts": ["34mm - 80kg - 8 unidades"], "sku": "620734080008", "price": 12.29}],
     "category": "Montagem",
     "name": "Snap Single",
     "price": "a partir de R$ 5,95",
@@ -2149,7 +2125,7 @@ window.PRODUCTS = [
   {
     "id": 70,
     "slug": "snap-double",
-    "skuVariants": [{"opts": ["12mm 13Kg - 8 Unidades"], "sku": "PA10302"}, {"opts": ["18mm 28Kg - 8 Unidades"], "sku": "PA10301"}, {"opts": ["21mm 43Kg - 8 Unidades"], "sku": "'6207210438"}, {"opts": ["24mm 56Kg - 8 Unidades"], "sku": "PA10300"}, {"opts": ["25mm 65Kg - 8 Unidades"], "sku": "'6207250658"}, {"opts": ["29mm 68Kg - 8 Unidades"], "sku": "'6207290688"}, {"opts": ["35mm 110Kg - 8 Unidades"], "sku": "'6207351108"}],
+    "skuVariants": [{"opts": ["12mm - 13kg - 8 unidades"], "sku": "PA10302", "price": 5.95}, {"opts": ["18mm - 28kg - 8 unidades"], "sku": "PA10301", "price": 7.75}, {"opts": ["21mm - 43kg - 8 unidades"], "sku": "6207210438", "price": 8.65}, {"opts": ["24mm - 56kg - 8 unidades"], "sku": "PA10300", "price": 9.55}, {"opts": ["25mm - 65kg - 8 unidades"], "sku": "6207250658", "price": 9.55}, {"opts": ["29mm - 68kg - 8 unidades"], "sku": "6207290688", "price": 9.55}, {"opts": ["35mm - 110kg - 8 unidades"], "sku": "6207351108", "price": 11.35}],
     "category": "Montagem",
     "name": "Snap Double",
     "price": "a partir de R$ 5,95",
@@ -2209,7 +2185,7 @@ window.PRODUCTS = [
   {
     "id": 71,
     "slug": "snap-gota",
-    "skuVariants": [{"opts": ["7mm 8kg - 10 Unidades"], "sku": "IPA10307"}, {"opts": ["7.5mm 10kg - 10 Unidades"], "sku": "'620707010010"}, {"opts": ["9mm 19kg - 10 Unidades"], "sku": "PA10303"}, {"opts": ["12mm 35kg - 10 Unidades"], "sku": "IPA10079"}, {"opts": ["14mm 30kg - 10 Unidades"], "sku": "PA10304"}, {"opts": ["17mm 50kg - 10 Unidades"], "sku": "IPA10080"}, {"opts": ["20mm 65kg - 10 Unidades"], "sku": "IPA10081"}],
+    "skuVariants": [{"opts": ["7mm - 8kg - 10 unidades"], "sku": "IPA10307", "price": 9.27}, {"opts": ["7,5mm - 10kg - 10 unidades"], "sku": "620707010010", "price": 9.27}, {"opts": ["9mm - 19kg - 10 unidades"], "sku": "PA10303", "price": 10.27}, {"opts": ["12mm - 35kg - 10 unidades"], "sku": "IPA10079", "price": 10.27}, {"opts": ["14mm - 30kg - 10 unidades"], "sku": "PA10304", "price": 10.27}, {"opts": ["17mm - 50kg - 10 unidades"], "sku": "IPA10080", "price": 10.27}, {"opts": ["20mm - 65kg - 10 unidades"], "sku": "IPA10081", "price": 11.27}],
     "category": "Montagem",
     "name": "Snap Gota",
     "price": "a partir de R$ 9,27",
@@ -2272,7 +2248,7 @@ window.PRODUCTS = [
   {
     "id": 72,
     "slug": "snap-frances",
-    "skuVariants": [{"opts": ["34mm 39kg - 8 Unidades"], "sku": "PA10400"}, {"opts": ["30mm 30kg - 8 Unidades"], "sku": "PA10399"}, {"opts": ["24mm 20kg - 8 Unidades"], "sku": "PA10398"}, {"opts": ["21mm 14kg - 10 Unidades"], "sku": "PA11956"}, {"opts": ["17mm 12kg - 10 Unidades"], "sku": "PA11955"}, {"opts": ["14mm 10kg - 10 Unidades"], "sku": "PA11954"}, {"opts": ["10mm 5kg - 10 Unidades"], "sku": "PA10394"}],
+    "skuVariants": [{"opts": ["34mm - 39kg - 8 unidades"], "sku": "PA10400", "price": 11.09}, {"opts": ["30mm - 30kg - 8 unidades"], "sku": "PA10399", "price": 9.82}, {"opts": ["24mm - 20kg - 8 unidades"], "sku": "PA10398", "price": 10.27}, {"opts": ["21mm - 14kg - 10 unidades"], "sku": "PA11956", "price": 9.32}, {"opts": ["17mm - 12kg - 10 unidades"], "sku": "PA11955", "price": 10.39}, {"opts": ["14mm - 10kg - 10 unidades"], "sku": "PA11954", "price": 9.26}, {"opts": ["10mm - 5kg - 10 unidades"], "sku": "PA10394", "price": 7.75}],
     "category": "Montagem",
     "name": "Snap Francês",
     "price": "a partir de R$ 7,75",
@@ -2339,7 +2315,7 @@ window.PRODUCTS = [
   {
     "id": 730,
     "slug": "chicotes-montados-3-unidades",
-    "skuVariants": [{"opts": ["Beira - 1,00m"], "sku": "PA10264"}, {"opts": ["Beira - 1,00m"], "sku": "PA10265"}, {"opts": ["Meia Água - 1,15m"], "sku": "PA10260"}, {"opts": ["Meia Água - 1,15m"], "sku": "PA10261"}, {"opts": ["Meia Água - 1,15m"], "sku": "PA10262"}, {"opts": ["Meia Água - 1,15m"], "sku": "PA10263"}, {"opts": ["Fundo - 1,30m"], "sku": "PA10227"}, {"opts": ["Fundo - 1,30m"], "sku": "PA10253"}, {"opts": ["Fundo - 1,30m"], "sku": "PA10254"}, {"opts": ["Fundo - 1,30m"], "sku": "PA10255"}, {"opts": ["Fundo - 1,30m"], "sku": "PA10268"}, {"opts": ["Fundo - 1,30m"], "sku": "PA10269"}, {"opts": ["Fundo - 1,80m"], "sku": "PA10256"}, {"opts": ["Fundo - 1,80m"], "sku": "PA10257"}, {"opts": ["Fundo - 1,80m"], "sku": "PA10258"}, {"opts": ["Fundo - 1,80m"], "sku": "PA10259"}, {"opts": ["Fundo - 1,80m"], "sku": "PA10266"}, {"opts": ["Fundo - 1,80m"], "sku": "PA10267"}, {"opts": ["Finesse - 85cm"], "sku": "PA11431"}],
+    "skuVariants": [{"opts": ["Beira - Modelo 13"], "sku": "PA10264", "price": 28.6}, {"opts": ["Beira - Modelo 14"], "sku": "PA10265", "price": 28.6}, {"opts": ["Meia Água - Modelo 9"], "sku": "PA10260", "price": 28.6}, {"opts": ["Meia Água - Modelo 10"], "sku": "PA10261", "price": 28.6}, {"opts": ["Meia Água - Modelo 11"], "sku": "PA10262", "price": 28.6}, {"opts": ["Meia Água - Modelo 12"], "sku": "PA10263", "price": 28.6}, {"opts": ["Fundo 1,30m - Modelo 1"], "sku": "PA10227", "price": 28.6}, {"opts": ["Fundo 1,30m - Modelo 2"], "sku": "PA10253", "price": 28.6}, {"opts": ["Fundo 1,30m - Modelo 3"], "sku": "PA10254", "price": 28.6}, {"opts": ["Fundo 1,30m - Modelo 4"], "sku": "PA10255", "price": 28.6}, {"opts": ["Fundo 1,30m - Modelo 17"], "sku": "PA10268", "price": 28.6}, {"opts": ["Fundo 1,30m - Modelo 18"], "sku": "PA10269", "price": 28.6}, {"opts": ["Fundo 1,80m - Modelo 5"], "sku": "PA10256", "price": 28.6}, {"opts": ["Fundo 1,80m - Modelo 6"], "sku": "PA10257", "price": 28.6}, {"opts": ["Fundo 1,80m - Modelo 7"], "sku": "PA10258", "price": 28.6}, {"opts": ["Fundo 1,80m - Modelo 8"], "sku": "PA10259", "price": 28.6}, {"opts": ["Fundo 1,80m - Modelo 15"], "sku": "PA10266", "price": 28.6}, {"opts": ["Fundo 1,80m - Modelo 16"], "sku": "PA10267", "price": 28.6}, {"opts": ["Finesse 85cm - Rotor Micro V"], "sku": "PA11431", "price": 33.8}],
     "category": "Montagem",
     "name": "Chicotes Montados (3 unidades)",
     "price": "a partir de R$ 28,60",
@@ -2482,7 +2458,7 @@ window.PRODUCTS = [
   {
     "id": 3,
     "slug": "atrativo-comum",
-    "skuVariants": [{"opts": ["Amarelo"], "sku": "PA10412"}, {"opts": ["Amarelo Limão"], "sku": "PA10524"}, {"opts": ["Azul Claro"], "sku": "PA10423"}, {"opts": ["Azul Escuro"], "sku": "PA10422"}, {"opts": ["Branco"], "sku": "PA10414"}, {"opts": ["Laranja Neon"], "sku": "PA10413"}, {"opts": ["Marrom Claro"], "sku": "PA10426"}, {"opts": ["Marrom Escuro"], "sku": "PA10427"}, {"opts": ["Preto"], "sku": "PA10429"}, {"opts": ["Rosa Fluorescente"], "sku": "PA10420"}, {"opts": ["Translúcido"], "sku": "PA10411"}, {"opts": ["Uva"], "sku": "PA10421"}, {"opts": ["Verde Musgo"], "sku": "PA10428"}, {"opts": ["Vermelho"], "sku": "PA10419"}],
+    "skuVariants": [{"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Amarelo"], "sku": "PA10412", "price": 5.8}, {"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Amarelo Limão"], "sku": "PA10524", "price": 5.8}, {"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Azul Claro"], "sku": "PA10423", "price": 5.8}, {"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Azul Escuro"], "sku": "PA10422", "price": 5.8}, {"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Branco"], "sku": "PA10414", "price": 5.8}, {"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Laranja Neon"], "sku": "PA10413", "price": 5.8}, {"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Marrom Claro"], "sku": "PA10426", "price": 5.8}, {"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Marrom Escuro"], "sku": "PA10427", "price": 5.8}, {"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Preto"], "sku": "PA10429", "price": 5.8}, {"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Rosa Fluorescente"], "sku": "PA10420", "price": 5.8}, {"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Translúcido"], "sku": "PA10411", "price": 5.8}, {"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Uva"], "sku": "PA10421", "price": 5.8}, {"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Verde Musgo"], "sku": "PA10428", "price": 5.8}, {"opts": ["Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades", "Vermelho"], "sku": "PA10419", "price": 5.8}],
     "category": "Atrativos",
     "name": "Atrativo Comum",
     "price": "R$ 5,80",
@@ -2581,7 +2557,7 @@ window.PRODUCTS = [
   {
     "id": 4,
     "slug": "atrativo-holografico",
-    "skuVariants": [{"opts": ["Beijo da Sombra"], "sku": "PA10523"}, {"opts": ["Capim Rubi"], "sku": "PA10517"}, {"opts": ["Chá"], "sku": "PA10515"}, {"opts": ["Luz Laranja"], "sku": "PA10522"}, {"opts": ["Pastel"], "sku": "AT0435005010"}, {"opts": ["Rubi Dourado"], "sku": "PA10516"}, {"opts": ["Rapadura"], "sku": "PA10731"}, {"opts": ["Roxo Estelar"], "sku": "PA10520"}, {"opts": ["Salmão Radiante"], "sku": "PA10519"}, {"opts": ["Verde Cósmico"], "sku": "PA10518"}, {"opts": ["Vermelho Holográfico"], "sku": "PA10521"}, {"opts": ["Véu da Noite"], "sku": "PA10514"}],
+    "skuVariants": [{"opts": ["Beijo da Sombra", "Beijo da Sombra"], "sku": "PA10523", "price": 5.8}, {"opts": ["Capim Rubi", "Capim Rubi"], "sku": "PA10517", "price": 5.8}, {"opts": ["Chá", "Chá"], "sku": "PA10515", "price": 5.8}, {"opts": ["Luz Laranja", "Luz Laranja"], "sku": "PA10522", "price": 5.8}, {"opts": ["Pastel", "Pastel"], "sku": "AT0435005010", "price": 5.8}, {"opts": ["Rubi Dourado", "Rubi Dourado"], "sku": "PA10516", "price": 5.8}, {"opts": ["Rapadura", "Rapadura"], "sku": "PA10731", "price": 5.8}, {"opts": ["Roxo Estelar", "Roxo Estelar"], "sku": "PA10520", "price": 5.8}, {"opts": ["Salmão Radiante", "Salmão Radiante"], "sku": "PA10519", "price": 5.8}, {"opts": ["Verde Cósmico", "Verde Cósmico"], "sku": "PA10518", "price": 5.8}, {"opts": ["Vermelho Holográfico", "Vermelho Holográfico"], "sku": "PA10521", "price": 5.8}, {"opts": ["Véu da Noite", "Véu da Noite"], "sku": "PA10514", "price": 5.8}],
     "category": "Atrativos",
     "name": "Atrativo Holográfico",
     "price": "R$ 5,80",
@@ -2602,6 +2578,14 @@ window.PRODUCTS = [
       ],
       [
         "Luz Laranja",
+        "R$ 5,80"
+      ],
+      [
+        "Pastel",
+        "R$ 5,80"
+      ],
+      [
+        "Rapadura",
         "R$ 5,80"
       ],
       [
@@ -2645,6 +2629,14 @@ window.PRODUCTS = [
       [
         "Luz Laranja",
         "url(assets/img/shopify/holografico-luz-laranja.jpg) center/cover"
+      ],
+      [
+        "Pastel",
+        "url(assets/img/shopify/Pastel.jpg) center/cover"
+      ],
+      [
+        "Rapadura",
+        "url(assets/img/shopify/holografico-rapadura.jpg) center/cover"
       ],
       [
         "Roxo Estelar",
@@ -2697,7 +2689,7 @@ window.PRODUCTS = [
   {
     "id": 5,
     "slug": "mini-atrativo-comum",
-    "skuVariants": [{"opts": ["Amarelo"], "sku": "PA11847"}, {"opts": ["Amarelo Limão"], "sku": "PA11827"}, {"opts": ["Azul Claro"], "sku": "PA11840"}, {"opts": ["Branco"], "sku": "PA11845"}, {"opts": ["Azul Escuro"], "sku": "PA11841"}, {"opts": ["Laranja Neon"], "sku": "PA11846"}, {"opts": ["Marrom Claro"], "sku": "PA11839"}, {"opts": ["Marrom Escuro"], "sku": "PA11838"}, {"opts": ["Preto"], "sku": "PA11836"}, {"opts": ["Rosa Fluorescente"], "sku": "PA11843"}, {"opts": ["Translúcido"], "sku": "PA11848"}, {"opts": ["Uva"], "sku": "PA11842"}, {"opts": ["Verde Musgo"], "sku": "PA11837"}, {"opts": ["Vermelho"], "sku": "PA11844"}],
+    "skuVariants": [{"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Amarelo"], "sku": "PA11847", "price": 4.9}, {"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Amarelo Limão"], "sku": "PA11827", "price": 4.9}, {"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Azul Claro"], "sku": "PA11840", "price": 4.9}, {"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Branco"], "sku": "PA11845", "price": 4.9}, {"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Azul Escuro"], "sku": "PA11841", "price": 4.9}, {"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Laranja Neon"], "sku": "PA11846", "price": 4.9}, {"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Marrom Claro"], "sku": "PA11839", "price": 4.9}, {"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Marrom Escuro"], "sku": "PA11838", "price": 4.9}, {"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Preto"], "sku": "PA11836", "price": 4.9}, {"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Rosa Fluorescente"], "sku": "PA11843", "price": 4.9}, {"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Translúcido"], "sku": "PA11848", "price": 4.9}, {"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Uva"], "sku": "PA11842", "price": 4.9}, {"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Verde Musgo"], "sku": "PA11837", "price": 4.9}, {"opts": ["Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades", "Vermelho"], "sku": "PA11844", "price": 4.9}],
     "category": "Atrativos",
     "name": "Mini Atrativo Comum",
     "price": "R$ 4,90",
@@ -2783,7 +2775,7 @@ window.PRODUCTS = [
   {
     "id": 6,
     "slug": "mini-atrativo-holografico",
-    "skuVariants": [{"opts": ["Beijo da Sombra"], "sku": "PA11828"}, {"opts": ["Capim Rubi"], "sku": "PA11832"}, {"opts": ["Chá"], "sku": "PA11834"}, {"opts": ["Luz Laranja"], "sku": "PA11850"}, {"opts": ["Roxo Estelar"], "sku": "PA11829"}, {"opts": ["Rubi Dourado"], "sku": "PA11833"}, {"opts": ["Salmão Radiante"], "sku": "PA11830"}, {"opts": ["Verde Cósmico"], "sku": "PA11831"}, {"opts": ["Vermelho Holográfico"], "sku": "PA11856"}, {"opts": ["Véu da Noite"], "sku": "PA11835"}],
+    "skuVariants": [{"opts": ["Beijo da Sombra", "Beijo da Sombra"], "sku": "PA11828", "price": 4.9}, {"opts": ["Capim Rubi", "Capim Rubi"], "sku": "PA11832", "price": 4.9}, {"opts": ["Chá", "Chá"], "sku": "PA11834", "price": 4.9}, {"opts": ["Luz Laranja", "Luz Laranja"], "sku": "PA11850", "price": 4.9}, {"opts": ["Roxo Estelar", "Roxo Estelar"], "sku": "PA11829", "price": 4.9}, {"opts": ["Rubi Dourado", "Rubi Dourado"], "sku": "PA11833", "price": 4.9}, {"opts": ["Salmão Radiante", "Salmão Radiante"], "sku": "PA11830", "price": 4.9}, {"opts": ["Verde Cósmico", "Verde Cósmico"], "sku": "PA11831", "price": 4.9}, {"opts": ["Vermelho Holográfico", "Vermelho Holográfico"], "sku": "PA11856", "price": 4.9}, {"opts": ["Véu da Noite", "Véu da Noite"], "sku": "PA11835", "price": 4.9}],
     "category": "Atrativos",
     "name": "Mini Atrativo Holográfico",
     "price": "R$ 4,90",
@@ -3027,7 +3019,7 @@ window.PRODUCTS = [
   {
     "id": 46,
     "slug": "suporte-de-vara-premium-completo",
-    "skuVariants": [{"opts": ["1.00 m", "Suporte de Vara Completo", "Preto"], "sku": "PA10190"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Preto"], "sku": "PA10194"}, {"opts": ["1.35 m", "Suporte de Vara Completo", "Preto"], "sku": "PA10195"}, {"opts": ["1.50 m", "Suporte de Vara Completo", "Preto"], "sku": "PA10196"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Branco"], "sku": "PA11687"}, {"opts": ["1.35 m", "Suporte de Vara Completo", "Branco"], "sku": "PA11697"}, {"opts": ["1.50 m", "Suporte de Vara Completo", "Branco"], "sku": "PA11707"}, {"opts": ["1.00 m", "Suporte de Vara Completo", "Branco"], "sku": "PA11677"}, {"opts": ["1.00 m", "Somente Barra", "Barra"], "sku": "PA10204"}, {"opts": ["1.20 m", "Somente Barra", "Barra"], "sku": "PA10203"}, {"opts": ["1.35 m", "Somente Barra", "Barra"], "sku": "PA10202"}, {"opts": ["1.50 m", "Somente Barra", "Barra"], "sku": "PA10201"}],
+    "skuVariants": [{"opts": ["1m", "Preto"], "sku": "PA10190", "price": 71}, {"opts": ["1,20m", "Preto"], "sku": "PA10194", "price": 79.89}, {"opts": ["1,35m", "Preto"], "sku": "PA10195", "price": 86.55}, {"opts": ["1,50m", "Preto"], "sku": "PA10196", "price": 93.24}, {"opts": ["1,20m", "Branco"], "sku": "PA11687", "price": 79.89}, {"opts": ["1,35m", "Branco"], "sku": "PA11697", "price": 86.55}, {"opts": ["1,50m", "Branco"], "sku": "PA11707", "price": 93.24}, {"opts": ["1m", "Branco"], "sku": "PA11677", "price": 71}, {"opts": ["Barra 1m", "Preto"], "sku": "PA10204", "price": 44.47}, {"opts": ["Barra 1m", "Branco"], "sku": "PA10204", "price": 44.47}, {"opts": ["Barra 1,20m", "Preto"], "sku": "PA10203", "price": 53.36}, {"opts": ["Barra 1,20m", "Branco"], "sku": "PA10203", "price": 53.36}, {"opts": ["Barra 1,35m", "Preto"], "sku": "PA10202", "price": 60.03}, {"opts": ["Barra 1,35m", "Branco"], "sku": "PA10202", "price": 60.03}, {"opts": ["Barra 1,50m", "Preto"], "sku": "PA10201", "price": 66.72}, {"opts": ["Barra 1,50m", "Branco"], "sku": "PA10201", "price": 66.72}, {"opts": ["Somente copo", "Preto"], "sku": "PA10197", "price": 14.04}, {"opts": ["Somente copo", "Branco"], "sku": "PA11667", "price": 14.04}, {"opts": ["Somente ferradura", "Preto"], "sku": "PA10198", "price": 12.48}, {"opts": ["Somente ferradura", "Branco"], "sku": "PA11657", "price": 12.48}],
     "section": "Suportes",
     "category": "Suportes",
     "name": "Suporte de Vara Premium Completo",
@@ -3114,7 +3106,7 @@ window.PRODUCTS = [
   {
     "id": 47,
     "slug": "suporte-de-vara-slim",
-    "skuVariants": [{"opts": ["40 cm", "Suporte de Vara Completo", "Preto"], "sku": "PA11263"}, {"opts": ["40 cm", "Suporte de Vara Completo", "Amarelo"], "sku": "PA11264"}, {"opts": ["40 cm", "Suporte de Vara Completo", "Azul"], "sku": "PA11265"}, {"opts": ["40 cm", "Suporte de Vara Completo", "Branco"], "sku": "PA11266"}, {"opts": ["40 cm", "Suporte de Vara Completo", "Cinza"], "sku": "PA11267"}, {"opts": ["40 cm", "Suporte de Vara Completo", "Laranja"], "sku": "PA11268"}, {"opts": ["40 cm", "Suporte de Vara Completo", "Rosa"], "sku": "PA11269"}, {"opts": ["40 cm", "Suporte de Vara Completo", "Roxo"], "sku": "PA11270"}, {"opts": ["40 cm", "Suporte de Vara Completo", "Vermelho"], "sku": "PA11271"}, {"opts": ["40 cm", "Suporte de Vara Completo", "Verde"], "sku": "PA11651"}, {"opts": ["60 cm", "Suporte de Vara Completo", "Preto"], "sku": "PA11272"}, {"opts": ["60 cm", "Suporte de Vara Completo", "Amarelo"], "sku": "PA11273"}, {"opts": ["60 cm", "Suporte de Vara Completo", "Azul"], "sku": "PA11274"}, {"opts": ["60 cm", "Suporte de Vara Completo", "Branco"], "sku": "PA11275"}, {"opts": ["60 cm", "Suporte de Vara Completo", "Cinza"], "sku": "PA11276"}, {"opts": ["60 cm", "Suporte de Vara Completo", "Laranja"], "sku": "PA11277"}, {"opts": ["60 cm", "Suporte de Vara Completo", "Rosa"], "sku": "PA11278"}, {"opts": ["60 cm", "Suporte de Vara Completo", "Roxo"], "sku": "PA11279"}, {"opts": ["60 cm", "Suporte de Vara Completo", "Vermelho"], "sku": "PA11280"}, {"opts": ["60 cm", "Suporte de Vara Completo", "Verde"], "sku": "PA11650"}, {"opts": ["85 cm", "Suporte de Vara Completo", "Preto"], "sku": "PA11281"}, {"opts": ["85 cm", "Suporte de Vara Completo", "Amarelo"], "sku": "PA11282"}, {"opts": ["85 cm", "Suporte de Vara Completo", "Azul"], "sku": "PA11283"}, {"opts": ["85 cm", "Suporte de Vara Completo", "Branco"], "sku": "PA11284"}, {"opts": ["85 cm", "Suporte de Vara Completo", "Cinza"], "sku": "PA11285"}, {"opts": ["85 cm", "Suporte de Vara Completo", "Laranja"], "sku": "PA11286"}, {"opts": ["85 cm", "Suporte de Vara Completo", "Rosa"], "sku": "PA11287"}, {"opts": ["85 cm", "Suporte de Vara Completo", "Roxo"], "sku": "PA11288"}, {"opts": ["85 cm", "Suporte de Vara Completo", "Vermelho"], "sku": "PA11289"}, {"opts": ["85 cm", "Suporte de Vara Completo", "Verde"], "sku": "PA11649"}, {"opts": ["1.00 m", "Suporte de Vara Completo", "Preto"], "sku": "PA11448"}, {"opts": ["1.00 m", "Suporte de Vara Completo", "Amarelo"], "sku": "PA11447"}, {"opts": ["1.00 m", "Suporte de Vara Completo", "Azul"], "sku": "PA11446"}, {"opts": ["1.00 m", "Suporte de Vara Completo", "Branco"], "sku": "PA11445"}, {"opts": ["1.00 m", "Suporte de Vara Completo", "Cinza"], "sku": "PA11444"}, {"opts": ["1.00 m", "Suporte de Vara Completo", "Laranja"], "sku": "PA11443"}, {"opts": ["1.00 m", "Suporte de Vara Completo", "Rosa"], "sku": "PA11442"}, {"opts": ["1.00 m", "Suporte de Vara Completo", "Roxo"], "sku": "PA11441"}, {"opts": ["1.00 m", "Suporte de Vara Completo", "Vermelho"], "sku": "PA11440"}, {"opts": ["1.00 m", "Suporte de Vara Completo", "Verde"], "sku": "PA11647"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Preto"], "sku": "PA11457"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Amarelo"], "sku": "PA11456"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Azul"], "sku": "PA11455"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Branco"], "sku": "PA11454"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Cinza"], "sku": "PA11453"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Laranja"], "sku": "PA11452"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Rosa"], "sku": "PA11451"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Roxo"], "sku": "PA11450"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Vermelho"], "sku": "PA11449"}, {"opts": ["1.20 m", "Suporte de Vara Completo", "Verde"], "sku": "PA11648"}],
+    "skuVariants": [{"opts": ["40cm", "Preto"], "sku": "PA11263", "price": 16.1}, {"opts": ["40cm", "Amarelo"], "sku": "PA11264", "price": 16.1}, {"opts": ["40cm", "Azul"], "sku": "PA11265", "price": 16.1}, {"opts": ["40cm", "Branco"], "sku": "PA11266", "price": 16.1}, {"opts": ["40cm", "Cinza"], "sku": "PA11267", "price": 16.1}, {"opts": ["40cm", "Laranja"], "sku": "PA11268", "price": 16.1}, {"opts": ["40cm", "Rosa"], "sku": "PA11269", "price": 16.1}, {"opts": ["40cm", "Roxo"], "sku": "PA11270", "price": 16.1}, {"opts": ["40cm", "Vermelho"], "sku": "PA11271", "price": 16.1}, {"opts": ["40cm", "Verde"], "sku": "PA11651", "price": 16.1}, {"opts": ["60cm", "Preto"], "sku": "PA11272", "price": 19.55}, {"opts": ["60cm", "Amarelo"], "sku": "PA11273", "price": 19.55}, {"opts": ["60cm", "Azul"], "sku": "PA11274", "price": 19.55}, {"opts": ["60cm", "Branco"], "sku": "PA11275", "price": 19.55}, {"opts": ["60cm", "Cinza"], "sku": "PA11276", "price": 19.55}, {"opts": ["60cm", "Laranja"], "sku": "PA11277", "price": 19.55}, {"opts": ["60cm", "Rosa"], "sku": "PA11278", "price": 19.55}, {"opts": ["60cm", "Roxo"], "sku": "PA11279", "price": 19.55}, {"opts": ["60cm", "Vermelho"], "sku": "PA11280", "price": 19.55}, {"opts": ["60cm", "Verde"], "sku": "PA11650", "price": 19.55}, {"opts": ["85cm", "Preto"], "sku": "PA11281", "price": 26.45}, {"opts": ["85cm", "Amarelo"], "sku": "PA11282", "price": 26.45}, {"opts": ["85cm", "Azul"], "sku": "PA11283", "price": 26.45}, {"opts": ["85cm", "Branco"], "sku": "PA11284", "price": 26.45}, {"opts": ["85cm", "Cinza"], "sku": "PA11285", "price": 26.45}, {"opts": ["85cm", "Laranja"], "sku": "PA11286", "price": 26.45}, {"opts": ["85cm", "Rosa"], "sku": "PA11287", "price": 26.45}, {"opts": ["85cm", "Roxo"], "sku": "PA11288", "price": 26.45}, {"opts": ["85cm", "Vermelho"], "sku": "PA11289", "price": 26.45}, {"opts": ["85cm", "Verde"], "sku": "PA11649", "price": 26.45}, {"opts": ["1m", "Preto"], "sku": "PA11448", "price": 28.75}, {"opts": ["1m", "Amarelo"], "sku": "PA11447", "price": 28.75}, {"opts": ["1m", "Azul"], "sku": "PA11446", "price": 28.75}, {"opts": ["1m", "Branco"], "sku": "PA11445", "price": 28.75}, {"opts": ["1m", "Cinza"], "sku": "PA11444", "price": 28.75}, {"opts": ["1m", "Laranja"], "sku": "PA11443", "price": 28.75}, {"opts": ["1m", "Rosa"], "sku": "PA11442", "price": 28.75}, {"opts": ["1m", "Roxo"], "sku": "PA11441", "price": 28.75}, {"opts": ["1m", "Vermelho"], "sku": "PA11440", "price": 28.75}, {"opts": ["1m", "Verde"], "sku": "PA11647", "price": 28.75}, {"opts": ["1,2m", "Preto"], "sku": "PA11457", "price": 33.35}, {"opts": ["1,2m", "Amarelo"], "sku": "PA11456", "price": 33.35}, {"opts": ["1,2m", "Azul"], "sku": "PA11455", "price": 33.35}, {"opts": ["1,2m", "Branco"], "sku": "PA11454", "price": 33.35}, {"opts": ["1,2m", "Cinza"], "sku": "PA11453", "price": 33.35}, {"opts": ["1,2m", "Laranja"], "sku": "PA11452", "price": 33.35}, {"opts": ["1,2m", "Rosa"], "sku": "PA11451", "price": 33.35}, {"opts": ["1,2m", "Roxo"], "sku": "PA11450", "price": 33.35}, {"opts": ["1,2m", "Vermelho"], "sku": "PA11449", "price": 33.35}, {"opts": ["1,2m", "Verde"], "sku": "PA11648", "price": 33.35}],
     "category": "Suportes",
     "name": "Suporte de Vara Slim",
     "price": "a partir de R$ 16,10",
@@ -3238,7 +3230,7 @@ window.PRODUCTS = [
   {
     "id": 732,
     "slug": "suporte-de-vara-slim-em-borracha",
-    "skuVariants": [{"opts": ["40cm"], "sku": "SV0704000"}, {"opts": ["60cm"], "sku": "SV0706000"}, {"opts": ["85cm"], "sku": "SV0708500"}, {"opts": ["100cm"], "sku": "SV0710000"}, {"opts": ["120cm"], "sku": "SV0712000"}],
+    "skuVariants": [{"opts": ["40cm"], "sku": "SV0704000", "price": 18.88}, {"opts": ["60cm"], "sku": "SV0706000", "price": 22.42}, {"opts": ["85cm"], "sku": "SV0708500", "price": 29.5}, {"opts": ["100cm"], "sku": "SV0710000", "price": 31.68}, {"opts": ["120cm"], "sku": "SV0712000", "price": 36.58}, {"opts": ["Apoio de Borracha (Reposição)"], "sku": "PInt2407", "price": 4}, {"opts": ["Copo de Borracha (Reposição)"], "sku": "PInt2406", "price": 5}],
     "category": "Suportes",
     "name": "Suporte de Vara Slim em Borracha",
     "price": "a partir de R$ 18,88",
@@ -3297,7 +3289,7 @@ window.PRODUCTS = [
   {
     "id": 51,
     "slug": "suporte-horizontal-completo",
-    "skuVariants": [{"opts": ["40cm", "Suporte Horizontal Completo"], "sku": "PA12746"}, {"opts": ["40cm", "Somente a barra"], "sku": "PA12748"}, {"opts": ["60cm", "Suporte Horizontal Completo"], "sku": "PA12745"}, {"opts": ["60cm", "Somente a barra"], "sku": "PA12749"}, {"opts": ["85cm", "Suporte Horizontal Completo"], "sku": "PA12744"}, {"opts": ["85cm", "Somente a barra"], "sku": "PA12750"}, {"opts": ["100cm", "Suporte Horizontal Completo"], "sku": "PA12743"}, {"opts": ["100cm", "Somente a barra"], "sku": "PA12751"}, {"opts": ["120cm", "Suporte Horizontal Completo"], "sku": "PA12742"}, {"opts": ["120cm", "Somente a barra"], "sku": "PA12752"}, {"opts": ["-", "Suporte Horizontal (Peça Individual)"], "sku": "PA12747"}],
+    "skuVariants": [{"opts": ["40cm"], "sku": "PA12746", "price": 22.2}, {"opts": ["60cm"], "sku": "PA12745", "price": 26.8}, {"opts": ["85cm"], "sku": "PA12744", "price": 32.55}, {"opts": ["1m"], "sku": "PA12743", "price": 36}, {"opts": ["1,2m"], "sku": "PA12742", "price": 40.6}, {"opts": ["Barra 40cm"], "sku": "PA12748", "price": 9.2}, {"opts": ["Barra 60cm"], "sku": "PA12749", "price": 13.8}, {"opts": ["Barra 85cm"], "sku": "PA12750", "price": 19.55}, {"opts": ["Barra 1m"], "sku": "PA12751", "price": 23}, {"opts": ["Barra 1,2m"], "sku": "PA12752", "price": 27.6}, {"opts": ["Somente peça plástica"], "sku": "PA12747", "price": 13}],
     "section": "Suportes",
     "category": "Suportes",
     "name": "Suporte Horizontal Completo",
@@ -3326,6 +3318,26 @@ window.PRODUCTS = [
         "R$ 40,60"
       ],
       [
+        "Barra 40cm",
+        "R$ 9,20"
+      ],
+      [
+        "Barra 60cm",
+        "R$ 13,80"
+      ],
+      [
+        "Barra 85cm",
+        "R$ 19,55"
+      ],
+      [
+        "Barra 1m",
+        "R$ 23,00"
+      ],
+      [
+        "Barra 1,2m",
+        "R$ 27,60"
+      ],
+      [
         "Somente peça plástica",
         "R$ 13,00"
       ]
@@ -3348,7 +3360,7 @@ window.PRODUCTS = [
   {
     "id": 58,
     "slug": "apoio-para-barco-com-elastico",
-    "skuVariants": [{"opts": ["Default Title"], "sku": "PA12929"}],
+    "skuVariants": [{"opts": [], "sku": "PA12929", "price": 19.9}],
     "category": "Suportes",
     "name": "Apoio para Barco com Elástico",
     "price": "R$ 19,90",
@@ -3445,7 +3457,7 @@ window.PRODUCTS = [
   {
     "id": 63,
     "slug": "adaptador-de-vara-para-suporte-de-molinete",
-    "skuVariants": [{"opts": ["Preto", "Kit com 4 Unidades"], "sku": "ADP07000004"}],
+    "skuVariants": [{"opts": [], "sku": "ADP07000004", "price": 27}],
     "category": "Suportes",
     "name": "Adaptador de Vara para Suporte de Molinete",
     "price": "R$ 27,00",
@@ -3535,7 +3547,7 @@ window.PRODUCTS = [
   {
     "id": 16,
     "slug": "copo-para-carretel-g",
-    "skuVariants": [{"opts": ["Amarelo"], "sku": "PA10324"}, {"opts": ["Laranja"], "sku": "PA10323"}, {"opts": ["Roxo"], "sku": "PA10322"}, {"opts": ["Cinza"], "sku": "PA10319"}, {"opts": ["Rosa"], "sku": "PA10321"}],
+    "skuVariants": [{"opts": ["Amarelo"], "sku": "PA10324", "price": 5}, {"opts": ["Laranja"], "sku": "PA10323", "price": 5}, {"opts": ["Roxo"], "sku": "PA10322", "price": 5}, {"opts": ["Cinza"], "sku": "PA10319", "price": 5}, {"opts": ["Rosa"], "sku": "PA10321", "price": 5}],
     "category": "Organização",
     "name": "Copo para Carretel G",
     "price": "R$ 5,00",
@@ -3783,7 +3795,7 @@ window.PRODUCTS = [
   {
     "id": 52,
     "slug": "varal-chumbada",
-    "skuVariants": [{"opts": ["Default Title"], "sku": "PA11993"}],
+    "skuVariants": [{"opts": ["Completo"], "sku": "PA11993", "price": 169}, {"opts": ["Superior com tubo"], "sku": "PA12463", "price": 128.92}],
     "category": "Organização",
     "name": "Varal Chumbada",
     "price": "a partir de R$ 108,89",
@@ -3833,7 +3845,7 @@ window.PRODUCTS = [
   {
     "id": 54,
     "slug": "porta-pernada-compacto",
-    "skuVariants": [{"opts": ["30cm", "Azul"], "sku": "PA12181"}, {"opts": ["30cm", "Cinza"], "sku": "PP1003004"}, {"opts": ["30cm", "Preto"], "sku": "PP1003007"}, {"opts": ["30cm", "VIoleta"], "sku": "PP1003013"}, {"opts": ["50cm", "Azul"], "sku": "PA12182"}, {"opts": ["50cm", "Cinza"], "sku": "PP1005004"}, {"opts": ["50cm", "Preto"], "sku": "PP1005007"}, {"opts": ["50cm", "VIoleta"], "sku": "PP1005013"}],
+    "skuVariants": [{"opts": ["30cm", "Azul"], "sku": "PA12181", "price": 18.9}, {"opts": ["30cm", "Cinza"], "sku": "PP1003004", "price": 18.9}, {"opts": ["30cm", "Preto"], "sku": "PP1003007", "price": 18.9}, {"opts": ["30cm", "Violeta"], "sku": "PP1003013", "price": 18.9}, {"opts": ["50cm", "Azul"], "sku": "PA12182", "price": 28.9}, {"opts": ["50cm", "Cinza"], "sku": "PP1005004", "price": 28.9}, {"opts": ["50cm", "Preto"], "sku": "PP1005007", "price": 28.9}, {"opts": ["50cm", "Violeta"], "sku": "PP1005013", "price": 28.9}],
     "category": "Organização",
     "name": "Porta Pernada Compacto",
     "price": "a partir de R$ 18,90",
@@ -3842,25 +3854,29 @@ window.PRODUCTS = [
     "vars": [
       [
         "30cm",
-        ""
+        "R$ 18,90"
       ],
       [
-        "60cm",
-        ""
+        "50cm",
+        "R$ 28,90"
       ]
     ],
     "swatches": [
-      [
-        "Branco",
-        "#ffffff"
-      ],
       [
         "Azul",
         "#2563eb"
       ],
       [
-        "Marrom Claro",
-        "#d97706"
+        "Cinza",
+        "#94a3b8"
+      ],
+      [
+        "Preto",
+        "#111827"
+      ],
+      [
+        "Violeta",
+        "#7c3aed"
       ]
     ],
     "description": "<p>Porta-Pernada Compacto – O Que Era Bom Ficou Ainda Melhor!</p>\n<p>Agora a organização das suas pernadas ficou ainda mais prática e eficiente com o Porta-Pernada Compacto!</p>\n<p>Com capacidade para armazenar até 68 anzóis distribuídos em 34 divisões, ele mantém suas pernadas organizadas e sempre prontas para uso. Sua principal vantagem é o design compacto e de baixa espessura, permitindo que seja facilmente guardado em pequenos compartimentos, ao contrário do modelo tradicional tipo cano.</p>\n<p>Além disso, sua eficiência na fixação é impressionante: trava pernadas com linhas de 0,10mm a 0,60mm, garantindo segurança e praticidade na hora de armazenar seu material de pesca.</p>\n<p>Feito com material resistente e durável, o Porta-Pernada Compacto é a escolha ideal para pescadores que buscam organização, praticidade e qualidade no transporte de suas pernadas.</p>\n<p>Leve mais praticidade para a sua pescaria!</p>",
@@ -4010,7 +4026,7 @@ window.PRODUCTS = [
   {
     "id": 73,
     "slug": "porta-pernadas-e-chicotes",
-    "skuVariants": [{"opts": ["Branco"], "sku": "'410200000003"}, {"opts": ["Rosa"], "sku": "'410200000004"}, {"opts": ["Areia"], "sku": "'410200000001"}, {"opts": ["Preto"], "sku": "'410200000005"}],
+    "skuVariants": [{"opts": ["Branco"], "sku": "410200000003", "price": 30}, {"opts": ["Rosa"], "sku": "410200000004", "price": 30}, {"opts": ["Areia"], "sku": "410200000001", "price": 30}, {"opts": ["Preto"], "sku": "410200000005", "price": 30}],
     "category": "Organização",
     "name": "Porta Pernadas e Chicotes",
     "price": "R$ 29,90",
@@ -4069,7 +4085,7 @@ window.PRODUCTS = [
   {
     "id": 32,
     "slug": "porta-pernada-cano",
-    "skuVariants": [{"opts": ["Porta Pernada Completo", "20cm", "Branco"], "sku": "PA11290"}, {"opts": ["Porta Pernada Completo", "20cm", "Azul"], "sku": "PA11291"}, {"opts": ["Porta Pernada Completo", "20cm", "Marrom Claro"], "sku": "PA11292"}, {"opts": ["Porta Pernada Completo", "30cm", "Branco"], "sku": "PA0143"}, {"opts": ["Porta Pernada Completo", "30cm", "Azul"], "sku": "PA0159"}, {"opts": ["Porta Pernada Completo", "30cm", "Marrom Claro"], "sku": "PA0151"}, {"opts": ["Porta Pernada Completo", "30cm+30cm (60)", "Branco"], "sku": "PA0144"}, {"opts": ["Porta Pernada Completo", "30cm+30cm (60)", "Azul"], "sku": "PA0160"}, {"opts": ["Porta Pernada Completo", "30cm+30cm (60)", "Marrom Claro"], "sku": "PA0152"}, {"opts": ["Porta Pernada Completo", "40cm", "Branco"], "sku": "PA0145"}, {"opts": ["Porta Pernada Completo", "40cm", "Azul"], "sku": "PA0161"}, {"opts": ["Porta Pernada Completo", "40cm", "Marrom Claro"], "sku": "PA0153"}, {"opts": ["Porta Pernada Completo", "50cm", "Branco"], "sku": "PA0146"}, {"opts": ["Porta Pernada Completo", "50cm", "Azul"], "sku": "PA0162"}, {"opts": ["Porta Pernada Completo", "50cm", "Marrom Claro"], "sku": "PA0154"}, {"opts": ["Porta Pernada Completo", "60cm", "Branco"], "sku": "PA0147"}, {"opts": ["Porta Pernada Completo", "60cm", "Azul"], "sku": "PA0163"}, {"opts": ["Porta Pernada Completo", "60cm", "Marrom Claro"], "sku": "PA0155"}, {"opts": ["Porta Pernada Completo", "70cm", "Branco"], "sku": "PA0148"}, {"opts": ["Porta Pernada Completo", "70cm", "Azul"], "sku": "PA0164"}, {"opts": ["Porta Pernada Completo", "70cm", "Marrom Claro"], "sku": "PA0156"}, {"opts": ["Porta Pernada Completo", "80cm", "Branco"], "sku": "PA0149"}, {"opts": ["Porta Pernada Completo", "80cm", "Azul"], "sku": "PA0165"}, {"opts": ["Porta Pernada Completo", "80cm", "Marrom Claro"], "sku": "PA0157"}, {"opts": ["Porta Pernada Completo", "100cm", "Branco"], "sku": "PA0150"}, {"opts": ["Porta Pernada Completo", "100cm", "Azul"], "sku": "PA0166"}, {"opts": ["Porta Pernada Completo", "100cm", "Marrom Claro"], "sku": "PA0158"}, {"opts": ["Somente Cano", "20cm", "Branco"], "sku": "PA11293"}, {"opts": ["Somente Cano", "20cm", "Azul"], "sku": "PA11294"}, {"opts": ["Somente Cano", "20cm", "Marrom Claro"], "sku": "PA11295"}, {"opts": ["Somente Cano", "30cm", "Branco"], "sku": "PA0170"}, {"opts": ["Somente Cano", "30cm", "Azul"], "sku": "PA0184"}, {"opts": ["Somente Cano", "30cm", "Marrom Claro"], "sku": "PA10182"}, {"opts": ["Somente Cano", "40cm", "Branco"], "sku": "PA0171"}, {"opts": ["Somente Cano", "40cm", "Azul"], "sku": "PA0185"}, {"opts": ["Somente Cano", "40cm", "Marrom Claro"], "sku": "PA10183"}, {"opts": ["Somente Cano", "50cm", "Branco"], "sku": "PA0172"}, {"opts": ["Somente Cano", "50cm", "Azul"], "sku": "PA0186"}, {"opts": ["Somente Cano", "50cm", "Marrom Claro"], "sku": "PA10184"}, {"opts": ["Somente Cano", "60cm", "Branco"], "sku": "PA0173"}, {"opts": ["Somente Cano", "60cm", "Azul"], "sku": "PA0187"}, {"opts": ["Somente Cano", "60cm", "Marrom Claro"], "sku": "PA10185"}, {"opts": ["Somente Cano", "70cm", "Branco"], "sku": "PA0174"}, {"opts": ["Somente Cano", "70cm", "Azul"], "sku": "PA0188"}, {"opts": ["Somente Cano", "70cm", "Marrom Claro"], "sku": "PA10186"}, {"opts": ["Somente Cano", "80cm", "Branco"], "sku": "PA0175"}, {"opts": ["Somente Cano", "80cm", "Azul"], "sku": "PA0189"}, {"opts": ["Somente Cano", "80cm", "Marrom Claro"], "sku": "PA10187"}, {"opts": ["Somente Cano", "100cm", "Branco"], "sku": "PA0176"}, {"opts": ["Somente Cano", "100cm", "Azul"], "sku": "PA0190"}, {"opts": ["Somente Cano", "100cm", "Marrom Claro"], "sku": "PA10188"}, {"opts": ["Trava Linha Cano (Borracha)"], "sku": "PA0167"}, {"opts": ["Apoio Anzol Cano"], "sku": "PA0168"}],
+    "skuVariants": [{"opts": ["Porta Pernada Completo - 20cm", "Branco"], "sku": "PA11290", "price": 11.84}, {"opts": ["Porta Pernada Completo - 20cm", "Azul"], "sku": "PA11291", "price": 12.83}, {"opts": ["Porta Pernada Completo - 20cm", "Marrom Claro"], "sku": "PA11292", "price": 12.83}, {"opts": ["Porta Pernada Completo - 30cm", "Branco"], "sku": "PA0143", "price": 13.06}, {"opts": ["Porta Pernada Completo - 30cm", "Azul"], "sku": "PA0159", "price": 14.29}, {"opts": ["Porta Pernada Completo - 30cm", "Marrom Claro"], "sku": "PA0151", "price": 14.29}, {"opts": ["Porta Pernada Completo - 30cm+30cm", "Branco"], "sku": "PA0144", "price": 23.43}, {"opts": ["Porta Pernada Completo - 30cm+30cm", "Azul"], "sku": "PA0160", "price": 25.89}, {"opts": ["Porta Pernada Completo - 30cm+30cm", "Marrom Claro"], "sku": "PA0152", "price": 25.89}, {"opts": ["Porta Pernada Completo - 40cm", "Branco"], "sku": "PA0145", "price": 14.38}, {"opts": ["Porta Pernada Completo - 40cm", "Azul"], "sku": "PA0161", "price": 15.88}, {"opts": ["Porta Pernada Completo - 40cm", "Marrom Claro"], "sku": "PA0153", "price": 15.88}, {"opts": ["Porta Pernada Completo - 50cm", "Branco"], "sku": "PA0146", "price": 15.71}, {"opts": ["Porta Pernada Completo - 50cm", "Azul"], "sku": "PA0162", "price": 17.47}, {"opts": ["Porta Pernada Completo - 50cm", "Marrom Claro"], "sku": "PA0154", "price": 17.47}, {"opts": ["Porta Pernada Completo - 60cm", "Branco"], "sku": "PA0147", "price": 17.23}, {"opts": ["Porta Pernada Completo - 60cm", "Azul"], "sku": "PA0163", "price": 19.3}, {"opts": ["Porta Pernada Completo - 60cm", "Marrom Claro"], "sku": "PA0155", "price": 19.3}, {"opts": ["Porta Pernada Completo - 70cm", "Branco"], "sku": "PA0148", "price": 18.65}, {"opts": ["Porta Pernada Completo - 70cm", "Azul"], "sku": "PA0164", "price": 21}, {"opts": ["Porta Pernada Completo - 70cm", "Marrom Claro"], "sku": "PA0156", "price": 21}, {"opts": ["Porta Pernada Completo - 80cm", "Branco"], "sku": "PA0149", "price": 20.18}, {"opts": ["Porta Pernada Completo - 80cm", "Azul"], "sku": "PA0165", "price": 22.84}, {"opts": ["Porta Pernada Completo - 80cm", "Marrom Claro"], "sku": "PA0157", "price": 22.84}, {"opts": ["Porta Pernada Completo - 100cm", "Branco"], "sku": "PA0150", "price": 23.13}, {"opts": ["Porta Pernada Completo - 100cm", "Azul"], "sku": "PA0166", "price": 26.38}, {"opts": ["Porta Pernada Completo - 100cm", "Marrom Claro"], "sku": "PA0158", "price": 26.38}, {"opts": ["Somente Cano - 20cm", "Branco"], "sku": "PA11293", "price": 4.95}, {"opts": ["Somente Cano - 20cm", "Azul"], "sku": "PA11294", "price": 5.94}, {"opts": ["Somente Cano - 20cm", "Marrom Claro"], "sku": "PA11295", "price": 5.94}, {"opts": ["Somente Cano - 30cm", "Branco"], "sku": "PA0170", "price": 6.17}, {"opts": ["Somente Cano - 30cm", "Azul"], "sku": "PA0184", "price": 7.4}, {"opts": ["Somente Cano - 30cm", "Marrom Claro"], "sku": "PA10182", "price": 7.4}, {"opts": ["Somente Cano - 40cm", "Branco"], "sku": "PA0171", "price": 7.49}, {"opts": ["Somente Cano - 40cm", "Azul"], "sku": "PA0185", "price": 8.99}, {"opts": ["Somente Cano - 40cm", "Marrom Claro"], "sku": "PA10183", "price": 8.99}, {"opts": ["Somente Cano - 50cm", "Branco"], "sku": "PA0172", "price": 8.82}, {"opts": ["Somente Cano - 50cm", "Azul"], "sku": "PA0186", "price": 10.58}, {"opts": ["Somente Cano - 50cm", "Marrom Claro"], "sku": "PA10184", "price": 10.58}, {"opts": ["Somente Cano - 60cm", "Branco"], "sku": "PA0173", "price": 10.34}, {"opts": ["Somente Cano - 60cm", "Azul"], "sku": "PA0187", "price": 12.41}, {"opts": ["Somente Cano - 60cm", "Marrom Claro"], "sku": "PA10185", "price": 12.41}, {"opts": ["Somente Cano - 70cm", "Branco"], "sku": "PA0174", "price": 11.76}, {"opts": ["Somente Cano - 70cm", "Azul"], "sku": "PA0188", "price": 14.11}, {"opts": ["Somente Cano - 70cm", "Marrom Claro"], "sku": "PA10186", "price": 14.11}, {"opts": ["Somente Cano - 80cm", "Branco"], "sku": "PA0175", "price": 13.29}, {"opts": ["Somente Cano - 80cm", "Azul"], "sku": "PA0189", "price": 15.95}, {"opts": ["Somente Cano - 80cm", "Marrom Claro"], "sku": "PA10187", "price": 15.95}, {"opts": ["Somente Cano - 100cm", "Branco"], "sku": "PA0176", "price": 16.24}, {"opts": ["Somente Cano - 100cm", "Azul"], "sku": "PA0190", "price": 19.49}, {"opts": ["Somente Cano - 100cm", "Marrom Claro"], "sku": "PA10188", "price": 19.49}, {"opts": ["Trava Linha Cano (Borracha)", "Branco"], "sku": "PA0167", "price": 4.2}, {"opts": ["Trava Linha Cano (Borracha)", "Azul"], "sku": "PA0167", "price": 4.2}, {"opts": ["Trava Linha Cano (Borracha)", "Marrom Claro"], "sku": "PA0167", "price": 4.2}, {"opts": ["Apoio Anzol Cano", "Branco"], "sku": "PA0168", "price": 2.69}, {"opts": ["Apoio Anzol Cano", "Azul"], "sku": "PA0168", "price": 2.69}, {"opts": ["Apoio Anzol Cano", "Marrom Claro"], "sku": "PA0168", "price": 2.69}],
     "category": "Organização",
     "name": "Porta Pernada Cano",
     "price": "R$ 30,00",
@@ -4077,16 +4093,16 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/porta-pernadas-e-chicotes?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
       [
-        "Azul",
-        "#2563eb"
-      ],
-      [
         "Branco",
         "#ffffff"
       ],
       [
-        "Marrom",
-        "#8a5a36"
+        "Azul",
+        "#2563eb"
+      ],
+      [
+        "Marrom Claro",
+        "#78350f"
       ]
     ],
     "description": "<a href=\"https://www.youtube.com/watch?v=6Zi37etraPI\" title=\"Entenda o Porta Pernada Cano\">Porta Pernada Cano</a> – escolha de maneira fácil a pernada a ser usada, nesse novo organizador de anzóis empatados o pescador tem a opção de guardar 50 ou 100 anzóis (dependendo do tamanho do anzol) nos 50 canais divididos ao redor do produto.<br data-mce-fragment=\"1\">O Porta Pernada Cano é composto por um apoio de anzol, um pedaço de cano de esgoto 50mm padrão de mercado e uma peça de borracha onde é travada a linha, o mesmo será vendido em 8 configurações diferentes 30cm, 40cm, 50cm, 60cm, 70cm, 80cm, 100cm e a opção 30/60cm onde é possível guardar pernadas de 30cm e 60cm no mesmo cano pois o Trava Linha Cano de borracha tem um conector onde é possível estender o conjunto com mais canos.<br data-mce-fragment=\"1\">O comprador pode escolher adquirir o Porta Pernada Cano completo, somente o cano já cortado na medida para 30cm, 40cm, 50cm, 60cm, 70cm, 80cm, 100cm ou comprar somente as peças que fazem sua composição o Apoio Anzol Cano ou o Trava Linha Cano (borracha).",
@@ -4160,71 +4176,140 @@ window.PRODUCTS = [
     "section": "Organização",
     "vars": [
       [
-        "30cm",
-        "R$ 30,00"
+        "Porta Pernada Completo - 20cm",
+        "a partir de R$ 11,84"
       ],
       [
-        "40cm",
-        "R$ 32,00"
+        "Porta Pernada Completo - 30cm",
+        "a partir de R$ 13,06"
       ],
       [
-        "50cm",
-        "R$ 34,00"
+        "Porta Pernada Completo - 30cm+30cm",
+        "a partir de R$ 23,43"
       ],
       [
-        "60cm",
-        "R$ 36,00"
+        "Porta Pernada Completo - 40cm",
+        "a partir de R$ 14,38"
       ],
       [
-        "70cm",
-        "R$ 38,00"
+        "Porta Pernada Completo - 50cm",
+        "a partir de R$ 15,71"
       ],
       [
-        "80cm",
-        "R$ 40,00"
+        "Porta Pernada Completo - 60cm",
+        "a partir de R$ 17,23"
       ],
       [
-        "100cm",
-        "R$ 44,00"
+        "Porta Pernada Completo - 70cm",
+        "a partir de R$ 18,65"
       ],
       [
-        "Apoio de Anzol (Reposição)",
-        "R$ 2,69"
+        "Porta Pernada Completo - 80cm",
+        "a partir de R$ 20,18"
       ],
       [
-        "Trava Linha (Reposição)",
+        "Porta Pernada Completo - 100cm",
+        "a partir de R$ 23,13"
+      ],
+      [
+        "Somente Cano - 20cm",
+        "a partir de R$ 4,95"
+      ],
+      [
+        "Somente Cano - 30cm",
+        "a partir de R$ 6,17"
+      ],
+      [
+        "Somente Cano - 40cm",
+        "a partir de R$ 7,49"
+      ],
+      [
+        "Somente Cano - 50cm",
+        "a partir de R$ 8,82"
+      ],
+      [
+        "Somente Cano - 60cm",
+        "a partir de R$ 10,34"
+      ],
+      [
+        "Somente Cano - 70cm",
+        "a partir de R$ 11,76"
+      ],
+      [
+        "Somente Cano - 80cm",
+        "a partir de R$ 13,29"
+      ],
+      [
+        "Somente Cano - 100cm",
+        "a partir de R$ 16,24"
+      ],
+      [
+        "Trava Linha Cano (Borracha)",
         "R$ 4,20"
+      ],
+      [
+        "Apoio Anzol Cano",
+        "R$ 2,69"
       ]
     ],
     "variantImageMap": {
-      "30cm::Branco": "assets/img/shopify/SomenteCanoBranco_6babf043-cb84-4d3c-a509-a71f1d22dc2d.jpg",
-      "30cm::Azul": "assets/img/shopify/SomenteCanoAzul_9e637403-fc0c-41ff-ad30-463aac2483d6.jpg",
-      "30cm::Marrom": "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
-      "40cm::Branco": "assets/img/shopify/SomenteCanoBranco_3484c864-4b72-4a56-9f2a-753a47a8b43f.jpg",
-      "40cm::Azul": "assets/img/shopify/SomenteCanoAzul_56796aae-3372-4234-9302-ac86f289b659.jpg",
-      "40cm::Marrom": "assets/img/shopify/somente-cano-40cm_e6bca2ec-d0b2-4b79-b6cf-30cf21387706.png",
-      "50cm::Branco": "assets/img/shopify/SomenteCanoBranco_96f76d3f-3fe9-435b-98f7-2337b3bf0bb5.jpg",
-      "50cm::Azul": "assets/img/shopify/SomenteCanoAzul_81c8cb18-1f3e-4158-a0d8-3e648fa9a18e.jpg",
-      "50cm::Marrom": "assets/img/shopify/somente-cano-50cm_6e62cfdb-4e63-492e-8e19-f6db40bd566a.png",
-      "60cm::Branco": "assets/img/shopify/SomenteCanoBranco_33cce13b-6a8a-43eb-a42e-c25925f0b4af.jpg",
-      "60cm::Azul": "assets/img/shopify/SomenteCanoAzul_199cd214-c813-467e-ab16-febbc0324bf1.jpg",
-      "60cm::Marrom": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
-      "70cm::Branco": "assets/img/shopify/SomenteCanoBranco_a9bf3d69-5ee0-47cd-bf79-35b6ca4913ee.jpg",
-      "70cm::Azul": "assets/img/shopify/SomenteCanoAzul_5d4b0b05-fe5e-4b96-9832-942683d50475.jpg",
-      "70cm::Marrom": "assets/img/shopify/somente-cano-70cm_bcfbc84d-03ad-489d-87fa-50f969953709.png",
-      "80cm::Branco": "assets/img/shopify/SomenteCanoBranco_bcf0533f-1e0a-4270-8026-c49a3ac524e4.jpg",
-      "80cm::Azul": "assets/img/shopify/SomenteCanoAzul_307f4a48-a16e-4dd7-9b86-82a35db89632.jpg",
-      "80cm::Marrom": "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
-      "100cm::Branco": "assets/img/shopify/SomenteCanoBranco_84638a37-5753-4183-a71c-301af262fb5d.jpg",
-      "100cm::Azul": "assets/img/shopify/SomenteCanoAzul_60d195b3-66f6-4bad-a6fd-b1fc477a1be5.jpg",
-      "100cm::Marrom": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
-      "Apoio de Anzol (Reposição)": "assets/img/shopify/apoio.png"
+      "Porta Pernada Completo - 20cm::Branco": "assets/img/shopify/branco.png",
+      "Porta Pernada Completo - 20cm::Azul": "assets/img/shopify/20cm-azul.png",
+      "Porta Pernada Completo - 20cm::Marrom Claro": "assets/img/shopify/marrom.png",
+      "Porta Pernada Completo - 30cm::Branco": "assets/img/shopify/30-cm-banco-regua_02370db5-378e-4070-b6e9-852bbfac9cdf.png",
+      "Porta Pernada Completo - 30cm::Azul": "assets/img/shopify/30-cm-azul-regua_376cc6b4-1160-4d5c-b523-be2cbe671648.png",
+      "Porta Pernada Completo - 30cm::Marrom Claro": "assets/img/shopify/30cm-marrom_4aa55bbc-ab4f-44e0-9c37-d56b04cf00f8.png",
+      "Porta Pernada Completo - 30cm+30cm::Branco": "assets/img/shopify/30-e-60-branco-regua_d8f1d52e-603e-4e64-bee6-2f12e81baf32.png",
+      "Porta Pernada Completo - 30cm+30cm::Azul": "assets/img/shopify/40-cm-azul-regua_6495daf4-3220-434a-b994-277e00969399.png",
+      "Porta Pernada Completo - 30cm+30cm::Marrom Claro": "assets/img/shopify/30-60cm_c7df46b8-6d6e-4564-93c0-687a0bdf4f8f.png",
+      "Porta Pernada Completo - 40cm::Branco": "assets/img/shopify/40-cm-banco-regua_58e2bc0c-46f3-4fde-bcf8-6dbb33804f90.png",
+      "Porta Pernada Completo - 40cm::Azul": "assets/img/shopify/40-cm-azul-regua_d32270c8-fe09-48ef-84b3-3fa584aeb439.png",
+      "Porta Pernada Completo - 40cm::Marrom Claro": "assets/img/shopify/40cm_e44bb8d6-7be4-49cb-b370-8d82f215e5c0.png",
+      "Porta Pernada Completo - 50cm::Branco": "assets/img/shopify/50-cm-banco-regua_53482abb-2fa1-4b44-b86b-bace6b09a6de.png",
+      "Porta Pernada Completo - 50cm::Azul": "assets/img/shopify/50-cm-azul-regua_5a0e8a91-19a2-41dc-ab33-cbe413896845.png",
+      "Porta Pernada Completo - 50cm::Marrom Claro": "assets/img/shopify/50cm_bb8b1f4c-7afc-4b13-bbe6-338a58e701a2.png",
+      "Porta Pernada Completo - 60cm::Branco": "assets/img/shopify/60-cm-banco-regua_e6bd7a1e-d2b3-41ed-aa2b-b6998f3431e2.png",
+      "Porta Pernada Completo - 60cm::Azul": "assets/img/shopify/60-cm-azul-regua_4b7c222f-13bb-4c1a-8837-d8aee716065c.png",
+      "Porta Pernada Completo - 60cm::Marrom Claro": "assets/img/shopify/60cm_482d05d6-f5e6-4d36-aedc-454a6a3b573b.png",
+      "Porta Pernada Completo - 70cm::Branco": "assets/img/shopify/70-cm-banco-regua_dc6de201-d58a-44d0-ad6f-dd98fb04f8b3.png",
+      "Porta Pernada Completo - 70cm::Azul": "assets/img/shopify/70-cm-azul-regua_637cc206-7579-4caf-9109-485de694315b.png",
+      "Porta Pernada Completo - 70cm::Marrom Claro": "assets/img/shopify/70cm_6f2163e6-b02b-471b-9e4f-a3c763ca1678.png",
+      "Porta Pernada Completo - 80cm::Branco": "assets/img/shopify/80-cm-banco-regua_71d32656-c353-440b-aedf-c83b4cce2322.png",
+      "Porta Pernada Completo - 80cm::Azul": "assets/img/shopify/80-cm-azul-regua_4b071c6d-019c-41b2-ab5c-7c6f7fe52006.png",
+      "Porta Pernada Completo - 80cm::Marrom Claro": "assets/img/shopify/80cm_0205724a-9fd7-4aef-95f5-389f12d25a67.png",
+      "Porta Pernada Completo - 100cm::Branco": "assets/img/shopify/100-cm-banco-regua_ec48c982-5dc9-4420-924b-acdcdb81e324.png",
+      "Porta Pernada Completo - 100cm::Azul": "assets/img/shopify/100-cm-azul-regua_109bc051-c339-4701-b570-6cfa3965d1ad.png",
+      "Porta Pernada Completo - 100cm::Marrom Claro": "assets/img/shopify/100cm_887f5489-3aa2-4094-be68-091b21b52f17.png",
+      "Somente Cano - 20cm::Branco": "assets/img/shopify/SomenteCanoBranco_33cce13b-6a8a-43eb-a42e-c25925f0b4af.jpg",
+      "Somente Cano - 20cm::Azul": "assets/img/shopify/SomenteCanoAzul_81c8cb18-1f3e-4158-a0d8-3e648fa9a18e.jpg",
+      "Somente Cano - 20cm::Marrom Claro": "assets/img/shopify/somente-cano-40cm_e6bca2ec-d0b2-4b79-b6cf-30cf21387706.png",
+      "Somente Cano - 30cm::Branco": "assets/img/shopify/SomenteCanoBranco_6babf043-cb84-4d3c-a509-a71f1d22dc2d.jpg",
+      "Somente Cano - 30cm::Azul": "assets/img/shopify/SomenteCanoAzul_9e637403-fc0c-41ff-ad30-463aac2483d6.jpg",
+      "Somente Cano - 30cm::Marrom Claro": "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
+      "Somente Cano - 40cm::Branco": "assets/img/shopify/SomenteCanoBranco_3484c864-4b72-4a56-9f2a-753a47a8b43f.jpg",
+      "Somente Cano - 40cm::Azul": "assets/img/shopify/SomenteCanoAzul_56796aae-3372-4234-9302-ac86f289b659.jpg",
+      "Somente Cano - 40cm::Marrom Claro": "assets/img/shopify/somente-cano-40cm_e6bca2ec-d0b2-4b79-b6cf-30cf21387706.png",
+      "Somente Cano - 50cm::Branco": "assets/img/shopify/SomenteCanoBranco_96f76d3f-3fe9-435b-98f7-2337b3bf0bb5.jpg",
+      "Somente Cano - 50cm::Azul": "assets/img/shopify/SomenteCanoAzul_81c8cb18-1f3e-4158-a0d8-3e648fa9a18e.jpg",
+      "Somente Cano - 50cm::Marrom Claro": "assets/img/shopify/somente-cano-50cm_6e62cfdb-4e63-492e-8e19-f6db40bd566a.png",
+      "Somente Cano - 60cm::Branco": "assets/img/shopify/SomenteCanoBranco_33cce13b-6a8a-43eb-a42e-c25925f0b4af.jpg",
+      "Somente Cano - 60cm::Azul": "assets/img/shopify/SomenteCanoAzul_199cd214-c813-467e-ab16-febbc0324bf1.jpg",
+      "Somente Cano - 60cm::Marrom Claro": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
+      "Somente Cano - 70cm::Branco": "assets/img/shopify/SomenteCanoBranco_a9bf3d69-5ee0-47cd-bf79-35b6ca4913ee.jpg",
+      "Somente Cano - 70cm::Azul": "assets/img/shopify/SomenteCanoAzul_5d4b0b05-fe5e-4b96-9832-942683d50475.jpg",
+      "Somente Cano - 70cm::Marrom Claro": "assets/img/shopify/somente-cano-70cm_bcfbc84d-03ad-489d-87fa-50f969953709.png",
+      "Somente Cano - 80cm::Branco": "assets/img/shopify/SomenteCanoBranco_bcf0533f-1e0a-4270-8026-c49a3ac524e4.jpg",
+      "Somente Cano - 80cm::Azul": "assets/img/shopify/SomenteCanoAzul_307f4a48-a16e-4dd7-9b86-82a35db89632.jpg",
+      "Somente Cano - 80cm::Marrom Claro": "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
+      "Somente Cano - 100cm::Branco": "assets/img/shopify/SomenteCanoBranco_84638a37-5753-4183-a71c-301af262fb5d.jpg",
+      "Somente Cano - 100cm::Azul": "assets/img/shopify/SomenteCanoAzul_60d195b3-66f6-4bad-a6fd-b1fc477a1be5.jpg",
+      "Somente Cano - 100cm::Marrom Claro": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png"
     }
   },
   {
     "id": 33,
     "slug": "protetor-de-bobina-p-e-g",
-    "skuVariants": [{"opts": ["P", "1"], "sku": "MRev0097"}, {"opts": ["P", "2"], "sku": "MRev0098"}, {"opts": ["P", "3"], "sku": "MRev0099"}, {"opts": ["P", "4"], "sku": "MRev0100"}, {"opts": ["P", "5"], "sku": "MRev0101"}, {"opts": ["P", "6"], "sku": "MRev0102"}, {"opts": ["G", "1"], "sku": "MRev0074"}, {"opts": ["G", "2"], "sku": "MRev0091"}, {"opts": ["G", "3"], "sku": "MRev0092"}, {"opts": ["G", "4"], "sku": "MRev0093"}, {"opts": ["G", "5"], "sku": "MRev0094"}, {"opts": ["G", "6"], "sku": "MRev2341"}],
+    "skuVariants": [{"opts": ["P - Modelo 1"], "sku": "MRev0097", "price": 6.49}, {"opts": ["P - Modelo 2"], "sku": "MRev0098", "price": 6.49}, {"opts": ["P - Modelo 3"], "sku": "MRev0099", "price": 6.49}, {"opts": ["P - Modelo 4"], "sku": "MRev0100", "price": 6.49}, {"opts": ["P - Modelo 5"], "sku": "MRev0101", "price": 6.49}, {"opts": ["P - Modelo 6"], "sku": "MRev0102", "price": 6.49}, {"opts": ["G - Modelo 1"], "sku": "MRev0074", "price": 6.49}, {"opts": ["G - Modelo 2"], "sku": "MRev0091", "price": 6.49}, {"opts": ["G - Modelo 3"], "sku": "MRev0092", "price": 6.49}, {"opts": ["G - Modelo 4"], "sku": "MRev0093", "price": 6.49}, {"opts": ["G - Modelo 5"], "sku": "MRev0094", "price": 6.49}, {"opts": ["G - Modelo 6"], "sku": "MRev2341", "price": 6.49}],
     "category": "Proteção",
     "name": "Protetor de Bobina P e G",
     "price": "R$ 6,49",
@@ -4232,8 +4317,52 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/protetor-de-bobina-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "6 modelos disponíveis",
-        ""
+        "P - Modelo 1",
+        "R$ 6,49"
+      ],
+      [
+        "P - Modelo 2",
+        "R$ 6,49"
+      ],
+      [
+        "P - Modelo 3",
+        "R$ 6,49"
+      ],
+      [
+        "P - Modelo 4",
+        "R$ 6,49"
+      ],
+      [
+        "P - Modelo 5",
+        "R$ 6,49"
+      ],
+      [
+        "P - Modelo 6",
+        "R$ 6,49"
+      ],
+      [
+        "G - Modelo 1",
+        "R$ 6,49"
+      ],
+      [
+        "G - Modelo 2",
+        "R$ 6,49"
+      ],
+      [
+        "G - Modelo 3",
+        "R$ 6,49"
+      ],
+      [
+        "G - Modelo 4",
+        "R$ 6,49"
+      ],
+      [
+        "G - Modelo 5",
+        "R$ 6,49"
+      ],
+      [
+        "G - Modelo 6",
+        "R$ 6,49"
       ]
     ],
     "description": "Protetor de Bobina Elástico para Molinete<br><br>O Protetor de Bobina Elástico é um inovador acessório desenvolvido para entusiastas da pesca que desejam manter suas linhas de molinete protegidas, organizadas e prontas para uso. Feito com um material elástico de alta qualidade, este produto foi projetado especificamente para cuidar da linha presente na bobina do molinete, proporcionando diversos benefícios aos pescadores.<br><br>Características Principais:<br>1. Proteção Avançada: O material elástico durável do protetor envolve firmemente a bobina do molinete, protegendo a linha contra danos causados por atritos, impactos e arranhões. Isso garante que sua linha permaneça em condições ideais para garantir um desempenho de pesca excelente.<br><br>2. Transporte Seguro: Ao transportar seu equipamento de pesca, o Protetor de Bobina Elástico oferece uma camada adicional de proteção. Ele impede que a linha se solte acidentalmente da bobina durante o transporte, evitando emaranhados e possíveis problemas.<br><br>3. Proteção contra Elementos: O protetor também funciona como uma barreira eficaz contra os elementos naturais. Seja sob o sol escaldante, chuva ou umidade, o material elástico mantém a linha protegida contra os efeitos prejudiciais do clima principalmente quando não estiver em uso por muito tempo.<br><br>4. Facilita o Armazenamento do Snap: Além de cuidar da linha, o Protetor de Bobina Elástico facilita armazenar o snap que está preso ao arranque. Isso elimina a necessidade de usar a unha do carretel para prender o snap, simplificando o processo e economizando tempo.<br><br>5. Fácil de Usar: Com um design inteligente e elástico, o protetor é fácil de colocar e remover da bobina do molinete. Sua flexibilidade permite que se ajuste a uma variedade de tamanhos de molinetes, tornando-o versátil e compatível com diversos modelos.<br><br>- #PescaComMolinete<br>- #AcessóriosDePesca<br>- #ProteçãoDeLinha<br>- #EquipamentoDePesca<br>- #InovaçãoNaPesca<br>- #OrganizaçãoDeLinha<br>- #ProteçãoParaMolinete<br>- #PescaSustentável<br>- #LazerAoArLivre<br>- #TecnologiaPesqueira<br><br>O Protetor de Bobina Elástico é uma solução prática e eficiente para pescadores que desejam preservar suas linhas, garantir a segurança durante o transporte e simplificar a preparação do equipamento. Com sua durabilidade e funcionalidade, ele se torna um aliado essencial para uma experiência de pesca mais agradável e produtiva.<br>",
@@ -4260,7 +4389,7 @@ window.PRODUCTS = [
   {
     "id": 85,
     "slug": "dedeira-chumbada",
-    "skuVariants": [{"opts": ["Hard", "P"], "sku": "PA10020"}, {"opts": ["Hard", "M"], "sku": "PA10021"}, {"opts": ["Hard", "G"], "sku": "PA10022"}, {"opts": ["Soft", "P"], "sku": "PA11643"}, {"opts": ["Soft", "M"], "sku": "PA11642"}, {"opts": ["Soft", "G"], "sku": "PA11641"}, {"opts": ["Ultra Soft", "P"], "sku": "PA11646"}, {"opts": ["Ultra Soft", "M"], "sku": "PA11645"}, {"opts": ["Ultra Soft", "G"], "sku": "PA11644"}],
+    "skuVariants": [{"opts": ["Soft - P"], "sku": "PA11643", "price": 21.45}, {"opts": ["Soft - M"], "sku": "PA11642", "price": 21.45}, {"opts": ["Soft - G"], "sku": "PA11641", "price": 21.45}, {"opts": ["Hard - P"], "sku": "PA10020", "price": 21.45}, {"opts": ["Hard - M"], "sku": "PA10021", "price": 21.45}, {"opts": ["Hard - G"], "sku": "PA10022", "price": 21.45}, {"opts": ["Ultrasoft - P"], "sku": "PA11646", "price": 21.45}, {"opts": ["Ultrasoft - M"], "sku": "PA11645", "price": 21.45}, {"opts": ["Ultrasoft - G"], "sku": "PA11644", "price": 21.45}],
     "category": "Proteção",
     "name": "Dedeira",
     "price": "Sob Consulta",
@@ -4268,16 +4397,40 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br",
     "vars": [
       [
-        "Soft",
-        "Sob Consulta"
+        "Soft - P",
+        "R$ 21,45"
       ],
       [
-        "Hard",
-        "Sob Consulta"
+        "Soft - M",
+        "R$ 21,45"
       ],
       [
-        "Ultrasoft",
-        "Sob Consulta"
+        "Soft - G",
+        "R$ 21,45"
+      ],
+      [
+        "Hard - P",
+        "R$ 21,45"
+      ],
+      [
+        "Hard - M",
+        "R$ 21,45"
+      ],
+      [
+        "Hard - G",
+        "R$ 21,45"
+      ],
+      [
+        "Ultrasoft - P",
+        "R$ 21,45"
+      ],
+      [
+        "Ultrasoft - M",
+        "R$ 21,45"
+      ],
+      [
+        "Ultrasoft - G",
+        "R$ 21,45"
       ]
     ],
     "description": "<p>A Dedeira da Chumbada Oficial é o acessório ideal para proteger os dedos durante os arremessos. Disponível nas variações Soft, Hard e Ultrasoft para se adequar a sua pescaria.</p>",
@@ -4335,12 +4488,46 @@ window.PRODUCTS = [
   {
     "id": 9,
     "slug": "avental-chumbada",
-    "skuVariants": [{"opts": ["1"], "sku": "MRev0073"}, {"opts": ["2"], "sku": "MRev0079"}, {"opts": ["3"], "sku": "MRev0080"}, {"opts": ["4"], "sku": "MRev0081"}, {"opts": ["5"], "sku": "MRev0082"}, {"opts": ["6"], "sku": "MRev0083"}, {"opts": ["7"], "sku": "MRev0084"}, {"opts": ["8"], "sku": "MRev0085"}],
+    "skuVariants": [{"opts": ["Modelo 1"], "sku": "MRev0073", "price": 31.27}, {"opts": ["Modelo 2"], "sku": "MRev0079", "price": 31.27}, {"opts": ["Modelo 3"], "sku": "MRev0080", "price": 31.27}, {"opts": ["Modelo 4"], "sku": "MRev0081", "price": 31.27}, {"opts": ["Modelo 5"], "sku": "MRev0082", "price": 31.27}, {"opts": ["Modelo 6"], "sku": "MRev0083", "price": 31.27}, {"opts": ["Modelo 7"], "sku": "MRev0084", "price": 31.27}, {"opts": ["Modelo 8"], "sku": "MRev0085", "price": 31.27}],
     "category": "Vestuário",
     "name": "Avental Chumbada",
     "price": "R$ 31,27",
     "img": "assets/img/shopify/modelo-6.png",
     "link": "https://chumbadas.com.br/products/avental-chumbada-bolso-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "Modelo 1",
+        "R$ 31,27"
+      ],
+      [
+        "Modelo 2",
+        "R$ 31,27"
+      ],
+      [
+        "Modelo 3",
+        "R$ 31,27"
+      ],
+      [
+        "Modelo 4",
+        "R$ 31,27"
+      ],
+      [
+        "Modelo 5",
+        "R$ 31,27"
+      ],
+      [
+        "Modelo 6",
+        "R$ 31,27"
+      ],
+      [
+        "Modelo 7",
+        "R$ 31,27"
+      ],
+      [
+        "Modelo 8",
+        "R$ 31,27"
+      ]
+    ],
     "description": "<p>Apresentamos o Avental Pescador: Com um tecido de fácil limpeza, este avental foi pensado para os apaixonados por pesca! Com dois bolsos estrategicamente posicionados, você pode guardar seu saca anzol, iscador e outros acessórios, tornando tudo mais prático. Ganhe tempo e agilidade nas etapas da pesca!</p>",
     "images": [
       "assets/img/shopify/modelo-6.png"
@@ -4430,7 +4617,7 @@ window.PRODUCTS = [
   {
     "id": 13,
     "slug": "chapeu-de-palha-chumbada",
-    "skuVariants": [{"opts": ["Default Title"], "sku": "MRev0753"}],
+    "skuVariants": [{"opts": [], "sku": "MRev0753", "price": 43}],
     "category": "Vestuário",
     "name": "Chapéu de Palha Chumbada",
     "price": "R$ 43,00",
@@ -4454,7 +4641,7 @@ window.PRODUCTS = [
   {
     "id": 77,
     "slug": "toalha-de-mao",
-    "skuVariants": [{"opts": ["1"], "sku": "MRev0075"}, {"opts": ["2"], "sku": "MRev0086"}, {"opts": ["3"], "sku": "MRev0087"}, {"opts": ["4"], "sku": "MRev0088"}, {"opts": ["5"], "sku": "MRev0089"}, {"opts": ["6"], "sku": "MRev0090"}],
+    "skuVariants": [{"opts": ["Modelo 1"], "sku": "MRev0075", "price": 10.75}, {"opts": ["Modelo 2"], "sku": "MRev0086", "price": 10.75}, {"opts": ["Modelo 3"], "sku": "MRev0087", "price": 10.75}, {"opts": ["Modelo 4"], "sku": "MRev0088", "price": 10.75}, {"opts": ["Modelo 5"], "sku": "MRev0089", "price": 10.75}, {"opts": ["Modelo 6"], "sku": "MRev0090", "price": 10.75}],
     "category": "Vestuário",
     "name": "Toalha de Mão",
     "price": "R$ 10,75",
@@ -4462,8 +4649,28 @@ window.PRODUCTS = [
     "link": "https://chumbadas.com.br/products/toalha-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
-        "6 modelos disponíveis",
-        ""
+        "Modelo 1",
+        "R$ 10,75"
+      ],
+      [
+        "Modelo 2",
+        "R$ 10,75"
+      ],
+      [
+        "Modelo 3",
+        "R$ 10,75"
+      ],
+      [
+        "Modelo 4",
+        "R$ 10,75"
+      ],
+      [
+        "Modelo 5",
+        "R$ 10,75"
+      ],
+      [
+        "Modelo 6",
+        "R$ 10,75"
       ]
     ],
     "description": "Apresentamos a Toalha Multiuso de Pesca da Chumbada Oficial 60x35: a companheira essencial para todas as suas aventuras à beira d'água. Projetada com paixão e precisão para os entusiastas da pesca, nossa inovadora toalha une funcionalidade, durabilidade e conveniência em um único produto.<br><br>Com suas generosas dimensões de 60x35, a Toalha da Chumbada Oficial oferece uma superfície ampla e altamente absorvente para atender a uma variedade de necessidades durante suas atividades de pesca. Seu material exclusivo, composto por um pano de fácil limpeza, combina a capacidade de absorção de água com uma textura que permite a remoção eficiente de sujeira, lama e detritos dos equipamentos e das mãos sendo de fácil limpeza após o uso.<br><br>O diferencial da Toalha da Chumbada Oficial reside em sua resistência e aderência excepcionais. Seja para segurar um peixe com esporões, enxugar as mãos molhadas ou limpar cuidadosamente seus utensílios, esta toalha foi desenvolvida para superar desafios diversos. A textura do tecido permite que você tenha uma firmeza segura. <br><br>Além disso, a Toalha da Chumbada Oficial 60x35 foi concebida para ser compacta e leve, tornando-a facilmente transportável em suas aventuras. Seu design de alta qualidade garante a longevidade, resistindo ao desgaste do ambiente externo e ao uso frequente.<br><br>**Características da Toalha da Chumbada Oficial 60x35:**<br><br>- Dimensões: 60x35 cm, oferecendo uma área ampla de uso.<br>- Régua Integrada: Possui uma régua de 40 cm para medir com precisão o peixe capturado.<br>- Material de Fácil Limpeza: Permite a remoção rápida de sujeira e detritos.<br>- Absorção Eficiente: Mantém suas mãos, equipamentos e peixes limpos e secos.<br>- Textura de Aderência: Manipule peixes com esporões e utensílios com segurança.<br>- Durabilidade Excepcional: Construída para resistir ao uso árduo ao ar livre.<br>- Leve e Compacta: Perfeita para transportar em suas aventuras de pesca.<br><br>Seja você um pescador experiente ou um amante da natureza que deseja explorar a pesca, a Toalha da Chumbada Oficial 60x35 é a parceira confiável que aprimorará sua experiência. Desde a secagem rápida das mãos até a manipulação cuidadosa de peixes espinhosos e a medição precisa, essa toalha versátil e funcional está pronta para se tornar um item indispensável em todas as suas jornadas de pesca.<br>",
@@ -4486,7 +4693,7 @@ window.PRODUCTS = [
   {
     "id": 78,
     "slug": "tubeneck-tradicional",
-    "skuVariants": [{"opts": ["Branco"], "sku": "MRev0801"}],
+    "skuVariants": [{"opts": [], "sku": "MRev0801", "price": 41}],
     "category": "Vestuário",
     "name": "Tubeneck Tradicional",
     "price": "R$ 41,00",
@@ -4515,12 +4722,22 @@ window.PRODUCTS = [
   {
     "id": 79,
     "slug": "tubeneck-premium",
-    "skuVariants": [{"opts": ["Branco"], "sku": "MRev0802"}, {"opts": ["Azul Escuro"], "sku": "MRev0877"}],
+    "skuVariants": [{"opts": ["Branco"], "sku": "MRev0802", "price": 59}, {"opts": ["Azul Escuro"], "sku": "MRev0877", "price": 59}],
     "category": "Vestuário",
     "name": "Tubeneck Premium",
     "price": "R$ 59,00",
     "img": "assets/img/shopify/Tube-Neck-Premium.capa.png",
     "link": "https://chumbadas.com.br/products/tube-neck-premium?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "swatches": [
+      [
+        "Branco",
+        "#ffffff"
+      ],
+      [
+        "Azul Escuro",
+        "#1e3a8a"
+      ]
+    ],
     "description": "<p>### Tube Neck Premium: Proteção Superior para suas Aventuras ao Ar Livre</p>\n<p>O Tube Neck Premium é o acessório indispensável para quem busca proteção e conforto durante atividades ao ar livre, como pescaria, trilhas, ciclismo e muito mais. Desenvolvido com tecnologia de ponta, este produto oferece uma série de benefícios que garantem a melhor experiência possível.</p>\n<p>#### Características Principais:</p>\n<p>- Proteção Completa: Bloqueia eficazmente os raios solares com proteção solar de 50+ FPS, mantendo sua pele segura dos danos causados pelo sol.<br>- Respiração Facilitada: Furos feitos a laser na posição da boca permitem uma respiração fácil e natural, evitando que seus óculos embacem, essencial durante momentos de concentração, como na pescaria.<br>- Conforto Prolongado: O formato anatômico do Tube Neck Premium se ajusta perfeitamente ao seu rosto, proporcionando conforto durante todo o dia sem causar incômodos.<br>- Alta Qualidade de Material: Fabricado com materiais de altíssima qualidade, este produto oferece controle térmico eficiente, mantendo você fresco mesmo em dias quentes.<br>- Secagem Ultra Rápida: Ideal para atividades que envolvem água ou suor, o tecido de secagem ultra rápida garante que você permaneça seco e confortável.</p>\n<p>#### Benefícios Adicionais:</p>\n<p>- Proteção contra Insetos: Além de proteger contra o sol, o Tube Neck Premium também ajuda a manter insetos indesejados longe do seu rosto.<br>- Versatilidade: Pode ser usado de diversas formas – como máscara, bandana, cachecol ou faixa de cabelo – adaptando-se às suas necessidades específicas.<br>- Estilo e Funcionalidade: Com um design moderno e prático, o Tube Neck Premium não só oferece proteção e conforto, mas também adiciona um toque de estilo às suas aventuras.</p>\n<p>#### Ideal Para:</p>\n<p>- Pescadores<br>- Ciclistas<br>- Caminhantes e Trilheiros<br>- Praticantes de esportes ao ar livre<br>- Qualquer pessoa que precise de proteção e conforto sob o sol</p>\n<p>Escolha o Tube Neck Premium e descubra a combinação perfeita de proteção, conforto e praticidade para suas atividades ao ar livre. Proteja-se com estilo e eficiência em qualquer situação.</p>\n<!----><!---->",
     "images": [
       "assets/img/shopify/Tube-Neck-Premium.capa.png",
@@ -4960,7 +5177,7 @@ window.PRODUCTS = [
   {
     "id": 43,
     "slug": "micanga-de-vidro",
-    "skuVariants": [{"opts": ["Amarela"], "sku": "PA10071"}, {"opts": ["Areia"], "sku": "PA10075"}, {"opts": ["Azul Clara"], "sku": "PA10076"}, {"opts": ["Azul Escura"], "sku": "PA10077"}, {"opts": ["Camaleão"], "sku": "PA10078"}, {"opts": ["Cristal"], "sku": "PA10079"}, {"opts": ["Laranja"], "sku": "PA10080"}, {"opts": ["Marrom"], "sku": "PA10081"}, {"opts": ["Rosa"], "sku": "PA10082"}, {"opts": ["Verde"], "sku": "PA10083"}, {"opts": ["Vermelha"], "sku": "PA10084"}],
+    "skuVariants": [{"opts": ["Pacote com 500", "Amarela"], "sku": "PA10071", "price": 6.2}, {"opts": ["Pacote com 500", "Areia"], "sku": "PA10075", "price": 6.2}, {"opts": ["Pacote com 500", "Azul Clara"], "sku": "PA10076", "price": 6.2}, {"opts": ["Pacote com 500", "Azul Escura"], "sku": "PA10077", "price": 6.2}, {"opts": ["Pacote com 500", "Camaleão"], "sku": "PA10078", "price": 6.2}, {"opts": ["Pacote com 500", "Cristal"], "sku": "PA10079", "price": 6.2}, {"opts": ["Pacote com 500", "Laranja"], "sku": "PA10080", "price": 6.2}, {"opts": ["Pacote com 500", "Marrom"], "sku": "PA10081", "price": 6.2}, {"opts": ["Pacote com 500", "Rosa"], "sku": "PA10082", "price": 6.2}, {"opts": ["Pacote com 500", "Verde"], "sku": "PA10083", "price": 6.2}, {"opts": ["Pacote com 500", "Vermelha"], "sku": "PA10084", "price": 6.2}],
     "category": "Montagem",
     "name": "Miçanga de Vidro",
     "price": "R$ 6,20",

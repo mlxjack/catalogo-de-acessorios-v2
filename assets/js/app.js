@@ -108,14 +108,35 @@ function escapeHTML(str) {
   }[c]));
 }
 
+// Cor e variação "gêmeas": quando as duas listas têm o mesmo nome (ex.: atrativos
+// holográficos), escolher uma já escolhe a outra. Sem isso o cliente poderia montar
+// uma combinação que não existe no Shopify e o pedido sairia sem SKU.
+function twinVarIndex(p, colorName) {
+  if (!p.vars || !p.swatches || !colorName) return -1;
+  const n = normalizeText(colorName).trim();
+  return p.vars.findIndex((v) => normalizeText(v[0]).trim() === n);
+}
+
+function twinColorName(p, varName) {
+  if (!p.vars || !p.swatches || !varName) return '';
+  const n = normalizeText(varName).trim();
+  const s = p.swatches.find((sw) => normalizeText(sw[0]).trim() === n);
+  return s ? s[0] : '';
+}
+
 // Acha o SKU real do Shopify (produto.skuVariants, importado do CSV) que bate
 // com a cor + variação que o cliente selecionou agora. Só retorna um SKU
 // quando existe exatamente UMA correspondência — quando a combinação é
 // ambígua (ex: o site só mostra tamanho, mas o Shopify tem tamanho+cor com
 // SKUs diferentes) ou não existe skuVariants pro produto, retorna null em vez
 // de arriscar mandar o código errado pro vendedor.
-function resolveSku(p, colorName, varLabel) {
+function findSkuEntry(p, colorName, varLabel) {
   if (!p.skuVariants || !p.skuVariants.length) return null;
+  // Produto sem nada para escolher e com um único SKU no Shopify: é esse.
+  const unicos = Array.from(new Set(p.skuVariants.map((c) => c.sku).filter(Boolean)));
+  if (unicos.length === 1 && !(p.swatches && p.swatches.length) && !(p.vars && p.vars.length > 1)) {
+    return p.skuVariants.find((c) => c.sku === unicos[0]);
+  }
   const norm = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').trim();
   const wanted = [colorName, varLabel].filter(Boolean).map(norm);
   if (!wanted.length) return null;
@@ -123,7 +144,7 @@ function resolveSku(p, colorName, varLabel) {
   // Combined size/pack labels explicitly identify a single imported SKU.
   const labeled = p.skuVariants.filter(v => v.label && norm(v.label) === norm(varLabel)
     && (!colorName || (v.opts || []).map(norm).includes(norm(colorName))));
-  if (labeled.length === 1) return labeled[0].sku.replace(/^'/, '');
+  if (labeled.length === 1) return labeled[0];
 
 
   // Exact match first — a substring check alone would wrongly match "G"
@@ -147,7 +168,12 @@ function resolveSku(p, colorName, varLabel) {
   }
   const skus = Array.from(new Set(candidates.map((c) => c.sku).filter(Boolean)));
   if (skus.length !== 1) return null;
-  return skus[0].replace(/^'/, '');
+  return candidates.find((c) => c.sku === skus[0]);
+}
+
+function resolveSku(p, colorName, varLabel) {
+  const entry = findSkuEntry(p, colorName, varLabel);
+  return entry ? String(entry.sku).replace(/^'/, '') : null;
 }
 
 // Função auxiliar para normalizar textos para pesquisa (remover acentos)
@@ -726,6 +752,8 @@ function renderProductDetail(p) {
   if (state.selectedVariation[p.id] === undefined) {
     state.selectedVariation[p.id] = 0; // Primeira variação por padrão
   }
+  const gemeaInicial = twinVarIndex(p, state.selectedColor[p.id]);
+  if (gemeaInicial !== -1) state.selectedVariation[p.id] = gemeaInicial;
 
   // Preço da variação ativa ou geral
   const currentVarIndex = state.selectedVariation[p.id];
@@ -1007,6 +1035,34 @@ function initDetailSelectors(p) {
     };
   }
 
+  function setActiveVar(varIndex) {
+    state.selectedVariation[p.id] = varIndex;
+    if (sectionVars) {
+      sectionVars.querySelectorAll('.var-btn').forEach((b, index) => {
+        const isActive = index === varIndex;
+        b.classList.toggle('active', isActive);
+        b.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+      });
+    }
+    if (CONFIG.showPrices && priceDisplay && p.vars && p.vars[varIndex]) {
+      const varPrice = p.vars[varIndex][1] || p.price || 'Sob Consulta';
+      priceDisplay.textContent = varPrice;
+      priceDisplay.classList.toggle('empty', varPrice === 'Sob Consulta');
+    }
+  }
+
+  function setActiveColor(colorName) {
+    state.selectedColor[p.id] = colorName;
+    if (sectionColors) {
+      sectionColors.querySelectorAll('.swatch-btn').forEach(b => {
+        const isActive = b.dataset.colorName === colorName;
+        b.classList.toggle('active', isActive);
+        b.setAttribute('aria-checked', isActive ? 'true' : 'false');
+      });
+    }
+    if (colorLabel) colorLabel.textContent = colorName;
+  }
+
   // Seletor de Cores
   if (sectionColors) {
     sectionColors.addEventListener('click', e => {
@@ -1025,6 +1081,9 @@ function initDetailSelectors(p) {
 
       // Atualizar texto do label de cor
       if (colorLabel) colorLabel.textContent = colorName;
+
+      const twinIdx = twinVarIndex(p, colorName);
+      if (twinIdx !== -1 && twinIdx !== state.selectedVariation[p.id]) setActiveVar(twinIdx);
 
       // Atualizar galeria (revela as fotos da cor selecionada e troca a foto principal)
       refreshGallery(colorName);
@@ -1055,6 +1114,9 @@ function initDetailSelectors(p) {
         priceDisplay.textContent = varPrice;
         priceDisplay.classList.toggle('empty', varPrice === 'Sob Consulta');
       }
+
+      const twinColor = twinColorName(p, p.vars[varIndex][0]);
+      if (twinColor && twinColor !== state.selectedColor[p.id]) setActiveColor(twinColor);
 
       // Atualizar galeria (revela as fotos da variação selecionada e troca a foto principal)
       if (p.vars && p.vars[varIndex]) {
@@ -1136,7 +1198,7 @@ function initDetailSelectors(p) {
       const varLabel = p.vars && p.vars[varIndex] ? p.vars[varIndex][0] : '';
       const variantParts = [];
       if (colorName) variantParts.push('Cor: ' + colorName);
-      if (varLabel) variantParts.push(varLabel);
+      if (varLabel && !(colorName && normalizeText(varLabel).trim() === normalizeText(colorName).trim())) variantParts.push(varLabel);
       window.MinhaSelecao.addItem({
         catalog: 'acessorios',
         productId: String(p.id),
