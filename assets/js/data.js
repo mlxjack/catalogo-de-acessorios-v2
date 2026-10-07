@@ -207,7 +207,7 @@ window.PRODUCTS = [
       ],
       [
         "12# (0,620mm) - 16kg",
-        "R$ 79,91"
+        "R$ 89,91"
       ]
     ],
     "variantImageMap": {
