@@ -210,6 +210,22 @@ window.PRODUCTS = [
         "R$ 79,91"
       ]
     ],
+    "variantImageMap": {
+      "0.5# (0,121mm) - 2kg": "assets/img/shopify/linhaajing.jpg",
+      "1# (0,171mm) - 2,3kg": "assets/img/shopify/1_7e7f6ca2-e9fa-4fd2-a353-bd87ca20f9f0.jpg",
+      "1.2# (0,191mm) - 2,8kg": "assets/img/shopify/1_2.jpg",
+      "1.5# (0,209mm) - 3,5kg": "assets/img/shopify/1_5.jpg",
+      "2# (0,242mm) - 4kg": "assets/img/shopify/2_b6ee5156-7837-4a57-81f6-6099366220f0.jpg",
+      "3# (0,296mm) - 4,5kg": "assets/img/shopify/3.jpg",
+      "3.5# (0,316mm) - 5,5kg": "assets/img/shopify/3_5.jpg",
+      "4.5# (0,358mm) - 6kg": "assets/img/shopify/4_5.jpg",
+      "5# (0,382mm) - 7,5kg": "assets/img/shopify/5.jpg",
+      "6# (0,418mm) - 8kg": "assets/img/shopify/6_745b4c8c-ff0f-4ba3-9ce3-1fd17fdc3882.jpg",
+      "8# (0,483mm) - 9kg": "assets/img/shopify/8.jpg",
+      "9# (0,520mm) - 11kg": "assets/img/shopify/9.jpg",
+      "10# (0,540mm) - 13kg": "assets/img/shopify/10.jpg",
+      "12# (0,620mm) - 16kg": "assets/img/shopify/12.jpg"
+    },
     "description": "<p>Linha de Multifilamento 4X – 300 metros | Chumbada Oficial</p>\n<p>Chegou a linha que fala a verdade.<br>A Verax 4X 300 m da Chumbada Oficial não é só mais uma multifilamento — é um novo padrão no mercado.</p>\n<p>Desenvolvida com alta tecnologia e testada por mais de 1 ano em condições reais de pesca, essa linha entrega o que promete: resistência de verdade e especificações honestas.</p>\n<p>O grande diferencial está no nome Verax — do latim, verdade, sinceridade.<br>Enquanto muitas marcas “maquiam” diâmetro e resistência, a Chumbada Oficial fez o caminho mais difícil: mostrar a realidade.</p>\n<p>👉 Espessura real<br>👉 Capacidade de tração real<br>👉 Sem exagero, sem enganação</p>\n<p>Compare com qualquer outra linha do mercado.<br>Meça. Teste. Coloque lado a lado.<br>Você vai perceber: a Verax entrega exatamente o que está na embalagem.</p>\n<p>Além da transparência, você leva uma linha:<br>✔ 4 fios de alta resistência<br>✔ Excelente sensibilidade<br>✔ Ótima performance de arremesso<br>✔ Baixa memória<br>✔ Alta durabilidade</p>\n<p>Se você busca performance, pode até encontrar várias opções.<br>Mas se você busca performance com verdade, a escolha é uma só.</p>\n<p>Chumbada Oficial – aqui a pesca é levada a sério. 🎣</p>\n<p>#ChumbadaOficial #LinhaVerax #Multifilamento #PescaEsportiva #Ajing #Ultralight #PescaDePraia #PescaBrasil #FishingLife #GearDePesca #PesqueESolte</p>",
     "images": [
       "assets/img/shopify/pesca-12.jpg",
@@ -2891,7 +2907,7 @@ window.PRODUCTS = [
   {
     "id": 27,
     "slug": "nano-pipe-borracha",
-    "skuVariants": [{"opts": ["Verde"], "sku": "PA11654"}, {"opts": ["Preto"], "sku": "PA10064"}, {"opts": ["Vermelho"], "sku": "PA11439"}, {"opts": ["Roxo"], "sku": "PA11438"}, {"opts": ["Rosa"], "sku": "PA11437"}, {"opts": ["Laranja"], "sku": "PA11436"}, {"opts": ["Cinza"], "sku": "PA11435"}, {"opts": ["Branco"], "sku": "PA11434"}, {"opts": ["Azul"], "sku": "PA11433"}, {"opts": ["Amarelo"], "sku": "PA11432"}],
+    "skuVariants": [{"opts": ["Verde"], "sku": "PA11654"}, {"opts": ["Preto"], "sku": "PA10064"}, {"opts": ["Vermelho"], "sku": "PA11439"}, {"opts": ["Roxo"], "sku": "PA11438"}, {"opts": ["Rosa"], "sku": "PA11437"}, {"opts": ["Laranja"], "sku": "PA11436"}, {"opts": ["Cinza"], "sku": "PA11435"}, {"opts": ["Branco"], "sku": "PA11434"}, {"opts": ["Amarelo"], "sku": "PA11432"}],
     "section": "Suportes",
     "category": "Suportes",
     "name": "Nano Pipe Borracha",
@@ -2932,10 +2948,6 @@ window.PRODUCTS = [
         "#ffffff"
       ],
       [
-        "Azul",
-        "#2563eb"
-      ],
-      [
         "Amarelo",
         "#facc15"
       ]
@@ -2944,7 +2956,6 @@ window.PRODUCTS = [
     "images": [
       "assets/img/shopify/nano-pipe-capa.png",
       "assets/img/shopify/Nano-Pipe-Amarelo.png",
-      "assets/img/shopify/Nano-Pipe-azul.png",
       "assets/img/shopify/Nano-Pipe-branco.png",
       "assets/img/shopify/Nano-Pipe-cinza.png",
       "assets/img/shopify/Nano-Pipe-laranja.png",
