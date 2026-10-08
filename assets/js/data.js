@@ -62,6 +62,33 @@ window.ECO_LINE = {
   ]
 };
 
+// Produtos para pesca em pesqueiro (filtro "Pesqueiro" do catálogo). Lista por slug.
+window.PESQUEIRO_SLUGS = [
+  "secretaria-paredao",
+  "mini-secretaria",
+  "estilingue",
+  "cobreno-p-m-e-g",
+  "micro-snap-cobre-no-m",
+  "snap-universal-cobreno-g",
+  "suporte-horizontal-completo",
+  "regua-cantoneira",
+  "atrativo-comum",
+  "atrativo-holografico",
+  "mini-atrativo-comum",
+  "mini-atrativo-holografico",
+  "saca-anzol-de-competicao-inox",
+  "stopper-oliva-p-m-g",
+  "stopper-cilindrico-p-m-g",
+  "micanga-de-vidro",
+  "destorcedores",
+  "destorcedor-triplo",
+  "snap-single",
+  "snap-double",
+  "snap-gota",
+  "snap-frances",
+  "amarra-vara-velcro"
+];
+
 window.PRODUCTS = [
   {
     "id": 733,
