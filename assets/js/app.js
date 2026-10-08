@@ -9,7 +9,6 @@ const PRODUCT_INDICATORS = window.PRODUCT_INDICATORS || {};
 const state = {
   searchQuery: '',
   selectedCategory: 'Todos',
-  pesqueiro: false,      // Filtro "Pesqueiro" (produtos para pesca em pesqueiro)
   selectedColor: {},     // Salva cor selecionada por id de produto: { [productId]: colorName }
   selectedVariation: {}, // Salva variação selecionada por id de produto: { [productId]: varIndex }
 };
@@ -39,7 +38,6 @@ if (logoNav) {
   logoNav.addEventListener('click', () => {
     state.searchQuery = '';
     state.selectedCategory = 'Todos';
-    state.pesqueiro = false;
   });
 }
 
@@ -68,8 +66,8 @@ function router() {
       window.location.hash = '#/';
     }
   } else if (hash === '#/pesqueiro') {
-    // Atalho do menu: catálogo já filtrado para produtos de pesqueiro
-    state.pesqueiro = true;
+    // Link direto: catálogo já filtrado em "Pesqueiro"
+    state.selectedCategory = 'Pesqueiro';
     renderCatalog();
     updateSEOMeta(
       "Pesqueiro | Chumbada Oficial",
@@ -97,8 +95,6 @@ function router() {
 function setActiveNav(id) {
   const navHome = document.getElementById('nav-home');
   const navEco = document.getElementById('nav-eco');
-  const navPesq = document.getElementById('nav-pesqueiro');
-  if (navPesq) navPesq.classList.toggle('active', id === 'nav-pesqueiro');
   if (navHome) navHome.classList.toggle('active', id === 'nav-home');
   if (navEco) navEco.classList.toggle('active', id === 'nav-eco');
 }
@@ -381,7 +377,7 @@ function buildGalleryThumbsHTML(p, images) {
 
 function renderCatalog() {
   // Destacar menu
-  setActiveNav(state.pesqueiro ? 'nav-pesqueiro' : 'nav-home');
+  setActiveNav('nav-home');
 
   // Encontrar o produto em destaque (featured: true) ou o primeiro produto
   const featuredProduct = PRODUCTS.find(p => p.featured) || PRODUCTS[0];
@@ -436,11 +432,6 @@ function renderCatalog() {
               <input id="search-input" type="search" class="search-input" placeholder="O que você está procurando?" autocomplete="off" value="${escapeHTML(state.searchQuery)}">
             </div>
             
-            <button class="pesqueiro-toggle ${state.pesqueiro ? 'active' : ''}" id="pesqueiro-toggle" type="button" aria-pressed="${state.pesqueiro ? 'true' : 'false'}" title="Mostrar só os produtos para pesqueiro">
-              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21L17 5"/><path d="M17 5c3 0 4 2 4 5"/><circle cx="21" cy="13" r="1.6"/></svg>
-              <span>Pesqueiro</span>
-            </button>
-
             <div class="menu-dropdown-wrapper">
               <button class="hamburger-menu-btn" id="hamburger-menu-btn" type="button" aria-expanded="false" aria-label="Menu de Categorias">
                 <svg class="hamburger-icon" viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -480,7 +471,6 @@ function renderCatalog() {
   // Iniciar componentes do catálogo
   setupFilters();
   setupSearch();
-  setupPesqueiroToggle();
   renderGrid();
 }
 
@@ -493,7 +483,7 @@ function setupFilters() {
   if (!dropdown || !btn || !activeLabel) return;
 
   // Extrair categorias únicas de PRODUCTS
-  const categories = ['Todos', ...Array.from(new Set(PRODUCTS.map(p => p.category))).sort((a,b) => a.localeCompare(b, 'pt-BR'))];
+  const categories = ['Todos', 'Pesqueiro', ...Array.from(new Set(PRODUCTS.map(p => p.category))).sort((a,b) => a.localeCompare(b, 'pt-BR'))];
 
   // Definir categoria ativa inicial
   activeLabel.textContent = state.selectedCategory;
@@ -549,22 +539,6 @@ function isPesqueiro(p) {
   return PESQUEIRO_SET.has(p.slug);
 }
 
-// Botão "Pesqueiro": liga/desliga o filtro (combina com busca e categoria)
-function setupPesqueiroToggle() {
-  const btn = document.getElementById('pesqueiro-toggle');
-  if (!btn) return;
-  btn.addEventListener('click', () => {
-    state.pesqueiro = !state.pesqueiro;
-    btn.classList.toggle('active', state.pesqueiro);
-    btn.setAttribute('aria-pressed', state.pesqueiro ? 'true' : 'false');
-    setActiveNav(state.pesqueiro ? 'nav-pesqueiro' : 'nav-home');
-    // Mantém a URL coerente (sem disparar o roteador)
-    const target = state.pesqueiro ? '#/pesqueiro' : '#/';
-    if (window.location.hash !== target) history.replaceState(null, '', target);
-    renderGrid();
-  });
-}
-
 // Configurar campo de pesquisa
 function setupSearch() {
   const searchInput = document.getElementById('search-input');
@@ -586,7 +560,8 @@ function renderGrid() {
 
   // Filtrar produtos com base no estado de busca e categoria
   const filtered = PRODUCTS.filter(p => {
-    const matchesCategory = state.selectedCategory === 'Todos' || p.category === state.selectedCategory;
+    const matchesCategory = state.selectedCategory === 'Todos' ||
+      (state.selectedCategory === 'Pesqueiro' ? isPesqueiro(p) : p.category === state.selectedCategory);
     
     let matchesSearch = true;
     if (queryNorm) {
@@ -603,11 +578,11 @@ function renderGrid() {
                       swatchNamesNorm.includes(queryNorm);
     }
 
-    return matchesCategory && matchesSearch && (!state.pesqueiro || isPesqueiro(p));
+    return matchesCategory && matchesSearch;
   });
 
   // Atualizar contador de resultados
-  countLabel.textContent = `${filtered.length} produto${filtered.length === 1 ? '' : 's'}${state.pesqueiro ? ' para pesqueiro' : ''}`;
+  countLabel.textContent = `${filtered.length} produto${filtered.length === 1 ? '' : 's'}${state.selectedCategory === 'Pesqueiro' ? ' para pesqueiro' : ''}`;
 
   // Se nenhum for encontrado, exibir estado vazio
   if (filtered.length === 0) {
