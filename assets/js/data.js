@@ -900,17 +900,13 @@ window.PRODUCTS = [
     "id": 24,
     "slug": "iscador-duplo-branco-ou-cristal",
     "alwaysVisibleImages": ["assets/img/shopify/iscador-preto.png"],
-    "skuVariants": [{"opts": ["Branco"], "sku": "PA10385"}, {"opts": ["Cristal"], "sku": "PA11460"}, {"opts": ["Preto"], "sku": "WPA2679"}],
+    "skuVariants": [{"opts": ["Cristal"], "sku": "PA11460"}, {"opts": ["Preto"], "sku": "WPA2679"}],
     "category": "Acessórios",
     "name": "Iscador Duplo Branco ou Cristal",
     "price": "R$ 14,70",
     "img": "assets/img/shopify/iscador-duplo-capa.png",
     "link": "https://chumbadas.com.br/products/iscador-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
-      [
-        "Branco",
-        "#ffffff"
-      ],
       [
         "Cristal",
         "rgba(255,255,255,0.4)"
