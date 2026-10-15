@@ -899,6 +899,7 @@ window.PRODUCTS = [
   {
     "id": 24,
     "slug": "iscador-duplo-branco-ou-cristal",
+    "alwaysVisibleImages": ["assets/img/shopify/iscador-preto.png"],
     "skuVariants": [{"opts": ["Branco"], "sku": "PA10385"}, {"opts": ["Cristal"], "sku": "PA11460"}, {"opts": ["Preto"], "sku": "WPA2679"}],
     "category": "Acessórios",
     "name": "Iscador Duplo Branco ou Cristal",

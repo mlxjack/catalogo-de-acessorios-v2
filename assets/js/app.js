@@ -341,7 +341,8 @@ function getVisibleGalleryImages(p, colorName, varName) {
   if (varLabels.length + colorLabels.length <= 1) return p.images.slice();
 
   const allLabels = [...varLabels, ...colorLabels];
-  const isVariantSpecific = img => allLabels.some(label => imageMatchesText(img, label));
+  const alwaysVisible = p.alwaysVisibleImages || [];
+  const isVariantSpecific = img => !alwaysVisible.includes(img) && allLabels.some(label => imageMatchesText(img, label));
   const matchesActive = img => imageMatchesText(img, colorName) || imageMatchesText(img, varName);
 
   const filtered = p.images.filter(img => !isVariantSpecific(img) || matchesActive(img));
