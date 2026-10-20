@@ -329,11 +329,13 @@ function getComboImage(p, colorName, varName) {
 function getVisibleGalleryImages(p, colorName, varName) {
   if (!p.images) return [];
 
-  // Modo estrito: produto com mapa exato foto -> variação (não mantém fotos genéricas
-  // sempre visíveis; só mostra a foto da combinação de cor/variação ativa no momento)
+  // Modo estrito: produto com mapa exato foto -> variação (só mostra a foto da combinação
+  // de cor/variação ativa, mais as fotos listadas em alwaysVisibleImages, ex.: fotos de uso)
   if (p.variantImageMap) {
     const comboImg = getComboImage(p, colorName, varName);
-    return comboImg ? [comboImg] : (p.img ? [p.img] : p.images.slice(0, 1));
+    const first = comboImg || p.img || p.images[0];
+    const extras = (p.alwaysVisibleImages || []).filter(img => img !== first);
+    return [first, ...extras];
   }
 
   const varLabels = p.vars ? p.vars.map(v => v[0]) : [];
