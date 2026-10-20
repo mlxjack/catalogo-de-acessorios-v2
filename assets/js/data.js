@@ -179,6 +179,12 @@ window.PRODUCTS = [
     },
     "section": "Lançamentos",
     "featured": true,
+    "alwaysVisibleImages": [
+      "assets/img/shopify/suporte-paredao-uso-01.png",
+      "assets/img/shopify/suporte-paredao-uso-02.png",
+      "assets/img/shopify/suporte-paredao-uso-03.png",
+      "assets/img/shopify/suporte-paredao-uso-04.png"
+    ],
     "variantImageMap": {
       "Azul": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/suporte_pared_o_azul.png?v=1792505216",
       "Branco": "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/SuporteOrganizadorPlasticoBrancoemFundoPreto.png?v=1792505198",
