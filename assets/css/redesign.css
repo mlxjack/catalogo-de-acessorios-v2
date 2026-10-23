@@ -424,10 +424,6 @@ body {
   .showcase-list { display: flex; gap: 14px; overflow-x: auto; scroll-snap-type: x mandatory; margin: 0 -5%; padding: 0 5% 12px; scrollbar-width: none; }
   .showcase-list::-webkit-scrollbar { display: none; }
   .showcase-list .banner-card { flex: 0 0 min(86vw, 620px); min-width: 560px; scroll-snap-align: center; }
-  .detail-banner { overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; aspect-ratio: auto; }
-  .detail-banner::-webkit-scrollbar { display: none; }
-  .detail-banner button { min-width: 640px; aspect-ratio: 2172 / 724; }
-  .detail-banner .zoom-hint { display: none; }
   .products-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
   .product-card-media { height: 170px; }
   .product-card-title { font-size: 15px; }
@@ -613,3 +609,9 @@ body {
 .product-card:hover .product-card-footer .product-card-action { background: var(--brand); border-color: var(--brand); color: #fff; box-shadow: var(--shadow-glow); }
 .product-card:hover .product-card-footer .product-card-action::after { color: #fff; }
 .product-card-previews { min-height: 34px; }
+
+/* Banner do produto no celular: inteiro na largura da tela (toque amplia) */
+@media (max-width: 768px) {
+  .detail-banner { border-radius: 16px; margin-bottom: 24px; }
+  .detail-banner .zoom-hint { right: 8px; bottom: 8px; padding: 5px 9px; font-size: 10px; }
+}
