@@ -20,8 +20,8 @@ const logoNav = document.getElementById('logo-nav');
 // Inicialização da aplicação
 function init() {
   try {
-    router();
-    window.addEventListener('hashchange', router);
+    router(true);
+    window.addEventListener('hashchange', () => router());
   } catch (err) {
     console.error("Erro na inicialização do roteador:", err);
   }
@@ -42,9 +42,19 @@ if (logoNav) {
 }
 
 // Roteador SPA baseado em Hash
-function router() {
+function router(initial) {
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const run = () => { routeRender(); if (window.Motion) window.Motion.refresh(); };
+  if (!initial && document.startViewTransition && !reduce) {
+    try { const vt = document.startViewTransition(run); vt.ready.catch(() => {}); vt.updateCallbackDone.catch(() => {}); vt.finished.catch(() => {}); } catch (e) { run(); }
+  } else {
+    run();
+  }
+}
+
+function routeRender() {
   const hash = window.location.hash || '#/';
-  
+
   // Rolar para o topo ao mudar de rota de forma compatível e segura
   try {
     window.scrollTo({ top: 0, behavior: 'auto' });
@@ -374,6 +384,25 @@ function buildGalleryThumbsHTML(p, images) {
   `;
 }
 
+
+// ==========================================
+// Banners por produto (assets/img/banners/<slug>.webp, mapa em banners.js)
+// Associação exata por slug: produto sem entrada em PRODUCT_BANNERS não recebe banner.
+// ==========================================
+const PRODUCT_BANNERS = window.PRODUCT_BANNERS || {};
+function hasBanner(p) { return Object.prototype.hasOwnProperty.call(PRODUCT_BANNERS, p.slug); }
+function bannerImgHTML(p, loading) {
+  return `<img src="assets/img/banners/${p.slug}.webp" srcset="assets/img/banners/${p.slug}-sm.webp 800w, assets/img/banners/${p.slug}.webp 1600w" sizes="(max-width: 768px) 640px, 1200px" width="1600" height="533" alt="Banner ${escapeHTML(p.name)}" loading="${loading || 'lazy'}" decoding="async">`;
+}
+
+// Troca a foto principal com uma entrada suave (sem mexer em layout)
+function swapMainImg(img, src) {
+  img.src = src;
+  img.classList.remove('swap');
+  void img.offsetWidth;
+  img.classList.add('swap');
+}
+
 // ==========================================
 // 1. RENDERIZAÇÃO DA PÁGINA DE CATÁLOGO (HOME)
 // ==========================================
@@ -385,25 +414,46 @@ function renderCatalog() {
   // Encontrar o produto em destaque (featured: true) ou o primeiro produto
   const featuredProduct = PRODUCTS.find(p => p.featured) || PRODUCTS[0];
 
-  // Estrutura HTML da home (Hero + Seção de Filtros + Grid de Produtos)
+  const totalCats = new Set(PRODUCTS.map(p => p.category)).size;
+  const pesqueiroCount = PRODUCTS.filter(isPesqueiro).length;
+  const eco = window.ECO_LINE || { intro: '', products: [] };
+  const ecoThumbs = eco.products.slice(0, 4).map(e => PRODUCTS.find(p => p.slug === e.slug)).filter(Boolean)
+    .map(p => `<img src="${p.img}" alt="${escapeHTML(p.name)}" loading="lazy" width="112" height="112">`).join('');
+
+  // Estrutura HTML da home (Hero + Vitrine + Faixa ECO + Busca/Filtros + Grid)
   appContainer.innerHTML = `
     <div class="view-fade">
-      <!-- Seção Hero Esportiva -->
       <section class="hero" aria-label="Apresentação do Catálogo">
+        <div class="hero-line" aria-hidden="true" data-parallax="-0.06">
+          <svg viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice">
+            <path class="line-path" d="M1180 -20 C1180 220 1010 260 1060 470 S1230 640 1150 720"/>
+            <path class="line-path b" d="M1300 -20 C1290 160 1370 280 1290 420 S1180 520 1215 590"/>
+            <path class="hook" d="M1150 720 C1150 770 1195 790 1215 755 M1215 755 L1205 744 M1215 755 L1226 747"/>
+          </svg>
+        </div>
+        <div class="ripples" aria-hidden="true"><i></i><i></i><i></i></div>
         <div class="hero-container">
           <div class="hero-content">
             <span class="badge-tag">Edição Oficial 2026</span>
-            <h1 class="hero-title">Equipamentos de <span>Alta Performance</span></h1>
+            <h1 class="hero-title">
+              <span class="reveal-line" style="--d:0"><span>Equipamentos de</span></span>
+              <span class="reveal-line accent" style="--d:1"><span>Alta Performance</span></span>
+            </h1>
             <p class="hero-desc">
-              Explore o novo Catálogo V2 da Chumbada Oficial. Desenvolvido no padrão das grandes marcas mundiais, trazendo riqueza de detalhes, fotos e as especificações técnicas completas dos acessórios de pesca que dominam o mercado.
+              O catálogo oficial da Chumbada Oficial: acessórios de pesca com fotos, cores, medidas e especificações técnicas completas.
             </p>
             <div class="hero-actions">
               <a href="#catalogo-secao" class="btn btn-primary">Ver Catálogo</a>
               <a href="https://chumbadas.com.br" target="_blank" rel="noopener" class="btn btn-secondary">Visitar Loja</a>
               <a href="#/linha-eco" class="btn btn-eco">Linha ECO</a>
             </div>
+            <div class="hero-stats">
+              <div class="hero-stat"><b data-count="${PRODUCTS.length}">${PRODUCTS.length}</b><span>Produtos</span></div>
+              <div class="hero-stat"><b data-count="${totalCats}">${totalCats}</b><span>Categorias</span></div>
+              <div class="hero-stat"><b data-count="${pesqueiroCount}">${pesqueiroCount}</b><span>Para pesqueiro</span></div>
+            </div>
           </div>
-          
+
           <!-- Card de Destaque -->
           <div class="hero-card" aria-label="Destaque">
             <a href="#/produto/${featuredProduct.slug}">
@@ -420,11 +470,35 @@ function renderCatalog() {
             </div>
           </div>
         </div>
+        <span class="scroll-cue" aria-hidden="true"></span>
       </section>
+
+      <section class="pesqueiro-cta" aria-label="Catálogo de pesqueiro" data-reveal>
+        <div class="pesqueiro-cta-inner">
+          <div>
+            <span class="eyebrow">Pesqueiro</span>
+            <h2>Tudo para pesca em pesqueiro</h2>
+            <p>Secretárias, estilingue, anzóis, chumbadas, destorcedores, snaps, stoppers e mais.</p>
+          </div>
+          <a class="btn btn-primary" href="#/pesqueiro">Ver catálogo de pesqueiro</a>
+        </div>
+      </section>
+
+      ${eco.products.length ? `
+      <section class="eco-band" aria-label="Linha ECO" data-reveal="zoom">
+        <div class="eco-band-inner">
+          <div>
+            <span class="eyebrow" style="color:#7dffbd">Linha ECO</span>
+            <h2>Menos <em>desperdício</em>, mesma performance</h2>
+            <p>${escapeHTML(eco.intro)}</p>
+            <a href="#/linha-eco" class="btn btn-eco">Conhecer a Linha ECO</a>
+          </div>
+          <div class="eco-thumbs" aria-hidden="true">${ecoThumbs}</div>
+        </div>
+      </section>` : ''}
 
       <!-- Seção de Busca, Filtros e Grid -->
       <main class="main-wrap" id="catalogo-secao">
-        <!-- Painel de Busca & Filtros (Sticky) -->
         <section class="panel" aria-label="Painel de Busca e Filtros">
           <div class="tools">
             <div class="search-wrapper">
@@ -432,29 +506,12 @@ function renderCatalog() {
                 <circle cx="11" cy="11" r="8"></circle>
                 <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
               </svg>
-              <input id="search-input" type="search" class="search-input" placeholder="O que você está procurando?" autocomplete="off" value="${escapeHTML(state.searchQuery)}">
+              <input id="search-input" type="search" class="search-input" placeholder="O que você está procurando?" autocomplete="off" value="${escapeHTML(state.searchQuery)}" aria-label="Buscar produtos">
             </div>
-            
-            <div class="menu-dropdown-wrapper">
-              <button class="hamburger-menu-btn" id="hamburger-menu-btn" type="button" aria-expanded="false" aria-label="Menu de Categorias">
-                <svg class="hamburger-icon" viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                  <line x1="3" y1="12" x2="21" y2="12"></line>
-                  <line x1="3" y1="6" x2="21" y2="6"></line>
-                  <line x1="3" y1="18" x2="21" y2="18"></line>
-                </svg>
-                <span id="active-category-label">Todos</span>
-                <svg class="chevron-icon" viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" style="margin-left:auto; transition: transform 0.2s;">
-                  <polyline points="6 9 12 15 18 9"></polyline>
-                </svg>
-              </button>
-              <div class="categories-dropdown" id="categories-dropdown">
-                <!-- Filtros serão inseridos por JS -->
-              </div>
-            </div>
+            <div class="chips" id="category-chips" role="group" aria-label="Categorias"></div>
           </div>
         </section>
 
-        <!-- Barra de Status / Resultados -->
         <div class="summary-bar">
           <div class="summary-title">
             <h2>Nossos Produtos</h2>
@@ -463,7 +520,6 @@ function renderCatalog() {
           <div class="summary-count" id="products-count">Carregando...</div>
         </div>
 
-        <!-- Grid de Produtos -->
         <div class="products-grid" id="products-grid" aria-live="polite">
           <!-- Cards serão inseridos por JS -->
         </div>
@@ -480,59 +536,35 @@ function renderCatalog() {
 // Configurar chips de filtros
 // Configurar chips de filtros (Menu Hamburger Dropdown)
 function setupFilters() {
-  const dropdown = document.getElementById('categories-dropdown');
-  const btn = document.getElementById('hamburger-menu-btn');
-  const activeLabel = document.getElementById('active-category-label');
-  if (!dropdown || !btn || !activeLabel) return;
+  const chipsEl = document.getElementById('category-chips');
+  if (!chipsEl) return;
 
-  // Extrair categorias únicas de PRODUCTS
-  const categories = ['Todos', 'Pesqueiro', ...Array.from(new Set(PRODUCTS.map(p => p.category))).sort((a,b) => a.localeCompare(b, 'pt-BR'))];
+  const counts = {};
+  PRODUCTS.forEach(p => { counts[p.category] = (counts[p.category] || 0) + 1; });
+  const categories = ['Todos', 'Pesqueiro', ...Object.keys(counts).sort((a, b) => a.localeCompare(b, 'pt-BR'))];
+  const countOf = cat => cat === 'Todos' ? PRODUCTS.length : cat === 'Pesqueiro' ? PRODUCTS.filter(isPesqueiro).length : counts[cat];
 
-  // Definir categoria ativa inicial
-  activeLabel.textContent = state.selectedCategory;
-
-  dropdown.innerHTML = categories.map(cat => `
-    <button class="dropdown-item ${state.selectedCategory === cat ? 'active' : ''}" type="button" data-category="${escapeHTML(cat)}">
-      ${escapeHTML(cat)}
+  chipsEl.innerHTML = categories.map(cat => `
+    <button class="chip ${state.selectedCategory === cat ? 'active' : ''}" type="button" data-category="${escapeHTML(cat)}" aria-pressed="${state.selectedCategory === cat}">
+      ${escapeHTML(cat)} <small>${countOf(cat)}</small>
     </button>
   `).join('');
 
-  // Toggle dropdown
-  btn.addEventListener('click', e => {
-    e.stopPropagation();
-    const isExpanded = btn.getAttribute('aria-expanded') === 'true';
-    btn.setAttribute('aria-expanded', !isExpanded);
-    dropdown.classList.toggle('active', !isExpanded);
-    
-    // Rotate chevron
-    const chevron = btn.querySelector('.chevron-icon');
-    if (chevron) {
-      chevron.style.transform = isExpanded ? 'rotate(0deg)' : 'rotate(180deg)';
-    }
-  });
-
-  // Fechar ao clicar fora
-  document.addEventListener('click', () => {
-    btn.setAttribute('aria-expanded', 'false');
-    dropdown.classList.remove('active');
-    const chevron = btn.querySelector('.chevron-icon');
-    if (chevron) chevron.style.transform = 'rotate(0deg)';
-  });
-
-  // Evento de clique na categoria
-  dropdown.addEventListener('click', e => {
-    const item = e.target.closest('.dropdown-item');
-    if (!item) return;
-
-    state.selectedCategory = item.dataset.category;
-    activeLabel.textContent = state.selectedCategory;
-    
-    // Atualizar classe ativa
-    dropdown.querySelectorAll('.dropdown-item').forEach(c => {
-      c.classList.toggle('active', c === item);
+  chipsEl.addEventListener('click', e => {
+    const chip = e.target.closest('.chip');
+    if (!chip) return;
+    state.selectedCategory = chip.dataset.category;
+    chipsEl.querySelectorAll('.chip').forEach(c => {
+      const on = c === chip;
+      c.classList.toggle('active', on);
+      c.setAttribute('aria-pressed', on);
     });
-
-    renderGrid();
+    chip.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    // Transição fluida ao trocar de categoria
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const update = () => { renderGrid(); if (window.Motion) window.Motion.refresh(); };
+    if (document.startViewTransition && !reduce) { const vt = document.startViewTransition(update); vt.ready.catch(() => {}); vt.updateCallbackDone.catch(() => {}); vt.finished.catch(() => {}); }
+    else update();
   });
 }
 
@@ -603,7 +635,7 @@ function renderGrid() {
 
   // Mapear produtos para HTML
   let lastSection = '';
-  grid.innerHTML = filtered.map(p => {
+  grid.innerHTML = filtered.map((p, idx) => {
     const pSection = p.section || p.category || 'Outros';
     let sectionBreak = '';
     
@@ -642,7 +674,7 @@ function renderGrid() {
 
     return `
       ${sectionBreak}
-      <article class="product-card ${spanClass}">
+      <article class="product-card ${spanClass}" data-reveal style="--i:${idx % 8}">
         <div class="product-card-media">
           ${p.video || (p.videos && p.videos.length) ? `<span class="video-badge">
             <svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14" style="margin-right: 4px; vertical-align: middle;">
@@ -699,7 +731,7 @@ function renderEcoLine() {
     .filter(Boolean);
 
   appContainer.innerHTML = `
-    <div class="view-fade">
+    <div class="view-fade view-eco">
       <section class="hero hero-eco" aria-label="Apresentação da Linha ECO">
         <div class="hero-container">
           <div class="hero-content">
@@ -727,7 +759,7 @@ function renderEcoLine() {
             const ecoTagLabel = ecoVariant || '100% Eco';
 
             return `
-              <article class="product-card">
+              <article class="product-card" data-reveal>
                 <div class="product-card-media">
                   <span class="eco-card-badge">Eco</span>
                   <img loading="lazy" src="${img}" alt="${escapeHTML(p.name)}" onerror="this.src='assets/images/chumbada-oficial-27c01352.png'">
@@ -827,6 +859,36 @@ function renderProductDetail(p) {
     </tr>
   `;
 
+  // Chips de resumo (apenas dados reais do produto)
+  const chipList = [];
+  if (p.swatches && p.swatches.length) chipList.push(`<b>${p.swatches.length}</b> cor${p.swatches.length === 1 ? '' : 'es'}`);
+  if (p.vars && p.vars.length) chipList.push(`<b>${p.vars.length}</b> opç${p.vars.length === 1 ? 'ão' : 'ões'}`);
+  if (p.video || (p.videos && p.videos.length)) chipList.push('<b>Vídeo</b> do produto');
+  if (isPesqueiro(p)) chipList.push('<b>Pesqueiro</b>');
+  const metaChipsHTML = chipList.length ? `<div class="meta-chips">${chipList.map(c => `<span class="meta-chip"><i></i>${c}</span>`).join('')}</div>` : '';
+
+  // Relacionados: mesma categoria
+  const related = PRODUCTS.filter(x => x.category === p.category && x.id !== p.id).slice(0, 4);
+  const relatedHTML = related.length ? `
+    <section class="related" aria-label="Mais em ${escapeHTML(p.category)}">
+      <div class="section-head" data-reveal>
+        <div><span class="eyebrow">Continue explorando</span><h2 class="section-title">Mais em ${escapeHTML(p.category)}</h2></div>
+      </div>
+      <div class="products-grid">
+        ${related.map((r, i) => `
+          <article class="product-card" data-reveal style="--i:${i}">
+            <a href="#/produto/${r.slug}" class="product-card-media" aria-label="${escapeHTML(r.name)}">
+              <img loading="lazy" src="${r.img}" alt="${escapeHTML(r.name)}" onerror="this.src='assets/images/chumbada-oficial-27c01352.png'">
+            </a>
+            <div class="product-card-content">
+              <span class="product-card-cat">${escapeHTML(r.category)}</span>
+              <h3 class="product-card-title">${escapeHTML(r.name)}</h3>
+              <div class="product-card-footer"><a href="#/produto/${r.slug}" class="product-card-action">Ver Detalhes</a></div>
+            </div>
+          </article>`).join('')}
+      </div>
+    </section>` : '';
+
   // Renderizar a estrutura de detalhes
   appContainer.innerHTML = `
     <div class="view-fade">
@@ -839,6 +901,14 @@ function renderProductDetail(p) {
           <span class="breadcrumb-separator">/</span>
           <span class="breadcrumb-current" aria-current="page">${escapeHTML(p.name)}</span>
         </nav>
+
+        ${hasBanner(p) ? `
+        <figure class="detail-banner" data-reveal="zoom">
+          <button type="button" id="banner-zoom" aria-label="Ampliar banner de ${escapeHTML(p.name)}">
+            ${bannerImgHTML(p, 'eager')}
+          </button>
+          <span class="zoom-hint" aria-hidden="true">Ampliar ⤢</span>
+        </figure>` : ''}
 
         <div class="detail-grid">
           <!-- Coluna da Esquerda: Galeria Interativa com fotos e vídeo -->
@@ -869,6 +939,8 @@ function renderProductDetail(p) {
                 </div>
               ` : ''}
             </div>
+
+            ${metaChipsHTML}
 
             <!-- Seletor de Cores -->
             ${p.swatches ? `
@@ -971,12 +1043,15 @@ function renderProductDetail(p) {
             </div>
           </section>
         </div>
+        ${relatedHTML}
       </main>
     </div>
   `;
 
   // Inicializar os seletores interativos
   initDetailSelectors(p);
+  const bz = document.getElementById('banner-zoom');
+  if (bz && window.Motion) bz.addEventListener('click', () => window.Motion.lightbox(`assets/img/banners/${p.slug}.webp`, `Banner ${p.name}`));
 }
 
 // Configurar comportamento dinâmico nos seletores da página de produto
@@ -1007,7 +1082,7 @@ function initDetailSelectors(p) {
         mainVideoContainer.style.display = 'none';
         mainVideoContainer.innerHTML = '';
         mainImg.style.display = 'block';
-        mainImg.src = btn.dataset.src;
+        swapMainImg(mainImg, btn.dataset.src);
         if (mainIndicator) mainIndicator.innerHTML = buildIndicatorSlotHTML(getIndicatorMeta(p, btn.dataset.src), 'main');
       } else if (type === 'video') {
         mainImg.style.display = 'none';
@@ -1176,7 +1251,7 @@ function initDetailSelectors(p) {
       mainVideoContainer.style.display = 'none';
       mainVideoContainer.innerHTML = '';
       mainImg.style.display = 'block';
-      mainImg.src = targetSrc;
+      swapMainImg(mainImg, targetSrc);
       if (mainIndicator) mainIndicator.innerHTML = buildIndicatorSlotHTML(getIndicatorMeta(p, targetSrc), 'main');
 
       const thumbBtns = galleryThumbs.querySelectorAll('.thumb-btn[data-type="image"]');
