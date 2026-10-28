@@ -4335,7 +4335,9 @@ window.PRODUCTS = [
       "Somente Cano - 80cm::Marrom Claro": "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
       "Somente Cano - 100cm::Branco": "assets/img/shopify/SomenteCanoBranco_84638a37-5753-4183-a71c-301af262fb5d.jpg",
       "Somente Cano - 100cm::Azul": "assets/img/shopify/SomenteCanoAzul_60d195b3-66f6-4bad-a6fd-b1fc477a1be5.jpg",
-      "Somente Cano - 100cm::Marrom Claro": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png"
+      "Somente Cano - 100cm::Marrom Claro": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
+      "Trava Linha Cano (Borracha)": "assets/img/shopify/trava-linha-capa.png",
+      "Apoio Anzol Cano": "assets/img/shopify/apoio.png"
     }
   },
   {
