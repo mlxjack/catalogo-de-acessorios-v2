@@ -473,17 +473,6 @@ function renderCatalog() {
         <span class="scroll-cue" aria-hidden="true"></span>
       </section>
 
-      <section class="pesqueiro-cta" aria-label="Catálogo de pesqueiro" data-reveal>
-        <div class="pesqueiro-cta-inner">
-          <div>
-            <span class="eyebrow">Pesqueiro</span>
-            <h2>Tudo para pesca em pesqueiro</h2>
-            <p>Secretárias, estilingue, anzóis, chumbadas, destorcedores, snaps, stoppers e mais.</p>
-          </div>
-          <a class="btn btn-primary" href="#/pesqueiro">Ver catálogo de pesqueiro</a>
-        </div>
-      </section>
-
       ${eco.products.length ? `
       <section class="eco-band" aria-label="Linha ECO" data-reveal="zoom">
         <div class="eco-band-inner">
@@ -501,13 +490,6 @@ function renderCatalog() {
       <main class="main-wrap" id="catalogo-secao">
         <section class="panel" aria-label="Painel de Busca e Filtros">
           <div class="tools">
-            <div class="search-wrapper">
-              <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-                <circle cx="11" cy="11" r="8"></circle>
-                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-              </svg>
-              <input id="search-input" type="search" class="search-input" placeholder="O que você está procurando?" autocomplete="off" value="${escapeHTML(state.searchQuery)}" aria-label="Buscar produtos">
-            </div>
             <div class="chips" id="category-chips" role="group" aria-label="Categorias"></div>
           </div>
         </section>
@@ -529,7 +511,6 @@ function renderCatalog() {
 
   // Iniciar componentes do catálogo
   setupFilters();
-  setupSearch();
   renderGrid();
 }
 
@@ -541,8 +522,8 @@ function setupFilters() {
 
   const counts = {};
   PRODUCTS.forEach(p => { counts[p.category] = (counts[p.category] || 0) + 1; });
-  const categories = ['Todos', 'Pesqueiro', ...Object.keys(counts).sort((a, b) => a.localeCompare(b, 'pt-BR'))];
-  const countOf = cat => cat === 'Todos' ? PRODUCTS.length : cat === 'Pesqueiro' ? PRODUCTS.filter(isPesqueiro).length : counts[cat];
+  const categories = ['Todos', ...Object.keys(counts).sort((a, b) => a.localeCompare(b, 'pt-BR'))];
+  const countOf = cat => cat === 'Todos' ? PRODUCTS.length : counts[cat];
 
   chipsEl.innerHTML = categories.map(cat => `
     <button class="chip ${state.selectedCategory === cat ? 'active' : ''}" type="button" data-category="${escapeHTML(cat)}" aria-pressed="${state.selectedCategory === cat}">
@@ -572,17 +553,6 @@ function setupFilters() {
 const PESQUEIRO_SET = new Set(window.PESQUEIRO_SLUGS || []);
 function isPesqueiro(p) {
   return PESQUEIRO_SET.has(p.slug);
-}
-
-// Configurar campo de pesquisa
-function setupSearch() {
-  const searchInput = document.getElementById('search-input');
-  if (!searchInput) return;
-
-  searchInput.addEventListener('input', e => {
-    state.searchQuery = e.target.value;
-    renderGrid();
-  });
 }
 
 // Renderizar o grid de produtos filtrado
@@ -676,6 +646,7 @@ function renderGrid() {
       ${sectionBreak}
       <article class="product-card ${spanClass}" data-reveal style="--i:${idx % 8}">
         <div class="product-card-media">
+          ${window.BN_ACC ? window.BN_ACC.ribbon(p) : ''}
           ${p.video || (p.videos && p.videos.length) ? `<span class="video-badge">
             <svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14" style="margin-right: 4px; vertical-align: middle;">
               <path d="M8 5v14l11-7z"/>
@@ -1050,6 +1021,7 @@ function renderProductDetail(p) {
 
   // Inicializar os seletores interativos
   initDetailSelectors(p);
+  if (window.BN_ACC) window.BN_ACC.afterDetail(p);
   const bz = document.getElementById('banner-zoom');
   if (bz && window.Motion) bz.addEventListener('click', () => window.Motion.lightbox(`assets/img/banners/${p.slug}.webp`, `Banner ${p.name}`));
 }
@@ -1109,7 +1081,7 @@ function initDetailSelectors(p) {
 
   // Função para reconstruir o link do WhatsApp com os dados selecionados
   function updateWhatsappLink() {
-    const selectedColor = state.selectedColor[p.id];
+    const selectedColor = (window.BN_ACC && window.BN_ACC.offLabel(p)) || state.selectedColor[p.id];
     const varIndex = state.selectedVariation[p.id];
     const selectedVar = p.vars && p.vars[varIndex] ? p.vars[varIndex][0] : 'Nenhum';
     
@@ -1287,16 +1259,17 @@ function initDetailSelectors(p) {
     btnAddSelecao.addEventListener('click', () => {
       if (!window.MinhaSelecao) return;
       const varIndex = state.selectedVariation[p.id];
-      const colorName = state.selectedColor[p.id];
+      const bnOff = window.BN_ACC && window.BN_ACC.offLabel(p);
+      const colorName = bnOff || state.selectedColor[p.id];
       const varLabel = p.vars && p.vars[varIndex] ? p.vars[varIndex][0] : '';
       const variantParts = [];
-      if (colorName) variantParts.push('Cor: ' + colorName);
+      if (colorName) variantParts.push((bnOff ? window.BN_ACC.fieldLabel(p) : 'Cor') + ': ' + colorName);
       if (varLabel && !(colorName && normalizeText(varLabel).trim() === normalizeText(colorName).trim())) variantParts.push(varLabel);
       window.MinhaSelecao.addItem({
         catalog: 'acessorios',
         productId: String(p.id),
         name: p.name,
-        sku: resolveSku(p, colorName, varLabel),
+        sku: bnOff ? null : resolveSku(p, colorName, varLabel),
         variant: variantParts.join(', '),
         qty: selecaoQty,
       });
