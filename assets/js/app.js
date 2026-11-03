@@ -473,17 +473,6 @@ function renderCatalog() {
         <span class="scroll-cue" aria-hidden="true"></span>
       </section>
 
-      <section class="pesqueiro-cta" aria-label="Catálogo de pesqueiro" data-reveal>
-        <div class="pesqueiro-cta-inner">
-          <div>
-            <span class="eyebrow">Pesqueiro</span>
-            <h2>Tudo para pesca em pesqueiro</h2>
-            <p>Secretárias, estilingue, anzóis, chumbadas, destorcedores, snaps, stoppers e mais.</p>
-          </div>
-          <a class="btn btn-primary" href="#/pesqueiro">Ver catálogo de pesqueiro</a>
-        </div>
-      </section>
-
       ${eco.products.length ? `
       <section class="eco-band" aria-label="Linha ECO" data-reveal="zoom">
         <div class="eco-band-inner">
@@ -501,13 +490,6 @@ function renderCatalog() {
       <main class="main-wrap" id="catalogo-secao">
         <section class="panel" aria-label="Painel de Busca e Filtros">
           <div class="tools">
-            <div class="search-wrapper">
-              <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-                <circle cx="11" cy="11" r="8"></circle>
-                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-              </svg>
-              <input id="search-input" type="search" class="search-input" placeholder="O que você está procurando?" autocomplete="off" value="${escapeHTML(state.searchQuery)}" aria-label="Buscar produtos">
-            </div>
             <div class="chips" id="category-chips" role="group" aria-label="Categorias"></div>
           </div>
         </section>
@@ -529,7 +511,6 @@ function renderCatalog() {
 
   // Iniciar componentes do catálogo
   setupFilters();
-  setupSearch();
   renderGrid();
 }
 
@@ -541,8 +522,8 @@ function setupFilters() {
 
   const counts = {};
   PRODUCTS.forEach(p => { counts[p.category] = (counts[p.category] || 0) + 1; });
-  const categories = ['Todos', 'Pesqueiro', ...Object.keys(counts).sort((a, b) => a.localeCompare(b, 'pt-BR'))];
-  const countOf = cat => cat === 'Todos' ? PRODUCTS.length : cat === 'Pesqueiro' ? PRODUCTS.filter(isPesqueiro).length : counts[cat];
+  const categories = ['Todos', ...Object.keys(counts).sort((a, b) => a.localeCompare(b, 'pt-BR'))];
+  const countOf = cat => cat === 'Todos' ? PRODUCTS.length : counts[cat];
 
   chipsEl.innerHTML = categories.map(cat => `
     <button class="chip ${state.selectedCategory === cat ? 'active' : ''}" type="button" data-category="${escapeHTML(cat)}" aria-pressed="${state.selectedCategory === cat}">
@@ -572,17 +553,6 @@ function setupFilters() {
 const PESQUEIRO_SET = new Set(window.PESQUEIRO_SLUGS || []);
 function isPesqueiro(p) {
   return PESQUEIRO_SET.has(p.slug);
-}
-
-// Configurar campo de pesquisa
-function setupSearch() {
-  const searchInput = document.getElementById('search-input');
-  if (!searchInput) return;
-
-  searchInput.addEventListener('input', e => {
-    state.searchQuery = e.target.value;
-    renderGrid();
-  });
 }
 
 // Renderizar o grid de produtos filtrado
