@@ -27,7 +27,7 @@
     'suporte-de-vara-slim': { on: ['Azul', 'Laranja', 'Amarelo', 'Branco', 'Cinza', 'Rosa', 'Roxo', 'Verde', 'Vermelho'] },
     'suporte-para-molinetes': { on: ['Azul'] },
     'tela-de-espremer-iscas': { on: ['Amarela', 'Verde', 'Vermelha'] },
-    'suporte-de-vara-premium-completo': { on: ['Branco'], onlyVars: ['Somente copo', 'Somente ferradura'] }
+    'suporte-de-vara-premium-completo': { on: ['Branco'] }
   };
 
   function norm(s) {
