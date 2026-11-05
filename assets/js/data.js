@@ -3770,7 +3770,7 @@ window.PRODUCTS = [
   {
     "id": 31,
     "slug": "porta-isca-e-chumbada",
-    "skuVariants": [{"opts": ["Preto"], "sku": "PA11980"}, {"opts": ["Branco"], "sku": "PA10023"}, {"opts": ["Branco Eco"], "sku": "'701742"}, {"opts": ["Preto Eco"], "sku": "'701714"}],
+    "skuVariants": [{"opts": ["Preto"], "sku": "PA11980"}, {"opts": ["Branco"], "sku": "PA10023"}, {"opts": ["Branco Eco"], "sku": "'701742"}],
     "category": "Organização",
     "name": "Porta Isca e Chumbada",
     "price": "R$ 35,00",
@@ -3784,16 +3784,11 @@ window.PRODUCTS = [
       [
         "Branco",
         "#ffffff"
-      ],
-      [
-        "Preto Eco",
-        "#1f2937"
       ]
     ],
     "variantImageMap": {
       "::Preto": "assets/img/shopify/photo_2024-12-03_06-46-17.jpg",
-      "::Branco": "assets/img/shopify/porta-isca-capa.png",
-      "::Preto Eco": "assets/img/shopify/photo_2024-12-03_06-46-18.jpg"
+      "::Branco": "assets/img/shopify/porta-isca-capa.png"
     },
     "description": "<p>O Porta Isca e Chumbada é fabricado em plástico altamente resistente com rosca entre corpo e tampa assegurando que a mesma irá permanecer fechada, o mesmo possui alça de encaixe e desencaixe pois assim o pescador pode pendurar no carrinho de pesca, na cadeira ou na secretária de pesca.</p>\n<p>O Suporte pode ser usado para chumbadas organizando assim a caixa de pesca e facilitando o manuseio das mesmas, os orifícios da tampa servem para deixar algumas chumbadas em espera.</p>\n<p>O Suporte pode ser usado para colocar iscas, os orifícios da tampa permitem uma ventilação aumentando assim a qualidade das iscas.</p>",
     "images": [
@@ -3823,8 +3818,7 @@ window.PRODUCTS = [
     ],
     "colorImages": {
       "Preto": "assets/img/shopify/photo_2024-12-03_06-46-17.jpg",
-      "Branco": "assets/img/shopify/porta-isca-capa.png",
-      "Preto Eco": "assets/img/shopify/photo_2024-12-03_06-46-18.jpg"
+      "Branco": "assets/img/shopify/porta-isca-capa.png"
     }
   },
   {
