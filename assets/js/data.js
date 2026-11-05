@@ -3833,17 +3833,13 @@ window.PRODUCTS = [
     "skuVariants": [{"opts": ["Completo"], "sku": "PA11993", "price": 169}, {"opts": ["Superior com tubo"], "sku": "PA12463", "price": 128.92}],
     "category": "Organização",
     "name": "Varal Chumbada",
-    "price": "a partir de R$ 108,89",
+    "price": "R$ 169,00",
     "img": "assets/img/shopify/Varal-02.jpg",
     "link": "https://chumbadas.com.br/products/varal-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "Completo",
         "R$ 169,00"
-      ],
-      [
-        "Superior",
-        "R$ 108,89"
       ],
       [
         "Superior com tubo",
