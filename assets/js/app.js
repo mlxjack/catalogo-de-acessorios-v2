@@ -1269,7 +1269,7 @@ function initDetailSelectors(p) {
         catalog: 'acessorios',
         productId: String(p.id),
         name: p.name,
-        sku: bnOff ? null : resolveSku(p, colorName, varLabel),
+        sku: bnOff ? (window.BN_ACC.offSku ? window.BN_ACC.offSku(p) : null) : resolveSku(p, colorName, varLabel),
         variant: variantParts.join(', '),
         qty: selecaoQty,
       });
