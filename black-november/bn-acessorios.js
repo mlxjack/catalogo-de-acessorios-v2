@@ -30,6 +30,16 @@
     'suporte-de-vara-premium-completo': { on: ['Branco'] }
   };
 
+  // SKU (codigo do Nomus) de cada cor/opcao "off": planilhas de conferencia e "codigos produtos da black e queima".
+  var OFF_SKU = {
+    'carretel-para-chicotes': { 'Cinza': 'PA10240', 'Cristal': 'PA11297', 'Rosa': 'PA10238', 'Verde': 'PA11653', 'Vermelha': 'PA10381', 'Roxo': 'WPA0236' },
+    'elastricot-150m': { 'Extra Fino 100m': 'PA0017', 'Fino 100m': 'PA10016' },
+    'iscador-duplo-branco-ou-cristal': { 'Branco': 'PA10385' },
+    'kit-enrolador': { 'Laranja Metálico': '13410104' },
+    'nano-pipe-borracha': { 'Azul': 'PA11433' },
+    'porta-pernada-e-chicote': { 'Azul': '410200000002' }
+  };
+
   function norm(s) {
     return String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').trim();
   }
@@ -74,6 +84,11 @@
     },
     // cor/opcao fora de padrao escolhida (ou '')
     offName: function (p) { return (rule(p) && offState[p.id]) || ''; },
+    // SKU da cor/opcao off escolhida (ou null quando nao ha codigo conhecido)
+    offSku: function (p) {
+      var n = this.offName(p), m = OFF_SKU[p.slug];
+      return (n && m && m[n]) || null;
+    },
     offLabel: function (p) {
       var n = this.offName(p);
       return n ? n + ' (Black November -' + PCT + '%)' : '';
