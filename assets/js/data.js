@@ -104,7 +104,7 @@ window.PRODUCTS = [
       "assets/img/shopify/tripe-secretaria-capa.jpg",
       "assets/img/shopify/tripe-secretaria.jpg"
     ],
-    "video": "",
+    "video": "assets/video/shopify/tripe-secretaria.mp4",
     "specs": {
       "Altura": "Regulável (pernas extensíveis em estágios)",
       "Nivelamento": "Nível integrado",
