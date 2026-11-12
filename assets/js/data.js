@@ -91,6 +91,32 @@ window.PESQUEIRO_SLUGS = [
 
 window.PRODUCTS = [
   {
+    "id": 734,
+    "slug": "tripe-para-secretaria",
+    "skuVariants": [{"opts": [], "sku": "WMRev2760"}],
+    "category": "Acessórios",
+    "name": "Tripé para Secretária",
+    "price": "R$ 179,00",
+    "img": "assets/img/shopify/tripe-secretaria-capa.jpg",
+    "link": "https://chumbadas.com.br/products/tripe-para-secretaria?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "description": "<p>🎣 Mais praticidade e liberdade de movimento na sua pescaria!</p><p>O Tripé para Secretária da Chumbada Oficial facilita a montagem, o transporte e a mudança de posição dos seus equipamentos. Ideal para costões, pedras, plataformas e decks de pesca, onde não é possível fincar a cantoneira de alumínio.</p><p>A maré subiu ou baixou? Precisa mudar de lugar? Com a alça de pega, você movimenta o conjunto sem precisar desmontar a secretária. E, quando a pescaria é em dupla, ela pode ficar entre os dois pescadores, deixando os acessórios ao alcance de ambos!</p><p>Confira os detalhes que fazem a diferença:</p><p>✅ Altura regulável, com pernas extensíveis em estágios para ajustar conforme a necessidade.<br>✅ Nível integrado para auxiliar no nivelamento da secretária.<br>✅ Pés com ajuste para acomodar o tripé em terrenos irregulares.<br>✅ Estrutura que não enferruja, uma característica essencial para acompanhar suas pescarias.<br>✅ Recolhimento das pernas para ocupar menos espaço e facilitar o transporte.<br>✅ Bolsa personalizada para carregar o tripé com praticidade.<br>✅ Alça de pega para facilitar a movimentação do conjunto.<br>✅ Gancho de apoio para pendurar o <a href=\"#/produto/porta-isca-e-chumbada\">Porta Isca e Chumbada</a> da Chumbada Oficial, uma toalha e outros acessórios.</p><p>Da chegada ao ponto de pesca até a hora de ir embora, mais organização e facilidade para você aproveitar cada arremesso! 🌊🎣</p><p><b>Secretária e acessórios vendidos separadamente.</b></p><p>#ChumbadaOficial #TripéParaSecretária #PescaDePraia #PescaEmCostão #PescaEsportiva</p>",
+    "images": [
+      "assets/img/shopify/tripe-secretaria-capa.jpg",
+      "assets/img/shopify/tripe-secretaria.jpg"
+    ],
+    "video": "",
+    "specs": {
+      "Altura": "Regulável (pernas extensíveis em estágios)",
+      "Nivelamento": "Nível integrado",
+      "Material": "Estrutura que não enferruja",
+      "Acompanha": "Bolsa personalizada para transporte",
+      "Uso Recomendado": "Costões, pedras, plataformas e decks de pesca",
+      "Observação": "Secretária e acessórios vendidos separadamente"
+    },
+    "section": "Lançamentos",
+    "featured": true
+  },
+  {
     "id": 733,
     "slug": "estilingue",
     "skuVariants": [{"opts": ["Pacote com 10 Unidades", "Azul Eco"], "sku": "'702728010"}, {"opts": ["Pacote com 10 Unidades", "Branco Eco"], "sku": "'702731010"}, {"opts": ["Pacote com 10 Unidades", "Preto Eco"], "sku": "'702719010"}],
