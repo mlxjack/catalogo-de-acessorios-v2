@@ -93,6 +93,7 @@ window.PRODUCTS = [
   {
     "id": 734,
     "slug": "tripe-para-secretaria",
+    "notice": "Atenção: a Secretária NÃO acompanha o produto. Ela e os demais acessórios das fotos são vendidos separadamente.",
     "skuVariants": [{"opts": [], "sku": "WMRev2760"}],
     "category": "Acessórios",
     "name": "Tripé para Secretária",
