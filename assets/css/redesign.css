@@ -615,3 +615,8 @@ body {
   .detail-banner { border-radius: 16px; margin-bottom: 24px; }
   .detail-banner .zoom-hint { right: 8px; bottom: 8px; padding: 5px 9px; font-size: 10px; }
 }
+
+/* Aviso do produto (campo notice no data.js) */
+.product-notice { display: flex; align-items: flex-start; gap: 10px; margin: 14px 0 6px; padding: 12px 14px; border-radius: 12px; border: 1px solid rgba(251, 191, 36, 0.55); background: rgba(251, 191, 36, 0.12); color: #fbbf24; font-weight: 600; font-size: 0.95rem; line-height: 1.4; }
+.product-notice svg { width: 20px; height: 20px; flex: 0 0 20px; margin-top: 1px; }
+.product-notice span { color: inherit; }
