@@ -10,7 +10,7 @@
   var PCT = 30;
   var RULES = {
     'agulha-de-tarrafa': { on: ['Branco'] },
-    'carretel-para-chicotes': { off: ['Cinza', 'Cristal', 'Rosa', 'Verde', 'Vermelha', 'Roxo'] },
+    'carretel-para-chicotes': { off: ['Cristal', 'Rosa', 'Verde', 'Vermelha', 'Roxo'] },
     'copo-para-carretel-g': { on: ['Amarelo', 'Laranja', 'Roxo', 'Rosa', 'Cinza'] },
     'snap-universal-cobreno-g': { on: ['Rosa', 'Marrom', 'Preto', 'Azul Bic', 'Cinza'] },
     'cobreno-p-m-e-g': { on: ['Rosa', 'Marrom', 'Preto', 'Azul Bic', 'Cinza'] },
@@ -32,7 +32,7 @@
 
   // SKU (codigo do Nomus) de cada cor/opcao "off": planilhas de conferencia e "codigos produtos da black e queima".
   var OFF_SKU = {
-    'carretel-para-chicotes': { 'Cinza': 'PA10240', 'Cristal': 'PA11297', 'Rosa': 'PA10238', 'Verde': 'PA11653', 'Vermelha': 'PA10381', 'Roxo': 'WPA0236' },
+    'carretel-para-chicotes': { 'Cristal': 'PA11297', 'Rosa': 'PA10238', 'Verde': 'PA11653', 'Vermelha': 'PA10381', 'Roxo': 'WPA0236' },
     'elastricot-150m': { 'Extra Fino 100m': 'PA0017', 'Fino 100m': 'PA10016' },
     'iscador-duplo-branco-ou-cristal': { 'Branco': 'PA10385' },
     'kit-enrolador': { 'Laranja Metálico': '13410104' },
