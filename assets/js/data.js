@@ -1020,7 +1020,7 @@ window.PRODUCTS = [
       "assets/img/shopify/carretel_retangular.jpg",
       "assets/img/shopify/carretel_retangular_preto.jpg"
     ],
-    "video": "assets/video/shopify/392e00e1e2d94279b68674b6aa8e6ce6.mp4",
+    "video": "assets/video/shopify/5d443f6d217242fbb2607ae3606b835c.mp4",
     "specs": {
       "Capacidade": "Até 5 Chicotes",
       "Indicação": "Pesqueiro, lago e montagens diversas"
