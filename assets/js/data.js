@@ -428,7 +428,7 @@ window.PRODUCTS = [
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini_secretaria_azul_eco.jpg?v=1790191042",
       "https://cdn.shopify.com/s/files/1/0454/5845/6736/files/mini_secretaria_branco_eco_75e8bd18-fd25-457f-9ddc-86709f126190.jpg?v=1790191068"
     ],
-    "video": "",
+    "video": "assets/video/shopify/mini-secretaria-instagram.mp4",
     "specs": {
       "Material": "Polietileno de alta resistência contra raios UV e impactos",
       "Funções": "Bandeja de apoio compacta para tesoura, saca-anzol, iscas e preparo rápido de montagens na praia",
