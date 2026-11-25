@@ -1041,7 +1041,7 @@ window.PRODUCTS = [
   {
     "id": 26,
     "slug": "micro-snap-cobre-no-m",
-    "skuVariants": [{"opts": ["10 unidades de cada", "Preto"], "sku": "PA10284", "price": 4.36}, {"opts": ["10 unidades de cada", "Amarelo"], "sku": "PA10278", "price": 4.36}, {"opts": ["10 unidades de cada", "Azul Bic"], "sku": "PA10279", "price": 4.36}, {"opts": ["10 unidades de cada", "Azul Claro"], "sku": "PA10280", "price": 4.36}, {"opts": ["10 unidades de cada", "Cinza"], "sku": "PA10281", "price": 4.36}, {"opts": ["10 unidades de cada", "Laranja"], "sku": "PA10282", "price": 4.36}, {"opts": ["10 unidades de cada", "Marrom"], "sku": "PA10283", "price": 4.36}, {"opts": ["10 unidades de cada", "Rosa"], "sku": "PA10285", "price": 4.36}, {"opts": ["10 unidades de cada", "Translúcido"], "sku": "PA10286", "price": 4.36}, {"opts": ["10 unidades de cada", "Verde"], "sku": "PA10288", "price": 4.36}, {"opts": ["10 unidades de cada", "Vermelho"], "sku": "PA10289", "price": 4.36}],
+    "skuVariants": [{"opts": ["10 unidades de cada", "Amarelo"], "sku": "PA10278", "price": 4.36}, {"opts": ["10 unidades de cada", "Azul Bic"], "sku": "PA10279", "price": 4.36}, {"opts": ["10 unidades de cada", "Azul Claro"], "sku": "PA10280", "price": 4.36}, {"opts": ["10 unidades de cada", "Cinza"], "sku": "PA10281", "price": 4.36}, {"opts": ["10 unidades de cada", "Laranja"], "sku": "PA10282", "price": 4.36}, {"opts": ["10 unidades de cada", "Marrom"], "sku": "PA10283", "price": 4.36}, {"opts": ["10 unidades de cada", "Rosa"], "sku": "PA10285", "price": 4.36}, {"opts": ["10 unidades de cada", "Translúcido"], "sku": "PA10286", "price": 4.36}, {"opts": ["10 unidades de cada", "Verde"], "sku": "PA10288", "price": 4.36}, {"opts": ["10 unidades de cada", "Vermelho"], "sku": "PA10289", "price": 4.36}],
     "category": "Acessórios",
     "name": "Micro Snap + Cobre Nó M",
     "price": "R$ 4,36",
@@ -1054,10 +1054,6 @@ window.PRODUCTS = [
       ]
     ],
     "swatches": [
-      [
-        "Preto",
-        "#111827"
-      ],
       [
         "Amarelo",
         "#facc15"
