@@ -3618,17 +3618,13 @@ window.PRODUCTS = [
   {
     "id": 16,
     "slug": "copo-para-carretel-g",
-    "skuVariants": [{"opts": ["Amarelo"], "sku": "PA10324", "price": 5}, {"opts": ["Laranja"], "sku": "PA10323", "price": 5}, {"opts": ["Roxo"], "sku": "PA10322", "price": 5}, {"opts": ["Cinza"], "sku": "PA10319", "price": 5}, {"opts": ["Rosa"], "sku": "PA10321", "price": 5}],
+    "skuVariants": [{"opts": ["Laranja"], "sku": "PA10323", "price": 5}, {"opts": ["Roxo"], "sku": "PA10322", "price": 5}, {"opts": ["Rosa"], "sku": "PA10321", "price": 5}],
     "category": "Organização",
     "name": "Copo para Carretel G",
     "price": "R$ 5,00",
     "img": "assets/img/shopify/pesca-13.jpg",
     "link": "#",
     "swatches": [
-      [
-        "Amarelo",
-        "#facc15"
-      ],
       [
         "Laranja",
         "#f97316"
@@ -3640,10 +3636,6 @@ window.PRODUCTS = [
       [
         "Rosa",
         "#ec4899"
-      ],
-      [
-        "Cinza",
-        "#94a3b8"
       ]
     ],
     "description": "<p>O Copo para guardar chicotes da Chumbada está disponível em várias cores, o que permite que você escolha a que mais combina com o seu estilo, personalidade e claro organizado por cor se for o caso. Além disso, é um acessório resistente e durável, que protege seus chicotes de possíveis danos e ajuda a prolongar sua vida útil.</p>\n<p>Este copo foi desenvolvido exatamente para comportar 5 Carretéis para Chicotes, em cada carretel 5 chicotes portanto em um copo desses é possível levar 25 chicotes, dividindo em Beira, Meia Água, Fundo ou de qualquer outra forma que preferir.</p>\n<p>Com esse produto, você pode organizar seus chicotes de forma prática e fácil, garantindo que eles estejam sempre prontos para serem utilizados. Não perca mais tempo procurando seus chicotes no fundo da bolsa ou caixa de pesca. Adquira agora o Copo para guardar chicotes da Chumbada e tenha um acessório de pesca de alta qualidade em suas mãos.</p>",
